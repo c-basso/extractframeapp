@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="{{meta.lang}}" dir="{{meta.text_direction}}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>{{meta.title}}</title>
+    <meta name="description" content="{{meta.description}}">
+    <meta name="author" content="{{meta.author}}">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="{{meta.lang}}">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="{{meta.geo_region}}">
+    <meta name="geo.placename" content="{{meta.geo_placename}}">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="{{app_info.name}}">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="{{app_info.name}}">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{meta.og_url}}">
+    <meta property="og:title" content="{{meta.og_title}}">
+    <meta property="og:site_name" content="{{meta.site_name}}">
+    <meta property="og:locale" content="{{meta.og_locale}}">
+    <meta property="og:description" content="{{meta.og_description}}">
+    <meta property="og:image" content="{{meta.og_image}}">
+    <meta property="og:image:width" content="{{meta.og_image_width}}">
+    <meta property="og:image:height" content="{{meta.og_image_height}}">
+    <meta property="og:logo" content="{{meta.og_logo}}">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="{{meta.twitter_url}}">
+    <meta name="twitter:title" content="{{meta.twitter_title}}">
+    <meta name="twitter:description" content="{{meta.twitter_description}}">
+    <meta name="twitter:image" content="{{meta.twitter_image}}">
+    <meta name="twitter:image:width" content="{{meta.og_image_width}}">
+    <meta name="twitter:image:height" content="{{meta.og_image_height}}">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id}}">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{meta.canonical}}">
+    {{#each meta.alternate_languages_head as |alt|}}
+    <link rel="alternate" hreflang="{{alt.hreflang}}" href="{{alt.url}}" />
+    {{/each}}
+    <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "{{app_info.name}}",
+        "alternateName": "{{app_info.alternate_name}}",
+        "description": "{{meta.description}}",
+        "url": "{{meta.canonical}}",
+        "applicationCategory": "{{app_info.application_category}}",
+        "applicationSubCategory": "{{app_info.application_sub_category}}",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "{{app_info.price_currency}}",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": {{schema_rating.rating_value}},
+            "ratingCount": {{schema_rating.rating_count}},
+            "bestRating": {{schema_rating.best_rating}},
+            "worstRating": {{schema_rating.worst_rating}}
+        },
+        "author": {
+            "@type": "Person",
+            "name": "{{meta.author}}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{app_info.publisher}}"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "{{hero.cta_url}}",
+        "softwareVersion": "{{app_info.version}}",
+        "fileSize": "{{app_info.file_size}}",
+        "installUrl": "{{hero.cta_url}}",
+        "featureList": [
+            "{{features.items.0.title}}",
+            "{{features.items.1.title}}",
+            "{{features.items.2.title}}",
+            "{{features.items.3.title}}",
+            "{{features.items.4.title}}",
+            "{{features.items.5.title}}"
+        ]
+    }
+    </script>
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "{{meta.title}}",
+        "description": "{{meta.description}}",
+        "url": "{{meta.canonical}}",
+        "inLanguage": "{{meta.lang}}",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "{{app_info.name}}",
+            "url": "{{meta.canonical}}"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "{{app_info.name}}",
+            "description": "{{meta.description}}",
+            "applicationCategory": "{{app_info.application_category}}"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "{{meta.title}}",
+                "item": "{{meta.canonical}}"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{app_info.name}}",
+        "url": "{{meta.canonical}}"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "{{app_info.publisher}}",
+        "url": "{{meta.canonical}}",
+        "logo": "{{meta.og_image}}",
+        "sameAs": [
+            "{{hero.cta_url}}"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "{{demo.title}}",
+        "description": "{{demo.subtitle}}",
+        "image": "{{meta.og_image}}",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "{{app_info.price_currency}}",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "{{app_info.name}}",
+                "operatingSystem": "iOS",
+                "applicationCategory": "{{app_info.application_category}}",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "{{app_info.price_currency}}"
+                }
+            }
+        ],
+        "step": [
+            {{#each howto_steps.items as |step|}}
+            {
+                "@type": "HowToStep",
+                "name": "{{step.name}}",
+                "text": "{{step.text}}",
+                "image": "{{meta.og_image}}"
+            },
+            {{/each}}
+        ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "{{app_info.name}}",
+        "alternateName": "{{app_info.alternate_name}}",
+        "description": "{{meta.description}}",
+        "url": "{{meta.canonical}}",
+        "applicationCategory": "{{app_info.application_category}}",
+        "applicationSubCategory": "{{app_info.application_sub_category}}",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "{{app_info.price_currency}}",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": {{schema_rating.rating_value}},
+            "ratingCount": {{schema_rating.rating_count}},
+            "bestRating": {{schema_rating.best_rating}},
+            "worstRating": {{schema_rating.worst_rating}}
+        },
+        "author": {
+            "@type": "Person",
+            "name": "{{meta.author}}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{app_info.publisher}}"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "{{hero.cta_url}}",
+        "softwareVersion": "{{app_info.version}}",
+        "fileSize": "{{app_info.file_size}}",
+        "installUrl": "{{hero.cta_url}}"
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {{#each faq.items as |item|}}
+            {
+                "@type": "Question",
+                "name": "{{item.question}}",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{item.answer}}"
+                }
+            },
+            {{/each}}
+        ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "{{meta.title}}",
+            "item": "{{meta.canonical}}"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v={{meta.version}}">
+    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="{{hero.cta_url}}" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="{{hero.logo_alt}}" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>{{hero.title}}</h1>
+                    <h2>{{hero.subtitle}}</h2>
+                    <p class="entity-definition">{{hero.entity_definition}}</p>
+                    <p class="subheadline">{{hero.subheadline}}</p>
+                    <p class="last-updated-hero">{{last_updated.text}}</p>
+                    <a href="{{hero.cta_url}}" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" class="qr-code">
+                        <p class="qr-text">{{hero.qr_text}}</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            {{hero.phone_text}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">{{features.title}}</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.0.icon}}</div>
+                    <h3>{{features.items.0.title}}</h3>
+                    <p>{{features.items.0.description}}</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.1.icon}}</div>
+                    <h3>{{features.items.1.title}}</h3>
+                    <p>{{features.items.1.description}}</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.2.icon}}</div>
+                    <h3>{{features.items.2.title}}</h3>
+                    <p>{{features.items.2.description}}</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.3.icon}}</div>
+                    <h3>{{features.items.3.title}}</h3>
+                    <p>{{features.items.3.description}}</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.4.icon}}</div>
+                    <h3>{{features.items.4.title}}</h3>
+                    <p>{{features.items.4.description}}</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">{{features.items.5.icon}}</div>
+                    <h3>{{features.items.5.title}}</h3>
+                    <p>{{features.items.5.description}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">{{by_the_numbers.title}}</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">{{by_the_numbers.stats.0.number}}</div>
+                    <div class="stat-label">{{by_the_numbers.stats.0.label}}</div>
+                    <div class="stat-detail">{{by_the_numbers.stats.0.detail}}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{by_the_numbers.stats.1.number}}</div>
+                    <div class="stat-label">{{by_the_numbers.stats.1.label}}</div>
+                    <div class="stat-detail">{{by_the_numbers.stats.1.detail}}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{by_the_numbers.stats.2.number}}</div>
+                    <div class="stat-label">{{by_the_numbers.stats.2.label}}</div>
+                    <div class="stat-detail">{{by_the_numbers.stats.2.detail}}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">{{by_the_numbers.stats.3.number}}</div>
+                    <div class="stat-label">{{by_the_numbers.stats.3.label}}</div>
+                    <div class="stat-detail">{{by_the_numbers.stats.3.detail}}</div>
+                </div>
+            </div>
+            <p class="last-updated">{{last_updated.text}}</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">{{seo_chapter.title}}</h2>
+            <p class="subheadline">{{seo_chapter.subtitle}}</p>
+            <p>{{seo_chapter.intro}}</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>{{seo_chapter.sections.0.heading}}</h3>
+                    <p>{{seo_chapter.sections.0.body}}</p>
+                </div>
+                <div class="seo-section">
+                    <h3>{{seo_chapter.sections.1.heading}}</h3>
+                    <p>{{seo_chapter.sections.1.body}}</p>
+                </div>
+            </div>
+            <h3>{{seo_chapter.bullets_title}}</h3>
+            <ul>
+                <li>{{seo_chapter.bullets.0}}</li>
+                <li>{{seo_chapter.bullets.1}}</li>
+                <li>{{seo_chapter.bullets.2}}</li>
+                <li>{{seo_chapter.bullets.3}}</li>
+            </ul>
+            <p>{{seo_chapter.conclusion}}</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>{{comparison.title}}</h3>
+                <p>{{comparison.intro}}</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>{{comparison.table.feature}}</th>
+                            <th>{{comparison.table.online_converters}}</th>
+                            <th>{{comparison.table.this_app}}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{{comparison.table.rows.0.feature}}</td>
+                            <td>{{comparison.table.rows.0.online}}</td>
+                            <td>{{comparison.table.rows.0.app}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{comparison.table.rows.1.feature}}</td>
+                            <td>{{comparison.table.rows.1.online}}</td>
+                            <td>{{comparison.table.rows.1.app}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{comparison.table.rows.2.feature}}</td>
+                            <td>{{comparison.table.rows.2.online}}</td>
+                            <td>{{comparison.table.rows.2.app}}</td>
+                        </tr>
+                        <tr>
+                            <td>{{comparison.table.rows.3.feature}}</td>
+                            <td>{{comparison.table.rows.3.online}}</td>
+                            <td>{{comparison.table.rows.3.app}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">{{demo.title}}</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">{{demo.subtitle}}</p>
+            <div class="demo-video">
+                <div>
+                    <p>{{demo.placeholder_line1}}</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">{{demo.placeholder_line2}}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">{{testimonials.rating_text}}</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">{{testimonials.items.0.text}}</p>
+                    <div class="testimonial-author">{{testimonials.items.0.author}}</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">{{testimonials.items.1.text}}</p>
+                    <div class="testimonial-author">{{testimonials.items.1.author}}</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">{{testimonials.items.2.text}}</p>
+                    <div class="testimonial-author">{{testimonials.items.2.author}}</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">{{faq.title}}</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.0.question}}</div>
+                <div class="faq-answer">{{faq.items.0.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.1.question}}</div>
+                <div class="faq-answer">{{faq.items.1.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.2.question}}</div>
+                <div class="faq-answer">{{faq.items.2.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.3.question}}</div>
+                <div class="faq-answer">{{faq.items.3.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.4.question}}</div>
+                <div class="faq-answer">{{faq.items.4.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.5.question}}</div>
+                <div class="faq-answer">{{faq.items.5.answer}}</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.6.question}}</div>
+                <div class="faq-answer">{{faq.items.6.answer}}</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="{{footer.cta_url}}" class="footer-cta">
+                        {{footer.cta_text}}
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="{{footer.privacy_url}}">{{footer.privacy_text}}</a>
+                    <a href="{{footer.terms_url}}">{{footer.terms_text}}</a>
+                    <a href="{{footer.support_url}}">{{footer.support_text}}</a>
+                </div>
+                <div class="footer-links">
+                    {{#each meta.alternate_languages as |lang|}}
+                    <a href="{{lang.url}}" hreflang="{{lang.lang}}">{{lang.link_label}}</a>
+                    {{/each}}
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>{{footer.developer_info}}</p>
+                {{footer.copyright}}
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="{{floating_cta.url}}" class="floating-cta">
+        {{floating_cta.text}}
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+    ym(103201708, 'init', {webvisor:true, clickmap:true, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/103201708" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

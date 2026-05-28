@@ -1,0 +1,20 @@
+{
+  "name": "extractframeapp",
+  "scripts": {
+    "build": "node build/build.js",
+    "validate": "node build/validate/index.js",
+    "sitemap": "node build/sitemap.js",
+    "start": "npx http-server",
+    "site:preview": "node build/preview.js",
+    "index:now": "node build/indexnow.js",
+    "push": "git add . && git commit -m 'wip' && git push origin main",
+    "deploy": "npm run build && npm run validate && npm run sitemap && npm run push"
+  },
+  "devDependencies": {
+    "jsonld": "^9.0.0",
+    "sharp": "^0.34.5"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
