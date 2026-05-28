@@ -11,4 +11,18 @@
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>https://extractframeapp.com/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/privacy.html" />
+    <lastmod>2026-05-28</lastmod>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/terms.html" />
+    <lastmod>2026-05-28</lastmod>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { SITE_URL, URLS } = require('./constants');
+const { SITE_URL, URLS, SITE_PRIVACY_URL, SITE_TERMS_URL } = require('./constants');
 
 (function main() {
   const sitemapPath = path.join(__dirname, '..', 'sitemap.xml');
@@ -14,6 +14,8 @@ const { SITE_URL, URLS } = require('./constants');
   lines.push('  xmlns:xhtml="http://www.w3.org/1999/xhtml">');
   lines.push('  ');
   const lastmod = new Date().toISOString().split('T')[0];
+  const legalUrls = [SITE_PRIVACY_URL, SITE_TERMS_URL];
+
   for (const { url } of URLS) {
     lines.push('  <url>');
     lines.push(`    <loc>${url}</loc>`);
@@ -30,6 +32,16 @@ const { SITE_URL, URLS } = require('./constants');
     lines.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${SITE_URL}" />`);
     lines.push(`    <lastmod>${lastmod}</lastmod>`);
     lines.push(url === SITE_URL ? '    <priority>1.0</priority>' : '    <priority>0.9</priority>');
+    lines.push('  </url>');
+    lines.push('');
+  }
+
+  for (const legalUrl of legalUrls) {
+    lines.push('  <url>');
+    lines.push(`    <loc>${legalUrl}</loc>`);
+    lines.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${legalUrl}" />`);
+    lines.push(`    <lastmod>${lastmod}</lastmod>`);
+    lines.push('    <priority>0.3</priority>');
     lines.push('  </url>');
     lines.push('');
   }

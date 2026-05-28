@@ -61,55 +61,6 @@
     <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
     <link rel="manifest" href="/site.webmanifest">
     
-    <!-- Structured Data -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "MobileApplication",
-        "name": "{{app_info.name}}",
-        "alternateName": "{{app_info.alternate_name}}",
-        "description": "{{meta.description}}",
-        "url": "{{meta.canonical}}",
-        "applicationCategory": "{{app_info.application_category}}",
-        "applicationSubCategory": "{{app_info.application_sub_category}}",
-        "operatingSystem": ["iOS"],
-        "offers": {
-            "@type": "Offer",
-            "price": "0",
-            "priceCurrency": "{{app_info.price_currency}}",
-            "availability": "https://schema.org/InStock"
-        },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": {{schema_rating.rating_value}},
-            "ratingCount": {{schema_rating.rating_count}},
-            "bestRating": {{schema_rating.best_rating}},
-            "worstRating": {{schema_rating.worst_rating}}
-        },
-        "author": {
-            "@type": "Person",
-            "name": "{{meta.author}}"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "{{app_info.publisher}}"
-        },
-        "screenshot": "/screenshots/1.webp",
-        "downloadUrl": "{{hero.cta_url}}",
-        "softwareVersion": "{{app_info.version}}",
-        "fileSize": "{{app_info.file_size}}",
-        "installUrl": "{{hero.cta_url}}",
-        "featureList": [
-            "{{features.items.0.title}}",
-            "{{features.items.1.title}}",
-            "{{features.items.2.title}}",
-            "{{features.items.3.title}}",
-            "{{features.items.4.title}}",
-            "{{features.items.5.title}}"
-        ]
-    }
-    </script>
-    
     <!-- WebPage Structured Data -->
     <script type="application/ld+json">
     {
@@ -118,6 +69,7 @@
         "name": "{{meta.title}}",
         "description": "{{meta.description}}",
         "url": "{{meta.canonical}}",
+        "dateModified": "{{meta.date_modified_iso}}",
         "inLanguage": "{{meta.lang}}",
         "isPartOf": {
             "@type": "WebSite",
@@ -243,7 +195,16 @@
         "downloadUrl": "{{hero.cta_url}}",
         "softwareVersion": "{{app_info.version}}",
         "fileSize": "{{app_info.file_size}}",
-        "installUrl": "{{hero.cta_url}}"
+        "installUrl": "{{hero.cta_url}}",
+        "dateModified": "{{meta.date_modified_iso}}",
+        "featureList": [
+            "{{features.items.0.title}}",
+            "{{features.items.1.title}}",
+            "{{features.items.2.title}}",
+            "{{features.items.3.title}}",
+            "{{features.items.4.title}}",
+            "{{features.items.5.title}}"
+        ]
     }
     </script>
     

@@ -144,6 +144,7 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
                 data.meta = {};
             }
             data.meta.version = buildTimestamp;
+            data.meta.date_modified_iso = new Date().toISOString();
             data.meta.text_direction = lang === 'he' ? 'rtl' : 'ltr';
             data.meta.alternate_default = SITE_URL;
             data.meta.alternate_languages = URLS;
