@@ -96,19 +96,17 @@ body::before {
 .hero::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background:
-        linear-gradient(135deg, rgba(2, 6, 23, 0.55), rgba(15, 23, 42, 0.7)),
+    inset: 0;
+    background-image:
+        linear-gradient(120deg, rgba(7, 9, 15, 0.38), rgba(13, 17, 29, 0.52)),
         url('/img/bg.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    opacity: 1;
-    z-index: -1;
-    filter: blur(4px);
+    filter: blur(5px) saturate(0.95);
+    transform: scale(1.06);
+    transform-origin: center;
+    z-index: 0;
 }
 
 .hero .container {
@@ -925,20 +923,20 @@ body::before {
 .comparison-section {
     margin-top: 40px;
     padding-top: 40px;
-    border-top: 2px solid rgba(0, 0, 0, 0.1);
+    border-top: 1px solid var(--lux-border);
 }
 
 .comparison-section h3 {
     text-align: center;
     margin-bottom: 20px;
-    color: #111;
+    color: var(--lux-text);
     font-size: 1.5rem;
 }
 
 .comparison-section p {
     text-align: center;
     margin-bottom: 30px;
-    color: #555;
+    color: var(--lux-text-soft);
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
@@ -949,22 +947,23 @@ body::before {
     max-width: 900px;
     margin: 0 auto;
     border-collapse: collapse;
-    background: #fff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    background: rgba(15, 20, 34, 0.96);
+    border: 1px solid var(--lux-border);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.42);
     border-radius: 12px;
     overflow: hidden;
 }
 
 .comparison-table thead {
-    background: #f8f9fa;
+    background: rgba(212, 182, 108, 0.16);
 }
 
 .comparison-table th {
     padding: 16px 20px;
     text-align: left;
     font-weight: 600;
-    color: #111;
-    border-bottom: 2px solid #e5e7eb;
+    color: var(--lux-text);
+    border-bottom: 1px solid var(--lux-border);
 }
 
 .comparison-table th:first-child {
@@ -973,8 +972,8 @@ body::before {
 
 .comparison-table td {
     padding: 14px 20px;
-    border-bottom: 1px solid #e5e7eb;
-    color: #444;
+    border-bottom: 1px solid rgba(212, 182, 108, 0.2);
+    color: var(--lux-text-soft);
     line-height: 1.6;
 }
 
@@ -983,7 +982,7 @@ body::before {
 }
 
 .comparison-table tbody tr:hover {
-    background: #f8f9fa;
+    background: rgba(212, 182, 108, 0.1);
 }
 
 .last-updated {
@@ -1131,4 +1130,163 @@ body::before {
     }
 }
 
+/* Minimal-lux polish */
+:root {
+    --lux-bg: #07090f;
+    --lux-surface: #0f1422;
+    --lux-surface-soft: #141b2c;
+    --lux-border: rgba(212, 182, 108, 0.28);
+    --lux-border-strong: rgba(212, 182, 108, 0.46);
+    --lux-text: #f4f1e8;
+    --lux-text-soft: #c9c1af;
+    --lux-accent: #d4b66c;
+    --lux-accent-soft: #edd9a1;
+}
+
+body {
+    color: var(--lux-text);
+    background:
+        radial-gradient(circle at 15% 0%, rgba(212, 182, 108, 0.1) 0%, transparent 52%),
+        radial-gradient(circle at 90% 95%, rgba(123, 103, 58, 0.18) 0%, transparent 56%),
+        var(--lux-bg);
+}
+
+body::before {
+    background:
+        radial-gradient(circle at 15% 15%, rgba(212, 182, 108, 0.12) 0%, transparent 54%),
+        radial-gradient(circle at 85% 85%, rgba(212, 182, 108, 0.08) 0%, transparent 52%);
+    opacity: 0.55;
+}
+
+
+.hero h1 {
+    text-shadow: 0 14px 40px rgba(0, 0, 0, 0.45);
+}
+
+.hero h2,
+.hero .entity-definition,
+.hero .subheadline {
+    color: var(--lux-text-soft);
+}
+
+.last-updated-hero {
+    background: rgba(15, 20, 34, 0.72);
+    border: 1px solid var(--lux-border);
+    border-radius: 999px;
+    color: var(--lux-accent-soft);
+}
+
+.features,
+.by-the-numbers,
+.testimonials,
+.faq,
+.footer {
+    background: transparent;
+}
+
+.feature-card,
+.stat-card,
+.faq-item,
+.testimonial-card {
+    background: linear-gradient(160deg, rgba(20, 27, 44, 0.86), rgba(12, 17, 30, 0.92));
+    border: 1px solid var(--lux-border);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.34);
+}
+
+.feature-card:hover,
+.stat-card:hover,
+.testimonial-card:hover {
+    border-color: var(--lux-border-strong);
+    box-shadow: 0 24px 52px rgba(0, 0, 0, 0.45);
+}
+
+.section-title,
+.feature-card h3,
+.stat-label,
+.faq-question,
+.comparison-section h3,
+.seo-section h3 {
+    color: var(--lux-text);
+}
+
+.feature-card p,
+.stat-detail,
+.rating-text,
+.faq-answer,
+.comparison-section p {
+    color: var(--lux-text-soft);
+}
+
+.stat-number {
+    background: linear-gradient(140deg, var(--lux-accent-soft), var(--lux-accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.comparison-table {
+    background: rgba(15, 20, 34, 0.9);
+    border: 1px solid var(--lux-border);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.36);
+}
+
+.comparison-table thead {
+    background: rgba(212, 182, 108, 0.12);
+}
+
+.comparison-table th,
+.comparison-table td {
+    color: var(--lux-text-soft);
+    border-bottom-color: rgba(212, 182, 108, 0.2);
+}
+
+.comparison-table tbody tr:hover {
+    background: rgba(212, 182, 108, 0.08);
+}
+
+.footer-cta,
+.floating-cta {
+    background: linear-gradient(140deg, var(--lux-accent-soft), var(--lux-accent));
+    color: #1a1408;
+    border: 1px solid rgba(240, 224, 178, 0.55);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+.footer-cta:hover,
+.floating-cta:hover {
+    background: linear-gradient(140deg, #f3e4b8, #d8ba70);
+}
+
+.footer-links a {
+    color: var(--lux-text-soft);
+}
+
+.footer-links a:hover {
+    color: var(--lux-accent-soft);
+}
+
+/* Contrast fixes for minimal-lux */
+.seo-chapter .container {
+    background: linear-gradient(160deg, rgba(20, 27, 44, 0.9), rgba(12, 17, 30, 0.94));
+    border: 1px solid var(--lux-border);
+}
+
+.seo-chapter .section-title,
+.seo-chapter h3,
+.seo-chapter .subheadline,
+.seo-chapter p,
+.seo-chapter li,
+.comparison-section p {
+    color: var(--lux-text-soft);
+}
+
+.seo-section {
+    background: rgba(15, 20, 34, 0.86);
+    border: 1px solid var(--lux-border);
+}
+
+.testimonial-text,
+.testimonial-author {
+    color: var(--lux-text-soft);
+}
 
