@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "en",
-    "title": "Extract Frame from Video on iPhone | Free MP3 App (2026)",
-    "description": "Extract Frame from iPhone videos in seconds. MP4 and MOV turn into crisp MP3 on your device—private, no cloud. Trim from Photos or Share. Free to start.",
-    "keywords": "Extract Frame from video, Extract Frame from video on iphone, how to Extract Frame from video, how to Extract Frame from video on iphone, iphone Extract Frame from video, Extract Frame, video to audio, extract sound from video, video to mp3, video to mp3 converter, mp4 to mp3 converter, convert video to audio, app to Extract Frame from video, Extract Frame from video app, Extract Frame from video free, Extract Frame from video online, download audio from video, audio extractor from video, video to audio converter, MP4 to audio, MOV to audio, audio extraction, iOS app, iPhone audio extractor",
+    "title": "Video to Photo Frame Grabber on iPhone | Video To Photo - Grab Frame",
+    "description": "Extract still photos from video on iPhone in seconds. Grab one frame or many, then save as JPG, PNG, or HEIC with private on-device processing.",
+    "keywords": "video to photo, frame grabber, extract frame from video, video frame extractor, iPhone frame grabber, save frame from video, video to image, jpg from video, png from video, heic from video, batch frame export, share sheet frame extractor, app store frame grabber",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/",
-    "og_title": "Extract Frame from Video on iPhone - Free MP3 Converter",
-    "og_description": "Extract Frame from iPhone videos in seconds. Convert MP4 and MOV to high-quality MP3 with private on-device processing.",
+    "og_title": "Video To Photo - Grab Frame for iPhone",
+    "og_description": "Turn videos into still photos on your iPhone. Pick exact moments and export high-quality frames as JPG, PNG, or HEIC.",
     "og_image": "https://extractframeapp.com/site_preview.png",
-    "site_name": "Extract Frame from Video⁺",
+    "site_name": "Video To Photo - Grab Frame",
     "og_locale": "en_US",
     "twitter_url": "https://extractframeapp.com/",
-    "twitter_title": "Extract Frame from Video on iPhone - Free App",
-    "twitter_description": "Convert iPhone videos to MP3 quickly with private on-device processing. Free core features, with optional in-app upgrades.",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Extract exact still frames from video on iPhone. Private on-device processing, with batch export and flexible formats.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/",
@@ -21,173 +21,173 @@
     "geo_placename": "United States"
   },
   "hero": {
-    "logo_alt": "Extract Frame from Video⁺ Logo",
-    "title": "Extract Frame from Video on iPhone",
-    "subtitle": "Convert video to MP3 in seconds - free iPhone app",
-    "entity_definition": "Extract Frame from Video⁺ is an iOS app that converts videos (MP4/MOV) on your iPhone into high-quality MP3 audio files directly on your device.",
-    "subheadline": "Save music from videos, capture lecture audio, or create podcast clips. Fast, private, and free to use with optional in-app purchases.",
+    "logo_alt": "Video To Photo - Grab Frame logo",
+    "title": "Extract Frames from Video on iPhone",
+    "subtitle": "Grab exact still photos from your clips in seconds",
+    "entity_definition": "Video To Photo - Grab Frame is an iOS app that turns videos into still photos on your iPhone. Choose the exact moment and export frames in JPG, PNG, or HEIC.",
+    "subheadline": "Open from Photos, scrub to the right moment, and save one frame or many. No account, no upload, and no editing timeline required.",
     "download_alt": "Download on the App Store",
-    "phone_text": "Tap to convert video to audio",
-    "qr_alt": "QR Code to download the app",
-    "qr_text": "Scan with your phone to download"
+    "phone_text": "Tap to grab a frame from video",
+    "qr_alt": "QR code to download the app",
+    "qr_text": "Scan with your iPhone to download"
   },
   "features": {
-    "title": "Why users choose this iPhone audio extractor",
+    "title": "Why users choose this frame grabber",
     "items": [
       {
-        "title": "Free to get started",
-        "description": "Free to download and use. Core audio extraction is included, with optional in-app purchases for extra features.",
-        "icon": "⚡"
+        "title": "Exact frame selection",
+        "description": "Scrub through your video and capture the exact still you need at the precise moment.",
+        "icon": "🎯"
       },
       {
-        "title": "Fast MP3 conversion",
-        "description": "Convert videos to MP3 quickly with high-quality output. Supports MP4, MOV, and other common iPhone video formats.",
-        "icon": "🎵"
+        "title": "Single or batch extraction",
+        "description": "Grab one frame or select multiple moments and export a full set of still images at once.",
+        "icon": "🧩"
       },
       {
-        "title": "Precise trimming tools",
-        "description": "Select the exact part you need before exporting. Save only the section you want as audio.",
-        "icon": "✂️"
+        "title": "JPG, PNG, and HEIC export",
+        "description": "Save extracted frames in the format that fits your workflow and sharing needs.",
+        "icon": "🖼️"
       },
       {
-        "title": "Works from Share Sheet",
-        "description": "Use the Share button in Photos or Files for instant access. No complicated setup required.",
+        "title": "Share Sheet workflow",
+        "description": "Start directly from Photos via Share and open straight into frame extraction.",
         "icon": "🔗"
       },
       {
-        "title": "Simple iPhone-first UI",
-        "description": "Clean, intuitive interface designed for iPhone users. Easy to use, even on your first try.",
-        "icon": "🎨"
+        "title": "ZIP and PDF output",
+        "description": "Export results as separate images, a ZIP archive, or a PDF when you need grouped output.",
+        "icon": "📦"
       },
       {
-        "title": "High audio quality",
-        "description": "Clear output for music, podcasts, lectures, and voice recordings.",
-        "icon": "🎵"
+        "title": "Project save and reopen",
+        "description": "Save your extraction sessions as projects and continue later without starting over.",
+        "icon": "💾"
       }
     ]
   },
   "by_the_numbers": {
-    "title": "Extract Frame from Video⁺ by the Numbers",
+    "title": "Video To Photo - Grab Frame by the Numbers",
     "items": [
-      "4.8 out of 5 stars based on 140+ App Store ratings",
-      "Free to download and use – optional in-app purchases available",
-      "Supports MP4, MOV, and other common iPhone video formats",
-      "~50 MB iOS app size",
-      "Processes videos directly on your iPhone for privacy and speed"
+      "5.0 out of 5 from 8 App Store ratings",
+      "42.9 MB app size",
+      "Supports export as JPG, PNG, and HEIC",
+      "Built for iPhone",
+      "Processing stays on-device for privacy"
     ],
     "stats": [
       {
-        "number": "4.8",
+        "number": "5.0",
         "label": "Star Rating",
-        "detail": "Based on 140+ App Store reviews"
+        "detail": "Based on 8 App Store ratings"
       },
       {
-        "number": "~50 MB",
+        "number": "42.9 MB",
         "label": "App Size",
-        "detail": "Lightweight and fast"
+        "detail": "Lightweight Photo & Video app"
       },
       {
-        "number": "100%",
-        "label": "Free Core Feature",
-        "detail": "Optional in-app purchases"
+        "number": "3",
+        "label": "Image Formats",
+        "detail": "JPG, PNG, and HEIC"
       },
       {
         "number": "On-Device",
-        "label": "Processing",
-        "detail": "Your videos never leave your iPhone"
+        "label": "Privacy First",
+        "detail": "No video upload required"
       }
     ]
   },
   "demo": {
-    "title": "How to Extract Frame from Video on iPhone - Step by Step Guide",
-    "subtitle": "Follow these simple steps to Extract Frame from video on iPhone with high quality",
-    "placeholder_line1": "📱 Demo Video Coming Soon",
-    "placeholder_line2": "Step 1: Tap app > Step 2: Select video > Step 3: Trim if needed > Step 4: Extract Frame and save as MP3"
+    "title": "How to Extract a Frame from Video on iPhone",
+    "subtitle": "Use these simple steps to save perfect still photos from your clips",
+    "placeholder_line1": "📱 Demo video coming soon",
+    "placeholder_line2": "Step 1: Open from Photos > Step 2: Scrub to moment > Step 3: Grab frame(s) > Step 4: Export as JPG/PNG/HEIC"
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Open the App",
-        "text": "Open the {{app_info.name}} app on your iPhone. The app is free to download from the App Store."
+        "name": "Open from Photos",
+        "text": "Share a video from Photos to {{app_info.name}}, or open the app first and select your clip."
       },
       {
-        "name": "Select Your Video",
-        "text": "Choose a video from your iPhone library. You can select videos in MP4, MOV, or other common formats."
+        "name": "Find the Exact Moment",
+        "text": "Use the scrub control to move frame by frame and stop on the still image you want."
       },
       {
-        "name": "Trim if Needed",
-        "text": "Use the trimming tools to select the exact portion of the video you want to Extract Frame from. This step is optional."
+        "name": "Grab One or More Frames",
+        "text": "Capture a single frame or mark multiple moments for batch export."
       },
       {
-        "name": "Extract and Save Audio",
-        "text": "Tap Save as Audio to Extract Frame from video and save it as an MP3 file. The audio will be saved to your iPhone."
+        "name": "Export and Save",
+        "text": "Save your extracted stills as JPG, PNG, or HEIC, or export as ZIP or PDF."
       }
     ]
   },
   "testimonials": {
-    "rating_text": "4.8 rating from App Store users",
+    "rating_text": "5.0 rating from App Store users",
     "items": [
       {
-        "text": "\"Perfect for saving music and voice clips from videos. Trimming is simple and the export is fast.\"",
-        "author": "Sarah M., iPhone user",
+        "text": "\"Exactly what I needed to pull a perfect still from a family video. Fast and simple.\"",
+        "author": "App Store user",
         "rating": "5 stars",
         "verified": true
       },
       {
-        "text": "\"Great for lecture recordings. Clean interface, quick conversion, and no learning curve.\"",
-        "author": "Michael T., Student",
+        "text": "\"The frame picker is precise and exporting multiple images is very convenient.\"",
+        "author": "App Store user",
         "rating": "5 stars",
         "verified": true
       },
       {
-        "text": "\"I love using the Share button from Photos. It takes just a few taps to get the audio I need.\"",
-        "author": "Jessica L., Content Creator",
+        "text": "\"Great workflow from the Photos share menu. No complicated editor needed.\"",
+        "author": "App Store user",
         "rating": "5 stars",
         "verified": true
       }
     ]
   },
   "faq": {
-    "title": "Video-to-Audio FAQ for iPhone",
+    "title": "Video-to-Photo FAQ for iPhone",
     "items": [
       {
-        "question": "How do I Extract Frame from a video on iPhone?",
-        "answer": "Open Extract Frame from Video⁺, choose a clip from your library, trim if needed, and tap Save as Audio (MP3). You can also launch it directly from the Share menu in Photos or Files."
+        "question": "How do I extract a frame from a video on iPhone?",
+        "answer": "Open a clip in Video To Photo - Grab Frame, scrub to the exact moment, and capture the still. Then export it as JPG, PNG, or HEIC."
       },
       {
-        "question": "Is there a free iPhone app for video-to-audio conversion?",
-        "answer": "Yes. Extract Frame from Video⁺ is free to download and includes core conversion features at no cost. Optional in-app purchases unlock additional tools."
+        "question": "Can I export more than one frame at a time?",
+        "answer": "Yes. You can select multiple moments and export several frames in one batch."
       },
       {
-        "question": "How can I extract sound from video quickly?",
-        "answer": "Use four steps: open the app, select a video, trim the segment you want, then save as audio. For faster access, start from the Share button in Photos."
+        "question": "Which formats can I export?",
+        "answer": "The app supports image export as JPG, PNG, and HEIC. You can also export results as ZIP or PDF."
       },
       {
-        "question": "Can I convert MP4 or MOV to MP3 on iPhone?",
-        "answer": "Yes. The app supports common iPhone formats like MP4 and MOV and exports audio as MP3 in a few taps."
+        "question": "Does the app upload my videos?",
+        "answer": "No. Frame extraction runs on-device, so your videos and generated images stay on your iPhone."
       },
       {
-        "question": "Can I use it for free?",
-        "answer": "Yes. Core audio extraction is free. Optional in-app purchases are available for users who want extra features."
+        "question": "Can I resume work later?",
+        "answer": "Yes. You can save sessions as projects and reopen them later."
       },
       {
-        "question": "Is Extract Frame from Video⁺ better than online audio extractors?",
-        "answer": "Yes, for iPhone users. Extract Frame from Video⁺ processes videos directly on your device, so your files never leave your iPhone. Online converters require uploading videos to servers, which can be slower and less private. The app is free to download and use, with optional in-app purchases available."
+        "question": "Is Video To Photo - Grab Frame free?",
+        "answer": "The app is free to download and includes in-app purchases for advanced usage."
       },
       {
-        "question": "Is Extract Frame from Video⁺ safe to use compared to online converters?",
-        "answer": "Yes, it's safer. Extract Frame from Video⁺ processes videos entirely on your iPhone—no uploads to external servers. This means your videos stay private and secure on your device. Online converters require uploading files, which can pose privacy risks."
+        "question": "Who is this app for?",
+        "answer": "It is useful for content creators, educators, and anyone who wants to capture a specific moment from video as a still photo."
       }
     ]
   },
   "app_info": {
-    "name": "Extract Frame from Video⁺",
-    "alternate_name": "Извлечь аудио из видео",
-    "application_category": "MultimediaApplication",
-    "application_sub_category": "Audio"
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Video frame extractor",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Photo & Video"
   },
   "footer": {
-    "cta_text": "📱 Download the free iPhone audio extractor",
+    "cta_text": "📱 Download Video To Photo - Grab Frame",
     "privacy_text": "Privacy Policy",
     "terms_text": "Terms of Use",
     "support_text": "Support",
@@ -195,58 +195,58 @@
     "copyright": "© {year} c-basso. All rights reserved."
   },
   "floating_cta": {
-    "text": "📱 Convert video to MP3 on iPhone - Free"
+    "text": "📱 Grab perfect frames from video on iPhone"
   },
   "seo_chapter": {
-    "title": "How to Convert Video to MP3 on iPhone (2026 Guide)",
-    "subtitle": "Fast, private audio extraction with a free iPhone app",
-    "intro": "Extract Frame from Video⁺ is a MultimediaApplication for iOS devices that converts video files (MP4/MOV) into MP3 audio files. The app processes videos directly on the device without requiring internet connectivity. Audio extraction is performed locally, which means video files remain on the user's iPhone and are not uploaded to external servers. The application supports common iPhone video formats and outputs audio in MP3 format. The core audio extraction functionality is available at no cost, with additional features available through optional in-app purchases.",
+    "title": "How to Turn Video into Photos on iPhone",
+    "subtitle": "Extract exact still moments without uploading your video",
+    "intro": "Video To Photo - Grab Frame is an iPhone app in the Photo & Video category that extracts still images from video. It helps users capture the exact moment they need from a clip and save it in common image formats. Processing is done on-device, so videos do not need to be uploaded to external servers. The app supports single-frame capture, batch export, and project-based workflows.",
     "sections": [
       {
-        "heading": "Step-by-step: Extract Frame on iPhone",
-        "body": "To Extract Frame with Extract Frame from Video⁺: 1) Open the app, 2) Select a video from your iPhone library, 3) Trim the segment if needed, 4) Tap Save as Audio to export MP3. You can also start from the Share button in Photos or Files without opening the app first."
+        "heading": "Step-by-step frame extraction",
+        "body": "Share a video from Photos to the app, scrub to the moment you want, and capture the frame. You can repeat this for multiple points in the clip, then export as JPG, PNG, or HEIC."
       },
       {
-        "heading": "Features and Capabilities",
-        "body": "Extract Frame from Video⁺ processes video files on the device rather than uploading them to remote servers. This on-device processing approach provides privacy benefits and does not require internet connectivity for audio extraction. The application includes trimming functionality that allows users to select specific segments of video files. Output is provided in MP3 format. The app functions as a video-to-MP3 converter and supports MP4 and MOV input formats commonly used on iOS devices."
+        "heading": "What makes it useful",
+        "body": "Video To Photo - Grab Frame focuses on one job: turning video moments into high-quality still images quickly. It includes batch export and optional ZIP/PDF output, plus project save/reopen for larger workflows."
       }
     ],
     "bullets_title": "Common Use Cases",
     "bullets": [
-      "Extracting audio tracks from video files for music collection purposes",
-      "Converting video recordings of lectures or meetings to audio format for later review",
-      "Creating audio clips from video content for podcast production or voice note creation",
-      "Extracting audio from video files for remixing or editing in audio production workflows"
+      "Create social thumbnails from video clips",
+      "Save memorable expressions or gestures as photos",
+      "Build storyboards from tutorial or demo footage",
+      "Capture reference stills for design or editing tasks"
     ],
-    "conclusion": "Extract Frame from Video⁺ is an iOS application that enables users to Extract Frame from video files on iPhone devices. The app performs audio extraction locally on the device. The primary audio extraction feature is available without charge, while additional functionality can be accessed through optional in-app purchases."
+    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused way to extract still images from video with precise control, flexible export formats, and on-device privacy."
   },
   "comparison": {
-    "title": "Extract Frame from Video⁺ vs Online Converters",
-    "intro": "Here's how Extract Frame from Video⁺ compares to online video-to-audio converters:",
+    "title": "Video To Photo - Grab Frame vs Online Frame Tools",
+    "intro": "Here's how Video To Photo - Grab Frame compares to web-based frame extractors:",
     "table": {
       "feature": "Feature",
-      "online_converters": "Online Converters",
-      "this_app": "Extract Frame from Video⁺",
+      "online_converters": "Online Tools",
+      "this_app": "Video To Photo - Grab Frame",
       "rows": [
         {
           "feature": "Privacy",
-          "online": "Videos uploaded to servers",
-          "app": "Processing happens on your iPhone"
+          "online": "Usually requires video upload",
+          "app": "Frames are extracted directly on your iPhone"
         },
         {
-          "feature": "Ease of Use",
-          "online": "Requires uploading files and waiting",
-          "app": "Use Share button or open app directly"
+          "feature": "Precision",
+          "online": "Often limited control",
+          "app": "Scrub to exact frame-level moments"
         },
         {
-          "feature": "Cost",
-          "online": "Often requires subscription or has limits",
-          "app": "Free to use, optional in-app purchases"
+          "feature": "Output",
+          "online": "May offer only one format",
+          "app": "Exports JPG, PNG, and HEIC, plus ZIP/PDF options"
         },
         {
-          "feature": "Speed",
-          "online": "Depends on upload/download speed",
-          "app": "Instant processing on device"
+          "feature": "Workflow",
+          "online": "Browser upload/download cycle",
+          "app": "Start from Photos Share Sheet and save instantly"
         }
       ]
     }
