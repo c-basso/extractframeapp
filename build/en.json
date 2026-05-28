@@ -31,6 +31,9 @@
     "qr_alt": "QR code to download the app",
     "qr_text": "Scan with your iPhone to download"
   },
+  "last_updated": {
+    "text": "Last updated: May 28, 2026"
+  },
   "features": {
     "title": "Why users choose this frame grabber",
     "items": [
@@ -200,15 +203,15 @@
   "seo_chapter": {
     "title": "How to Turn Video into Photos on iPhone",
     "subtitle": "Extract exact still moments without uploading your video",
-    "intro": "Video To Photo - Grab Frame is an iPhone app in the Photo & Video category that extracts still images from video. It helps users capture the exact moment they need from a clip and save it in common image formats. Processing is done on-device, so videos do not need to be uploaded to external servers. The app supports single-frame capture, batch export, and project-based workflows.",
+    "intro": "Video To Photo - Grab Frame is an iPhone app in the Photo & Video category that extracts still images from video. According to the App Store listing, the app has a 5.0 rating from 8 ratings, a 42.9 MB size, and supports export to JPG, PNG, and HEIC. Processing is done on-device, so videos do not need to be uploaded to external servers.",
     "sections": [
       {
         "heading": "Step-by-step frame extraction",
-        "body": "Share a video from Photos to the app, scrub to the moment you want, and capture the frame. You can repeat this for multiple points in the clip, then export as JPG, PNG, or HEIC."
+        "body": "Share a video from Photos to the app, scrub to the moment you want, and capture the frame. You can repeat this for multiple points in the clip, then export as JPG, PNG, or HEIC. For grouped delivery, exports are also available as ZIP or PDF."
       },
       {
         "heading": "What makes it useful",
-        "body": "Video To Photo - Grab Frame focuses on one job: turning video moments into high-quality still images quickly. It includes batch export and optional ZIP/PDF output, plus project save/reopen for larger workflows."
+        "body": "Video To Photo - Grab Frame focuses on one job: turning video moments into still images quickly with precise control. Compared with browser-based frame tools, it avoids upload waiting time and keeps source videos on-device. It includes batch export and project save/reopen for larger workflows."
       }
     ],
     "bullets_title": "Common Use Cases",
@@ -218,14 +221,14 @@
       "Build storyboards from tutorial or demo footage",
       "Capture reference stills for design or editing tasks"
     ],
-    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused way to extract still images from video with precise control, flexible export formats, and on-device privacy."
+    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused way to extract still images from video with precise control, flexible export formats, and on-device privacy. Last verified against App Store product details on May 28, 2026."
   },
   "comparison": {
-    "title": "Video To Photo - Grab Frame vs Online Frame Tools",
-    "intro": "Here's how Video To Photo - Grab Frame compares to web-based frame extractors:",
+    "title": "Video To Photo - Grab Frame vs Browser-Based Frame Extractors",
+    "intro": "Here is a factual comparison between Video To Photo - Grab Frame and typical browser-based frame extractor tools:",
     "table": {
       "feature": "Feature",
-      "online_converters": "Online Tools",
+      "online_converters": "Typical Browser Tools",
       "this_app": "Video To Photo - Grab Frame",
       "rows": [
         {

@@ -1,0 +1,43 @@
+# Extract Frame App
+
+> Official landing site for the iPhone app "Video To Photo - Grab Frame", focused on extracting still photos from videos.
+
+## Main Sections
+
+- [Home](https://extractframeapp.com/): Product overview, features, steps, FAQ, and comparison content.
+- [Privacy Policy](https://extractframeapp.com/privacy.html): Data handling and privacy terms.
+- [Terms of Use](https://extractframeapp.com/terms.html): Legal terms and app usage terms.
+- [App Store Listing](https://apps.apple.com/us/app/video-to-photo-grab-frame/id6743497797): Store metadata, ratings, and release information.
+
+## Entity Definition
+
+Video To Photo - Grab Frame is an iOS app for iPhone that extracts still images from video clips. Users can scrub to exact moments and export frames as JPG, PNG, or HEIC. The app supports single-frame and batch export workflows, including ZIP and PDF output options.
+
+## Key Facts
+
+- App Store ID: `6743497797`
+- Category: Photo & Video
+- Platform: iPhone
+- App Size: 42.9 MB
+- App Store Rating: 5.0 (8 ratings)
+- Export formats: JPG, PNG, HEIC
+- Processing model: On-device frame extraction (no required upload)
+- Pricing model: Free download with in-app purchases
+
+## Common User Intents
+
+- "How do I extract a frame from video on iPhone?"
+- "What is the best iPhone frame grabber app?"
+- "Can I save video frames as JPG, PNG, or HEIC?"
+- "Is Video To Photo - Grab Frame private and offline?"
+- "How does this app compare to browser-based frame extractors?"
+
+## Freshness
+
+- Content last updated: May 28, 2026
+
+## Contact and Ownership
+
+- Developer: Vladimir Ivakhnenko
+- Brand/Copyright: c-basso
+- Website: https://extractframeapp.com/
