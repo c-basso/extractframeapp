@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "de",
+    "title": "Video To Photo - Grab Frame: Videobilder auf iPhone",
+    "description": "Extrahiere Fotos aus Videos auf dem iPhone in Sekunden. Erfasse ein Einzelbild oder exportiere mehrere als JPG, PNG oder HEIC – privat, auf dem Gerät.",
+    "keywords": "Video zu Foto, Bild aus Video extrahieren, Frame Grabber, iPhone Bild aus Video, Einzelbild speichern, Video zu Bild, jpg aus Video, png aus Video, heic aus Video, Stapel-Export, Teilen aus Fotos, App Store Frame Grabber",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/de/",
+    "og_title": "Video To Photo - Grab Frame für iPhone",
+    "og_description": "Verwandle Videos in Fotos auf deinem iPhone. Wähle den exakten Moment und exportiere Bilder als JPG, PNG oder HEIC.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "de_DE",
+    "twitter_url": "https://extractframeapp.com/de/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Extrahiere exakte Einzelbilder aus Videos auf dem iPhone. Verarbeitung auf dem Gerät, Stapel-Export und flexible Formate.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/de/",
+    "geo_region": "DE",
+    "geo_placename": "Deutschland"
+  },
+  "hero": {
+    "logo_alt": "Video To Photo - Grab Frame Logo",
+    "title": "Bilder aus Videos auf dem iPhone extrahieren",
+    "subtitle": "Speichere exakte Fotos aus deinen Clips in Sekunden",
+    "entity_definition": "Video To Photo - Grab Frame ist eine iOS-App, die Videos auf deinem iPhone in Fotos verwandelt. Wähle den exakten Moment und exportiere Bilder als JPG, PNG oder HEIC.",
+    "subheadline": "Öffne aus Fotos, spule zum richtigen Moment und speichere ein Bild oder mehrere. Kein Konto, kein Upload und keine Schnitt-Timeline nötig.",
+    "download_alt": "Im App Store laden",
+    "phone_text": "Tippe, um ein Bild aus dem Video zu speichern",
+    "qr_alt": "QR-Code zum Herunterladen der App",
+    "qr_text": "Mit dem iPhone scannen zum Herunterladen"
+  },
+  "last_updated": {
+    "text": "Zuletzt aktualisiert: 28. Mai 2026"
+  },
+  "features": {
+    "title": "Warum Nutzer diese App wählen",
+    "items": [
+      {
+        "title": "Exakte Bildauswahl",
+        "description": "Spule durch dein Video und erfasse genau das Standbild, das du im richtigen Moment brauchst.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Einzelbild oder Stapel",
+        "description": "Erfasse ein Bild oder markiere mehrere Momente und exportiere einen ganzen Satz Standbilder auf einmal.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Export als JPG, PNG und HEIC",
+        "description": "Speichere extrahierte Bilder im Format, das zu deinem Workflow passt.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Teilen-Workflow",
+        "description": "Starte direkt aus Fotos über Teilen und springe sofort in die Bildextraktion.",
+        "icon": "🔗"
+      },
+      {
+        "title": "ZIP- und PDF-Ausgabe",
+        "description": "Exportiere einzelne Bilder, ein ZIP-Archiv oder ein PDF für gebündelte Ergebnisse.",
+        "icon": "📦"
+      },
+      {
+        "title": "Projekte speichern und öffnen",
+        "description": "Speichere deine Sitzungen als Projekte und mache später weiter, ohne von vorn zu beginnen.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame in Zahlen",
+    "items": [
+      "5,0 von 5 laut 8 App-Store-Bewertungen",
+      "App-Größe 42,9 MB",
+      "Export als JPG, PNG und HEIC",
+      "Für iPhone entwickelt",
+      "Verarbeitung bleibt auf dem Gerät"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Bewertung",
+        "detail": "Basierend auf 8 App-Store-Bewertungen"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Größe",
+        "detail": "Leichte Foto- und Video-App"
+      },
+      {
+        "number": "3",
+        "label": "Formate",
+        "detail": "JPG, PNG und HEIC"
+      },
+      {
+        "number": "Auf dem Gerät",
+        "label": "Datenschutz",
+        "detail": "Kein Video-Upload nötig"
+      }
+    ]
+  },
+  "demo": {
+    "title": "So extrahierst du ein Bild aus einem Video auf dem iPhone",
+    "subtitle": "Einfache Schritte, um perfekte Fotos aus deinen Clips zu speichern",
+    "placeholder_line1": "📱 Demo-Video demnächst",
+    "placeholder_line2": "Schritt 1: Aus Fotos öffnen > Schritt 2: Zum Moment spulen > Schritt 3: Bild(er) erfassen > Schritt 4: Als JPG/PNG/HEIC exportieren"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Aus Fotos öffnen",
+        "text": "Teile ein Video aus Fotos mit {{app_info.name}} oder öffne die App zuerst und wähle deinen Clip."
+      },
+      {
+        "name": "Den exakten Moment finden",
+        "text": "Nutze den Schieberegler, um bildweise vorzuspulen und beim gewünschten Standbild anzuhalten."
+      },
+      {
+        "name": "Ein oder mehrere Bilder erfassen",
+        "text": "Erfasse ein einzelnes Bild oder markiere mehrere Momente für den Stapel-Export."
+      },
+      {
+        "name": "Exportieren und speichern",
+        "text": "Speichere deine Bilder als JPG, PNG oder HEIC oder exportiere als ZIP oder PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "5,0 Bewertung von App-Store-Nutzern",
+    "items": [
+      {
+        "text": "„Genau das, was ich brauchte, um ein perfektes Standbild aus einem Familienvideo zu holen. Schnell und einfach.“",
+        "author": "App-Store-Nutzer",
+        "rating": "5 Sterne",
+        "verified": true
+      },
+      {
+        "text": "„Die Bildauswahl ist präzise und der Export mehrerer Bilder ist sehr praktisch.“",
+        "author": "App-Store-Nutzer",
+        "rating": "5 Sterne",
+        "verified": true
+      },
+      {
+        "text": "„Toller Workflow über Teilen in Fotos. Kein komplizierter Editor nötig.“",
+        "author": "App-Store-Nutzer",
+        "rating": "5 Sterne",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ: Video zu Foto auf dem iPhone",
+    "items": [
+      {
+        "question": "Wie extrahiere ich ein Bild aus einem Video auf dem iPhone?",
+        "answer": "Öffne einen Clip in Video To Photo - Grab Frame, spule zum exakten Moment und erfasse das Standbild. Exportiere es dann als JPG, PNG oder HEIC."
+      },
+      {
+        "question": "Kann ich mehrere Bilder auf einmal exportieren?",
+        "answer": "Ja. Du kannst mehrere Momente auswählen und mehrere Bilder in einem Stapel exportieren."
+      },
+      {
+        "question": "Welche Formate kann ich exportieren?",
+        "answer": "Die App unterstützt JPG, PNG und HEIC. Du kannst Ergebnisse auch als ZIP oder PDF exportieren."
+      },
+      {
+        "question": "Lädt die App meine Videos hoch?",
+        "answer": "Nein. Die Extraktion läuft auf dem Gerät – deine Videos und Bilder bleiben auf deinem iPhone."
+      },
+      {
+        "question": "Kann ich später weitermachen?",
+        "answer": "Ja. Du kannst Sitzungen als Projekte speichern und später wieder öffnen."
+      },
+      {
+        "question": "Ist Video To Photo - Grab Frame kostenlos?",
+        "answer": "Die App ist kostenlos zum Download; erweiterte Funktionen sind über In-App-Käufe verfügbar."
+      },
+      {
+        "question": "Für wen ist diese App gedacht?",
+        "answer": "Für Content-Ersteller, Lehrende und alle, die einen bestimmten Videomoment als Foto festhalten möchten."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Video-Bild-Extraktor",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Foto und Video"
+  },
+  "footer": {
+    "cta_text": "📱 Video To Photo - Grab Frame laden",
+    "privacy_text": "Datenschutzerklärung",
+    "terms_text": "Nutzungsbedingungen",
+    "support_text": "Support",
+    "developer_info": "Entwickelt von Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Alle Rechte vorbehalten."
+  },
+  "floating_cta": {
+    "text": "📱 Perfekte Bilder aus Videos auf dem iPhone speichern"
+  },
+  "seo_chapter": {
+    "title": "So verwandelst du Video in Fotos auf dem iPhone",
+    "subtitle": "Extrahiere exakte Standbilder ohne Video-Upload",
+    "intro": "Video To Photo - Grab Frame ist eine iPhone-App in der Kategorie Foto und Video, die Standbilder aus Videos extrahiert. Laut App Store: 5,0 Bewertung aus 8 Bewertungen, 42,9 MB Größe, Export nach JPG, PNG und HEIC. Die Verarbeitung erfolgt auf dem Gerät – Videos müssen nicht auf externe Server hochgeladen werden.",
+    "sections": [
+      {
+        "heading": "Schrittweise Bildextraktion",
+        "body": "Teile ein Video aus Fotos mit der App, spule zum gewünschten Moment und erfasse das Bild. Wiederhole das an mehreren Stellen im Clip und exportiere als JPG, PNG oder HEIC. Für gebündelte Ausgabe stehen ZIP und PDF bereit."
+      },
+      {
+        "heading": "Was sie nützlich macht",
+        "body": "Video To Photo - Grab Frame konzentriert sich auf eine Aufgabe: Videomomente schnell und präzise in Standbilder zu verwandeln. Im Vergleich zu Browser-Tools entfällt die Upload-Wartezeit, und Quellvideos bleiben auf dem Gerät. Stapel-Export und Projekte sind enthalten."
+      }
+    ],
+    "bullets_title": "Typische Anwendungsfälle",
+    "bullets": [
+      "Social-Media-Vorschaubilder aus Videoclips erstellen",
+      "Ausdrücke oder Gesten als Fotos festhalten",
+      "Storyboards aus Tutorial- oder Demo-Material bauen",
+      "Referenzbilder für Design oder Schnitt erfassen"
+    ],
+    "conclusion": "Video To Photo - Grab Frame bietet iPhone-Nutzern einen fokussierten Weg, Standbilder aus Videos mit präziser Steuerung, flexiblen Formaten und Datenschutz auf dem Gerät zu extrahieren. Zuletzt mit App-Store-Angaben abgeglichen am 28. Mai 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. Browser-Tools",
+    "intro": "Sachlicher Vergleich zwischen Video To Photo - Grab Frame und typischen Browser-Extraktoren:",
+    "table": {
+      "feature": "Merkmal",
+      "online_converters": "Typische Browser-Tools",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Datenschutz",
+          "online": "Meist Video-Upload erforderlich",
+          "app": "Bilder werden direkt auf dem iPhone extrahiert"
+        },
+        {
+          "feature": "Präzision",
+          "online": "Oft eingeschränkte Steuerung",
+          "app": "Bildweise zum exakten Moment spulen"
+        },
+        {
+          "feature": "Ausgabe",
+          "online": "Manchmal nur ein Format",
+          "app": "JPG, PNG und HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Workflow",
+          "online": "Upload/Download im Browser",
+          "app": "Start aus Teilen in Fotos und sofort speichern"
+        }
+      ]
+    }
+  }
+}

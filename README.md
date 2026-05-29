@@ -5,6 +5,14 @@
 ## Landing pages
 
 - [en](https://extractframeapp.com/) — default locale
+- [ru](https://extractframeapp.com/ru/)
+- [es](https://extractframeapp.com/es/)
+- [fr](https://extractframeapp.com/fr/)
+- [de](https://extractframeapp.com/de/)
+- [it](https://extractframeapp.com/it/)
+- [pt](https://extractframeapp.com/pt/)
+- [ja](https://extractframeapp.com/ja/)
+- [ko](https://extractframeapp.com/ko/)
 
 ## Other site URLs
 

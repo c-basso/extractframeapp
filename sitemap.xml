@@ -6,22 +6,158 @@
   <url>
     <loc>https://extractframeapp.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/ru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://extractframeapp.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://extractframeapp.com/privacy.html</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/privacy.html" />
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <priority>0.3</priority>
   </url>
 
   <url>
     <loc>https://extractframeapp.com/terms.html</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/terms.html" />
-    <lastmod>2026-05-28</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <priority>0.3</priority>
   </url>
 
