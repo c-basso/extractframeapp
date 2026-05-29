@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "pl",
+    "title": "Video To Photo - Grab Frame: klatki z wideo iPhone",
+    "description": "Wyciągaj zdjęcia z wideo na iPhone w kilka sekund. Zapisz jedną klatkę lub eksportuj wiele jako JPG, PNG lub HEIC — prywatnie na urządzeniu, bez wysyłania.",
+    "keywords": "wideo na zdjęcie, klatka z wideo, ekstraktor klatek, iPhone klatka, zapisz klatkę, wideo na obraz, jpg z wideo, png z wideo, heic z wideo, eksport wsadowy, udostępnij z zdjęć, app store ekstraktor klatek",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/pl/",
+    "og_title": "Video To Photo - Grab Frame na iPhone",
+    "og_description": "Zamieniaj wideo w zdjęcia na iPhone. Wybierz dokładny moment i eksportuj klatki w wysokiej jakości jako JPG, PNG lub HEIC — przetwarzanie na urządzeniu.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "pl_PL",
+    "twitter_url": "https://extractframeapp.com/pl/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Wyciągaj dokładne klatki z wideo na iPhone. Przetwarzanie na urządzeniu, eksport wsadowy i elastyczne formaty.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/pl/",
+    "geo_region": "PL",
+    "geo_placename": "Polska"
+  },
+  "hero": {
+    "logo_alt": "Logo Video To Photo - Grab Frame",
+    "title": "Wyciągaj klatki z wideo na iPhone",
+    "subtitle": "Zapisuj dokładne zdjęcia z klipów w kilka sekund",
+    "entity_definition": "Video To Photo - Grab Frame to aplikacja iOS, która zamienia wideo w zdjęcia na iPhone. Wybierz dokładny moment i eksportuj klatki jako JPG, PNG lub HEIC.",
+    "subheadline": "Otwórz ze Zdjęć, przewiń do właściwego momentu i zapisz jedną klatkę lub wiele. Bez konta, bez wysyłania i bez osi czasu montażu.",
+    "download_alt": "Pobierz w App Store",
+    "phone_text": "Dotknij, aby zapisać klatkę z wideo",
+    "qr_alt": "Kod QR do pobrania aplikacji",
+    "qr_text": "Zeskanuj iPhone, aby pobrać"
+  },
+  "last_updated": {
+    "text": "Ostatnia aktualizacja: 28 maja 2026"
+  },
+  "features": {
+    "title": "Dlaczego użytkownicy wybierają tę aplikację",
+    "items": [
+      {
+        "title": "Dokładny wybór klatki",
+        "description": "Przewijaj wideo i zapisuj dokładnie ten kadr, którego potrzebujesz we właściwej chwili.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Jedna lub wiele klatek",
+        "description": "Zapisz jedną klatkę lub zaznacz wiele momentów i wyeksportuj pełny zestaw zdjęć naraz.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Eksport JPG, PNG i HEIC",
+        "description": "Zapisuj wyciągnięte klatki w formacie dopasowanym do Twojego workflow.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Udostępnianie ze Zdjęć",
+        "description": "Zacznij bezpośrednio ze Zdjęć przez Udostępnij i przejdź od razu do ekstrakcji klatek.",
+        "icon": "🔗"
+      },
+      {
+        "title": "Wyjście ZIP i PDF",
+        "description": "Eksportuj osobne obrazy, archiwum ZIP lub PDF, gdy potrzebujesz zbiorczego wyniku.",
+        "icon": "📦"
+      },
+      {
+        "title": "Zapis i ponowne otwarcie projektów",
+        "description": "Zapisuj sesje jako projekty i wracaj do nich później bez zaczynania od nowa.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame w liczbach",
+    "items": [
+      "5,0 na 5 według 8 ocen w App Store",
+      "Rozmiar aplikacji 42,9 MB",
+      "Eksport jako JPG, PNG i HEIC",
+      "Stworzona dla iPhone",
+      "Przetwarzanie na urządzeniu dla prywatności"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Ocena",
+        "detail": "Na podstawie 8 ocen w App Store"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Rozmiar",
+        "detail": "Lekka aplikacja Zdjęcia i wideo"
+      },
+      {
+        "number": "3",
+        "label": "Formaty",
+        "detail": "JPG, PNG i HEIC"
+      },
+      {
+        "number": "Na urządzeniu",
+        "label": "Prywatność",
+        "detail": "Bez wysyłania wideo"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Jak wyciągnąć klatkę z wideo na iPhone",
+    "subtitle": "Proste kroki, aby zapisać idealne zdjęcia z klipów",
+    "placeholder_line1": "📱 Film demo wkrótce",
+    "placeholder_line2": "Krok 1: Otwórz ze Zdjęć > Krok 2: Przewiń do momentu > Krok 3: Zapisz klatkę(i) > Krok 4: Eksport JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Otwórz ze Zdjęć",
+        "text": "Udostępnij wideo ze Zdjęć do {{app_info.name}} lub najpierw otwórz aplikację i wybierz klip."
+      },
+      {
+        "name": "Znajdź dokładny moment",
+        "text": "Użyj suwaka, aby przechodzić klatka po klatce i zatrzymać się na wybranym ujęciu."
+      },
+      {
+        "name": "Zapisz jedną lub wiele klatek",
+        "text": "Zapisz jedną klatkę lub zaznacz wiele momentów do eksportu wsadowego."
+      },
+      {
+        "name": "Eksportuj i zapisz",
+        "text": "Zapisz ujęcia jako JPG, PNG lub HEIC albo wyeksportuj jako ZIP lub PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "Ocena 5,0 od użytkowników App Store",
+    "items": [
+      {
+        "text": "„Dokładnie to, czego potrzebowałem, by wyciągnąć idealne ujęcie z rodzinnego wideo. Szybko i prosto.”",
+        "author": "Użytkownik App Store",
+        "rating": "5 gwiazdek",
+        "verified": true
+      },
+      {
+        "text": "„Wybór klatki jest precyzyjny, a eksport wielu obrazów bardzo wygodny.”",
+        "author": "Użytkownik App Store",
+        "rating": "5 gwiazdek",
+        "verified": true
+      },
+      {
+        "text": "„Świetny przepływ z menu Udostępnij w Zdjęciach. Bez skomplikowanego edytora.”",
+        "author": "Użytkownik App Store",
+        "rating": "5 gwiazdek",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ: wideo na zdjęcie na iPhone",
+    "items": [
+      {
+        "question": "Jak wyciągnąć klatkę z wideo na iPhone?",
+        "answer": "Otwórz klip w Video To Photo - Grab Frame, przewiń do dokładnego momentu i zapisz kadr. Następnie wyeksportuj go jako JPG, PNG lub HEIC."
+      },
+      {
+        "question": "Czy mogę wyeksportować wiele klatek naraz?",
+        "answer": "Tak. Możesz wybrać wiele momentów i wyeksportować kilka klatek jednym wsadem."
+      },
+      {
+        "question": "Jakie formaty są obsługiwane?",
+        "answer": "Aplikacja obsługuje JPG, PNG i HEIC. Możesz też eksportować jako ZIP lub PDF."
+      },
+      {
+        "question": "Czy aplikacja wysyła moje wideo?",
+        "answer": "Nie. Ekstrakcja odbywa się na urządzeniu — wideo i obrazy zostają na Twoim iPhone."
+      },
+      {
+        "question": "Czy mogę wrócić do pracy później?",
+        "answer": "Tak. Możesz zapisywać sesje jako projekty i otwierać je ponownie."
+      },
+      {
+        "question": "Czy Video To Photo - Grab Frame jest darmowa?",
+        "answer": "Aplikacja jest darmowa do pobrania; zaawansowane funkcje są w zakupach w aplikacji."
+      },
+      {
+        "question": "Dla kogo jest ta aplikacja?",
+        "answer": "Dla twórców, nauczycieli i każdego, kto chce zapisać konkretny moment z wideo jako zdjęcie."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Ekstraktor klatek wideo",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Zdjęcia i wideo"
+  },
+  "footer": {
+    "cta_text": "📱 Pobierz Video To Photo - Grab Frame",
+    "privacy_text": "Polityka prywatności",
+    "terms_text": "Warunki użytkowania",
+    "support_text": "Pomoc",
+    "developer_info": "Opracowane przez Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Wszelkie prawa zastrzeżone."
+  },
+  "floating_cta": {
+    "text": "📱 Zapisuj idealne klatki z wideo na iPhone"
+  },
+  "seo_chapter": {
+    "title": "Jak zamienić wideo w zdjęcia na iPhone",
+    "subtitle": "Wyciągaj dokładne kadry bez wysyłania wideo",
+    "intro": "Video To Photo - Grab Frame to aplikacja iPhone z kategorii Zdjęcia i wideo, która wyciąga obrazy z wideo. Według App Store: ocena 5,0 z 8 ocen, rozmiar 42,9 MB, eksport do JPG, PNG i HEIC. Przetwarzanie na urządzeniu — bez wysyłania na zewnętrzne serwery.",
+    "sections": [
+      {
+        "heading": "Ekstrakcja klatek krok po kroku",
+        "body": "Udostępnij wideo ze Zdjęć do aplikacji, przewiń do momentu i zapisz klatkę. Powtórz w kilku punktach klipu, potem eksportuj jako JPG, PNG lub HEIC. ZIP i PDF są dostępne do zbiorczego dostarczenia."
+      },
+      {
+        "heading": "Dlaczego jest przydatna",
+        "body": "Video To Photo - Grab Frame skupia się na jednym zadaniu: szybko i precyzyjnie zamieniać momenty wideo w zdjęcia. W porównaniu z narzędziami w przeglądarce bez czekania na upload i z wideo na urządzeniu. Eksport wsadowy i projekty w zestawie."
+      }
+    ],
+    "bullets_title": "Typowe zastosowania",
+    "bullets": [
+      "Miniatury do social mediów z klipów wideo",
+      "Zapisywanie wyrazów twarzy lub gestów jako zdjęć",
+      "Storyboardy z materiałów tutorialowych lub demo",
+      "Klatki referencyjne do designu lub montażu"
+    ],
+    "conclusion": "Video To Photo - Grab Frame daje użytkownikom iPhone skoncentrowany sposób wyciągania zdjęć z wideo z precyzyjną kontrolą, elastycznymi formatami i prywatnością na urządzeniu. Zweryfikowano z App Store 28 maja 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs narzędzia w przeglądarce",
+    "intro": "Porównanie Video To Photo - Grab Frame z typowymi ekstraktorami w przeglądarce:",
+    "table": {
+      "feature": "Cecha",
+      "online_converters": "Typowe narzędzia web",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Prywatność",
+          "online": "Zwykle wymaga wysłania wideo",
+          "app": "Klatki są wyciągane bezpośrednio na iPhone"
+        },
+        {
+          "feature": "Precyzja",
+          "online": "Często ograniczona kontrola",
+          "app": "Przewijanie klatka po klatce do dokładnego momentu"
+        },
+        {
+          "feature": "Wynik",
+          "online": "Czasem tylko jeden format",
+          "app": "JPG, PNG i HEIC oraz ZIP/PDF"
+        },
+        {
+          "feature": "Workflow",
+          "online": "Cykl upload/pobieranie w przeglądarce",
+          "app": "Start z Udostępnij w Zdjęciach i natychmiastowy zapis"
+        }
+      ]
+    }
+  }
+}

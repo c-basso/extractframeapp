@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "vi",
+    "title": "Video To Photo - Grab Frame: khung hình video iPhone",
+    "description": "Trích xuất ảnh từ video trên iPhone trong vài giây. Lưu một khung hoặc xuất nhiều khung JPG, PNG hoặc HEIC — xử lý trên thiết bị, không tải video lên.",
+    "keywords": "video thành ảnh, trích khung hình video, trích xuất khung hình, iPhone khung hình video, lưu khung hình, video thành hình ảnh, jpg từ video, png từ video, heic từ video, xuất hàng loạt, chia sẻ từ ảnh, app store trích khung hình",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/vi/",
+    "og_title": "Video To Photo - Grab Frame cho iPhone",
+    "og_description": "Biến video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình JPG, PNG hoặc HEIC chất lượng cao — xử lý trên thiết bị, không tải video lên.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "vi_VN",
+    "twitter_url": "https://extractframeapp.com/vi/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Trích xuất khung hình chính xác từ video trên iPhone. Xử lý trên thiết bị, xuất hàng loạt và định dạng linh hoạt.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/vi/",
+    "geo_region": "VN",
+    "geo_placename": "Việt Nam"
+  },
+  "hero": {
+    "logo_alt": "Logo Video To Photo - Grab Frame",
+    "title": "Trích khung hình từ video trên iPhone",
+    "subtitle": "Lưu ảnh tĩnh chính xác từ clip trong vài giây",
+    "entity_definition": "Video To Photo - Grab Frame là ứng dụng iOS biến video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình dưới dạng JPG, PNG hoặc HEIC.",
+    "subheadline": "Mở từ Ảnh, tua đến đúng thời điểm và lưu một hoặc nhiều khung hình. Không cần tài khoản, tải lên hay timeline chỉnh sửa.",
+    "download_alt": "Tải trên App Store",
+    "phone_text": "Chạm để lấy khung hình từ video",
+    "qr_alt": "Mã QR tải ứng dụng",
+    "qr_text": "Quét bằng iPhone để tải"
+  },
+  "last_updated": {
+    "text": "Cập nhật lần cuối: 28 tháng 5, 2026"
+  },
+  "features": {
+    "title": "Vì sao người dùng chọn ứng dụng này",
+    "items": [
+      {
+        "title": "Chọn khung hình chính xác",
+        "description": "Tua video và chụp đúng ảnh tĩnh bạn cần ở thời điểm chính xác.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Một hoặc nhiều khung",
+        "description": "Lưu một khung hoặc đánh dấu nhiều khoảnh khắc và xuất bộ ảnh cùng lúc.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Xuất JPG, PNG và HEIC",
+        "description": "Lưu khung hình đã trích ở định dạng phù hợp quy trình làm việc.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Luồng Chia sẻ",
+        "description": "Bắt đầu trực tiếp từ Ảnh qua Chia sẻ và vào trích khung hình ngay.",
+        "icon": "🔗"
+      },
+      {
+        "title": "Đầu ra ZIP và PDF",
+        "description": "Xuất ảnh riêng, tệp ZIP hoặc PDF khi cần giao hàng theo nhóm.",
+        "icon": "📦"
+      },
+      {
+        "title": "Lưu và mở lại dự án",
+        "description": "Lưu phiên làm việc thành dự án và tiếp tục sau mà không bắt đầu lại.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame bằng số",
+    "items": [
+      "5,0/5 theo 8 đánh giá App Store",
+      "Kích thước ứng dụng 42,9 MB",
+      "Xuất JPG, PNG và HEIC",
+      "Thiết kế cho iPhone",
+      "Xử lý trên thiết bị để bảo mật"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Xếp hạng",
+        "detail": "Theo 8 đánh giá App Store"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Kích thước",
+        "detail": "Ứng dụng Ảnh và video nhẹ"
+      },
+      {
+        "number": "3",
+        "label": "Định dạng",
+        "detail": "JPG, PNG và HEIC"
+      },
+      {
+        "number": "Trên thiết bị",
+        "label": "Quyền riêng tư",
+        "detail": "Không cần tải video lên"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Cách trích khung hình từ video trên iPhone",
+    "subtitle": "Các bước đơn giản để lưu ảnh hoàn hảo từ clip",
+    "placeholder_line1": "📱 Video demo sắp có",
+    "placeholder_line2": "Bước 1: Mở từ Ảnh > Bước 2: Tua đến thời điểm > Bước 3: Lấy khung hình > Bước 4: Xuất JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Mở từ Ảnh",
+        "text": "Chia sẻ video từ Ảnh sang {{app_info.name}}, hoặc mở ứng dụng trước rồi chọn clip."
+      },
+      {
+        "name": "Tìm đúng khoảnh khắc",
+        "text": "Dùng thanh tua để di chuyển từng khung và dừng ở ảnh tĩnh bạn muốn."
+      },
+      {
+        "name": "Lấy một hoặc nhiều khung",
+        "text": "Chụp một khung hoặc đánh dấu nhiều khoảnh khắc để xuất hàng loạt."
+      },
+      {
+        "name": "Xuất và lưu",
+        "text": "Lưu ảnh dưới dạng JPG, PNG hoặc HEIC, hoặc xuất ZIP hoặc PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "Xếp hạng 5,0 từ người dùng App Store",
+    "items": [
+      {
+        "text": "\"Đúng thứ tôi cần để lấy một khung hoàn hảo từ video gia đình. Nhanh và đơn giản.\"",
+        "author": "Người dùng App Store",
+        "rating": "5 sao",
+        "verified": true
+      },
+      {
+        "text": "\"Bộ chọn khung hình chính xác và xuất nhiều ảnh rất tiện.\"",
+        "author": "Người dùng App Store",
+        "rating": "5 sao",
+        "verified": true
+      },
+      {
+        "text": "\"Luồng từ Chia sẻ trong Ảnh rất hay. Không cần trình chỉnh sửa phức tạp.\"",
+        "author": "Người dùng App Store",
+        "rating": "5 sao",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Câu hỏi thường gặp: video thành ảnh trên iPhone",
+    "items": [
+      {
+        "question": "Làm sao trích khung hình từ video trên iPhone?",
+        "answer": "Mở clip trong Video To Photo - Grab Frame, tua đến đúng thời điểm và chụp ảnh tĩnh. Sau đó xuất dưới dạng JPG, PNG hoặc HEIC."
+      },
+      {
+        "question": "Có xuất nhiều khung cùng lúc không?",
+        "answer": "Có. Bạn có thể chọn nhiều khoảnh khắc và xuất nhiều khung trong một lần."
+      },
+      {
+        "question": "Xuất được những định dạng nào?",
+        "answer": "Ứng dụng hỗ trợ JPG, PNG và HEIC. Cũng có thể xuất ZIP hoặc PDF."
+      },
+      {
+        "question": "Ứng dụng có tải video của tôi lên không?",
+        "answer": "Không. Trích xuất chạy trên thiết bị — video và ảnh vẫn ở trên iPhone của bạn."
+      },
+      {
+        "question": "Có tiếp tục sau không?",
+        "answer": "Có. Bạn có thể lưu phiên thành dự án và mở lại sau."
+      },
+      {
+        "question": "Video To Photo - Grab Frame có miễn phí không?",
+        "answer": "Tải miễn phí; tính năng nâng cao qua mua trong ứng dụng."
+      },
+      {
+        "question": "Ứng dụng dành cho ai?",
+        "answer": "Người sáng tạo nội dung, giáo viên và bất kỳ ai muốn lưu khoảnh khắc cụ thể từ video thành ảnh."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Trích xuất khung hình video",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Ảnh và video"
+  },
+  "footer": {
+    "cta_text": "📱 Tải Video To Photo - Grab Frame",
+    "privacy_text": "Chính sách quyền riêng tư",
+    "terms_text": "Điều khoản sử dụng",
+    "support_text": "Hỗ trợ",
+    "developer_info": "Phát triển bởi Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Đã đăng ký bản quyền."
+  },
+  "floating_cta": {
+    "text": "📱 Lấy khung hình hoàn hảo từ video trên iPhone"
+  },
+  "seo_chapter": {
+    "title": "Cách biến video thành ảnh trên iPhone",
+    "subtitle": "Trích ảnh tĩnh chính xác mà không tải video lên",
+    "intro": "Video To Photo - Grab Frame là ứng dụng iPhone thuộc mục Ảnh và video, trích ảnh tĩnh từ video. Theo App Store: xếp hạng 5,0 từ 8 đánh giá, 42,9 MB, xuất JPG, PNG và HEIC. Xử lý trên thiết bị — không cần gửi video lên máy chủ bên ngoài.",
+    "sections": [
+      {
+        "heading": "Trích khung hình từng bước",
+        "body": "Chia sẻ video từ Ảnh sang ứng dụng, tua đến thời điểm và chụp khung. Lặp lại ở nhiều điểm trong clip, rồi xuất JPG, PNG hoặc HEIC. Có ZIP và PDF cho giao hàng theo nhóm."
+      },
+      {
+        "heading": "Vì sao hữu ích",
+        "body": "Video To Photo - Grab Frame tập trung một việc: biến khoảnh khắc video thành ảnh tĩnh nhanh và chính xác. So với công cụ trình duyệt, không chờ tải lên và video nguồn ở trên thiết bị. Có xuất hàng loạt và lưu dự án."
+      }
+    ],
+    "bullets_title": "Trường hợp dùng phổ biến",
+    "bullets": [
+      "Tạo thumbnail mạng xã hội từ clip video",
+      "Lưu biểu cảm hoặc cử chỉ đáng nhớ thành ảnh",
+      "Dựng storyboard từ video hướng dẫn hoặc demo",
+      "Chụp khung tham chiếu cho thiết kế hoặc dựng phim"
+    ],
+    "conclusion": "Video To Photo - Grab Frame mang đến cho người dùng iPhone cách tập trung để trích ảnh từ video với kiểm soát chính xác, định dạng linh hoạt và quyền riêng tư trên thiết bị. Đã xác minh với App Store ngày 28 tháng 5, 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame so với công cụ trình duyệt",
+    "intro": "So sánh Video To Photo - Grab Frame với công cụ trích khung hình trên trình duyệt thông thường:",
+    "table": {
+      "feature": "Tính năng",
+      "online_converters": "Công cụ web thông thường",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Quyền riêng tư",
+          "online": "Thường phải tải video lên",
+          "app": "Trích khung hình trực tiếp trên iPhone"
+        },
+        {
+          "feature": "Độ chính xác",
+          "online": "Thường kiểm soát hạn chế",
+          "app": "Tua từng khung đến đúng thời điểm"
+        },
+        {
+          "feature": "Đầu ra",
+          "online": "Đôi khi chỉ một định dạng",
+          "app": "JPG, PNG và HEIC, cộng ZIP/PDF"
+        },
+        {
+          "feature": "Quy trình",
+          "online": "Chu kỳ tải lên/tải xuống trên trình duyệt",
+          "app": "Bắt đầu từ Chia sẻ trong Ảnh và lưu ngay"
+        }
+      ]
+    }
+  }
+}

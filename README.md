@@ -13,6 +13,15 @@
 - [pt](https://extractframeapp.com/pt/)
 - [ja](https://extractframeapp.com/ja/)
 - [ko](https://extractframeapp.com/ko/)
+- [nl](https://extractframeapp.com/nl/)
+- [pl](https://extractframeapp.com/pl/)
+- [ro](https://extractframeapp.com/ro/)
+- [th](https://extractframeapp.com/th/)
+- [tr](https://extractframeapp.com/tr/)
+- [uk](https://extractframeapp.com/uk/)
+- [vi](https://extractframeapp.com/vi/)
+- [cs](https://extractframeapp.com/cs/)
+- [中文](https://extractframeapp.com/zh/)
 
 ## Other site URLs
 

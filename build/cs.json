@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "cs",
+    "title": "Video To Photo - Grab Frame: snímky z videa iPhone",
+    "description": "Vytáhněte fotky z videa na iPhonu během sekund. Uložte jeden snímek nebo exportujte více jako JPG, PNG nebo HEIC — soukromě na zařízení, bez nahrávání.",
+    "keywords": "video na foto, snímek z videa, extraktor snímků, iPhone snímek videa, uložit snímek, video na obrázek, jpg z videa, png z videa, heic z videa, hromadný export, sdílet z fotek, app store extraktor snímků",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/cs/",
+    "og_title": "Video To Photo - Grab Frame pro iPhone",
+    "og_description": "Přeměňte videa na fotky na iPhonu. Vyberte přesný okamžik a exportujte snímky ve vysoké kvalitě jako JPG, PNG nebo HEIC — zpracování na zařízení.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "cs_CZ",
+    "twitter_url": "https://extractframeapp.com/cs/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Vytáhněte přesné snímky z videa na iPhonu. Zpracování na zařízení, hromadný export a flexibilní formáty.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/cs/",
+    "geo_region": "CZ",
+    "geo_placename": "Česko"
+  },
+  "hero": {
+    "logo_alt": "Logo Video To Photo - Grab Frame",
+    "title": "Vytáhněte snímky z videa na iPhonu",
+    "subtitle": "Uložte přesné fotky z klipů během sekund",
+    "entity_definition": "Video To Photo - Grab Frame je iOS aplikace, která na iPhonu mění videa na fotky. Vyberte přesný okamžik a exportujte snímky jako JPG, PNG nebo HEIC.",
+    "subheadline": "Otevřete z Fotek, posuňte se na správný okamžik a uložte jeden nebo více snímků. Bez účtu, nahrávání a střihové časové osy.",
+    "download_alt": "Stáhnout v App Store",
+    "phone_text": "Klepněte pro uložení snímku z videa",
+    "qr_alt": "QR kód ke stažení aplikace",
+    "qr_text": "Naskenujte iPhonem ke stažení"
+  },
+  "last_updated": {
+    "text": "Naposledy aktualizováno: 28. května 2026"
+  },
+  "features": {
+    "title": "Proč uživatelé volí tuto aplikaci",
+    "items": [
+      {
+        "title": "Přesný výběr snímku",
+        "description": "Posouvejte video a zachyťte přesně ten snímek, který potřebujete ve správný okamžik.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Jeden nebo více snímků",
+        "description": "Zachyťte jeden snímek nebo označte více okamžiků a exportujte celou sadu najednou.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Export JPG, PNG a HEIC",
+        "description": "Ukládejte extrahované snímky ve formátu, který vyhovuje vašemu workflow.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Workflow Sdílet",
+        "description": "Začněte přímo z Fotek přes Sdílet a přejděte rovnou k extrakci snímků.",
+        "icon": "🔗"
+      },
+      {
+        "title": "Výstup ZIP a PDF",
+        "description": "Exportujte jednotlivé obrázky, ZIP archiv nebo PDF pro skupinové doručení.",
+        "icon": "📦"
+      },
+      {
+        "title": "Uložení a znovuotevření projektů",
+        "description": "Uložte relace jako projekty a pokračujte později bez začínání od nuly.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame v číslech",
+    "items": [
+      "5,0 z 5 podle 8 hodnocení v App Store",
+      "Velikost aplikace 42,9 MB",
+      "Export jako JPG, PNG a HEIC",
+      "Vytvořeno pro iPhone",
+      "Zpracování na zařízení kvůli soukromí"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Hodnocení",
+        "detail": "Podle 8 hodnocení v App Store"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Velikost",
+        "detail": "Lehká aplikace Fotky a video"
+      },
+      {
+        "number": "3",
+        "label": "Formáty",
+        "detail": "JPG, PNG a HEIC"
+      },
+      {
+        "number": "Na zařízení",
+        "label": "Soukromí",
+        "detail": "Bez nahrávání videa"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Jak vytáhnout snímek z videa na iPhonu",
+    "subtitle": "Jednoduché kroky k uložení perfektních fotek z klipů",
+    "placeholder_line1": "📱 Ukázkové video brzy",
+    "placeholder_line2": "Krok 1: Otevřít z Fotek > Krok 2: Posun na okamžik > Krok 3: Zachytit snímek(y) > Krok 4: Export JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Otevřít z Fotek",
+        "text": "Sdílejte video z Fotek do {{app_info.name}}, nebo nejdřív otevřete aplikaci a vyberte klip."
+      },
+      {
+        "name": "Najít přesný okamžik",
+        "text": "Použijte posuvník pro pohyb snímek po snímku a zastavte se na požadovaném obraze."
+      },
+      {
+        "name": "Zachytit jeden nebo více snímků",
+        "text": "Zachyťte jeden snímek nebo označte více okamžiků pro hromadný export."
+      },
+      {
+        "name": "Exportovat a uložit",
+        "text": "Uložte snímky jako JPG, PNG nebo HEIC, nebo exportujte jako ZIP či PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "Hodnocení 5,0 od uživatelů App Store",
+    "items": [
+      {
+        "text": "„Přesně to, co jsem potřeboval pro perfektní snímek z rodinného videa. Rychlé a jednoduché.“",
+        "author": "Uživatel App Store",
+        "rating": "5 hvězd",
+        "verified": true
+      },
+      {
+        "text": "„Výběr snímku je přesný a export více obrázků je velmi pohodlný.“",
+        "author": "Uživatel App Store",
+        "rating": "5 hvězd",
+        "verified": true
+      },
+      {
+        "text": "„Skvělý workflow ze Sdílet ve Fotkách. Není potřeba složitý editor.“",
+        "author": "Uživatel App Store",
+        "rating": "5 hvězd",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ: video na foto na iPhonu",
+    "items": [
+      {
+        "question": "Jak vytáhnu snímek z videa na iPhonu?",
+        "answer": "Otevřete klip v Video To Photo - Grab Frame, posuňte se na přesný okamžik a zachyťte snímek. Poté ho exportujte jako JPG, PNG nebo HEIC."
+      },
+      {
+        "question": "Mohu exportovat více snímků najednou?",
+        "answer": "Ano. Můžete vybrat více okamžiků a exportovat několik snímků v jedné dávce."
+      },
+      {
+        "question": "Jaké formáty mohu exportovat?",
+        "answer": "Aplikace podporuje JPG, PNG a HEIC. Můžete také exportovat jako ZIP nebo PDF."
+      },
+      {
+        "question": "Nahrává aplikace moje videa?",
+        "answer": "Ne. Extrakce probíhá na zařízení — videa a obrázky zůstávají na vašem iPhonu."
+      },
+      {
+        "question": "Mohu pokračovat později?",
+        "answer": "Ano. Relace můžete uložit jako projekty a znovu otevřít."
+      },
+      {
+        "question": "Je Video To Photo - Grab Frame zdarma?",
+        "answer": "Aplikace je zdarma ke stažení; pokročilé funkce jsou přes nákupy v aplikaci."
+      },
+      {
+        "question": "Pro koho je aplikace?",
+        "answer": "Pro tvůrce obsahu, pedagogy a každého, kdo chce zachytit konkrétní moment z videa jako fotku."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Extraktor snímků z videa",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Fotky a video"
+  },
+  "footer": {
+    "cta_text": "📱 Stáhnout Video To Photo - Grab Frame",
+    "privacy_text": "Zásady ochrany osobních údajů",
+    "terms_text": "Podmínky použití",
+    "support_text": "Podpora",
+    "developer_info": "Vyvinul Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Všechna práva vyhrazena."
+  },
+  "floating_cta": {
+    "text": "📱 Zachyťte perfektní snímky z videa na iPhonu"
+  },
+  "seo_chapter": {
+    "title": "Jak přeměnit video na fotky na iPhonu",
+    "subtitle": "Vytáhněte přesné snímky bez nahrání videa",
+    "intro": "Video To Photo - Grab Frame je iPhone aplikace v kategorii Fotky a video, která vytahuje statické snímky z videa. Podle App Store: hodnocení 5,0 z 8 recenzí, velikost 42,9 MB, export do JPG, PNG a HEIC. Zpracování na zařízení — bez odeslání na externí servery.",
+    "sections": [
+      {
+        "heading": "Extrakce snímku krok za krokem",
+        "body": "Sdílejte video z Fotek do aplikace, posuňte se na okamžik a zachyťte snímek. Opakujte na více místech klipu a exportujte jako JPG, PNG nebo HEIC. Pro skupinové doručení jsou ZIP a PDF."
+      },
+      {
+        "heading": "Proč je užitečná",
+        "body": "Video To Photo - Grab Frame se soustředí na jednu úlohu: rychle a přesně měnit video okamžiky na statické snímky. Oproti nástrojům v prohlížeči bez čekání na upload a s videem na zařízení. Hromadný export a projekty v ceně."
+      }
+    ],
+    "bullets_title": "Běžné případy použití",
+    "bullets": [
+      "Náhledy pro sociální sítě z videoklipů",
+      "Uložení výrazů nebo gest jako fotek",
+      "Storyboardy z tutoriálů nebo dem",
+      "Referenční snímky pro design nebo střih"
+    ],
+    "conclusion": "Video To Photo - Grab Frame nabízí uživatelům iPhonu soustředěný způsob extrakce snímků z videa s přesnou kontrolou, flexibilními formáty a soukromím na zařízení. Ověřeno vůči App Store 28. května 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. nástroje v prohlížeči",
+    "intro": "Srovnání Video To Photo - Grab Frame s typickými extraktory v prohlížeči:",
+    "table": {
+      "feature": "Vlastnost",
+      "online_converters": "Typické webové nástroje",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Soukromí",
+          "online": "Obvykle vyžaduje nahrání videa",
+          "app": "Snímky se extrahují přímo na iPhonu"
+        },
+        {
+          "feature": "Přesnost",
+          "online": "Často omezená kontrola",
+          "app": "Posun snímek po snímku na přesný okamžik"
+        },
+        {
+          "feature": "Výstup",
+          "online": "Někdy jen jeden formát",
+          "app": "JPG, PNG a HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Workflow",
+          "online": "Cyklus nahrání/stažení v prohlížeči",
+          "app": "Start ze Sdílet ve Fotkách a okamžité uložení"
+        }
+      ]
+    }
+  }
+}

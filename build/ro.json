@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "ro",
+    "title": "Video To Photo - Grab Frame: cadre din video iPhone",
+    "description": "Extrage fotografii din video pe iPhone în câteva secunde. Captează un cadru sau exportă mai multe ca JPG, PNG sau HEIC — privat pe dispozitiv, fără încărcare.",
+    "keywords": "video în foto, extrage cadru din video, extractor cadre, iPhone cadru video, salvează cadru, video în imagine, jpg din video, png din video, heic din video, export lot, partajare din poze, app store extractor cadre",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/ro/",
+    "og_title": "Video To Photo - Grab Frame pentru iPhone",
+    "og_description": "Transformă videoclipurile în fotografii pe iPhone. Alege momentul exact și exportă cadre de înaltă calitate ca JPG, PNG sau HEIC, direct pe dispozitiv.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "ro_RO",
+    "twitter_url": "https://extractframeapp.com/ro/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Extrage cadre exacte din video pe iPhone. Procesare pe dispozitiv, export în lot și formate flexibile.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/ro/",
+    "geo_region": "RO",
+    "geo_placename": "România"
+  },
+  "hero": {
+    "logo_alt": "Sigla Video To Photo - Grab Frame",
+    "title": "Extrage cadre din video pe iPhone",
+    "subtitle": "Salvează fotografii exacte din clipurile tale în câteva secunde",
+    "entity_definition": "Video To Photo - Grab Frame este o aplicație iOS care transformă videoclipurile în fotografii pe iPhone. Alege momentul exact și exportă cadre ca JPG, PNG sau HEIC.",
+    "subheadline": "Deschide din Poze, derulează la momentul potrivit și salvează un cadru sau mai multe. Fără cont, fără încărcare și fără linie de editare.",
+    "download_alt": "Descarcă din App Store",
+    "phone_text": "Atinge pentru a captura un cadru din video",
+    "qr_alt": "Cod QR pentru descărcarea aplicației",
+    "qr_text": "Scanează cu iPhone pentru a descărca"
+  },
+  "last_updated": {
+    "text": "Ultima actualizare: 28 mai 2026"
+  },
+  "features": {
+    "title": "De ce aleg utilizatorii această aplicație",
+    "items": [
+      {
+        "title": "Selecție exactă a cadrului",
+        "description": "Derulează videoclipul și capturează imaginea fixă de care ai nevoie în momentul precis.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Un cadru sau lot",
+        "description": "Capturează un cadru sau marchează mai multe momente și exportă un set complet de imagini dintr-o dată.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Export JPG, PNG și HEIC",
+        "description": "Salvează cadrele extrase în formatul potrivit fluxului tău de lucru.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Flux Partajare",
+        "description": "Pornește direct din Poze prin Partajare și intră imediat în extragerea cadrelor.",
+        "icon": "🔗"
+      },
+      {
+        "title": "Ieșire ZIP și PDF",
+        "description": "Exportă imagini separate, arhivă ZIP sau PDF când ai nevoie de livrare grupată.",
+        "icon": "📦"
+      },
+      {
+        "title": "Salvare și redeschidere proiecte",
+        "description": "Salvează sesiunile ca proiecte și continuă mai târziu fără să reîncepi.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame în cifre",
+    "items": [
+      "5,0 din 5 pe baza a 8 evaluări App Store",
+      "Dimensiune aplicație 42,9 MB",
+      "Export ca JPG, PNG și HEIC",
+      "Creată pentru iPhone",
+      "Procesare pe dispozitiv pentru confidențialitate"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Evaluare",
+        "detail": "Pe baza a 8 evaluări App Store"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Dimensiune",
+        "detail": "Aplicație ușoară Poze și video"
+      },
+      {
+        "number": "3",
+        "label": "Formate",
+        "detail": "JPG, PNG și HEIC"
+      },
+      {
+        "number": "Pe dispozitiv",
+        "label": "Confidențialitate",
+        "detail": "Fără încărcare video"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Cum extragi un cadru din video pe iPhone",
+    "subtitle": "Pași simpli pentru a salva fotografii perfecte din clipuri",
+    "placeholder_line1": "📱 Videoclip demo în curând",
+    "placeholder_line2": "Pasul 1: Deschide din Poze > Pasul 2: Derulează la moment > Pasul 3: Captează cadru(e) > Pasul 4: Exportă JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Deschide din Poze",
+        "text": "Partajează un videoclip din Poze către {{app_info.name}} sau deschide aplicația mai întâi și selectează clipul."
+      },
+      {
+        "name": "Găsește momentul exact",
+        "text": "Folosește cursorul pentru a avansa cadru cu cadru și oprește-te la imaginea dorită."
+      },
+      {
+        "name": "Captează unul sau mai multe cadre",
+        "text": "Capturează un singur cadru sau marchează mai multe momente pentru export în lot."
+      },
+      {
+        "name": "Exportă și salvează",
+        "text": "Salvează imaginile ca JPG, PNG sau HEIC sau exportă ca ZIP sau PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "Evaluare 5,0 de la utilizatori App Store",
+    "items": [
+      {
+        "text": "„Exact ce îmi trebuia pentru o fotografie perfectă dintr-un video de familie. Rapid și simplu.”",
+        "author": "Utilizator App Store",
+        "rating": "5 stele",
+        "verified": true
+      },
+      {
+        "text": "„Selectorul de cadre este precis, iar exportul mai multor imagini este foarte comod.”",
+        "author": "Utilizator App Store",
+        "rating": "5 stele",
+        "verified": true
+      },
+      {
+        "text": "„Flux excelent din Partajare în Poze. Nu e nevoie de editor complicat.”",
+        "author": "Utilizator App Store",
+        "rating": "5 stele",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Întrebări frecvente: video în foto pe iPhone",
+    "items": [
+      {
+        "question": "Cum extrag un cadru dintr-un video pe iPhone?",
+        "answer": "Deschide un clip în Video To Photo - Grab Frame, derulează la momentul exact și capturează imaginea. Apoi exportă-o ca JPG, PNG sau HEIC."
+      },
+      {
+        "question": "Pot exporta mai multe cadre odată?",
+        "answer": "Da. Poți selecta mai multe momente și exporta mai multe cadre într-un singur lot."
+      },
+      {
+        "question": "Ce formate pot exporta?",
+        "answer": "Aplicația suportă JPG, PNG și HEIC. Poți exporta și ca ZIP sau PDF."
+      },
+      {
+        "question": "Aplicația încarcă videoclipurile mele?",
+        "answer": "Nu. Extragerea rulează pe dispozitiv — videoclipurile și imaginile rămân pe iPhone."
+      },
+      {
+        "question": "Pot relua lucrul mai târziu?",
+        "answer": "Da. Poți salva sesiunile ca proiecte și le poți redeschide."
+      },
+      {
+        "question": "Video To Photo - Grab Frame este gratuită?",
+        "answer": "Aplicația este gratuită la descărcare; funcțiile avansate sunt prin achiziții în aplicație."
+      },
+      {
+        "question": "Pentru cine este această aplicație?",
+        "answer": "Pentru creatori de conținut, educatori și oricine vrea să salveze un moment specific din video ca fotografie."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Extractor cadre video",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Poze și video"
+  },
+  "footer": {
+    "cta_text": "📱 Descarcă Video To Photo - Grab Frame",
+    "privacy_text": "Politica de confidențialitate",
+    "terms_text": "Termeni de utilizare",
+    "support_text": "Asistență",
+    "developer_info": "Dezvoltat de Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Toate drepturile rezervate."
+  },
+  "floating_cta": {
+    "text": "📱 Captează cadre perfecte din video pe iPhone"
+  },
+  "seo_chapter": {
+    "title": "Cum transformi video în fotografii pe iPhone",
+    "subtitle": "Extrage momente fixe exacte fără a încărca videoclipul",
+    "intro": "Video To Photo - Grab Frame este o aplicație iPhone din categoria Poze și video care extrage imagini din video. Conform App Store: evaluare 5,0 din 8 recenzii, 42,9 MB, export JPG, PNG și HEIC. Procesarea pe dispozitiv — fără trimitere pe servere externe.",
+    "sections": [
+      {
+        "heading": "Extragere cadre pas cu pas",
+        "body": "Partajează un videoclip din Poze către aplicație, derulează la momentul dorit și capturează cadrul. Repetă în mai multe puncte ale clipului, apoi exportă ca JPG, PNG sau HEIC. ZIP și PDF sunt disponibile pentru livrare grupată."
+      },
+      {
+        "heading": "De ce este utilă",
+        "body": "Video To Photo - Grab Frame se concentrează pe o sarcină: transformă rapid momentele video în imagini fixe cu control precis. Față de instrumentele din browser, fără așteptare la upload și cu video pe dispozitiv. Export în lot și proiecte incluse."
+      }
+    ],
+    "bullets_title": "Cazuri de utilizare frecvente",
+    "bullets": [
+      "Miniaturi social din clipuri video",
+      "Salvare expresii sau gesturi memorabile ca fotografii",
+      "Storyboard-uri din materiale tutorial sau demo",
+      "Cadre de referință pentru design sau montaj"
+    ],
+    "conclusion": "Video To Photo - Grab Frame oferă utilizatorilor iPhone un mod concentrat de a extrage imagini din video cu control precis, formate flexibile și confidențialitate pe dispozitiv. Verificat cu App Store la 28 mai 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs instrumente browser",
+    "intro": "Comparație între Video To Photo - Grab Frame și extractoare tipice din browser:",
+    "table": {
+      "feature": "Caracteristică",
+      "online_converters": "Instrumente web tipice",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Confidențialitate",
+          "online": "De obicei necesită încărcare video",
+          "app": "Cadrele sunt extrase direct pe iPhone"
+        },
+        {
+          "feature": "Precizie",
+          "online": "Control adesea limitat",
+          "app": "Derulare cadru cu cadru la momentul exact"
+        },
+        {
+          "feature": "Rezultat",
+          "online": "Uneori un singur format",
+          "app": "JPG, PNG și HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Flux",
+          "online": "Ciclu încărcare/descărcare în browser",
+          "app": "Pornește din Partajare în Poze și salvează instant"
+        }
+      ]
+    }
+  }
+}
