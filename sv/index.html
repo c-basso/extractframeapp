@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: bilder från video på iPhone</title>
+    <meta name="description" content="Extrahera stillbilder från video på iPhone på sekunder. Spara en bildruta eller exportera flera som JPG, PNG eller HEIC — privat på enheten, utan uppladdning.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="sv">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="SE">
+    <meta name="geo.placename" content="Sverige">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/sv/">
+    <meta property="og:title" content="Video To Photo - Grab Frame för iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="sv_SE">
+    <meta property="og:description" content="Förvandla videor till stillbilder på iPhone. Välj exakt ögonblick och exportera bildrutor i hög kvalitet som JPG, PNG eller HEIC — bearbetning på enheten.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/sv/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Extrahera exakta stillbilder från video på iPhone. Bearbetning på enheten, batchexport och flexibla format.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/sv/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: bilder från video på iPhone",
+        "description": "Extrahera stillbilder från video på iPhone på sekunder. Spara en bildruta eller exportera flera som JPG, PNG eller HEIC — privat på enheten, utan uppladdning.",
+        "url": "https://extractframeapp.com/sv/",
+        "dateModified": "2026-05-30T18:18:04.822Z",
+        "inLanguage": "sv",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/sv/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Extrahera stillbilder från video på iPhone på sekunder. Spara en bildruta eller exportera flera som JPG, PNG eller HEIC — privat på enheten, utan uppladdning.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: bilder från video på iPhone",
+                "item": "https://extractframeapp.com/sv/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/sv/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/sv/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Så extraherar du en bildruta från video på iPhone",
+        "description": "Enkla steg för att spara perfekta stillbilder från dina klipp",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "SEK",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "SEK"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Öppna från Bilder",
+                "text": "Dela en video från Bilder till Video To Photo - Grab Frame, eller öppna appen först och välj ditt klipp.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Hitta exakt ögonblick",
+                "text": "Använd skrollreglaget för att gå bildruta för bildruta och stanna på den stillbild du vill ha.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Fånga en eller flera bildrutor",
+                "text": "Fånga en bildruta eller markera flera ögonblick för batchexport.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Exportera och spara",
+                "text": "Spara dina stillbilder som JPG, PNG eller HEIC, eller exportera som ZIP eller PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Bildruteextraktor för video",
+        "description": "Extrahera stillbilder från video på iPhone på sekunder. Spara en bildruta eller exportera flera som JPG, PNG eller HEIC — privat på enheten, utan uppladdning.",
+        "url": "https://extractframeapp.com/sv/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Bilder och video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "SEK",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.822Z",
+        "featureList": [
+            "Exakt bildruteval",
+            "En eller flera bildrutor",
+            "Export som JPG, PNG och HEIC",
+            "Dela-arbetsflöde",
+            "ZIP- och PDF-utdata",
+            "Spara och öppna projekt igen"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Hur extraherar jag en bildruta från en video på iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Öppna ett klipp i Video To Photo - Grab Frame, skrolla till exakt ögonblick och fånga stillbilden. Exportera sedan som JPG, PNG eller HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kan jag exportera fler än en bildruta i taget?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Du kan välja flera ögonblick och exportera flera bildrutor i en batch."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Vilka format kan jag exportera?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Appen stöder JPG, PNG och HEIC. Du kan också exportera som ZIP eller PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Laddar appen upp mina videor?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nej. Extraktion sker på enheten — dina videor och bilder stannar på din iPhone."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kan jag fortsätta senare?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Du kan spara sessioner som projekt och öppna dem igen."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Är Video To Photo - Grab Frame gratis?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Appen är gratis att ladda ner; avancerade funktioner finns via köp i appen."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Vem passar appen för?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "För innehållsskapare, lärare och alla som vill fånga ett specifikt ögonblick från video som stillbild."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: bilder från video på iPhone",
+            "item": "https://extractframeapp.com/sv/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084822" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084822">
+    <link rel="stylesheet" href="/style.css?v=1780165084822">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Video To Photo - Grab Frame-logotyp" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Extrahera bildrutor från video på iPhone</h1>
+                    <h2>Spara exakta stillbilder från dina klipp på några sekunder</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame är en iOS-app som förvandlar videor till stillbilder på din iPhone. Välj exakt ögonblick och exportera bildrutor som JPG, PNG eller HEIC.</p>
+                    <p class="subheadline">Öppna från Bilder, skrolla till rätt ögonblick och spara en eller flera bildrutor. Inget konto, ingen uppladdning och ingen redigeringstidslinje.</p>
+                    <p class="last-updated-hero">Senast uppdaterad: maj 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Ladda ner i App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR-kod för att ladda ner appen" class="qr-code">
+                        <p class="qr-text">Skanna med din iPhone för att ladda ner</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Tryck för att spara en bildruta från video
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Varför användare väljer den här appen</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Exakt bildruteval</h3>
+                    <p>Skrolla igenom videon och fånga exakt den stillbild du behöver i rätt ögonblick.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>En eller flera bildrutor</h3>
+                    <p>Fånga en bildruta eller markera flera ögonblick och exportera en hel uppsättning stillbilder på en gång.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Export som JPG, PNG och HEIC</h3>
+                    <p>Spara extraherade bildrutor i det format som passar ditt arbetsflöde och delningsbehov.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Dela-arbetsflöde</h3>
+                    <p>Starta direkt från Bilder via Dela och gå rakt in i bildruteextraktion.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP- och PDF-utdata</h3>
+                    <p>Exportera som enskilda bilder, ett ZIP-arkiv eller en PDF när du behöver grupperad utdata.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Spara och öppna projekt igen</h3>
+                    <p>Spara dina sessioner som projekt och fortsätt senare utan att börja om.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame i siffror</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Betyg</div>
+                    <div class="stat-detail">Baserat på 8 betyg i App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Storlek</div>
+                    <div class="stat-detail">Lätt app för Bilder och video</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Format</div>
+                    <div class="stat-detail">JPG, PNG och HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">På enheten</div>
+                    <div class="stat-label">Integritet</div>
+                    <div class="stat-detail">Ingen video-uppladdning krävs</div>
+                </div>
+            </div>
+            <p class="last-updated">Senast uppdaterad: maj 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Så förvandlar du video till foton på iPhone</h2>
+            <p class="subheadline">Extrahera exakta stillbilder utan att ladda upp videon</p>
+            <p>Video To Photo - Grab Frame är en iPhone-app i kategorin Bilder och video som extraherar stillbilder från video. Enligt App Store: betyg 5,0 av 8 recensioner, storlek 42,9 MB, export till JPG, PNG och HEIC. Bearbetning på enheten — inga videor skickas till externa servrar.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Steg-för-steg-bildruteextraktion</h3>
+                    <p>Dela en video från Bilder till appen, skrolla till ögonblicket och fånga bildrutan. Upprepa på flera ställen i klippet och exportera som JPG, PNG eller HEIC. ZIP och PDF finns för grupperad leverans.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Varför den är användbar</h3>
+                    <p>Video To Photo - Grab Frame fokuserar på en uppgift: att snabbt och exakt förvandla videoögonblick till stillbilder. Jämfört med webbläsarverktyg slipper du vänta på uppladdning och videon stannar på enheten. Batchexport och projekt ingår.</p>
+                </div>
+            </div>
+            <h3>Vanliga användningsfall</h3>
+            <ul>
+                <li>Miniatyrbilder för sociala medier från videoklipp</li>
+                <li>Spara uttryck eller gester som foton</li>
+                <li>Storyboards från handledningar eller demos</li>
+                <li>Referensstillbilder för design eller redigering</li>
+            </ul>
+            <p>Video To Photo - Grab Frame ger iPhone-användare ett fokuserat sätt att extrahera stillbilder från video med exakt kontroll, flexibla format och integritet på enheten. Senast verifierat mot App Store LAST_UPDATED.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. webbläsarverktyg</h3>
+                <p>Jämförelse mellan Video To Photo - Grab Frame och typiska webbläsarbaserade extraktorer:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Funktion</th>
+                            <th>Typiska webbverktyg</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Integritet</td>
+                            <td>Kräver oftast video-uppladdning</td>
+                            <td>Bildrutor extraheras direkt på din iPhone</td>
+                        </tr>
+                        <tr>
+                            <td>Precision</td>
+                            <td>Ofta begränsad kontroll</td>
+                            <td>Skrolla bildruta för bildruta till exakt ögonblick</td>
+                        </tr>
+                        <tr>
+                            <td>Utdata</td>
+                            <td>Ibland bara ett format</td>
+                            <td>JPG, PNG och HEIC, plus ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Arbetsflöde</td>
+                            <td>Uppladdning/nedladdning i webbläsaren</td>
+                            <td>Starta från Dela i Bilder och spara direkt</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Så extraherar du en bildruta från video på iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Enkla steg för att spara perfekta stillbilder från dina klipp</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Demovideo kommer snart</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Steg 1: Öppna från Bilder > Steg 2: Skrolla till ögonblick > Steg 3: Fånga bildruta(r) > Steg 4: Exportera JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">Betyg 5,0 från App Store-användare</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Precis vad jag behövde för en perfekt stillbild från en familjevideo. Snabbt och enkelt.“</p>
+                    <div class="testimonial-author">App Store-användare</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Bildruteväljaren är precis och export av flera bilder är väldigt smidig.“</p>
+                    <div class="testimonial-author">App Store-användare</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Bra arbetsflöde från Dela-menyn i Bilder. Ingen komplicerad redigerare behövs.“</p>
+                    <div class="testimonial-author">App Store-användare</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">FAQ: video till foto på iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Hur extraherar jag en bildruta från en video på iPhone?</div>
+                <div class="faq-answer">Öppna ett klipp i Video To Photo - Grab Frame, skrolla till exakt ögonblick och fånga stillbilden. Exportera sedan som JPG, PNG eller HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kan jag exportera fler än en bildruta i taget?</div>
+                <div class="faq-answer">Ja. Du kan välja flera ögonblick och exportera flera bildrutor i en batch.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Vilka format kan jag exportera?</div>
+                <div class="faq-answer">Appen stöder JPG, PNG och HEIC. Du kan också exportera som ZIP eller PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Laddar appen upp mina videor?</div>
+                <div class="faq-answer">Nej. Extraktion sker på enheten — dina videor och bilder stannar på din iPhone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kan jag fortsätta senare?</div>
+                <div class="faq-answer">Ja. Du kan spara sessioner som projekt och öppna dem igen.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Är Video To Photo - Grab Frame gratis?</div>
+                <div class="faq-answer">Appen är gratis att ladda ner; avancerade funktioner finns via köp i appen.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Vem passar appen för?</div>
+                <div class="faq-answer">För innehållsskapare, lärare och alla som vill fånga ett specifikt ögonblick från video som stillbild.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Ladda ner Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Integritetspolicy</a>
+                    <a href="https://extractframeapp.com/terms.html">Användarvillkor</a>
+                    <a href="mailto:c-basso@ya.ru">Support</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Utvecklad av Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Alla rättigheter förbehållna.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Fånga perfekta bildrutor från video på iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

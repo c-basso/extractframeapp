@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "da",
+    "title": "Video To Photo - Grab Frame: hent billeder fra video iPhone",
+    "description": "Træk stillbilleder ud af video på din iPhone på få sekunder. Gem én ramme eller eksporter flere som JPG, PNG eller HEIC — privat på enheden, uden upload.",
+    "keywords": "video til foto, hent ramme fra video, frame grabber, iPhone ramme fra video, gem ramme, video til billede, jpg fra video, png fra video, heic fra video, batch eksport, del fra fotos, app store frame grabber",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/da/",
+    "og_title": "Video To Photo - Grab Frame til iPhone",
+    "og_description": "Gør video til billeder på din iPhone. Vælg det præcise øjeblik og eksporter rammer i høj kvalitet som JPG, PNG eller HEIC — behandling på enheden.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "da_DK",
+    "twitter_url": "https://extractframeapp.com/da/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Hent præcise stillbilleder fra video på iPhone. Behandling på enheden, batch-eksport og fleksible formater.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/da/",
+    "geo_region": "DK",
+    "geo_placename": "Danmark"
+  },
+  "hero": {
+    "logo_alt": "Video To Photo - Grab Frame logo",
+    "title": "Hent rammer fra video på iPhone",
+    "subtitle": "Gem præcise stillbilleder fra dine klip på få sekunder",
+    "entity_definition": "Video To Photo - Grab Frame er en iOS-app, der gør video til stillbilleder på din iPhone. Vælg det præcise øjeblik og eksporter rammer som JPG, PNG eller HEIC.",
+    "subheadline": "Åbn fra Fotos, skub til det rigtige øjeblik, og gem én ramme eller flere. Ingen konto, ingen upload og ingen redigeringstidslinje.",
+    "download_alt": "Hent i App Store",
+    "phone_text": "Tryk for at hente en ramme fra video",
+    "qr_alt": "QR-kode til at hente appen",
+    "qr_text": "Scan med din iPhone for at hente"
+  },
+  "last_updated": {
+    "text": "LAST_UPDATED"
+  },
+  "features": {
+    "title": "Derfor vælger brugere denne app",
+    "items": [
+      {
+        "title": "Præcis rammevalg",
+        "description": "Skub gennem videoen og fang præcis det stillbillede, du har brug for, i det rigtige øjeblik.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Én eller flere rammer",
+        "description": "Fang én ramme, eller markér flere øjeblikke og eksporter hele sættet på én gang.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Eksport som JPG, PNG og HEIC",
+        "description": "Gem udtrukne rammer i det format, der passer til dit workflow og dine delingsbehov.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Del-workflow",
+        "description": "Start direkte fra Fotos via Del og gå straight til udtrækning af rammer.",
+        "icon": "🔗"
+      },
+      {
+        "title": "ZIP- og PDF-output",
+        "description": "Eksporter som enkelte billeder, et ZIP-arkiv eller en PDF, når du har brug for grupperet output.",
+        "icon": "📦"
+      },
+      {
+        "title": "Gem og genåbn projekter",
+        "description": "Gem dine sessioner som projekter, og fortsæt senere uden at starte forfra.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame i tal",
+    "items": [
+      "5,0 ud af 5 baseret på 8 App Store-bedømmelser",
+      "App-størrelse 42,9 MB",
+      "Eksport som JPG, PNG og HEIC",
+      "Bygget til iPhone",
+      "Behandling på enheden for privatliv"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Bedømmelse",
+        "detail": "Baseret på 8 App Store-bedømmelser"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Størrelse",
+        "detail": "Letvægtsapp til foto og video"
+      },
+      {
+        "number": "3",
+        "label": "Formater",
+        "detail": "JPG, PNG og HEIC"
+      },
+      {
+        "number": "På enheden",
+        "label": "Privatliv",
+        "detail": "Ingen video-upload nødvendig"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Sådan henter du en ramme fra video på iPhone",
+    "subtitle": "Brug disse enkle trin til at gemme perfekte stillbilleder fra dine klip",
+    "placeholder_line1": "📱 Demovideo kommer snart",
+    "placeholder_line2": "Trin 1: Åbn fra Fotos > Trin 2: Skub til øjeblik > Trin 3: Hent ramme(r) > Trin 4: Eksporter som JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Åbn fra Fotos",
+        "text": "Del en video fra Fotos til {{app_info.name}}, eller åbn appen først og vælg dit klip."
+      },
+      {
+        "name": "Find det præcise øjeblik",
+        "text": "Brug skyderen til at bevæge dig billede for billede og stop på det stillbillede, du vil have."
+      },
+      {
+        "name": "Hent én eller flere rammer",
+        "text": "Fang én ramme, eller markér flere øjeblikke til batch-eksport."
+      },
+      {
+        "name": "Eksporter og gem",
+        "text": "Gem dine stillbilleder som JPG, PNG eller HEIC, eller eksporter som ZIP eller PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "5,0-bedømmelse fra App Store-brugere",
+    "items": [
+      {
+        "text": "„Præcis det, jeg havde brug for til et perfekt stillbillede fra en familievideo. Hurtigt og enkelt.“",
+        "author": "App Store-bruger",
+        "rating": "5 stjerner",
+        "verified": true
+      },
+      {
+        "text": "„Rammevælgeren er præcis, og det er meget praktisk at eksportere flere billeder.“",
+        "author": "App Store-bruger",
+        "rating": "5 stjerner",
+        "verified": true
+      },
+      {
+        "text": "„Fantastisk workflow fra Del i Fotos. Ingen kompliceret editor nødvendig.“",
+        "author": "App Store-bruger",
+        "rating": "5 stjerner",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ: video til foto på iPhone",
+    "items": [
+      {
+        "question": "Hvordan henter jeg en ramme fra en video på iPhone?",
+        "answer": "Åbn et klip i Video To Photo - Grab Frame, skub til det præcise øjeblik, og fang stillbilledet. Eksporter det derefter som JPG, PNG eller HEIC."
+      },
+      {
+        "question": "Kan jeg eksportere mere end én ramme ad gangen?",
+        "answer": "Ja. Du kan vælge flere øjeblikke og eksportere flere rammer i én batch."
+      },
+      {
+        "question": "Hvilke formater kan jeg eksportere?",
+        "answer": "Appen understøtter JPG, PNG og HEIC. Du kan også eksportere som ZIP eller PDF."
+      },
+      {
+        "question": "Uploader appen mine videoer?",
+        "answer": "Nej. Udtrækning sker på enheden — dine videoer og billeder bliver på din iPhone."
+      },
+      {
+        "question": "Kan jeg fortsætte senere?",
+        "answer": "Ja. Du kan gemme sessioner som projekter og genåbne dem senere."
+      },
+      {
+        "question": "Er Video To Photo - Grab Frame gratis?",
+        "answer": "Appen er gratis at hente; avancerede funktioner er tilgængelige via køb i appen."
+      },
+      {
+        "question": "Hvem er appen til?",
+        "answer": "Den er nyttig for indholdsskabere, undervisere og alle, der vil fange et bestemt øjeblik fra video som et stillbillede."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Video-rammeudtrækker",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Foto og video"
+  },
+  "footer": {
+    "cta_text": "📱 Hent Video To Photo - Grab Frame",
+    "privacy_text": "Privatlivspolitik",
+    "terms_text": "Vilkår for brug",
+    "support_text": "Support",
+    "developer_info": "Udviklet af Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Alle rettigheder forbeholdes."
+  },
+  "floating_cta": {
+    "text": "📱 Hent perfekte rammer fra video på iPhone"
+  },
+  "seo_chapter": {
+    "title": "Sådan gør du video til billeder på iPhone",
+    "subtitle": "Hent præcise stillbilleder uden at uploade din video",
+    "intro": "Video To Photo - Grab Frame er en iPhone-app i kategorien Foto og video, der udtrækker stillbilleder fra video. Ifølge App Store: 5,0-bedømmelse fra 8 anmeldelser, 42,9 MB, eksport til JPG, PNG og HEIC. Behandling på enheden — ingen upload til eksterne servere.",
+    "sections": [
+      {
+        "heading": "Trin-for-trin udtrækning af rammer",
+        "body": "Del en video fra Fotos til appen, skub til øjeblikket, og fang rammen. Gentag for flere punkter i klippet, og eksporter som JPG, PNG eller HEIC. Til grupperet levering findes ZIP og PDF."
+      },
+      {
+        "heading": "Hvorfor den er nyttig",
+        "body": "Video To Photo - Grab Frame fokuserer på én opgave: hurtigt og præcist at gøre videoøjeblikke til stillbilleder. I modsætning til browser-værktøjer undgår du upload-tid, og videoen bliver på enheden. Batch-eksport og projekter er inkluderet."
+      }
+    ],
+    "bullets_title": "Almindelige use cases",
+    "bullets": [
+      "Miniaturebilleder til sociale medier fra videoklip",
+      "Gem udtryk eller gestusser som fotos",
+      "Storyboards fra tutorials eller demoer",
+      "Referencebilleder til design eller redigering"
+    ],
+    "conclusion": "Video To Photo - Grab Frame giver iPhone-brugere en fokuseret måde at udtrække stillbilleder fra video med præcis kontrol, fleksible formater og privatliv på enheden. Verificeret mod App Store 28. maj 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. browser-værktøjer",
+    "intro": "Sammenligning af Video To Photo - Grab Frame med typiske browser-baserede udtrækkere:",
+    "table": {
+      "feature": "Funktion",
+      "online_converters": "Typiske webværktøjer",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Privatliv",
+          "online": "Kræver som regel video-upload",
+          "app": "Rammer udtrækkes direkte på din iPhone"
+        },
+        {
+          "feature": "Præcision",
+          "online": "Ofte begrænset kontrol",
+          "app": "Skub billede for billede til det præcise øjeblik"
+        },
+        {
+          "feature": "Output",
+          "online": "Tilbyder nogle gange kun ét format",
+          "app": "JPG, PNG og HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Workflow",
+          "online": "Upload/download-cyklus i browseren",
+          "app": "Start fra Del i Fotos og gem med det samme"
+        }
+      ]
+    }
+  }
+}

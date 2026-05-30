@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="ca" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: fotos des de vídeo iPhone</title>
+    <meta name="description" content="Extreu fotos de vídeo a l'iPhone en segons. Desa un fotograma o exporta'n diversos com a JPG, PNG o HEIC — de forma privada al dispositiu, sense pujar res.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="ca">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="ES">
+    <meta name="geo.placename" content="Catalunya">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/ca/">
+    <meta property="og:title" content="Video To Photo - Grab Frame per a iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="ca_ES">
+    <meta property="og:description" content="Converteix vídeos en fotos a l'iPhone. Tria el moment exacte i exporta fotogrames d'alta qualitat com a JPG, PNG o HEIC — processament al dispositiu.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/ca/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Extreu fotogrames exactes de vídeo a l'iPhone. Processament al dispositiu, exportació per lots i formats flexibles.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/ca/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: fotos des de vídeo iPhone",
+        "description": "Extreu fotos de vídeo a l'iPhone en segons. Desa un fotograma o exporta'n diversos com a JPG, PNG o HEIC — de forma privada al dispositiu, sense pujar res.",
+        "url": "https://extractframeapp.com/ca/",
+        "dateModified": "2026-05-30T18:18:04.828Z",
+        "inLanguage": "ca",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/ca/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Extreu fotos de vídeo a l'iPhone en segons. Desa un fotograma o exporta'n diversos com a JPG, PNG o HEIC — de forma privada al dispositiu, sense pujar res.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: fotos des de vídeo iPhone",
+                "item": "https://extractframeapp.com/ca/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/ca/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/ca/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Com extreure un fotograma de vídeo a l'iPhone",
+        "description": "Passos senzills per desar fotos perfectes dels teus clips",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "EUR",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "EUR"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Obrir des de Fotos",
+                "text": "Comparteix un vídeo des de Fotos a Video To Photo - Grab Frame, o obre primer l'app i selecciona el clip.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Trobar el moment exacte",
+                "text": "Utilitza el control de desplaçament per moure't fotograma a fotograma i aturar-te a la imatge desitjada.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Capturar un o més fotogrames",
+                "text": "Captura un fotograma o marca diversos moments per a l'exportació per lots.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Exportar i desar",
+                "text": "Desa els fotogrames com a JPG, PNG o HEIC, o exporta com a ZIP o PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Extractor de fotogrames de vídeo",
+        "description": "Extreu fotos de vídeo a l'iPhone en segons. Desa un fotograma o exporta'n diversos com a JPG, PNG o HEIC — de forma privada al dispositiu, sense pujar res.",
+        "url": "https://extractframeapp.com/ca/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Fotos i vídeo",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.828Z",
+        "featureList": [
+            "Selecció exacta de fotograma",
+            "Un o diversos fotogrames",
+            "Exportació JPG, PNG i HEIC",
+            "Flux Compartir",
+            "Sortida ZIP i PDF",
+            "Desar i tornar a obrir projectes"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Com extrec un fotograma d'un vídeo a l'iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Obre un clip a Video To Photo - Grab Frame, desplaça't al moment exacte i captura el fotograma. Després exporta'l com a JPG, PNG o HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Puc exportar més d'un fotograma alhora?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sí. Pots seleccionar diversos moments i exportar diversos fotogrames en un sol lot."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Quins formats puc exportar?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "L'app admet JPG, PNG i HEIC. També pots exportar com a ZIP o PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "L'app puja els meus vídeos?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No. L'extracció es fa al dispositiu — els vídeos i les imatges es queden a l'iPhone."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Puc continuar més tard?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sí. Pots desar sessions com a projectes i tornar-les a obrir."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Video To Photo - Grab Frame és gratuït?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "L'app és gratuïta per baixar; les funcions avançades són mitjançant compres integrades."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Per a qui és l'app?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Per a creadors de contingut, educadors i qualsevol que vulgui capturar un moment concret del vídeo com a foto."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: fotos des de vídeo iPhone",
+            "item": "https://extractframeapp.com/ca/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084828" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084828">
+    <link rel="stylesheet" href="/style.css?v=1780165084828">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Logotip de Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Extreu fotogrames de vídeo a l'iPhone</h1>
+                    <h2>Desa fotos exactes dels teus clips en segons</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame és una app d'iOS que converteix vídeos en fotos a l'iPhone. Tria el moment exacte i exporta fotogrames com a JPG, PNG o HEIC.</p>
+                    <p class="subheadline">Obre des de Fotos, desplaça't al moment correcte i desa un o més fotogrames. Sense compte, sense pujar res i sense línia de temps d'edició.</p>
+                    <p class="last-updated-hero">Darrera actualització: maig del 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Baixa a l'App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="Codi QR per baixar l'app" class="qr-code">
+                        <p class="qr-text">Escaneja amb l'iPhone per baixar</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Toca per desar un fotograma del vídeo
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Per què els usuaris trien aquesta app</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Selecció exacta de fotograma</h3>
+                    <p>Desplaça't pel vídeo i captura exactament la imatge estàtica que necessites en el moment precís.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Un o diversos fotogrames</h3>
+                    <p>Captura un fotograma o marca diversos moments i exporta un conjunt complet d'imatges d'un cop.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Exportació JPG, PNG i HEIC</h3>
+                    <p>Desa els fotogrames extrets en el format que s'adapti al teu flux de treball.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Flux Compartir</h3>
+                    <p>Comença directament des de Fotos mitjançant Compartir i entra directament a l'extracció de fotogrames.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>Sortida ZIP i PDF</h3>
+                    <p>Exporta imatges individuals, un arxiu ZIP o un PDF quan necessitis una sortida agrupada.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Desar i tornar a obrir projectes</h3>
+                    <p>Desa les sessions com a projectes i continua més tard sense començar de zero.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame en xifres</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Valoració</div>
+                    <div class="stat-detail">Segons 8 valoracions a l'App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Mida</div>
+                    <div class="stat-detail">App lleugera de Fotos i vídeo</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Formats</div>
+                    <div class="stat-detail">JPG, PNG i HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Al dispositiu</div>
+                    <div class="stat-label">Privadesa</div>
+                    <div class="stat-detail">Sense pujar el vídeo</div>
+                </div>
+            </div>
+            <p class="last-updated">Darrera actualització: maig del 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Com convertir vídeo en fotos a l'iPhone</h2>
+            <p class="subheadline">Extreu fotogrames exactes sense pujar el vídeo</p>
+            <p>Video To Photo - Grab Frame és una app d'iPhone a la categoria Fotos i vídeo que extreu imatges estàtiques de vídeo. Segons l'App Store: valoració 5,0 de 8 ressenyes, mida 42,9 MB, exportació a JPG, PNG i HEIC. Processament al dispositiu — sense enviar vídeos a servidors externs.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Extracció de fotograma pas a pas</h3>
+                    <p>Comparteix un vídeo des de Fotos a l'app, desplaça't al moment i captura el fotograma. Repeteix en diversos punts del clip i exporta com a JPG, PNG o HEIC. ZIP i PDF disponibles per a lliurament agrupat.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Per què és útil</h3>
+                    <p>Video To Photo - Grab Frame se centra en una tasca: convertir moments de vídeo en imatges estàtiques ràpidament i amb control precís. En comparació amb eines del navegador, evita l'espera de pujada i manté el vídeo al dispositiu. Exportació per lots i projectes inclosos.</p>
+                </div>
+            </div>
+            <h3>Casos d'ús habituals</h3>
+            <ul>
+                <li>Miniatures per a xarxes socials des de clips de vídeo</li>
+                <li>Desar expressions o gestos com a fotos</li>
+                <li>Storyboards des de tutorials o demos</li>
+                <li>Fotogrames de referència per a disseny o edició</li>
+            </ul>
+            <p>Video To Photo - Grab Frame ofereix als usuaris d'iPhone una manera concentrada d'extreure imatges de vídeo amb control precís, formats flexibles i privadesa al dispositiu. Darrera verificació segons l'App Store LAST_UPDATED.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. eines del navegador</h3>
+                <p>Comparació entre Video To Photo - Grab Frame i extractors de fotogrames típics del navegador:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Característica</th>
+                            <th>Eines web típiques</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Privadesa</td>
+                            <td>Normalment requereix pujar el vídeo</td>
+                            <td>Els fotogrames s'extreuen directament a l'iPhone</td>
+                        </tr>
+                        <tr>
+                            <td>Precisió</td>
+                            <td>Sovint control limitat</td>
+                            <td>Desplaçament fotograma a fotograma al moment exacte</td>
+                        </tr>
+                        <tr>
+                            <td>Sortida</td>
+                            <td>De vegades només un format</td>
+                            <td>JPG, PNG i HEIC, més ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Flux de treball</td>
+                            <td>Cicle de pujada/baixada al navegador</td>
+                            <td>Comença des de Compartir a Fotos i desa a l'instant</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Com extreure un fotograma de vídeo a l'iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Passos senzills per desar fotos perfectes dels teus clips</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Vídeo de demostració aviat</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Pas 1: Obrir des de Fotos > Pas 2: Desplaçar al moment > Pas 3: Capturar fotograma(es) > Pas 4: Exportar JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">Valoració 5,0 d'usuaris de l'App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Exactament el que necessitava per extreure un fotograma perfecte d'un vídeo familiar. Ràpid i senzill.“</p>
+                    <div class="testimonial-author">Usuari de l'App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„El selector de fotogrames és precís i exportar diverses imatges és molt còmode.“</p>
+                    <div class="testimonial-author">Usuari de l'App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Gran flux des de Compartir a Fotos. No cal cap editor complicat.“</p>
+                    <div class="testimonial-author">Usuari de l'App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">PMF: vídeo a foto a l'iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Com extrec un fotograma d'un vídeo a l'iPhone?</div>
+                <div class="faq-answer">Obre un clip a Video To Photo - Grab Frame, desplaça't al moment exacte i captura el fotograma. Després exporta'l com a JPG, PNG o HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Puc exportar més d'un fotograma alhora?</div>
+                <div class="faq-answer">Sí. Pots seleccionar diversos moments i exportar diversos fotogrames en un sol lot.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Quins formats puc exportar?</div>
+                <div class="faq-answer">L'app admet JPG, PNG i HEIC. També pots exportar com a ZIP o PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">L'app puja els meus vídeos?</div>
+                <div class="faq-answer">No. L'extracció es fa al dispositiu — els vídeos i les imatges es queden a l'iPhone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Puc continuar més tard?</div>
+                <div class="faq-answer">Sí. Pots desar sessions com a projectes i tornar-les a obrir.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Video To Photo - Grab Frame és gratuït?</div>
+                <div class="faq-answer">L'app és gratuïta per baixar; les funcions avançades són mitjançant compres integrades.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Per a qui és l'app?</div>
+                <div class="faq-answer">Per a creadors de contingut, educadors i qualsevol que vulgui capturar un moment concret del vídeo com a foto.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Baixa Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Política de privadesa</a>
+                    <a href="https://extractframeapp.com/terms.html">Condicions d'ús</a>
+                    <a href="mailto:c-basso@ya.ru">Suport</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Desenvolupat per Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Tots els drets reservats.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Captura fotogrames perfectes de vídeo a l'iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

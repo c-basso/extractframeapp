@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: חילוץ פריימים מווידאו ב-iPhone</title>
+    <meta name="description" content="חלץ תמונות סטילס מווידאו באייפון בתוך שניות. שמור פריים בודד או ייצא מספר פריימים ב-JPG, PNG או HEIC — בעיבוד פרטי על המכשיר, בלי העלאה.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="he">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="IL">
+    <meta name="geo.placename" content="ישראל">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/he/">
+    <meta property="og:title" content="Video To Photo - Grab Frame לאייפון">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="he_IL">
+    <meta property="og:description" content="הפוך וידאו לתמונות באייפון. בחר את הרגע המדויק וייצא פריימים באיכות גבוהה ב-JPG, PNG או HEIC — עיבוד על המכשיר.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/he/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="חלץ פריימים סטילס מדויקים מווידאו באייפון. עיבוד על המכשיר, ייצוא מרוכז ופורמטים גמישים.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/he/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: חילוץ פריימים מווידאו ב-iPhone",
+        "description": "חלץ תמונות סטילס מווידאו באייפון בתוך שניות. שמור פריים בודד או ייצא מספר פריימים ב-JPG, PNG או HEIC — בעיבוד פרטי על המכשיר, בלי העלאה.",
+        "url": "https://extractframeapp.com/he/",
+        "dateModified": "2026-05-30T18:18:04.809Z",
+        "inLanguage": "he",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/he/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "חלץ תמונות סטילס מווידאו באייפון בתוך שניות. שמור פריים בודד או ייצא מספר פריימים ב-JPG, PNG או HEIC — בעיבוד פרטי על המכשיר, בלי העלאה.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: חילוץ פריימים מווידאו ב-iPhone",
+                "item": "https://extractframeapp.com/he/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/he/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/he/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "איך לחלץ פריים מווידאו באייפון",
+        "description": "עקבו אחר השלבים הפשוטים האלה כדי לשמור תמונות סטילס מושלמות מהקליפים",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "ILS",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "ILS"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "פתיחה מתמונות",
+                "text": "שתפו וידאו מתמונות אל Video To Photo - Grab Frame, או פתחו קודם את האפליקציה ובחרו את הקליפ.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "מציאת הרגע המדויק",
+                "text": "השתמשו בבקר הגלילה כדי לעבור פריים-פריים ולעצור על התמונה הסטילס שרוצים.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "חילוץ פריים אחד או יותר",
+                "text": "תפסו פריים בודד או סמנו מספר רגעים לייצוא מרוכז.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "ייצוא ושמירה",
+                "text": "שמרו את התמונות הסטילס ב-JPG, PNG או HEIC, או ייצאו כ-ZIP או PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "מחלץ פריימים מווידאו",
+        "description": "חלץ תמונות סטילס מווידאו באייפון בתוך שניות. שמור פריים בודד או ייצא מספר פריימים ב-JPG, PNG או HEIC — בעיבוד פרטי על המכשיר, בלי העלאה.",
+        "url": "https://extractframeapp.com/he/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "תמונות וסרטונים",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "ILS",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.809Z",
+        "featureList": [
+            "בחירת פריים מדויקת",
+            "פריים אחד או יותר",
+            "ייצוא JPG, PNG ו-HEIC",
+            "זרימת שיתוף",
+            "פלט ZIP ו-PDF",
+            "שמירה ופתיחה מחדש של פרויקטים"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "איך מחלצים פריים מווידאו באייפון?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "פתחו קליפ ב-Video To Photo - Grab Frame, גללו לרגע המדויק ותפסו את התמונה הסטילס. לאחר מכן ייצאו ב-JPG, PNG או HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "אפשר לייצא יותר מפריים אחד בפעם?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "כן. אפשר לבחור מספר רגעים ולייצא כמה פריימים בבת אחת."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "באילו פורמטים אפשר לייצא?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "האפליקציה תומכת ב-JPG, PNG ו-HEIC. אפשר גם לייצא כ-ZIP או PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "האפליקציה מעלה את הווידאו שלי?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "לא. החילוץ מתבצע על המכשיר — הווידאו והתמונות נשארים באייפון."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "אפשר להמשיך מאוחר יותר?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "כן. אפשר לשמור סשנים כפרויקטים ולפתוח אותם שוב."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "האם Video To Photo - Grab Frame חינמי?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "האפליקציה חינמית להורדה; תכונות מתקדמות דרך רכישות בתוך האפליקציה."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "למי מיועדת האפליקציה?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "ליוצרי תוכן, למורים ולכל מי שרוצה לתפוס רגע ספציפי מווידאו כתמונה סטילס."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: חילוץ פריימים מווידאו ב-iPhone",
+            "item": "https://extractframeapp.com/he/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084809" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084809">
+    <link rel="stylesheet" href="/style.css?v=1780165084809">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="לוגו Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>חילוץ פריימים מווידאו באייפון</h1>
+                    <h2>שמירת תמונות סטילס מדויקות מהקליפים שלך תוך שניות</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame הוא אפליקציית iOS שהופכת וידאו לתמונות סטילס באייפון. בחרו את הרגע המדויק וייצאו פריימים ב-JPG, PNG או HEIC.</p>
+                    <p class="subheadline">פתיחה מתמונות, גלילה לרגע הנכון ושמירת פריים אחד או יותר. בלי חשבון, בלי העלאה ובלי ציר זמן לעריכה.</p>
+                    <p class="last-updated-hero">עודכן לאחרונה: מאי 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="הורדה ב-App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="קוד QR להורדת האפליקציה" class="qr-code">
+                        <p class="qr-text">סרקו עם האייפון להורדה</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            הקישו לחילוץ פריים מווידאו
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">למה משתמשים בוחרים באפליקציה הזו</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>בחירת פריים מדויקת</h3>
+                    <p>גללו בווידאו ותפסו בדיוק את התמונה הסטילס שאתם צריכים, ברגע הנכון.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>פריים אחד או יותר</h3>
+                    <p>תפסו פריים בודד או סמנו מספר רגעים וייצאו את כל הסט בבת אחת.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>ייצוא JPG, PNG ו-HEIC</h3>
+                    <p>שמרו פריימים שחולצו בפורמט שמתאים לזרימת העבודה ולצרכי השיתוף שלכם.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>זרימת שיתוף</h3>
+                    <p>התחילו ישירות מתמונות דרך שיתוף ועברו ישר לחילוץ פריימים.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>פלט ZIP ו-PDF</h3>
+                    <p>ייצאו תמונות נפרדות, ארכיון ZIP או PDF כשצריך פלט מקובץ.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>שמירה ופתיחה מחדש של פרויקטים</h3>
+                    <p>שמרו סשנים כפרויקטים והמשיכו מאוחר יותר בלי להתחיל מחדש.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame במספרים</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5.0</div>
+                    <div class="stat-label">דירוג</div>
+                    <div class="stat-detail">לפי 8 דירוגים ב-App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42.9 MB</div>
+                    <div class="stat-label">גודל</div>
+                    <div class="stat-detail">אפליקציית תמונות וסרטונים קלה</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">פורמטים</div>
+                    <div class="stat-detail">JPG, PNG ו-HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">על המכשיר</div>
+                    <div class="stat-label">פרטיות</div>
+                    <div class="stat-detail">בלי העלאת וידאו</div>
+                </div>
+            </div>
+            <p class="last-updated">עודכן לאחרונה: מאי 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">איך להפוך וידאו לתמונות באייפון</h2>
+            <p class="subheadline">חילוץ רגעי סטילס מדויקים בלי להעלות את הווידאו</p>
+            <p>Video To Photo - Grab Frame הוא אפליקציית iPhone בקטגוריית תמונות וסרטונים שמחלצת תמונות סטילס מווידאו. לפי App Store: דירוג 5.0 מ-8 ביקורות, גודל 42.9 MB, ייצוא ל-JPG, PNG ו-HEIC. עיבוד על המכשיר — בלי שליחה לשרתים חיצוניים.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>חילוץ פריים שלב אחר שלב</h3>
+                    <p>שתפו וידאו מתמונות לאפליקציה, גללו לרגע ותפסו את הפריים. חזרו על כך במספר נקודות בקליפ וייצאו ב-JPG, PNG או HEIC. לפלט מקובץ יש ZIP ו-PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>למה זה שימושי</h3>
+                    <p>Video To Photo - Grab Frame מתמקד במשימה אחת: להפוך רגעי וידאו לתמונות סטילס במהירות ובדיוק. לעומת כלי דפדפן, אין המתנה להעלאה והווידאו נשאר על המכשיר. כולל ייצוא מרוכז ופרויקטים.</p>
+                </div>
+            </div>
+            <h3>שימושים נפוצים</h3>
+            <ul>
+                <li>תמונות ממוזערות לרשתות חברתיות מקליפי וידאו</li>
+                <li>שמירת הבעות או תנועות כתמונות</li>
+                <li>Storyboards מסרטוני הדרכה או הדגמה</li>
+                <li>תמונות ייחוס לעיצוב או עריכה</li>
+            </ul>
+            <p>Video To Photo - Grab Frame נותן למשתמשי iPhone דרך ממוקדת לחילוץ תמונות סטילס מווידאו עם שליטה מדויקת, פורמטים גמישים ופרטיות על המכשיר. אומת מול App Store ב-28 במאי 2026.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame מול כלי דפדפן</h3>
+                <p>השוואה בין Video To Photo - Grab Frame לכלי חילוץ פריימים טיפוסיים בדפדפן:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>תכונה</th>
+                            <th>כלי אינטרנט טיפוסיים</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>פרטיות</td>
+                            <td>בדרך כלל דורש העלאת וידאו</td>
+                            <td>פריימים מחולצים ישירות באייפון</td>
+                        </tr>
+                        <tr>
+                            <td>דיוק</td>
+                            <td>לעיתים שליטה מוגבלת</td>
+                            <td>גלילה פריים-פריים לרגע המדויק</td>
+                        </tr>
+                        <tr>
+                            <td>פלט</td>
+                            <td>לפעמים פורמט אחד בלבד</td>
+                            <td>JPG, PNG ו-HEIC, וגם ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>זרימת עבודה</td>
+                            <td>מחזור העלאה/הורדה בדפדפן</td>
+                            <td>התחלה משיתוף בתמונות ושמירה מיידית</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">איך לחלץ פריים מווידאו באייפון</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">עקבו אחר השלבים הפשוטים האלה כדי לשמור תמונות סטילס מושלמות מהקליפים</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 סרטון הדגמה בקרוב</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">שלב 1: פתיחה מתמונות > שלב 2: גלילה לרגע > שלב 3: חילוץ פריים > שלב 4: ייצוא JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">דירוג 5.0 ממשתמשי App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„בדיוק מה שהייתי צריך לתמונה סטילס מושלמת מווידאו משפחתי. מהיר ופשוט.“</p>
+                    <div class="testimonial-author">משתמש App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„בוחר הפריימים מדויק, וייצוא מספר תמונות מאוד נוח.“</p>
+                    <div class="testimonial-author">משתמש App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„זרימת עבודה מצוינת משיתוף בתמונות. לא צריך עורך מסובך.“</p>
+                    <div class="testimonial-author">משתמש App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">שאלות נפוצות: וידאו לתמונה באייפון</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">איך מחלצים פריים מווידאו באייפון?</div>
+                <div class="faq-answer">פתחו קליפ ב-Video To Photo - Grab Frame, גללו לרגע המדויק ותפסו את התמונה הסטילס. לאחר מכן ייצאו ב-JPG, PNG או HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">אפשר לייצא יותר מפריים אחד בפעם?</div>
+                <div class="faq-answer">כן. אפשר לבחור מספר רגעים ולייצא כמה פריימים בבת אחת.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">באילו פורמטים אפשר לייצא?</div>
+                <div class="faq-answer">האפליקציה תומכת ב-JPG, PNG ו-HEIC. אפשר גם לייצא כ-ZIP או PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">האפליקציה מעלה את הווידאו שלי?</div>
+                <div class="faq-answer">לא. החילוץ מתבצע על המכשיר — הווידאו והתמונות נשארים באייפון.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">אפשר להמשיך מאוחר יותר?</div>
+                <div class="faq-answer">כן. אפשר לשמור סשנים כפרויקטים ולפתוח אותם שוב.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">האם Video To Photo - Grab Frame חינמי?</div>
+                <div class="faq-answer">האפליקציה חינמית להורדה; תכונות מתקדמות דרך רכישות בתוך האפליקציה.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">למי מיועדת האפליקציה?</div>
+                <div class="faq-answer">ליוצרי תוכן, למורים ולכל מי שרוצה לתפוס רגע ספציפי מווידאו כתמונה סטילס.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 הורידו את Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">מדיניות פרטיות</a>
+                    <a href="https://extractframeapp.com/terms.html">תנאי שימוש</a>
+                    <a href="mailto:c-basso@ya.ru">תמיכה</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>פותח על ידי Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. כל הזכויות שמורות.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 חלצו פריימים מושלמים מווידאו באייפון
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

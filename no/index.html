@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="no" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: bilderamme fra video iPhone</title>
+    <meta name="description" content="Hent ut stillbilder fra video på iPhone på sekunder. Lagre én ramme eller eksporter mange som JPG, PNG eller HEIC — privat på enheten, uten opplasting.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="no">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="NO">
+    <meta name="geo.placename" content="Norge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/no/">
+    <meta property="og:title" content="Video To Photo - Grab Frame for iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="nb_NO">
+    <meta property="og:description" content="Gjør video om til stillbilder på iPhone. Velg nøyaktig øyeblikk og eksporter bilderammer i høy kvalitet som JPG, PNG eller HEIC — behandles på enheten.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/no/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Hent ut nøyaktige bilderammer fra video på iPhone. Behandling på enheten, batch-eksport og fleksible formater.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/no/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: bilderamme fra video iPhone",
+        "description": "Hent ut stillbilder fra video på iPhone på sekunder. Lagre én ramme eller eksporter mange som JPG, PNG eller HEIC — privat på enheten, uten opplasting.",
+        "url": "https://extractframeapp.com/no/",
+        "dateModified": "2026-05-30T18:18:04.819Z",
+        "inLanguage": "no",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/no/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Hent ut stillbilder fra video på iPhone på sekunder. Lagre én ramme eller eksporter mange som JPG, PNG eller HEIC — privat på enheten, uten opplasting.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: bilderamme fra video iPhone",
+                "item": "https://extractframeapp.com/no/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/no/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/no/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Slik henter du ut en ramme fra video på iPhone",
+        "description": "Enkle trinn for å lagre perfekte stillbilder fra klippene dine",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "NOK",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "NOK"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Åpne fra Bilder",
+                "text": "Del en video fra Bilder til Video To Photo - Grab Frame, eller åpne appen først og velg klippet ditt.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Finn det nøyaktige øyeblikket",
+                "text": "Bruk spolekontrollen for å bevege deg ramme for ramme og stopp på bildet du vil ha.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Ta én eller flere rammer",
+                "text": "Fang én ramme eller merk flere øyeblikk for batch-eksport.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Eksporter og lagre",
+                "text": "Lagre rammer som JPG, PNG eller HEIC, eller eksporter som ZIP eller PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Videorammektraktor",
+        "description": "Hent ut stillbilder fra video på iPhone på sekunder. Lagre én ramme eller eksporter mange som JPG, PNG eller HEIC — privat på enheten, uten opplasting.",
+        "url": "https://extractframeapp.com/no/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Foto og video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "NOK",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.819Z",
+        "featureList": [
+            "Nøyaktig rammevalg",
+            "Én eller flere rammer",
+            "JPG-, PNG- og HEIC-eksport",
+            "Del-arbeidsflyt",
+            "ZIP- og PDF-utdata",
+            "Lagre og gjenåpne prosjekter"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Hvordan henter jeg ut en ramme fra video på iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Åpne et klipp i Video To Photo - Grab Frame, spol til det nøyaktige øyeblikket, og fang stillbildet. Eksporter deretter som JPG, PNG eller HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kan jeg eksportere mer enn én ramme om gangen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Du kan velge flere øyeblikk og eksportere flere rammer i én batch."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Hvilke formater kan jeg eksportere?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Appen støtter JPG, PNG og HEIC. Du kan også eksportere som ZIP eller PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Laster appen opp videoene mine?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nei. Rammeuttrekk skjer på enheten — videoer og bilder forblir på iPhone."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kan jeg fortsette senere?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ja. Du kan lagre økter som prosjekter og åpne dem igjen senere."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Er Video To Photo - Grab Frame gratis?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Appen er gratis å laste ned; avanserte funksjoner er tilgjengelige via kjøp i appen."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Hvem er appen for?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Den er nyttig for innholdsskapere, lærere og alle som vil fange et bestemt øyeblikk fra video som et stillbilde."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: bilderamme fra video iPhone",
+            "item": "https://extractframeapp.com/no/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084819" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084819">
+    <link rel="stylesheet" href="/style.css?v=1780165084819">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Video To Photo - Grab Frame-logo" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Hent ut bilderammer fra video på iPhone</h1>
+                    <h2>Lagre nøyaktige stillbilder fra klippene dine på sekunder</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame er en iOS-app som gjør video om til stillbilder på iPhone. Velg det nøyaktige øyeblikket og eksporter rammer som JPG, PNG eller HEIC.</p>
+                    <p class="subheadline">Åpne fra Bilder, spol til riktig øyeblikk, og lagre én eller flere rammer. Ingen konto, opplasting eller redigeringstidslinje.</p>
+                    <p class="last-updated-hero">Sist oppdatert: mai 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Last ned i App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR-kode for å laste ned appen" class="qr-code">
+                        <p class="qr-text">Skann med iPhone for å laste ned</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Trykk for å hente en ramme fra video
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Hvorfor brukere velger denne appen</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Nøyaktig rammevalg</h3>
+                    <p>Spol gjennom videoen og fang nøyaktig det stillbildet du trenger i det rette øyeblikket.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Én eller flere rammer</h3>
+                    <p>Ta én ramme eller merk flere øyeblikk og eksporter et helt sett på én gang.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>JPG-, PNG- og HEIC-eksport</h3>
+                    <p>Lagre uttrukne rammer i formatet som passer arbeidsflyten din.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Del-arbeidsflyt</h3>
+                    <p>Start direkte fra Bilder via Del og gå rett til rammeuttrekk.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP- og PDF-utdata</h3>
+                    <p>Eksporter enkelte bilder, et ZIP-arkiv eller en PDF for gruppelevering.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Lagre og gjenåpne prosjekter</h3>
+                    <p>Lagre øktene som prosjekter og fortsett senere uten å starte på nytt.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame i tall</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Vurdering</div>
+                    <div class="stat-detail">Basert på 8 App Store-vurderinger</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Størrelse</div>
+                    <div class="stat-detail">Lett Foto og video-app</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Formater</div>
+                    <div class="stat-detail">JPG, PNG og HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">På enheten</div>
+                    <div class="stat-label">Personvern</div>
+                    <div class="stat-detail">Ingen videoopplasting</div>
+                </div>
+            </div>
+            <p class="last-updated">Sist oppdatert: mai 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Slik gjør du video om til bilder på iPhone</h2>
+            <p class="subheadline">Hent ut nøyaktige stillbilder uten å laste opp video</p>
+            <p>Video To Photo - Grab Frame er en iPhone-app i kategorien Foto og video som henter ut stillbilder fra video. Ifølge App Store: vurdering 5,0 fra 8 anmeldelser, størrelse 42,9 MB, eksport til JPG, PNG og HEIC. Behandling på enheten — ingen opplasting til eksterne servere.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Rammeuttrekk trinn for trinn</h3>
+                    <p>Del en video fra Bilder til appen, spol til øyeblikket du vil ha, og fang rammen. Gjenta på flere punkter i klippet, og eksporter som JPG, PNG eller HEIC. For gruppelevering er ZIP og PDF tilgjengelig.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Hvorfor den er nyttig</h3>
+                    <p>Video To Photo - Grab Frame fokuserer på én oppgave: å gjøre videoøyeblikk om til stillbilder raskt og presist. Sammenlignet med nettleserbaserte verktøy unngår den opplastingsventetid og holder videoen på enheten. Inkluderer batch-eksport og prosjekter.</p>
+                </div>
+            </div>
+            <h3>Vanlige bruksområder</h3>
+            <ul>
+                <li>Lag miniatyrbilder for sosiale medier fra videoklipp</li>
+                <li>Lagre minneverdige uttrykk eller gester som bilder</li>
+                <li>Bygg storyboards fra opplærings- eller demomateriale</li>
+                <li>Fang referansestillbilder for design eller redigering</li>
+            </ul>
+            <p>Video To Photo - Grab Frame gir iPhone-brukere en fokusert måte å hente ut stillbilder fra video med presis kontroll, fleksible eksportformater og personvern på enheten. Sist verifisert mot App Store 28. mai 2026.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. nettleserbaserte verktøy</h3>
+                <p>Faktisk sammenligning mellom Video To Photo - Grab Frame og typiske nettleserbaserte rammekstraktorer:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Funksjon</th>
+                            <th>Typiske nettverktøy</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Personvern</td>
+                            <td>Krever vanligvis videoopplasting</td>
+                            <td>Rammer hentes ut direkte på iPhone</td>
+                        </tr>
+                        <tr>
+                            <td>Presisjon</td>
+                            <td>Ofte begrenset kontroll</td>
+                            <td>Spol ramme for ramme til nøyaktig øyeblikk</td>
+                        </tr>
+                        <tr>
+                            <td>Utdata</td>
+                            <td>Tilbyr kanskje bare ett format</td>
+                            <td>Eksporterer JPG, PNG og HEIC, pluss ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Arbeidsflyt</td>
+                            <td>Opplastings-/nedlastingssyklus i nettleser</td>
+                            <td>Start fra Del i Bilder og lagre med én gang</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Slik henter du ut en ramme fra video på iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Enkle trinn for å lagre perfekte stillbilder fra klippene dine</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Demovideo kommer snart</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Trinn 1: Åpne fra Bilder > Trinn 2: Spol til øyeblikk > Trinn 3: Ta ramme(r) > Trinn 4: Eksporter JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">5,0 vurdering fra App Store-brukere</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Akkurat det jeg trengte for å hente ut et perfekt stillbilde fra en familievideo. Raskt og enkelt.»</p>
+                    <div class="testimonial-author">App Store-bruker</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Rammevelgeren er presis, og det er veldig praktisk å eksportere flere bilder.»</p>
+                    <div class="testimonial-author">App Store-bruker</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Flott arbeidsflyt fra Del-menyen i Bilder. Ingen komplisert editor nødvendig.»</p>
+                    <div class="testimonial-author">App Store-bruker</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">FAQ: video til bilde på iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Hvordan henter jeg ut en ramme fra video på iPhone?</div>
+                <div class="faq-answer">Åpne et klipp i Video To Photo - Grab Frame, spol til det nøyaktige øyeblikket, og fang stillbildet. Eksporter deretter som JPG, PNG eller HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kan jeg eksportere mer enn én ramme om gangen?</div>
+                <div class="faq-answer">Ja. Du kan velge flere øyeblikk og eksportere flere rammer i én batch.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Hvilke formater kan jeg eksportere?</div>
+                <div class="faq-answer">Appen støtter JPG, PNG og HEIC. Du kan også eksportere som ZIP eller PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Laster appen opp videoene mine?</div>
+                <div class="faq-answer">Nei. Rammeuttrekk skjer på enheten — videoer og bilder forblir på iPhone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kan jeg fortsette senere?</div>
+                <div class="faq-answer">Ja. Du kan lagre økter som prosjekter og åpne dem igjen senere.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Er Video To Photo - Grab Frame gratis?</div>
+                <div class="faq-answer">Appen er gratis å laste ned; avanserte funksjoner er tilgjengelige via kjøp i appen.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Hvem er appen for?</div>
+                <div class="faq-answer">Den er nyttig for innholdsskapere, lærere og alle som vil fange et bestemt øyeblikk fra video som et stillbilde.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Last ned Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Personvernerklæring</a>
+                    <a href="https://extractframeapp.com/terms.html">Vilkår for bruk</a>
+                    <a href="mailto:c-basso@ya.ru">Støtte</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Utviklet av Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Alle rettigheter reservert.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Ta perfekte bilderammer fra video på iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

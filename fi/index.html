@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="fi" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: kuvat videosta iPhonella</title>
+    <meta name="description" content="Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="fi">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="FI">
+    <meta name="geo.placename" content="Suomi">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/fi/">
+    <meta property="og:title" content="Video To Photo - Grab Frame iPhonelle">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="fi_FI">
+    <meta property="og:description" content="Muuta videot valokuviksi iPhonellasi. Valitse tarkka hetki ja vie laadukkaita ruutuja JPG-, PNG- tai HEIC-muodossa — käsittely laitteella.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/fi/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Poimi tarkat stillkuvat videosta iPhonella. Käsittely laitteella, erävienti ja joustavat formaatit.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/fi/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: kuvat videosta iPhonella",
+        "description": "Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.",
+        "url": "https://extractframeapp.com/fi/",
+        "dateModified": "2026-05-30T18:18:04.806Z",
+        "inLanguage": "fi",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/fi/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: kuvat videosta iPhonella",
+                "item": "https://extractframeapp.com/fi/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/fi/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/fi/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Näin poimit ruudun videosta iPhonella",
+        "description": "Näillä yksinkertaisilla vaiheilla tallennat täydelliset stillkuvat klippeistäsi",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "EUR",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "EUR"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Avaa Kuvista",
+                "text": "Jaa video Kuvista sovellukseen Video To Photo - Grab Frame, tai avaa sovellus ensin ja valitse klippisi.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Etsi tarkka hetki",
+                "text": "Käytä liukusäädintä siirtyäksesi ruutu kerrallaan ja pysähdy haluamaasi stillkuvaan.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Poimi yksi tai useampi ruutu",
+                "text": "Tallenna yksi ruutu tai merkitse useita hetkiä erävientiä varten.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Vie ja tallenna",
+                "text": "Tallenna stillkuvat JPG-, PNG- tai HEIC-muodossa, tai vie ZIP- tai PDF-tiedostona.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Videoruudun poiminta",
+        "description": "Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.",
+        "url": "https://extractframeapp.com/fi/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Valokuvat ja video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.806Z",
+        "featureList": [
+            "Tarkka ruudun valinta",
+            "Yksi tai useampi ruutu",
+            "Vienti JPG-, PNG- ja HEIC-muodossa",
+            "Jaa-työnkulku",
+            "ZIP- ja PDF-tuloste",
+            "Tallenna ja avaa projektit uudelleen"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Miten poimin ruudun videosta iPhonella?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Avaa klippi Video To Photo - Grab Frame -sovelluksessa, siirry tarkkaan hetkeen ja tallenna stillkuva. Vie se sitten JPG-, PNG- tai HEIC-muodossa."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Voinko viedä useamman kuin yhden ruudun kerralla?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kyllä. Voit valita useita hetkiä ja viedä useita ruutuja yhdessä erässä."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Mitä formaatteja voin viedä?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sovellus tukee JPG-, PNG- ja HEIC-muotoja. Voit myös viedä ZIP- tai PDF-tiedostoina."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Lataako sovellus videoitani?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ei. Poiminta tapahtuu laitteella — videosi ja kuvasi pysyvät iPhonellasi."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Voinko jatkaa myöhemmin?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Kyllä. Voit tallentaa istunnot projekteina ja avata ne uudelleen myöhemmin."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Onko Video To Photo - Grab Frame ilmainen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sovellus on ilmainen ladattavaksi; edistyneet ominaisuudet ovat sovelluksen sisäisiä ostoja."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kenelle sovellus on tarkoitettu?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sisällöntuottajille, opettajille ja kaikille, jotka haluavat tallentaa tietyn hetken videosta stillkuvaksi."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: kuvat videosta iPhonella",
+            "item": "https://extractframeapp.com/fi/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084806" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084806">
+    <link rel="stylesheet" href="/style.css?v=1780165084806">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Video To Photo - Grab Frame -logo" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Poimi ruutuja videosta iPhonella</h1>
+                    <h2>Tallenna tarkat stillkuvat klippeistäsi sekunneissa</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame on iOS-sovellus, joka muuttaa videot stillkuviksi iPhonellasi. Valitse tarkka hetki ja vie ruutuja JPG-, PNG- tai HEIC-muodossa.</p>
+                    <p class="subheadline">Avaa Kuvista, siirry oikeaan kohtaan ja tallenna yksi tai useampi ruutu. Ei tiliä, ei latauksia eikä editointiaikajanaa.</p>
+                    <p class="last-updated-hero">Viimeksi päivitetty: toukokuu 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Lataa App Storesta" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR-koodi sovelluksen lataamiseen" class="qr-code">
+                        <p class="qr-text">Skannaa iPhonellasi ladataksesi</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Napauta poimiaksesi ruudun videosta
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Miksi käyttäjät valitsevat tämän sovelluksen</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Tarkka ruudun valinta</h3>
+                    <p>Siirry videossa ruutu kerrallaan ja tallenna juuri se stillkuva, jota tarvitset oikealla hetkellä.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Yksi tai useampi ruutu</h3>
+                    <p>Poimi yksi ruutu tai merkitse useita hetkiä ja vie koko setti kerralla.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Vienti JPG-, PNG- ja HEIC-muodossa</h3>
+                    <p>Tallenna poimitut ruudut formaattiin, joka sopii työnkulkuusi ja jakamiseen.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Jaa-työnkulku</h3>
+                    <p>Aloita suoraan Kuvista Jaa-toiminnolla ja siirry heti ruudun poimintaan.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP- ja PDF-tuloste</h3>
+                    <p>Vie erillisinä kuvina, ZIP-arkistona tai PDF:nä, kun tarvitset ryhmiteltyä tulostetta.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Tallenna ja avaa projektit uudelleen</h3>
+                    <p>Tallenna istunnot projekteina ja jatka myöhemmin aloittamatta alusta.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame numeroina</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Arvio</div>
+                    <div class="stat-detail">Perustuu 8 App Store -arvioon</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Koko</div>
+                    <div class="stat-detail">Kevyt valokuvat ja video -sovellus</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Formaatit</div>
+                    <div class="stat-detail">JPG, PNG ja HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Laitteella</div>
+                    <div class="stat-label">Yksityisyys</div>
+                    <div class="stat-detail">Ei videon latausta</div>
+                </div>
+            </div>
+            <p class="last-updated">Viimeksi päivitetty: toukokuu 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Näin muutat videon kuviksi iPhonella</h2>
+            <p class="subheadline">Poimi tarkat stillhetket lataamatta videota</p>
+            <p>Video To Photo - Grab Frame on iPhone-sovellus Valokuvat ja video -kategoriassa, joka poimii stillkuvia videosta. App Storen mukaan: arvio 5,0 kahdeksasta arviosta, koko 42,9 MB, vienti JPG-, PNG- ja HEIC-muodossa. Käsittely laitteella — ei lähetystä ulkoisille palvelimille.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Ruudun poiminta vaihe vaiheelta</h3>
+                    <p>Jaa video Kuvista sovellukseen, siirry hetkeen ja tallenna ruutu. Toista useissa kohdissa ja vie JPG-, PNG- tai HEIC-muodossa. Ryhmiteltyyn toimitukseen on ZIP ja PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Miksi se on hyödyllinen</h3>
+                    <p>Video To Photo - Grab Frame keskittyy yhteen tehtävään: muuttaa videohetket nopeasti ja tarkasti stillkuviksi. Toisin kuin selaintyökalut, vältät latausajan ja pidät videon laitteella. Mukana erävienti ja projektit.</p>
+                </div>
+            </div>
+            <h3>Yleisiä käyttötapauksia</h3>
+            <ul>
+                <li>Pikkukuvat sosiaaliseen mediaan videoklippeihin</li>
+                <li>Ilmeiden tai eleiden tallentaminen kuvina</li>
+                <li>Storyboardit opetus- tai demovideoista</li>
+                <li>Referenssikuvat suunnitteluun tai editointiin</li>
+            </ul>
+            <p>Video To Photo - Grab Frame tarjoaa iPhone-käyttäjille keskittyneen tavan poimia stillkuvia videosta tarkalla hallinnalla, joustavilla formaateilla ja yksityisyydellä laitteella. Varmistettu App Storea vastaan 28.5.2026.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. selaintyökalut</h3>
+                <p>Vertailu Video To Photo - Grab Frame -sovelluksen ja tyypillisten selainpohjaisten ruudunpoimintatyökalujen välillä:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Ominaisuus</th>
+                            <th>Tyypilliset verkkotyökalut</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Yksityisyys</td>
+                            <td>Vaatii yleensä videon lataamisen</td>
+                            <td>Ruudut poimitaan suoraan iPhonellasi</td>
+                        </tr>
+                        <tr>
+                            <td>Tarkkuus</td>
+                            <td>Usein rajallinen hallinta</td>
+                            <td>Siirry ruutu kerrallaan tarkkaan hetkeen</td>
+                        </tr>
+                        <tr>
+                            <td>Tuloste</td>
+                            <td>Joskus vain yksi formaatti</td>
+                            <td>JPG, PNG ja HEIC, plus ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Työnkulku</td>
+                            <td>Selaimen lataus/lataus -sykli</td>
+                            <td>Aloita Jaasta Kuvissa ja tallenna heti</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Näin poimit ruudun videosta iPhonella</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Näillä yksinkertaisilla vaiheilla tallennat täydelliset stillkuvat klippeistäsi</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Demovideo tulossa pian</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Vaihe 1: Avaa Kuvista > Vaihe 2: Siirry hetkeen > Vaihe 3: Poimi ruutu(ja) > Vaihe 4: Vie JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">5,0 arvio App Store -käyttäjiltä</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Juuri sitä mitä tarvitsin täydelliseen stillkuvaan perhevideosta. Nopeaa ja yksinkertaista.“</p>
+                    <div class="testimonial-author">App Store -käyttäjä</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Ruudun valinta on tarkka, ja useiden kuvien vienti on todella kätevää.“</p>
+                    <div class="testimonial-author">App Store -käyttäjä</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Loistava työnkulku Jaasta Kuvissa. Ei tarvita monimutkaista editoria.“</p>
+                    <div class="testimonial-author">App Store -käyttäjä</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">UKK: video kuvaksi iPhonella</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Miten poimin ruudun videosta iPhonella?</div>
+                <div class="faq-answer">Avaa klippi Video To Photo - Grab Frame -sovelluksessa, siirry tarkkaan hetkeen ja tallenna stillkuva. Vie se sitten JPG-, PNG- tai HEIC-muodossa.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Voinko viedä useamman kuin yhden ruudun kerralla?</div>
+                <div class="faq-answer">Kyllä. Voit valita useita hetkiä ja viedä useita ruutuja yhdessä erässä.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Mitä formaatteja voin viedä?</div>
+                <div class="faq-answer">Sovellus tukee JPG-, PNG- ja HEIC-muotoja. Voit myös viedä ZIP- tai PDF-tiedostoina.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Lataako sovellus videoitani?</div>
+                <div class="faq-answer">Ei. Poiminta tapahtuu laitteella — videosi ja kuvasi pysyvät iPhonellasi.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Voinko jatkaa myöhemmin?</div>
+                <div class="faq-answer">Kyllä. Voit tallentaa istunnot projekteina ja avata ne uudelleen myöhemmin.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Onko Video To Photo - Grab Frame ilmainen?</div>
+                <div class="faq-answer">Sovellus on ilmainen ladattavaksi; edistyneet ominaisuudet ovat sovelluksen sisäisiä ostoja.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kenelle sovellus on tarkoitettu?</div>
+                <div class="faq-answer">Sisällöntuottajille, opettajille ja kaikille, jotka haluavat tallentaa tietyn hetken videosta stillkuvaksi.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Lataa Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Tietosuojakäytäntö</a>
+                    <a href="https://extractframeapp.com/terms.html">Käyttöehdot</a>
+                    <a href="mailto:c-basso@ya.ru">Tuki</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Kehittäjä: Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Kaikki oikeudet pidätetään.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Poimi täydelliset ruudut videosta iPhonella
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

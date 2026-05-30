@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "fil",
+    "title": "Video To Photo - Grab Frame: kunin ang frame mula sa video",
+    "description": "Kunin ang still na larawan mula sa video sa iPhone mo. I-save ang isang frame o i-export ang marami bilang JPG, PNG o HEIC — pribado sa device, walang upload.",
+    "keywords": "video to photo, kunin ang frame mula sa video, frame grabber, iPhone frame mula sa video, i-save ang frame, video to image, jpg mula sa video, png mula sa video, heic mula sa video, batch export, ibahagi mula sa photos, app store frame grabber",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/fil/",
+    "og_title": "Video To Photo - Grab Frame para sa iPhone",
+    "og_description": "Gawing larawan ang video sa iPhone mo. Piliin ang eksaktong sandali at i-export ang de-kalidad na frame bilang JPG, PNG, o HEIC — processing sa device.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "fil_PH",
+    "twitter_url": "https://extractframeapp.com/fil/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Kunin ang eksaktong still frame mula sa video sa iPhone. Processing sa device, batch export, at flexible na format.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/fil/",
+    "geo_region": "PH",
+    "geo_placename": "Pilipinas"
+  },
+  "hero": {
+    "logo_alt": "Logo ng Video To Photo - Grab Frame",
+    "title": "Kunin ang frame mula sa video sa iPhone",
+    "subtitle": "I-save ang eksaktong still na larawan mula sa mga clip mo sa ilang segundo",
+    "entity_definition": "Ang Video To Photo - Grab Frame ay iOS app na ginagawang still na larawan ang video sa iPhone mo. Piliin ang eksaktong sandali at i-export ang frame bilang JPG, PNG, o HEIC.",
+    "subheadline": "Buksan mula sa Photos, i-scrub sa tamang sandali, at i-save ang isang frame o marami. Walang account, walang upload, at walang editing timeline.",
+    "download_alt": "I-download sa App Store",
+    "phone_text": "I-tap para kunin ang frame mula sa video",
+    "qr_alt": "QR code para i-download ang app",
+    "qr_text": "I-scan gamit ang iPhone mo para i-download"
+  },
+  "last_updated": {
+    "text": "LAST_UPDATED"
+  },
+  "features": {
+    "title": "Bakit pinipili ng mga user ang app na ito",
+    "items": [
+      {
+        "title": "Eksaktong pagpili ng frame",
+        "description": "I-scrub ang video at kunin ang eksaktong still na kailangan mo sa tamang sandali.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Isang frame o marami",
+        "description": "Kunin ang isang frame o piliin ang maraming sandali at i-export ang buong set nang sabay-sabay.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Export bilang JPG, PNG, at HEIC",
+        "description": "I-save ang na-extract na frame sa format na swak sa workflow at pagbabahagi mo.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Ibahagi workflow",
+        "description": "Magsimula direkta mula sa Photos via Ibahagi at pumunta agad sa frame extraction.",
+        "icon": "🔗"
+      },
+      {
+        "title": "ZIP at PDF output",
+        "description": "I-export bilang hiwalay na larawan, ZIP archive, o PDF kapag kailangan mo ng grouped output.",
+        "icon": "📦"
+      },
+      {
+        "title": "I-save at buksan muli ang mga project",
+        "description": "I-save ang mga session bilang project at magpatuloy mamaya nang hindi nagsisimula ulit.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame sa mga numero",
+    "items": [
+      "5.0 out of 5 mula sa 8 rating sa App Store",
+      "Laki ng app 42.9 MB",
+      "Suportado ang export bilang JPG, PNG, at HEIC",
+      "Ginawa para sa iPhone",
+      "Nananatili ang processing sa device para sa privacy"
+    ],
+    "stats": [
+      {
+        "number": "5.0",
+        "label": "Rating",
+        "detail": "Batay sa 8 rating sa App Store"
+      },
+      {
+        "number": "42.9 MB",
+        "label": "Laki",
+        "detail": "Magaan na Photo & Video app"
+      },
+      {
+        "number": "3",
+        "label": "Format",
+        "detail": "JPG, PNG, at HEIC"
+      },
+      {
+        "number": "Sa device",
+        "label": "Privacy",
+        "detail": "Walang kailangang i-upload ang video"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Paano kunin ang frame mula sa video sa iPhone",
+    "subtitle": "Sundin ang simpleng hakbang na ito para i-save ang perpektong still na larawan mula sa mga clip mo",
+    "placeholder_line1": "📱 Demo video malapit na",
+    "placeholder_line2": "Hakbang 1: Buksan mula sa Photos > Hakbang 2: Scrub sa sandali > Hakbang 3: Kunin ang frame > Hakbang 4: Export JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Buksan mula sa Photos",
+        "text": "Ibahagi ang video mula sa Photos papunta sa {{app_info.name}}, o buksan muna ang app at piliin ang clip mo."
+      },
+      {
+        "name": "Hanapin ang eksaktong sandali",
+        "text": "Gamitin ang scrub control para lumipat frame by frame at huminto sa still image na gusto mo."
+      },
+      {
+        "name": "Kunin ang isa o maraming frame",
+        "text": "Kunin ang isang frame o markahan ang maraming sandali para sa batch export."
+      },
+      {
+        "name": "I-export at i-save",
+        "text": "I-save ang still na larawan bilang JPG, PNG, o HEIC, o i-export bilang ZIP o PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "5.0 rating mula sa mga user ng App Store",
+    "items": [
+      {
+        "text": "\"Eksaktong kailangan ko para sa perpektong still mula sa family video. Mabilis at simple.\"",
+        "author": "User ng App Store",
+        "rating": "5 stars",
+        "verified": true
+      },
+      {
+        "text": "\"Tumpak ang frame picker at napakadali mag-export ng maraming larawan.\"",
+        "author": "User ng App Store",
+        "rating": "5 stars",
+        "verified": true
+      },
+      {
+        "text": "\"Magandang workflow mula sa Ibahagi sa Photos. Hindi kailangan ng komplikadong editor.\"",
+        "author": "User ng App Store",
+        "rating": "5 stars",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ: video to photo sa iPhone",
+    "items": [
+      {
+        "question": "Paano kukunin ang frame mula sa video sa iPhone?",
+        "answer": "Buksan ang clip sa Video To Photo - Grab Frame, i-scrub sa eksaktong sandali, at kunin ang still. Pagkatapos i-export bilang JPG, PNG, o HEIC."
+      },
+      {
+        "question": "Puwede bang mag-export ng higit sa isang frame?",
+        "answer": "Oo. Puwede kang pumili ng maraming sandali at mag-export ng ilang frame sa isang batch."
+      },
+      {
+        "question": "Anong mga format ang puwedeng i-export?",
+        "answer": "Sinusuportahan ng app ang JPG, PNG, at HEIC. Puwede ring i-export bilang ZIP o PDF."
+      },
+      {
+        "question": "Ina-upload ba ng app ang mga video ko?",
+        "answer": "Hindi. Ang extraction ay nangyayari sa device — nananatili ang video at larawan sa iPhone mo."
+      },
+      {
+        "question": "Puwede bang magpatuloy mamaya?",
+        "answer": "Oo. Puwede mong i-save ang mga session bilang project at buksan muli mamaya."
+      },
+      {
+        "question": "Libre ba ang Video To Photo - Grab Frame?",
+        "answer": "Libre ang i-download ang app; ang advanced features ay sa pamamagitan ng in-app purchase."
+      },
+      {
+        "question": "Para kanino ang app na ito?",
+        "answer": "Para sa content creators, educators, at sinumang gustong kunin ang partikular na sandali mula sa video bilang still na larawan."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Video frame extractor",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Larawan at Video"
+  },
+  "footer": {
+    "cta_text": "📱 I-download ang Video To Photo - Grab Frame",
+    "privacy_text": "Patakaran sa Privacy",
+    "terms_text": "Mga Tuntunin ng Paggamit",
+    "support_text": "Suporta",
+    "developer_info": "Ginawa ni Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Lahat ng karapatan ay nakalaan."
+  },
+  "floating_cta": {
+    "text": "📱 Kunin ang perpektong frame mula sa video sa iPhone"
+  },
+  "seo_chapter": {
+    "title": "Paano gawing larawan ang video sa iPhone",
+    "subtitle": "Kunin ang eksaktong still moment nang hindi ina-upload ang video",
+    "intro": "Ang Video To Photo - Grab Frame ay iPhone app sa kategoryang Larawan at Video na kumukuha ng still image mula sa video. Ayon sa App Store: 5.0 rating mula sa 8 review, 42.9 MB ang laki, at suportado ang export sa JPG, PNG, at HEIC. Processing sa device — walang upload sa external server.",
+    "sections": [
+      {
+        "heading": "Frame extraction hakbang-hakbang",
+        "body": "Ibahagi ang video mula sa Photos papunta sa app, i-scrub sa sandali, at kunin ang frame. Ulitin sa maraming punto sa clip at i-export bilang JPG, PNG, o HEIC. Para sa grouped delivery, may ZIP at PDF."
+      },
+      {
+        "heading": "Bakit ito kapaki-pakinabang",
+        "body": "Nakatuon ang Video To Photo - Grab Frame sa isang trabaho: gawing still image ang video moment nang mabilis at tumpak. Kumpara sa browser tools, walang upload waiting time at nananatili ang video sa device. Kasama ang batch export at project save/reopen."
+      }
+    ],
+    "bullets_title": "Karaniwang use case",
+    "bullets": [
+      "Gumawa ng social thumbnail mula sa video clip",
+      "I-save ang memorable na expression o gesture bilang larawan",
+      "Gumawa ng storyboard mula sa tutorial o demo footage",
+      "Kumuha ng reference still para sa design o editing"
+    ],
+    "conclusion": "Nagbibigay ang Video To Photo - Grab Frame sa mga iPhone user ng focused na paraan para kunin ang still image mula sa video na may eksaktong kontrol, flexible na format, at privacy sa device. Na-verify laban sa App Store noong Mayo 28, 2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. browser tools",
+    "intro": "Paghahambing ng Video To Photo - Grab Frame at typical na browser-based frame extractor:",
+    "table": {
+      "feature": "Feature",
+      "online_converters": "Typical na web tool",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Privacy",
+          "online": "Karaniwang kailangan ang video upload",
+          "app": "Direktang kinukuha ang frame sa iPhone mo"
+        },
+        {
+          "feature": "Precision",
+          "online": "Madalas limitado ang kontrol",
+          "app": "I-scrub frame by frame sa eksaktong sandali"
+        },
+        {
+          "feature": "Output",
+          "online": "Minsan isang format lang",
+          "app": "JPG, PNG, at HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Workflow",
+          "online": "Upload/download cycle sa browser",
+          "app": "Magsimula mula sa Ibahagi sa Photos at i-save agad"
+        }
+      ]
+    }
+  }
+}

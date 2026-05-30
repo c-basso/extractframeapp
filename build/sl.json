@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "sl",
+    "title": "Video To Photo - Grab Frame: sličice iz videa za iPhone",
+    "description": "Izvlecite statične fotografije iz videa na iPhonu v sekundah. Shranite eno sličico ali izvozite več kot JPG, PNG ali HEIC — zasebno na napravi, brez nalaganja.",
+    "keywords": "video v fotografijo, sličica iz videa, ekstraktor sličic, iPhone sličica videa, shrani sličico, video v sliko, jpg iz videa, png iz videa, heic iz videa, paketni izvoz, deli iz fotografij, app store ekstraktor sličic",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/sl/",
+    "og_title": "Video To Photo - Grab Frame za iPhone",
+    "og_description": "Pretvorite videoposnetke v fotografije na iPhonu. Izberite točen trenutek in izvozite sličice visoke kakovosti kot JPG, PNG ali HEIC — obdelava na napravi.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "sl_SI",
+    "twitter_url": "https://extractframeapp.com/sl/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Izvlecite natančne sličice iz videa na iPhonu. Obdelava na napravi, paketni izvoz in prilagodljivi formati.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/sl/",
+    "geo_region": "SI",
+    "geo_placename": "Slovenija"
+  },
+  "hero": {
+    "logo_alt": "Logotip Video To Photo - Grab Frame",
+    "title": "Izvlecite sličice iz videa na iPhonu",
+    "subtitle": "Shranite natančne fotografije iz posnetkov v sekundah",
+    "entity_definition": "Video To Photo - Grab Frame je iOS aplikacija, ki na iPhonu pretvarja videoposnetke v fotografije. Izberite točen trenutek in izvozite sličice kot JPG, PNG ali HEIC.",
+    "subheadline": "Odprite iz Fotografije, pomaknite se na pravi trenutek in shranite eno ali več sličic. Brez računa, nalaganja in montažne časovnice.",
+    "download_alt": "Prenesi v App Store",
+    "phone_text": "Tapnite za shranjevanje sličice iz videa",
+    "qr_alt": "QR koda za prenos aplikacije",
+    "qr_text": "Skenirajte z iPhonom za prenos"
+  },
+  "last_updated": {
+    "text": "LAST_UPDATED"
+  },
+  "features": {
+    "title": "Zakaj uporabniki izberejo to aplikacijo",
+    "items": [
+      {
+        "title": "Natančen izbor sličice",
+        "description": "Pomikajte se po videu in zajemite točno tisto statično sliko, ki jo potrebujete v pravem trenutku.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Ena ali več sličic",
+        "description": "Zajemite eno sličico ali označite več trenutkov in izvozite celoten nabor slik naenkrat.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Izvoz JPG, PNG in HEIC",
+        "description": "Shranite izvlečene sličice v formatu, ki ustreza vašemu delovnemu toku.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Delovni tok Deli",
+        "description": "Začnite neposredno iz Fotografije prek Deli in takoj preidite k izvleku sličic.",
+        "icon": "🔗"
+      },
+      {
+        "title": "Izhod ZIP in PDF",
+        "description": "Izvozite posamezne slike, ZIP arhiv ali PDF, ko potrebujete skupinsko dostavo.",
+        "icon": "📦"
+      },
+      {
+        "title": "Shranjevanje in ponovno odpiranje projektov",
+        "description": "Shranite seje kot projekte in nadaljujte pozneje brez začetka od začetka.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame v številkah",
+    "items": [
+      "5,0 od 5 glede na 8 ocen v App Store",
+      "Velikost aplikacije 42,9 MB",
+      "Izvoz kot JPG, PNG in HEIC",
+      "Ustvarjeno za iPhone",
+      "Obdelava na napravi zaradi zasebnosti"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Ocena",
+        "detail": "Na podlagi 8 ocen v App Store"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Velikost",
+        "detail": "Lahka aplikacija Fotografije in video"
+      },
+      {
+        "number": "3",
+        "label": "Formati",
+        "detail": "JPG, PNG in HEIC"
+      },
+      {
+        "number": "Na napravi",
+        "label": "Zasebnost",
+        "detail": "Brez nalaganja videa"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Kako izvleči sličico iz videa na iPhonu",
+    "subtitle": "Preprosti koraki za shranjevanje popolnih fotografij iz posnetkov",
+    "placeholder_line1": "📱 Predstavitveni video kmalu",
+    "placeholder_line2": "Korak 1: Odpri iz Fotografije > Korak 2: Pomakni na trenutek > Korak 3: Zajemi sličico(e) > Korak 4: Izvozi JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Odpri iz Fotografije",
+        "text": "Delite video iz Fotografije v {{app_info.name}}, ali najprej odprite aplikacijo in izberite posnetek."
+      },
+      {
+        "name": "Najdi točen trenutek",
+        "text": "Uporabite drsnik za premikanje sličico po sličici in ustavite se na želeni sliki."
+      },
+      {
+        "name": "Zajemi eno ali več sličic",
+        "text": "Zajemite eno sličico ali označite več trenutkov za paketni izvoz."
+      },
+      {
+        "name": "Izvozi in shrani",
+        "text": "Shranite sličice kot JPG, PNG ali HEIC, ali izvozite kot ZIP ali PDF."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "Ocena 5,0 od uporabnikov App Store",
+    "items": [
+      {
+        "text": "„Točno to, kar sem potreboval za popolno sličico iz družinskega videa. Hitro in preprosto.“",
+        "author": "Uporabnik App Store",
+        "rating": "5 zvezdic",
+        "verified": true
+      },
+      {
+        "text": "„Izbira sličice je natančna, izvoz več slik pa zelo priročen.“",
+        "author": "Uporabnik App Store",
+        "rating": "5 zvezdic",
+        "verified": true
+      },
+      {
+        "text": "„Odličen delovni tok iz Deli v Fotografiji. Ni potreben zapleten urejevalnik.“",
+        "author": "Uporabnik App Store",
+        "rating": "5 zvezdic",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "Pogosta vprašanja: video v fotografijo na iPhonu",
+    "items": [
+      {
+        "question": "Kako izvlečem sličico iz videa na iPhonu?",
+        "answer": "Odprite posnetek v Video To Photo - Grab Frame, pomaknite se na točen trenutek in zajemite sličico. Nato jo izvozite kot JPG, PNG ali HEIC."
+      },
+      {
+        "question": "Ali lahko izvozim več sličic hkrati?",
+        "answer": "Da. Izberete lahko več trenutkov in izvozite več sličic v eni seriji."
+      },
+      {
+        "question": "Katere formate lahko izvozim?",
+        "answer": "Aplikacija podpira JPG, PNG in HEIC. Izvozite lahko tudi kot ZIP ali PDF."
+      },
+      {
+        "question": "Ali aplikacija nalaga moje videoposnetke?",
+        "answer": "Ne. Izvleček poteka na napravi — videi in slike ostanejo na vašem iPhonu."
+      },
+      {
+        "question": "Ali lahko nadaljujem pozneje?",
+        "answer": "Da. Seje lahko shranite kot projekte in jih znova odprete."
+      },
+      {
+        "question": "Ali je Video To Photo - Grab Frame brezplačen?",
+        "answer": "Aplikacija je brezplačna za prenos; napredne funkcije so prek nakupov v aplikaciji."
+      },
+      {
+        "question": "Za koga je aplikacija?",
+        "answer": "Za ustvarjalce vsebin, pedagoge in vse, ki želijo ujeti določen trenutek iz videa kot fotografijo."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Ekstraktor sličic iz videa",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Fotografije in video"
+  },
+  "footer": {
+    "cta_text": "📱 Prenesi Video To Photo - Grab Frame",
+    "privacy_text": "Pravilnik o zasebnosti",
+    "terms_text": "Pogoji uporabe",
+    "support_text": "Podpora",
+    "developer_info": "Razvil Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Vse pravice pridržane."
+  },
+  "floating_cta": {
+    "text": "📱 Zajemite popolne sličice iz videa na iPhonu"
+  },
+  "seo_chapter": {
+    "title": "Kako pretvoriti video v fotografije na iPhonu",
+    "subtitle": "Izvlecite natančne sličice brez nalaganja videa",
+    "intro": "Video To Photo - Grab Frame je iPhone aplikacija v kategoriji Fotografije in video, ki izvleče statične sličice iz videa. Po App Store: ocena 5,0 od 8 mnenj, velikost 42,9 MB, izvoz v JPG, PNG in HEIC. Obdelava na napravi — brez pošiljanja na zunanje strežnike.",
+    "sections": [
+      {
+        "heading": "Izvleček sličice korak za korakom",
+        "body": "Delite video iz Fotografije v aplikacijo, pomaknite se na trenutek in zajemite sličico. Ponovite na več mestih posnetka in izvozite kot JPG, PNG ali HEIC. ZIP in PDF sta na voljo za skupinsko dostavo."
+      },
+      {
+        "heading": "Zakaj je uporabna",
+        "body": "Video To Photo - Grab Frame se osredotoča na eno nalogo: hitro in natančno pretvarjanje video trenutkov v statične sličice. V primerjavi z brskalniškimi orodji brez čakanja na nalaganje in z videom na napravi. Paketni izvoz in projekti vključeni."
+      }
+    ],
+    "bullets_title": "Pogosti primeri uporabe",
+    "bullets": [
+      "Sličice za družbena omrežja iz videoposnetkov",
+      "Shranjevanje izrazov ali gest kot fotografij",
+      "Storyboardi iz vadnic ali predstavitev",
+      "Referenčne sličice za oblikovanje ali montažo"
+    ],
+    "conclusion": "Video To Photo - Grab Frame uporabnikom iPhona ponuja osredotočen način izvleka sličic iz videa z natančnim nadzorom, prilagodljivimi formati in zasebnostjo na napravi. Nazadnje preverjeno glede na App Store LAST_UPDATED."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame v primerjavi z brskalniškimi orodji",
+    "intro": "Primerjava med Video To Photo - Grab Frame in tipičnimi brskalniškimi ekstraktorji sličic:",
+    "table": {
+      "feature": "Funkcija",
+      "online_converters": "Tipična spletna orodja",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Zasebnost",
+          "online": "Običajno zahteva nalaganje videa",
+          "app": "Sličice se izvlečejo neposredno na vašem iPhonu"
+        },
+        {
+          "feature": "Natančnost",
+          "online": "Pogosto omejen nadzor",
+          "app": "Premikanje sličico po sličici do točnega trenutka"
+        },
+        {
+          "feature": "Izhod",
+          "online": "Včasih samo en format",
+          "app": "JPG, PNG in HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Delovni tok",
+          "online": "Cikel nalaganja/prenosa v brskalniku",
+          "app": "Začnite iz Deli v Fotografiji in takoj shranite"
+        }
+      ]
+    }
+  }
+}

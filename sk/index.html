@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="sk" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: snímky z videa pre iPhone</title>
+    <meta name="description" content="Vyťahujte fotky z videa na iPhone za sekundy. Uložte jeden snímok alebo exportujte viac naraz ako JPG, PNG alebo HEIC — súkromne na zariadení, bez nahrávania.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="sk">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="SK">
+    <meta name="geo.placename" content="Slovensko">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/sk/">
+    <meta property="og:title" content="Video To Photo - Grab Frame pre iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="sk_SK">
+    <meta property="og:description" content="Premenite videá na fotky na iPhone. Vyberte presný okamih a exportujte snímky vo vysokej kvalite ako JPG, PNG alebo HEIC — spracovanie priamo na zariadení.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/sk/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Vyťahujte presné snímky z videa na iPhone. Spracovanie na zariadení, hromadný export a flexibilné formáty.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/sk/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: snímky z videa pre iPhone",
+        "description": "Vyťahujte fotky z videa na iPhone za sekundy. Uložte jeden snímok alebo exportujte viac naraz ako JPG, PNG alebo HEIC — súkromne na zariadení, bez nahrávania.",
+        "url": "https://extractframeapp.com/sk/",
+        "dateModified": "2026-05-30T18:18:04.820Z",
+        "inLanguage": "sk",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/sk/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Vyťahujte fotky z videa na iPhone za sekundy. Uložte jeden snímok alebo exportujte viac naraz ako JPG, PNG alebo HEIC — súkromne na zariadení, bez nahrávania.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: snímky z videa pre iPhone",
+                "item": "https://extractframeapp.com/sk/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/sk/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/sk/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Ako vyťahovať snímok z videa na iPhone",
+        "description": "Jednoduché kroky k uloženiu perfektných fotiek z klipov",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "EUR",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "EUR"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Otvoriť z Fotiek",
+                "text": "Zdieľajte video z Fotiek do Video To Photo - Grab Frame, alebo najprv otvorte aplikáciu a vyberte klip.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Nájsť presný okamih",
+                "text": "Použite posuvník na pohyb snímok po snímku a zastavte sa na požadovanom obraze.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Zachytiť jeden alebo viac snímkov",
+                "text": "Zachyťte jeden snímok alebo označte viac okamihov pre hromadný export.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Exportovať a uložiť",
+                "text": "Uložte snímky ako JPG, PNG alebo HEIC, alebo exportujte ako ZIP či PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Extraktor snímkov z videa",
+        "description": "Vyťahujte fotky z videa na iPhone za sekundy. Uložte jeden snímok alebo exportujte viac naraz ako JPG, PNG alebo HEIC — súkromne na zariadení, bez nahrávania.",
+        "url": "https://extractframeapp.com/sk/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Fotky a video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.820Z",
+        "featureList": [
+            "Presný výber snímku",
+            "Jeden alebo viac snímkov",
+            "Export JPG, PNG a HEIC",
+            "Workflow Zdieľať",
+            "Výstup ZIP a PDF",
+            "Uloženie a znovuotvorenie projektov"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Ako vyťahujem snímok z videa na iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Otvorte klip v Video To Photo - Grab Frame, posuňte sa na presný okamih a zachyťte snímok. Potom ho exportujte ako JPG, PNG alebo HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Môžem exportovať viac snímkov naraz?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Áno. Môžete vybrať viac okamihov a exportovať niekoľko snímkov v jednej dávke."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Aké formáty môžem exportovať?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Aplikácia podporuje JPG, PNG a HEIC. Môžete tiež exportovať ako ZIP alebo PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Nahráva aplikácia moje videá?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nie. Extrakcia prebieha na zariadení — videá a obrázky zostávajú na vašom iPhone."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Môžem pokračovať neskôr?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Áno. Relácie môžete uložiť ako projekty a znovu otvoriť."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Je Video To Photo - Grab Frame zadarmo?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Aplikácia je zadarmo na stiahnutie; pokročilé funkcie sú cez nákupy v aplikácii."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Pre koho je aplikácia?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Pre tvorcov obsahu, pedagógov a každého, kto chce zachytiť konkrétny moment z videa ako fotku."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: snímky z videa pre iPhone",
+            "item": "https://extractframeapp.com/sk/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084820" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084820">
+    <link rel="stylesheet" href="/style.css?v=1780165084820">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Logo Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Vyťahujte snímky z videa na iPhone</h1>
+                    <h2>Uložte presné fotky z klipov za pár sekúnd</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame je iOS aplikácia, ktorá na iPhone mení videá na fotky. Vyberte presný okamih a exportujte snímky ako JPG, PNG alebo HEIC.</p>
+                    <p class="subheadline">Otvorte z Fotiek, posuňte sa na správny okamih a uložte jeden alebo viac snímkov. Bez účtu, nahrávania a strihovej časovej osi.</p>
+                    <p class="last-updated-hero">Naposledy aktualizované: máj 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Stiahnuť v App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR kód na stiahnutie aplikácie" class="qr-code">
+                        <p class="qr-text">Naskenujte iPhonom na stiahnutie</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Klepnite pre uloženie snímku z videa
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Prečo používatelia volia túto aplikáciu</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Presný výber snímku</h3>
+                    <p>Posúvajte video a zachyťte presne ten snímok, ktorý potrebujete v správnom okamihu.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Jeden alebo viac snímkov</h3>
+                    <p>Zachyťte jeden snímok alebo označte viac okamihov a exportujte celú sadu naraz.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Export JPG, PNG a HEIC</h3>
+                    <p>Ukladajte extrahované snímky vo formáte, ktorý vyhovuje vášmu workflow.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Workflow Zdieľať</h3>
+                    <p>Začnite priamo z Fotiek cez Zdieľať a prejdite rovno k extrakcii snímkov.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>Výstup ZIP a PDF</h3>
+                    <p>Exportujte jednotlivé obrázky, ZIP archív alebo PDF pre skupinové doručenie.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Uloženie a znovuotvorenie projektov</h3>
+                    <p>Uložte relácie ako projekty a pokračujte neskôr bez začínania od nuly.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame v číslach</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Hodnotenie</div>
+                    <div class="stat-detail">Podľa 8 hodnotení v App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Veľkosť</div>
+                    <div class="stat-detail">Lahká aplikácia Fotky a video</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Formáty</div>
+                    <div class="stat-detail">JPG, PNG a HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Na zariadení</div>
+                    <div class="stat-label">Súkromie</div>
+                    <div class="stat-detail">Bez nahrávania videa</div>
+                </div>
+            </div>
+            <p class="last-updated">Naposledy aktualizované: máj 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Ako premeniť video na fotky na iPhone</h2>
+            <p class="subheadline">Vyťahujte presné snímky bez nahratia videa</p>
+            <p>Video To Photo - Grab Frame je iPhone aplikácia v kategórii Fotky a video, ktorá vyťahuje statické snímky z videa. Podľa App Store: hodnotenie 5,0 z 8 recenzií, veľkosť 42,9 MB, export do JPG, PNG a HEIC. Spracovanie na zariadení — bez odoslania na externé servery.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Extrakcia snímku krok za krokom</h3>
+                    <p>Zdieľajte video z Fotiek do aplikácie, posuňte sa na okamih a zachyťte snímok. Opakujte na viacerých miestach klipu a exportujte ako JPG, PNG alebo HEIC. Pre skupinové doručenie sú k dispozícii ZIP a PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Prečo je užitočná</h3>
+                    <p>Video To Photo - Grab Frame sa sústredí na jednu úlohu: rýchlo a presne meniť video okamihy na statické snímky. Oproti nástrojom v prehliadači bez čakania na upload a s videom na zariadení. Hromadný export a projekty sú zahrnuté.</p>
+                </div>
+            </div>
+            <h3>Bežné prípady použitia</h3>
+            <ul>
+                <li>Náhľady pre sociálne siete z videoklipov</li>
+                <li>Uloženie výrazov alebo gest ako fotiek</li>
+                <li>Storyboardy z tutoriálov alebo dem</li>
+                <li>Referenčné snímky pre dizajn alebo strih</li>
+            </ul>
+            <p>Video To Photo - Grab Frame ponúka používateľom iPhonu sústredený spôsob extrakcie snímkov z videa s presnou kontrolou, flexibilnými formátmi a súkromím na zariadení. Overené podľa App Store LAST_UPDATED.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. nástroje v prehliadači</h3>
+                <p>Porovnanie Video To Photo - Grab Frame s typickými extraktormi v prehliadači:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Vlastnosť</th>
+                            <th>Typické webové nástroje</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Súkromie</td>
+                            <td>Obvykle vyžaduje nahratie videa</td>
+                            <td>Snímky sa extrahujú priamo na iPhone</td>
+                        </tr>
+                        <tr>
+                            <td>Presnosť</td>
+                            <td>Často obmedzená kontrola</td>
+                            <td>Posun snímok po snímku na presný okamih</td>
+                        </tr>
+                        <tr>
+                            <td>Výstup</td>
+                            <td>Niekedy len jeden formát</td>
+                            <td>JPG, PNG a HEIC, plus ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Workflow</td>
+                            <td>Cyklus nahratia/stiahnutia v prehliadači</td>
+                            <td>Štart zo Zdieľať vo Fotkách a okamžité uloženie</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Ako vyťahovať snímok z videa na iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Jednoduché kroky k uloženiu perfektných fotiek z klipov</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Ukážkové video čoskoro</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Krok 1: Otvoriť z Fotiek > Krok 2: Posun na okamih > Krok 3: Zachytiť snímok(y) > Krok 4: Export JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">Hodnotenie 5,0 od používateľov App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Presne to, čo som potreboval pre perfektný snímok z rodinného videa. Rýchle a jednoduché.“</p>
+                    <div class="testimonial-author">Používateľ App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Výber snímku je presný a export viacerých obrázkov je veľmi pohodlný.“</p>
+                    <div class="testimonial-author">Používateľ App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Skvelý workflow zo Zdieľať vo Fotkách. Netreba zložitý editor.“</p>
+                    <div class="testimonial-author">Používateľ App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">FAQ: video na foto na iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Ako vyťahujem snímok z videa na iPhone?</div>
+                <div class="faq-answer">Otvorte klip v Video To Photo - Grab Frame, posuňte sa na presný okamih a zachyťte snímok. Potom ho exportujte ako JPG, PNG alebo HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Môžem exportovať viac snímkov naraz?</div>
+                <div class="faq-answer">Áno. Môžete vybrať viac okamihov a exportovať niekoľko snímkov v jednej dávke.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Aké formáty môžem exportovať?</div>
+                <div class="faq-answer">Aplikácia podporuje JPG, PNG a HEIC. Môžete tiež exportovať ako ZIP alebo PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Nahráva aplikácia moje videá?</div>
+                <div class="faq-answer">Nie. Extrakcia prebieha na zariadení — videá a obrázky zostávajú na vašom iPhone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Môžem pokračovať neskôr?</div>
+                <div class="faq-answer">Áno. Relácie môžete uložiť ako projekty a znovu otvoriť.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Je Video To Photo - Grab Frame zadarmo?</div>
+                <div class="faq-answer">Aplikácia je zadarmo na stiahnutie; pokročilé funkcie sú cez nákupy v aplikácii.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Pre koho je aplikácia?</div>
+                <div class="faq-answer">Pre tvorcov obsahu, pedagógov a každého, kto chce zachytiť konkrétny moment z videa ako fotku.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Stiahnuť Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Zásady ochrany osobných údajov</a>
+                    <a href="https://extractframeapp.com/terms.html">Podmienky používania</a>
+                    <a href="mailto:c-basso@ya.ru">Podpora</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Vyvinul Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Všetky práva vyhradené.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Zachyťte perfektné snímky z videa na iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

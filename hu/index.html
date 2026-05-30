@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="hu" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: képkockák videóból iPhone</title>
+    <meta name="description" content="Másoljon ki állóképeket videóból iPhone-on másodpercek alatt. Mentse egy kockát vagy exportáljon többet JPG, PNG vagy HEIC-ként — eszközön, feltöltés nélkül.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="hu">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="HU">
+    <meta name="geo.placename" content="Magyarország">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/hu/">
+    <meta property="og:title" content="Video To Photo - Grab Frame iPhone-ra">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="hu_HU">
+    <meta property="og:description" content="Alakítsa videóit állóképekké iPhone-ján. Válassza ki a pontos pillanatot, és exportáljon JPG, PNG vagy HEIC minőségű képkockákat — feldolgozás az eszközön.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/hu/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Pontos képkockák kivonása videóból iPhone-on. Eszközön feldolgozva, kötegelt export és rugalmas formátumok.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/hu/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: képkockák videóból iPhone",
+        "description": "Másoljon ki állóképeket videóból iPhone-on másodpercek alatt. Mentse egy kockát vagy exportáljon többet JPG, PNG vagy HEIC-ként — eszközön, feltöltés nélkül.",
+        "url": "https://extractframeapp.com/hu/",
+        "dateModified": "2026-05-30T18:18:04.814Z",
+        "inLanguage": "hu",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/hu/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Másoljon ki állóképeket videóból iPhone-on másodpercek alatt. Mentse egy kockát vagy exportáljon többet JPG, PNG vagy HEIC-ként — eszközön, feltöltés nélkül.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: képkockák videóból iPhone",
+                "item": "https://extractframeapp.com/hu/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/hu/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/hu/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Hogyan vonjon ki képkockát videóból iPhone-on",
+        "description": "Egyszerű lépések a tökéletes állóképek mentéséhez klipjeiből",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "HUF",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "HUF"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Megnyitás a Fotókból",
+                "text": "Ossza meg a videót a Fotókból a Video To Photo - Grab Frame alkalmazással, vagy nyissa meg először az alkalmazást, és válassza ki a klipet.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "A pontos pillanat megtalálása",
+                "text": "Használja a csúszkát képkockánkénti léptetéshez, és álljon meg a kívánt állóképen.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Egy vagy több képkocka rögzítése",
+                "text": "Rögzítsen egy képkockát, vagy jelöljön meg több pillanatot kötegelt exporthoz.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Exportálás és mentés",
+                "text": "Mentse a képkockákat JPG, PNG vagy HEIC formátumban, vagy exportáljon ZIP-ként vagy PDF-ként.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Videó képkocka kivonó",
+        "description": "Másoljon ki állóképeket videóból iPhone-on másodpercek alatt. Mentse egy kockát vagy exportáljon többet JPG, PNG vagy HEIC-ként — eszközön, feltöltés nélkül.",
+        "url": "https://extractframeapp.com/hu/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Fotó és videó",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "HUF",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.814Z",
+        "featureList": [
+            "Pontos képkocka kiválasztás",
+            "Egy vagy több képkocka",
+            "JPG, PNG és HEIC export",
+            "Megosztás munkafolyamat",
+            "ZIP és PDF kimenet",
+            "Projektek mentése és újranyitása"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Hogyan vonok ki képkockát videóból iPhone-on?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nyisson meg egy klipet a Video To Photo - Grab Frame alkalmazásban, tekerjen a pontos pillanathoz, és rögzítse a képkockát. Ezután exportálja JPG, PNG vagy HEIC formátumban."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Exportálhatok egyszerre több képkockát?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Igen. Több pillanatot is kiválaszthat, és egy kötegben exportálhat több képkockát."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Milyen formátumokban exportálhatok?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Az alkalmazás támogatja a JPG, PNG és HEIC formátumokat. Exportálhat ZIP-ként vagy PDF-ként is."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Feltölti az alkalmazás a videóimat?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Nem. A kivonás az eszközön történik — a videók és képek az iPhone-ján maradnak."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Folytathatom később?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Igen. A munkameneteket projektként mentheti, és később újranyithatja."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Ingyenes a Video To Photo - Grab Frame?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Az alkalmazás ingyenesen letölthető; a haladó funkciók alkalmazáson belüli vásárlásokkal érhetők el."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Kinek szól ez az alkalmazás?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tartalomkészítőknek, oktatóknak és mindenkinek, aki egy adott videópillanatot szeretne állóképként elmenteni."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: képkockák videóból iPhone",
+            "item": "https://extractframeapp.com/hu/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084814" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084814">
+    <link rel="stylesheet" href="/style.css?v=1780165084814">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Video To Photo - Grab Frame logó" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Képkockák kivonása videóból iPhone-on</h1>
+                    <h2>Mentse el a pontos állóképeket klipjeiből másodpercek alatt</h2>
+                    <p class="entity-definition">A Video To Photo - Grab Frame egy iOS alkalmazás, amely iPhone-on videókat alakít állóképekké. Válassza ki a pontos pillanatot, és exportáljon képkockákat JPG, PNG vagy HEIC formátumban.</p>
+                    <p class="subheadline">Nyissa meg a Fotókból, tekerjen a megfelelő pillanathoz, és mentse el egy vagy több képkockát. Nincs szükség fiókra, feltöltésre és szerkesztő idővonalra.</p>
+                    <p class="last-updated-hero">Utolsó frissítés: 2026. május</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Letöltés az App Store-ból" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR-kód az alkalmazás letöltéséhez" class="qr-code">
+                        <p class="qr-text">Olvassa be iPhone-nal a letöltéshez</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Koppintson képkocka mentéséhez videóból
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Miért választják ezt az alkalmazást</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Pontos képkocka kiválasztás</h3>
+                    <p>Tekerjen végig a videón, és rögzítse pontosan azt a képkockát, amire szüksége van.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Egy vagy több képkocka</h3>
+                    <p>Rögzítsen egy képkockát, vagy jelöljön meg több pillanatot, és exportáljon egy teljes készletet egyszerre.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>JPG, PNG és HEIC export</h3>
+                    <p>Mentse a kivont képkockákat a munkafolyamatának megfelelő formátumban.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Megosztás munkafolyamat</h3>
+                    <p>Induljon közvetlenül a Fotókból a Megosztás menüvel, és lépjen azonnal a képkocka kivonásra.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP és PDF kimenet</h3>
+                    <p>Exportáljon külön képeket, ZIP archívumot vagy PDF-et csoportos kézbesítéshez.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Projektek mentése és újranyitása</h3>
+                    <p>Mentse a munkameneteket projektként, és folytassa később a nulláról való kezdés nélkül.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame számokban</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Értékelés</div>
+                    <div class="stat-detail">Az App Store 8 értékelése alapján</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Méret</div>
+                    <div class="stat-detail">Könnyű Fotó és videó alkalmazás</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Formátum</div>
+                    <div class="stat-detail">JPG, PNG és HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Eszközön</div>
+                    <div class="stat-label">Adatvédelem</div>
+                    <div class="stat-detail">Nincs videó feltöltés</div>
+                </div>
+            </div>
+            <p class="last-updated">Utolsó frissítés: 2026. május</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Hogyan alakítson videót fotókká iPhone-on</h2>
+            <p class="subheadline">Pontos képkockák kivonása videó feltöltése nélkül</p>
+            <p>A Video To Photo - Grab Frame egy iPhone alkalmazás a Fotó és videó kategóriában, amely statikus képkockákat von ki videóból. Az App Store szerint: 5,0 értékelés 8 vélemény alapján, 42,9 MB méret, export JPG, PNG és HEIC formátumban. Feldolgozás az eszközön — nincs külső szerverre küldés.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Képkocka kivonás lépésről lépésre</h3>
+                    <p>Ossza meg a videót a Fotókból az alkalmazással, tekerjen a pillanathoz, és rögzítse a képkockát. Ismételje meg a klip több pontján, majd exportáljon JPG, PNG vagy HEIC formátumban. Csoportos kézbesítéshez elérhető a ZIP és PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Miért hasznos</h3>
+                    <p>A Video To Photo - Grab Frame egy feladatra fókuszál: videópillanatok gyors és pontos átalakítása állóképekké. A böngészős eszközökkel ellentétben nincs feltöltési várakozás, és a videó az eszközön marad. Tartalmaz kötegelt exportot és projekt mentést.</p>
+                </div>
+            </div>
+            <h3>Gyakori felhasználási esetek</h3>
+            <ul>
+                <li>Közösségi miniatűrök videóklippekből</li>
+                <li>Kifejezések vagy gesztusok mentése fotóként</li>
+                <li>Storyboardok oktató- vagy demófelvételekből</li>
+                <li>Referencia képkockák tervezéshez vagy vágáshoz</li>
+            </ul>
+            <p>A Video To Photo - Grab Frame iPhone felhasználóknak célzott módot kínál képkockák kivonására videóból pontos vezérléssel, rugalmas formátumokkal és eszközön történő adatvédelemmel. Utolsó ellenőrzés az App Store adatai alapján: 2026. május 28.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. böngészős eszközök</h3>
+                <p>Összehasonlítás a Video To Photo - Grab Frame és a tipikus böngészős képkocka kivonók között:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Jellemző</th>
+                            <th>Tipikus webes eszközök</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Adatvédelem</td>
+                            <td>Általában videó feltöltést igényel</td>
+                            <td>A képkockák közvetlenül az iPhone-on kerülnek kivonásra</td>
+                        </tr>
+                        <tr>
+                            <td>Pontosság</td>
+                            <td>Gyakran korlátozott vezérlés</td>
+                            <td>Képkockánkénti tekerés a pontos pillanathoz</td>
+                        </tr>
+                        <tr>
+                            <td>Kimenet</td>
+                            <td>Néha csak egy formátum</td>
+                            <td>JPG, PNG és HEIC, plusz ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Munkafolyamat</td>
+                            <td>Böngészős feltöltés/letöltés ciklus</td>
+                            <td>Indulás a Fotók Megosztás menüjéből és azonnali mentés</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Hogyan vonjon ki képkockát videóból iPhone-on</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Egyszerű lépések a tökéletes állóképek mentéséhez klipjeiből</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Bemutató videó hamarosan</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">1. lépés: Megnyitás a Fotókból > 2. lépés: Tekerés a pillanathoz > 3. lépés: Képkocka(k) rögzítése > 4. lépés: Export JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">5,0 értékelés App Store felhasználóktól</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Pontosan erre volt szükségem egy családi videóból való tökéletes képkockához. Gyors és egyszerű.”</p>
+                    <div class="testimonial-author">App Store felhasználó</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„A képkocka választó pontos, és több kép exportálása nagyon kényelmes.”</p>
+                    <div class="testimonial-author">App Store felhasználó</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Remek munkafolyamat a Fotók Megosztás menüjéből. Nincs szükség bonyolult szerkesztőre.”</p>
+                    <div class="testimonial-author">App Store felhasználó</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">GYIK: videó képpé iPhone-on</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Hogyan vonok ki képkockát videóból iPhone-on?</div>
+                <div class="faq-answer">Nyisson meg egy klipet a Video To Photo - Grab Frame alkalmazásban, tekerjen a pontos pillanathoz, és rögzítse a képkockát. Ezután exportálja JPG, PNG vagy HEIC formátumban.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Exportálhatok egyszerre több képkockát?</div>
+                <div class="faq-answer">Igen. Több pillanatot is kiválaszthat, és egy kötegben exportálhat több képkockát.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Milyen formátumokban exportálhatok?</div>
+                <div class="faq-answer">Az alkalmazás támogatja a JPG, PNG és HEIC formátumokat. Exportálhat ZIP-ként vagy PDF-ként is.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Feltölti az alkalmazás a videóimat?</div>
+                <div class="faq-answer">Nem. A kivonás az eszközön történik — a videók és képek az iPhone-ján maradnak.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Folytathatom később?</div>
+                <div class="faq-answer">Igen. A munkameneteket projektként mentheti, és később újranyithatja.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Ingyenes a Video To Photo - Grab Frame?</div>
+                <div class="faq-answer">Az alkalmazás ingyenesen letölthető; a haladó funkciók alkalmazáson belüli vásárlásokkal érhetők el.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Kinek szól ez az alkalmazás?</div>
+                <div class="faq-answer">Tartalomkészítőknek, oktatóknak és mindenkinek, aki egy adott videópillanatot szeretne állóképként elmenteni.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Töltse le a Video To Photo - Grab Frame alkalmazást
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Adatvédelmi irányelvek</a>
+                    <a href="https://extractframeapp.com/terms.html">Felhasználási feltételek</a>
+                    <a href="mailto:c-basso@ya.ru">Támogatás</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Fejlesztette Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Minden jog fenntartva.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Rögzítsen tökéletes képkockákat videóból iPhone-on
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

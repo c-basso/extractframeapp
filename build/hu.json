@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "hu",
+    "title": "Video To Photo - Grab Frame: képkockák videóból iPhone",
+    "description": "Másoljon ki állóképeket videóból iPhone-on másodpercek alatt. Mentse egy kockát vagy exportáljon többet JPG, PNG vagy HEIC-ként — eszközön, feltöltés nélkül.",
+    "keywords": "videó képpé, képkocka videóból, képkocka kivonó, iPhone képkocka, képkocka mentése, videó képpé, jpg videóból, png videóból, heic videóból, kötegelt export, megosztás fotókból, app store képkocka kivonó",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/hu/",
+    "og_title": "Video To Photo - Grab Frame iPhone-ra",
+    "og_description": "Alakítsa videóit állóképekké iPhone-ján. Válassza ki a pontos pillanatot, és exportáljon JPG, PNG vagy HEIC minőségű képkockákat — feldolgozás az eszközön.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "hu_HU",
+    "twitter_url": "https://extractframeapp.com/hu/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Pontos képkockák kivonása videóból iPhone-on. Eszközön feldolgozva, kötegelt export és rugalmas formátumok.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/hu/",
+    "geo_region": "HU",
+    "geo_placename": "Magyarország"
+  },
+  "hero": {
+    "logo_alt": "Video To Photo - Grab Frame logó",
+    "title": "Képkockák kivonása videóból iPhone-on",
+    "subtitle": "Mentse el a pontos állóképeket klipjeiből másodpercek alatt",
+    "entity_definition": "A Video To Photo - Grab Frame egy iOS alkalmazás, amely iPhone-on videókat alakít állóképekké. Válassza ki a pontos pillanatot, és exportáljon képkockákat JPG, PNG vagy HEIC formátumban.",
+    "subheadline": "Nyissa meg a Fotókból, tekerjen a megfelelő pillanathoz, és mentse el egy vagy több képkockát. Nincs szükség fiókra, feltöltésre és szerkesztő idővonalra.",
+    "download_alt": "Letöltés az App Store-ból",
+    "phone_text": "Koppintson képkocka mentéséhez videóból",
+    "qr_alt": "QR-kód az alkalmazás letöltéséhez",
+    "qr_text": "Olvassa be iPhone-nal a letöltéshez"
+  },
+  "last_updated": {
+    "text": "LAST_UPDATED"
+  },
+  "features": {
+    "title": "Miért választják ezt az alkalmazást",
+    "items": [
+      {
+        "title": "Pontos képkocka kiválasztás",
+        "description": "Tekerjen végig a videón, és rögzítse pontosan azt a képkockát, amire szüksége van.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Egy vagy több képkocka",
+        "description": "Rögzítsen egy képkockát, vagy jelöljön meg több pillanatot, és exportáljon egy teljes készletet egyszerre.",
+        "icon": "🧩"
+      },
+      {
+        "title": "JPG, PNG és HEIC export",
+        "description": "Mentse a kivont képkockákat a munkafolyamatának megfelelő formátumban.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Megosztás munkafolyamat",
+        "description": "Induljon közvetlenül a Fotókból a Megosztás menüvel, és lépjen azonnal a képkocka kivonásra.",
+        "icon": "🔗"
+      },
+      {
+        "title": "ZIP és PDF kimenet",
+        "description": "Exportáljon külön képeket, ZIP archívumot vagy PDF-et csoportos kézbesítéshez.",
+        "icon": "📦"
+      },
+      {
+        "title": "Projektek mentése és újranyitása",
+        "description": "Mentse a munkameneteket projektként, és folytassa később a nulláról való kezdés nélkül.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame számokban",
+    "items": [
+      "5,0 / 5 az App Store 8 értékelése alapján",
+      "Alkalmazás mérete 42,9 MB",
+      "Export JPG, PNG és HEIC formátumban",
+      "iPhone-ra készült",
+      "Feldolgozás az eszközön az adatvédelemért"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Értékelés",
+        "detail": "Az App Store 8 értékelése alapján"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Méret",
+        "detail": "Könnyű Fotó és videó alkalmazás"
+      },
+      {
+        "number": "3",
+        "label": "Formátum",
+        "detail": "JPG, PNG és HEIC"
+      },
+      {
+        "number": "Eszközön",
+        "label": "Adatvédelem",
+        "detail": "Nincs videó feltöltés"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Hogyan vonjon ki képkockát videóból iPhone-on",
+    "subtitle": "Egyszerű lépések a tökéletes állóképek mentéséhez klipjeiből",
+    "placeholder_line1": "📱 Bemutató videó hamarosan",
+    "placeholder_line2": "1. lépés: Megnyitás a Fotókból > 2. lépés: Tekerés a pillanathoz > 3. lépés: Képkocka(k) rögzítése > 4. lépés: Export JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Megnyitás a Fotókból",
+        "text": "Ossza meg a videót a Fotókból a {{app_info.name}} alkalmazással, vagy nyissa meg először az alkalmazást, és válassza ki a klipet."
+      },
+      {
+        "name": "A pontos pillanat megtalálása",
+        "text": "Használja a csúszkát képkockánkénti léptetéshez, és álljon meg a kívánt állóképen."
+      },
+      {
+        "name": "Egy vagy több képkocka rögzítése",
+        "text": "Rögzítsen egy képkockát, vagy jelöljön meg több pillanatot kötegelt exporthoz."
+      },
+      {
+        "name": "Exportálás és mentés",
+        "text": "Mentse a képkockákat JPG, PNG vagy HEIC formátumban, vagy exportáljon ZIP-ként vagy PDF-ként."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "5,0 értékelés App Store felhasználóktól",
+    "items": [
+      {
+        "text": "„Pontosan erre volt szükségem egy családi videóból való tökéletes képkockához. Gyors és egyszerű.”",
+        "author": "App Store felhasználó",
+        "rating": "5 csillag",
+        "verified": true
+      },
+      {
+        "text": "„A képkocka választó pontos, és több kép exportálása nagyon kényelmes.”",
+        "author": "App Store felhasználó",
+        "rating": "5 csillag",
+        "verified": true
+      },
+      {
+        "text": "„Remek munkafolyamat a Fotók Megosztás menüjéből. Nincs szükség bonyolult szerkesztőre.”",
+        "author": "App Store felhasználó",
+        "rating": "5 csillag",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "GYIK: videó képpé iPhone-on",
+    "items": [
+      {
+        "question": "Hogyan vonok ki képkockát videóból iPhone-on?",
+        "answer": "Nyisson meg egy klipet a Video To Photo - Grab Frame alkalmazásban, tekerjen a pontos pillanathoz, és rögzítse a képkockát. Ezután exportálja JPG, PNG vagy HEIC formátumban."
+      },
+      {
+        "question": "Exportálhatok egyszerre több képkockát?",
+        "answer": "Igen. Több pillanatot is kiválaszthat, és egy kötegben exportálhat több képkockát."
+      },
+      {
+        "question": "Milyen formátumokban exportálhatok?",
+        "answer": "Az alkalmazás támogatja a JPG, PNG és HEIC formátumokat. Exportálhat ZIP-ként vagy PDF-ként is."
+      },
+      {
+        "question": "Feltölti az alkalmazás a videóimat?",
+        "answer": "Nem. A kivonás az eszközön történik — a videók és képek az iPhone-ján maradnak."
+      },
+      {
+        "question": "Folytathatom később?",
+        "answer": "Igen. A munkameneteket projektként mentheti, és később újranyithatja."
+      },
+      {
+        "question": "Ingyenes a Video To Photo - Grab Frame?",
+        "answer": "Az alkalmazás ingyenesen letölthető; a haladó funkciók alkalmazáson belüli vásárlásokkal érhetők el."
+      },
+      {
+        "question": "Kinek szól ez az alkalmazás?",
+        "answer": "Tartalomkészítőknek, oktatóknak és mindenkinek, aki egy adott videópillanatot szeretne állóképként elmenteni."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Videó képkocka kivonó",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Fotó és videó"
+  },
+  "footer": {
+    "cta_text": "📱 Töltse le a Video To Photo - Grab Frame alkalmazást",
+    "privacy_text": "Adatvédelmi irányelvek",
+    "terms_text": "Felhasználási feltételek",
+    "support_text": "Támogatás",
+    "developer_info": "Fejlesztette Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Minden jog fenntartva."
+  },
+  "floating_cta": {
+    "text": "📱 Rögzítsen tökéletes képkockákat videóból iPhone-on"
+  },
+  "seo_chapter": {
+    "title": "Hogyan alakítson videót fotókká iPhone-on",
+    "subtitle": "Pontos képkockák kivonása videó feltöltése nélkül",
+    "intro": "A Video To Photo - Grab Frame egy iPhone alkalmazás a Fotó és videó kategóriában, amely statikus képkockákat von ki videóból. Az App Store szerint: 5,0 értékelés 8 vélemény alapján, 42,9 MB méret, export JPG, PNG és HEIC formátumban. Feldolgozás az eszközön — nincs külső szerverre küldés.",
+    "sections": [
+      {
+        "heading": "Képkocka kivonás lépésről lépésre",
+        "body": "Ossza meg a videót a Fotókból az alkalmazással, tekerjen a pillanathoz, és rögzítse a képkockát. Ismételje meg a klip több pontján, majd exportáljon JPG, PNG vagy HEIC formátumban. Csoportos kézbesítéshez elérhető a ZIP és PDF."
+      },
+      {
+        "heading": "Miért hasznos",
+        "body": "A Video To Photo - Grab Frame egy feladatra fókuszál: videópillanatok gyors és pontos átalakítása állóképekké. A böngészős eszközökkel ellentétben nincs feltöltési várakozás, és a videó az eszközön marad. Tartalmaz kötegelt exportot és projekt mentést."
+      }
+    ],
+    "bullets_title": "Gyakori felhasználási esetek",
+    "bullets": [
+      "Közösségi miniatűrök videóklippekből",
+      "Kifejezések vagy gesztusok mentése fotóként",
+      "Storyboardok oktató- vagy demófelvételekből",
+      "Referencia képkockák tervezéshez vagy vágáshoz"
+    ],
+    "conclusion": "A Video To Photo - Grab Frame iPhone felhasználóknak célzott módot kínál képkockák kivonására videóból pontos vezérléssel, rugalmas formátumokkal és eszközön történő adatvédelemmel. Utolsó ellenőrzés az App Store adatai alapján: 2026. május 28."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. böngészős eszközök",
+    "intro": "Összehasonlítás a Video To Photo - Grab Frame és a tipikus böngészős képkocka kivonók között:",
+    "table": {
+      "feature": "Jellemző",
+      "online_converters": "Tipikus webes eszközök",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Adatvédelem",
+          "online": "Általában videó feltöltést igényel",
+          "app": "A képkockák közvetlenül az iPhone-on kerülnek kivonásra"
+        },
+        {
+          "feature": "Pontosság",
+          "online": "Gyakran korlátozott vezérlés",
+          "app": "Képkockánkénti tekerés a pontos pillanathoz"
+        },
+        {
+          "feature": "Kimenet",
+          "online": "Néha csak egy formátum",
+          "app": "JPG, PNG és HEIC, plusz ZIP/PDF"
+        },
+        {
+          "feature": "Munkafolyamat",
+          "online": "Böngészős feltöltés/letöltés ciklus",
+          "app": "Indulás a Fotók Megosztás menüjéből és azonnali mentés"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "lang": "fi",
+    "title": "Video To Photo - Grab Frame: kuvat videosta iPhonella",
+    "description": "Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.",
+    "keywords": "video kuvaksi, ruutu videosta, ruudun poiminta, iPhone ruutu videosta, tallenna ruutu, video kuvaksi, jpg videosta, png videosta, heic videosta, erävienti, jaa kuvista, app store ruudun poiminta",
+    "author": "Vladimir Ivakhnenko",
+    "og_url": "https://extractframeapp.com/fi/",
+    "og_title": "Video To Photo - Grab Frame iPhonelle",
+    "og_description": "Muuta videot valokuviksi iPhonellasi. Valitse tarkka hetki ja vie laadukkaita ruutuja JPG-, PNG- tai HEIC-muodossa — käsittely laitteella.",
+    "og_image": "https://extractframeapp.com/site_preview.png",
+    "site_name": "Video To Photo - Grab Frame",
+    "og_locale": "fi_FI",
+    "twitter_url": "https://extractframeapp.com/fi/",
+    "twitter_title": "Video To Photo - Grab Frame",
+    "twitter_description": "Poimi tarkat stillkuvat videosta iPhonella. Käsittely laitteella, erävienti ja joustavat formaatit.",
+    "twitter_image": "https://extractframeapp.com/site_preview.png",
+    "app_store_id": "6743497797",
+    "canonical": "https://extractframeapp.com/fi/",
+    "geo_region": "FI",
+    "geo_placename": "Suomi"
+  },
+  "hero": {
+    "logo_alt": "Video To Photo - Grab Frame -logo",
+    "title": "Poimi ruutuja videosta iPhonella",
+    "subtitle": "Tallenna tarkat stillkuvat klippeistäsi sekunneissa",
+    "entity_definition": "Video To Photo - Grab Frame on iOS-sovellus, joka muuttaa videot stillkuviksi iPhonellasi. Valitse tarkka hetki ja vie ruutuja JPG-, PNG- tai HEIC-muodossa.",
+    "subheadline": "Avaa Kuvista, siirry oikeaan kohtaan ja tallenna yksi tai useampi ruutu. Ei tiliä, ei latauksia eikä editointiaikajanaa.",
+    "download_alt": "Lataa App Storesta",
+    "phone_text": "Napauta poimiaksesi ruudun videosta",
+    "qr_alt": "QR-koodi sovelluksen lataamiseen",
+    "qr_text": "Skannaa iPhonellasi ladataksesi"
+  },
+  "last_updated": {
+    "text": "LAST_UPDATED"
+  },
+  "features": {
+    "title": "Miksi käyttäjät valitsevat tämän sovelluksen",
+    "items": [
+      {
+        "title": "Tarkka ruudun valinta",
+        "description": "Siirry videossa ruutu kerrallaan ja tallenna juuri se stillkuva, jota tarvitset oikealla hetkellä.",
+        "icon": "🎯"
+      },
+      {
+        "title": "Yksi tai useampi ruutu",
+        "description": "Poimi yksi ruutu tai merkitse useita hetkiä ja vie koko setti kerralla.",
+        "icon": "🧩"
+      },
+      {
+        "title": "Vienti JPG-, PNG- ja HEIC-muodossa",
+        "description": "Tallenna poimitut ruudut formaattiin, joka sopii työnkulkuusi ja jakamiseen.",
+        "icon": "🖼️"
+      },
+      {
+        "title": "Jaa-työnkulku",
+        "description": "Aloita suoraan Kuvista Jaa-toiminnolla ja siirry heti ruudun poimintaan.",
+        "icon": "🔗"
+      },
+      {
+        "title": "ZIP- ja PDF-tuloste",
+        "description": "Vie erillisinä kuvina, ZIP-arkistona tai PDF:nä, kun tarvitset ryhmiteltyä tulostetta.",
+        "icon": "📦"
+      },
+      {
+        "title": "Tallenna ja avaa projektit uudelleen",
+        "description": "Tallenna istunnot projekteina ja jatka myöhemmin aloittamatta alusta.",
+        "icon": "💾"
+      }
+    ]
+  },
+  "by_the_numbers": {
+    "title": "Video To Photo - Grab Frame numeroina",
+    "items": [
+      "5,0 / 5 kahdeksan App Store -arvion perusteella",
+      "Sovelluksen koko 42,9 MB",
+      "Vienti JPG-, PNG- ja HEIC-muodossa",
+      "Rakennettu iPhonelle",
+      "Käsittely laitteella yksityisyyden vuoksi"
+    ],
+    "stats": [
+      {
+        "number": "5,0",
+        "label": "Arvio",
+        "detail": "Perustuu 8 App Store -arvioon"
+      },
+      {
+        "number": "42,9 MB",
+        "label": "Koko",
+        "detail": "Kevyt valokuvat ja video -sovellus"
+      },
+      {
+        "number": "3",
+        "label": "Formaatit",
+        "detail": "JPG, PNG ja HEIC"
+      },
+      {
+        "number": "Laitteella",
+        "label": "Yksityisyys",
+        "detail": "Ei videon latausta"
+      }
+    ]
+  },
+  "demo": {
+    "title": "Näin poimit ruudun videosta iPhonella",
+    "subtitle": "Näillä yksinkertaisilla vaiheilla tallennat täydelliset stillkuvat klippeistäsi",
+    "placeholder_line1": "📱 Demovideo tulossa pian",
+    "placeholder_line2": "Vaihe 1: Avaa Kuvista > Vaihe 2: Siirry hetkeen > Vaihe 3: Poimi ruutu(ja) > Vaihe 4: Vie JPG/PNG/HEIC"
+  },
+  "howto_steps": {
+    "items": [
+      {
+        "name": "Avaa Kuvista",
+        "text": "Jaa video Kuvista sovellukseen {{app_info.name}}, tai avaa sovellus ensin ja valitse klippisi."
+      },
+      {
+        "name": "Etsi tarkka hetki",
+        "text": "Käytä liukusäädintä siirtyäksesi ruutu kerrallaan ja pysähdy haluamaasi stillkuvaan."
+      },
+      {
+        "name": "Poimi yksi tai useampi ruutu",
+        "text": "Tallenna yksi ruutu tai merkitse useita hetkiä erävientiä varten."
+      },
+      {
+        "name": "Vie ja tallenna",
+        "text": "Tallenna stillkuvat JPG-, PNG- tai HEIC-muodossa, tai vie ZIP- tai PDF-tiedostona."
+      }
+    ]
+  },
+  "testimonials": {
+    "rating_text": "5,0 arvio App Store -käyttäjiltä",
+    "items": [
+      {
+        "text": "„Juuri sitä mitä tarvitsin täydelliseen stillkuvaan perhevideosta. Nopeaa ja yksinkertaista.“",
+        "author": "App Store -käyttäjä",
+        "rating": "5 tähteä",
+        "verified": true
+      },
+      {
+        "text": "„Ruudun valinta on tarkka, ja useiden kuvien vienti on todella kätevää.“",
+        "author": "App Store -käyttäjä",
+        "rating": "5 tähteä",
+        "verified": true
+      },
+      {
+        "text": "„Loistava työnkulku Jaasta Kuvissa. Ei tarvita monimutkaista editoria.“",
+        "author": "App Store -käyttäjä",
+        "rating": "5 tähteä",
+        "verified": true
+      }
+    ]
+  },
+  "faq": {
+    "title": "UKK: video kuvaksi iPhonella",
+    "items": [
+      {
+        "question": "Miten poimin ruudun videosta iPhonella?",
+        "answer": "Avaa klippi Video To Photo - Grab Frame -sovelluksessa, siirry tarkkaan hetkeen ja tallenna stillkuva. Vie se sitten JPG-, PNG- tai HEIC-muodossa."
+      },
+      {
+        "question": "Voinko viedä useamman kuin yhden ruudun kerralla?",
+        "answer": "Kyllä. Voit valita useita hetkiä ja viedä useita ruutuja yhdessä erässä."
+      },
+      {
+        "question": "Mitä formaatteja voin viedä?",
+        "answer": "Sovellus tukee JPG-, PNG- ja HEIC-muotoja. Voit myös viedä ZIP- tai PDF-tiedostoina."
+      },
+      {
+        "question": "Lataako sovellus videoitani?",
+        "answer": "Ei. Poiminta tapahtuu laitteella — videosi ja kuvasi pysyvät iPhonellasi."
+      },
+      {
+        "question": "Voinko jatkaa myöhemmin?",
+        "answer": "Kyllä. Voit tallentaa istunnot projekteina ja avata ne uudelleen myöhemmin."
+      },
+      {
+        "question": "Onko Video To Photo - Grab Frame ilmainen?",
+        "answer": "Sovellus on ilmainen ladattavaksi; edistyneet ominaisuudet ovat sovelluksen sisäisiä ostoja."
+      },
+      {
+        "question": "Kenelle sovellus on tarkoitettu?",
+        "answer": "Sisällöntuottajille, opettajille ja kaikille, jotka haluavat tallentaa tietyn hetken videosta stillkuvaksi."
+      }
+    ]
+  },
+  "app_info": {
+    "name": "Video To Photo - Grab Frame",
+    "alternate_name": "Videoruudun poiminta",
+    "application_category": "PhotoApplication",
+    "application_sub_category": "Valokuvat ja video"
+  },
+  "footer": {
+    "cta_text": "📱 Lataa Video To Photo - Grab Frame",
+    "privacy_text": "Tietosuojakäytäntö",
+    "terms_text": "Käyttöehdot",
+    "support_text": "Tuki",
+    "developer_info": "Kehittäjä: Vladimir Ivakhnenko (c-basso)",
+    "copyright": "© {year} c-basso. Kaikki oikeudet pidätetään."
+  },
+  "floating_cta": {
+    "text": "📱 Poimi täydelliset ruudut videosta iPhonella"
+  },
+  "seo_chapter": {
+    "title": "Näin muutat videon kuviksi iPhonella",
+    "subtitle": "Poimi tarkat stillhetket lataamatta videota",
+    "intro": "Video To Photo - Grab Frame on iPhone-sovellus Valokuvat ja video -kategoriassa, joka poimii stillkuvia videosta. App Storen mukaan: arvio 5,0 kahdeksasta arviosta, koko 42,9 MB, vienti JPG-, PNG- ja HEIC-muodossa. Käsittely laitteella — ei lähetystä ulkoisille palvelimille.",
+    "sections": [
+      {
+        "heading": "Ruudun poiminta vaihe vaiheelta",
+        "body": "Jaa video Kuvista sovellukseen, siirry hetkeen ja tallenna ruutu. Toista useissa kohdissa ja vie JPG-, PNG- tai HEIC-muodossa. Ryhmiteltyyn toimitukseen on ZIP ja PDF."
+      },
+      {
+        "heading": "Miksi se on hyödyllinen",
+        "body": "Video To Photo - Grab Frame keskittyy yhteen tehtävään: muuttaa videohetket nopeasti ja tarkasti stillkuviksi. Toisin kuin selaintyökalut, vältät latausajan ja pidät videon laitteella. Mukana erävienti ja projektit."
+      }
+    ],
+    "bullets_title": "Yleisiä käyttötapauksia",
+    "bullets": [
+      "Pikkukuvat sosiaaliseen mediaan videoklippeihin",
+      "Ilmeiden tai eleiden tallentaminen kuvina",
+      "Storyboardit opetus- tai demovideoista",
+      "Referenssikuvat suunnitteluun tai editointiin"
+    ],
+    "conclusion": "Video To Photo - Grab Frame tarjoaa iPhone-käyttäjille keskittyneen tavan poimia stillkuvia videosta tarkalla hallinnalla, joustavilla formaateilla ja yksityisyydellä laitteella. Varmistettu App Storea vastaan 28.5.2026."
+  },
+  "comparison": {
+    "title": "Video To Photo - Grab Frame vs. selaintyökalut",
+    "intro": "Vertailu Video To Photo - Grab Frame -sovelluksen ja tyypillisten selainpohjaisten ruudunpoimintatyökalujen välillä:",
+    "table": {
+      "feature": "Ominaisuus",
+      "online_converters": "Tyypilliset verkkotyökalut",
+      "this_app": "Video To Photo - Grab Frame",
+      "rows": [
+        {
+          "feature": "Yksityisyys",
+          "online": "Vaatii yleensä videon lataamisen",
+          "app": "Ruudut poimitaan suoraan iPhonellasi"
+        },
+        {
+          "feature": "Tarkkuus",
+          "online": "Usein rajallinen hallinta",
+          "app": "Siirry ruutu kerrallaan tarkkaan hetkeen"
+        },
+        {
+          "feature": "Tuloste",
+          "online": "Joskus vain yksi formaatti",
+          "app": "JPG, PNG ja HEIC, plus ZIP/PDF"
+        },
+        {
+          "feature": "Työnkulku",
+          "online": "Selaimen lataus/lataus -sykli",
+          "app": "Aloita Jaasta Kuvissa ja tallenna heti"
+        }
+      ]
+    }
+  }
+}

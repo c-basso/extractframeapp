@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="el" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: λήψη καρέ από βίντεο iPhone</title>
+    <meta name="description" content="Εξαγωγή στατικών φωτογραφιών από βίντεο στο iPhone σε δευτερόλεπτα. Αποθήκευσε καρέ ή εξήγαγε πολλά ως JPG, PNG ή HEIC — ιδιωτικά στη συσκευή, χωρίς ανέβασμα.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="el">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="GR">
+    <meta name="geo.placename" content="Ελλάδα">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/el/">
+    <meta property="og:title" content="Video To Photo - Grab Frame για iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="el_GR">
+    <meta property="og:description" content="Μετέτρεψε βίντεο σε φωτογραφίες στο iPhone σου. Διάλεξε την ακριβή στιγμή και εξήγαγε καρέ υψηλής ποιότητας ως JPG, PNG ή HEIC — επεξεργασία στη συσκευή.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/el/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Εξαγωγή ακριβών στατικών καρέ από βίντεο στο iPhone. Επεξεργασία στη συσκευή, μαζική εξαγωγή και ευέλικτες μορφές.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/el/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: λήψη καρέ από βίντεο iPhone",
+        "description": "Εξαγωγή στατικών φωτογραφιών από βίντεο στο iPhone σε δευτερόλεπτα. Αποθήκευσε καρέ ή εξήγαγε πολλά ως JPG, PNG ή HEIC — ιδιωτικά στη συσκευή, χωρίς ανέβασμα.",
+        "url": "https://extractframeapp.com/el/",
+        "dateModified": "2026-05-30T18:18:04.805Z",
+        "inLanguage": "el",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/el/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Εξαγωγή στατικών φωτογραφιών από βίντεο στο iPhone σε δευτερόλεπτα. Αποθήκευσε καρέ ή εξήγαγε πολλά ως JPG, PNG ή HEIC — ιδιωτικά στη συσκευή, χωρίς ανέβασμα.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: λήψη καρέ από βίντεο iPhone",
+                "item": "https://extractframeapp.com/el/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/el/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/el/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Πώς να πάρεις καρέ από βίντεο στο iPhone",
+        "description": "Ακολούθησε αυτά τα απλά βήματα για να αποθηκεύσεις τέλειες στατικές φωτογραφίες από τα κλιπ σου",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "EUR",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "EUR"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Άνοιγμα από Φωτογραφίες",
+                "text": "Κοινοποίησε ένα βίντεο από τις Φωτογραφίες στο Video To Photo - Grab Frame, ή άνοιξε πρώτα την εφαρμογή και διάλεξε το κλιπ σου.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Εύρεση της ακριβούς στιγμής",
+                "text": "Χρησιμοποίησε τον ρυθμιστή για να μετακινηθείς καρέ-καρέ και σταμάτα στη στατική εικόνα που θέλεις.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Λήψη ενός ή περισσότερων καρέ",
+                "text": "Κατέγραψε ένα καρέ ή σημείωσε πολλές στιγμές για μαζική εξαγωγή.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Εξαγωγή και αποθήκευση",
+                "text": "Αποθήκευσε τις στατικές εικόνες ως JPG, PNG ή HEIC, ή εξήγαγε ως ZIP ή PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Εξαγωγέας καρέ από βίντεο",
+        "description": "Εξαγωγή στατικών φωτογραφιών από βίντεο στο iPhone σε δευτερόλεπτα. Αποθήκευσε καρέ ή εξήγαγε πολλά ως JPG, PNG ή HEIC — ιδιωτικά στη συσκευή, χωρίς ανέβασμα.",
+        "url": "https://extractframeapp.com/el/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Φωτογραφίες & Βίντεο",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.805Z",
+        "featureList": [
+            "Ακριβής επιλογή καρέ",
+            "Ένα ή πολλά καρέ",
+            "Εξαγωγή JPG, PNG και HEIC",
+            "Ροή Κοινοποίησης",
+            "Έξοδος ZIP και PDF",
+            "Αποθήκευση και επανάνοιγμα έργων"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Πώς παίρνω καρέ από βίντεο στο iPhone;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Άνοιξε ένα κλιπ στο Video To Photo - Grab Frame, κύλησε στην ακριβή στιγμή και κατέγραψε τη στατική εικόνα. Στη συνέχεια εξήγαγέ την ως JPG, PNG ή HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Μπορώ να εξάγω περισσότερα από ένα καρέ τη φορά;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ναι. Μπορείς να επιλέξεις πολλές στιγμές και να εξάγεις πολλά καρέ σε μία παρτίδα."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Ποιες μορφές μπορώ να εξάγω;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Η εφαρμογή υποστηρίζει JPG, PNG και HEIC. Μπορείς επίσης να εξάγεις ως ZIP ή PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Ανεβάζει η εφαρμογή τα βίντεό μου;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Όχι. Η εξαγωγή γίνεται στη συσκευή — τα βίντεα και οι εικόνες μένουν στο iPhone σου."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Μπορώ να συνεχίσω αργότερα;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Ναι. Μπορείς να αποθηκεύσεις συνεδρίες ως έργα και να τα ανοίξεις ξανά."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Είναι δωρεάν το Video To Photo - Grab Frame;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Η εφαρμογή είναι δωρεάν για λήψη· οι προηγμένες λειτουργίες είναι μέσω αγορών εντός εφαρμογής."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Για ποιους είναι η εφαρμογή;",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Για δημιουργούς περιεχομένου, εκπαιδευτικούς και όποιον θέλει να αποθηκεύσει μια συγκεκριμένη στιγμή από βίντεο ως φωτογραφία."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: λήψη καρέ από βίντεο iPhone",
+            "item": "https://extractframeapp.com/el/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084805" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084805">
+    <link rel="stylesheet" href="/style.css?v=1780165084805">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Λογότυπο Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Λήψη καρέ από βίντεο στο iPhone</h1>
+                    <h2>Αποθήκευσε ακριβείς στατικές φωτογραφίες από τα κλιπ σου σε δευτερόλεπτα</h2>
+                    <p class="entity-definition">Το Video To Photo - Grab Frame είναι εφαρμογή iOS που μετατρέπει βίντεο σε στατικές φωτογραφίες στο iPhone σου. Διάλεξε την ακριβή στιγμή και εξήγαγε καρέ ως JPG, PNG ή HEIC.</p>
+                    <p class="subheadline">Άνοιξε από τις Φωτογραφίες, κύλησε στο σωστό στιγμή και αποθήκευσε ένα ή πολλά καρέ. Χωρίς λογαριασμό, χωρίς ανέβασμα και χωρίς χρονοδιάγραμμα επεξεργασίας.</p>
+                    <p class="last-updated-hero">Τελευταία ενημέρωση: Μάιος 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Λήψη από το App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR κωδικός για λήψη της εφαρμογής" class="qr-code">
+                        <p class="qr-text">Σάρωσε με το iPhone σου για λήψη</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Πάτησε για λήψη καρέ από βίντεο
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Γιατί οι χρήστες επιλέγουν αυτή την εφαρμογή</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Ακριβής επιλογή καρέ</h3>
+                    <p>Κύλησε στο βίντεο και κατέγραψε ακριβώς τη στατική εικόνα που χρειάζεσαι, στη σωστή στιγμή.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Ένα ή πολλά καρέ</h3>
+                    <p>Κατέγραψε ένα καρέ ή σημείωσε πολλές στιγμές και εξήγαγε ολόκληρο το σετ με μία κίνηση.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Εξαγωγή JPG, PNG και HEIC</h3>
+                    <p>Αποθήκευσε τα εξαγόμενα καρέ στη μορφή που ταιριάζει στη ροή εργασίας και τις ανάγκες κοινοποίησής σου.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Ροή Κοινοποίησης</h3>
+                    <p>Ξεκίνα απευθείας από τις Φωτογραφίες μέσω Κοινοποίησης και μπες κατευθείαν στην εξαγωγή καρέ.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>Έξοδος ZIP και PDF</h3>
+                    <p>Εξήγαγε ξεχωριστές εικόνες, αρχείο ZIP ή PDF όταν χρειάζεσαι ομαδοποιημένη παράδοση.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Αποθήκευση και επανάνοιγμα έργων</h3>
+                    <p>Αποθήκευσε τις συνεδρίες σου ως έργα και συνέχισε αργότερα χωρίς να ξεκινάς από την αρχή.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame σε αριθμούς</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Αξιολόγηση</div>
+                    <div class="stat-detail">Βάσει 8 αξιολογήσεων στο App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Μέγεθος</div>
+                    <div class="stat-detail">Ελαφριά εφαρμογή Φωτογραφίες & Βίντεο</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Μορφές</div>
+                    <div class="stat-detail">JPG, PNG και HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Στη συσκευή</div>
+                    <div class="stat-label">Ιδιωτικότητα</div>
+                    <div class="stat-detail">Χωρίς ανέβασμα βίντεο</div>
+                </div>
+            </div>
+            <p class="last-updated">Τελευταία ενημέρωση: Μάιος 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Πώς να μετατρέψεις βίντεο σε φωτογραφίες στο iPhone</h2>
+            <p class="subheadline">Εξαγωγή ακριβών στατικών στιγμών χωρίς ανέβασμα βίντεο</p>
+            <p>Το Video To Photo - Grab Frame είναι εφαρμογή iPhone στην κατηγορία Φωτογραφίες & Βίντεο που εξάγει στατικές εικόνες από βίντεο. Σύμφωνα με το App Store: αξιολόγηση 5,0 από 8 κριτικές, 42,9 MB, εξαγωγή σε JPG, PNG και HEIC. Επεξεργασία στη συσκευή — χωρίς αποστολή σε εξωτερικούς διακομιστές.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Εξαγωγή καρέ βήμα-βήμα</h3>
+                    <p>Κοινοποίησε βίντεο από τις Φωτογραφίες στην εφαρμογή, κύλησε στη στιγμή και κατέγραψε το καρέ. Επανέλαβε για πολλά σημεία του κλιπ και εξήγαγε ως JPG, PNG ή HEIC. Για ομαδοποιημένη παράδοση υπάρχουν ZIP και PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Γιατί είναι χρήσιμη</h3>
+                    <p>Το Video To Photo - Grab Frame εστιάζει σε μία δουλειά: να μετατρέπει γρήγορα και με ακρίβεια στιγμές βίντεο σε στατικές εικόνες. Σε σύγκριση με εργαλεία browser, αποφεύγεις αναμονή για upload και κρατάς το βίντεο στη συσκευή. Περιλαμβάνει μαζική εξαγωγή και έργα.</p>
+                </div>
+            </div>
+            <h3>Συνηθισμένες περιπτώσεις χρήσης</h3>
+            <ul>
+                <li>Μικρογραφίες για κοινωνικά δίκτυα από βίντεο</li>
+                <li>Αποθήκευση εκφράσεων ή χειρονομιών ως φωτογραφίες</li>
+                <li>Storyboards από tutorials ή demos</li>
+                <li>Αναφορικές εικόνες για σχεδιασμό ή μοντάζ</li>
+            </ul>
+            <p>Το Video To Photo - Grab Frame δίνει στους χρήστες iPhone έναν εστιασμένο τρόπο εξαγωγής στατικών εικόνων από βίντεο με ακριβή έλεγχο, ευέλικτες μορφές και ιδιωτικότητα στη συσκευή. Επαληθεύτηκε με το App Store στις 28 Μαΐου 2026.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. εργαλεία browser</h3>
+                <p>Σύγκριση του Video To Photo - Grab Frame με τυπικά εργαλεία εξαγωγής καρέ στο browser:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Χαρακτηριστικό</th>
+                            <th>Τυπικά εργαλεία web</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Ιδιωτικότητα</td>
+                            <td>Συνήθως απαιτεί ανέβασμα βίντεο</td>
+                            <td>Τα καρέ εξάγονται απευθείας στο iPhone σου</td>
+                        </tr>
+                        <tr>
+                            <td>Ακρίβεια</td>
+                            <td>Συχνά περιορισμένος έλεγχος</td>
+                            <td>Κύλιση καρέ-καρέ στην ακριβή στιγμή</td>
+                        </tr>
+                        <tr>
+                            <td>Έξοδος</td>
+                            <td>Μερικές φορές μόνο μία μορφή</td>
+                            <td>JPG, PNG και HEIC, συν ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Ροή εργασίας</td>
+                            <td>Κύκλος upload/download στο browser</td>
+                            <td>Έναρξη από Κοινοποίηση στις Φωτογραφίες και άμεση αποθήκευση</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Πώς να πάρεις καρέ από βίντεο στο iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Ακολούθησε αυτά τα απλά βήματα για να αποθηκεύσεις τέλειες στατικές φωτογραφίες από τα κλιπ σου</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Βίντεο επίδειξης σύντομα</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Βήμα 1: Άνοιγμα από Φωτογραφίες > Βήμα 2: Κύλιση στο στιγμή > Βήμα 3: Λήψη καρέ > Βήμα 4: Εξαγωγή JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">Αξιολόγηση 5,0 από χρήστες του App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Ακριβώς αυτό που χρειαζόμουν για μια τέλεια στατική εικόνα από οικογενειακό βίντεο. Γρήγορο και απλό.»</p>
+                    <div class="testimonial-author">Χρήστης App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Ο επιλογέας καρέ είναι ακριβής και η εξαγωγή πολλών εικόνων είναι πολύ βολική.»</p>
+                    <div class="testimonial-author">Χρήστης App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Εξαιρετική ροή από την Κοινοποίηση στις Φωτογραφίες. Δεν χρειάζεται περίπλοκος επεξεργαστής.»</p>
+                    <div class="testimonial-author">Χρήστης App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">Συχνές ερωτήσεις: βίντεο σε φωτογραφία στο iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Πώς παίρνω καρέ από βίντεο στο iPhone;</div>
+                <div class="faq-answer">Άνοιξε ένα κλιπ στο Video To Photo - Grab Frame, κύλησε στην ακριβή στιγμή και κατέγραψε τη στατική εικόνα. Στη συνέχεια εξήγαγέ την ως JPG, PNG ή HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Μπορώ να εξάγω περισσότερα από ένα καρέ τη φορά;</div>
+                <div class="faq-answer">Ναι. Μπορείς να επιλέξεις πολλές στιγμές και να εξάγεις πολλά καρέ σε μία παρτίδα.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Ποιες μορφές μπορώ να εξάγω;</div>
+                <div class="faq-answer">Η εφαρμογή υποστηρίζει JPG, PNG και HEIC. Μπορείς επίσης να εξάγεις ως ZIP ή PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Ανεβάζει η εφαρμογή τα βίντεό μου;</div>
+                <div class="faq-answer">Όχι. Η εξαγωγή γίνεται στη συσκευή — τα βίντεα και οι εικόνες μένουν στο iPhone σου.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Μπορώ να συνεχίσω αργότερα;</div>
+                <div class="faq-answer">Ναι. Μπορείς να αποθηκεύσεις συνεδρίες ως έργα και να τα ανοίξεις ξανά.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Είναι δωρεάν το Video To Photo - Grab Frame;</div>
+                <div class="faq-answer">Η εφαρμογή είναι δωρεάν για λήψη· οι προηγμένες λειτουργίες είναι μέσω αγορών εντός εφαρμογής.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Για ποιους είναι η εφαρμογή;</div>
+                <div class="faq-answer">Για δημιουργούς περιεχομένου, εκπαιδευτικούς και όποιον θέλει να αποθηκεύσει μια συγκεκριμένη στιγμή από βίντεο ως φωτογραφία.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Λήψη Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Πολιτική απορρήτου</a>
+                    <a href="https://extractframeapp.com/terms.html">Όροι χρήσης</a>
+                    <a href="mailto:c-basso@ya.ru">Υποστήριξη</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Ανάπτυξη: Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Με την επιφύλαξη παντός δικαιώματος.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Πάρε τέλεια καρέ από βίντεο στο iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

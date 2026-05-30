@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="bg" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: кадри от видео за iPhone</title>
+    <meta name="description" content="Извличайте снимки от видео на iPhone за секунди. Запазете един кадър или експортирайте множество като JPG, PNG или HEIC — поверително на устройството.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="bg">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="BG">
+    <meta name="geo.placename" content="България">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/bg/">
+    <meta property="og:title" content="Video To Photo - Grab Frame за iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="bg_BG">
+    <meta property="og:description" content="Превърнете видеа в снимки на iPhone. Изберете точния момент и експортирайте кадри с високо качество като JPG, PNG или HEIC — обработка на устройството.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/bg/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Извличайте точни кадри от видео на iPhone. Обработка на устройството, групов експорт и гъвкави формати.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/bg/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: кадри от видео за iPhone",
+        "description": "Извличайте снимки от видео на iPhone за секунди. Запазете един кадър или експортирайте множество като JPG, PNG или HEIC — поверително на устройството.",
+        "url": "https://extractframeapp.com/bg/",
+        "dateModified": "2026-05-30T18:18:04.825Z",
+        "inLanguage": "bg",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/bg/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Извличайте снимки от видео на iPhone за секунди. Запазете един кадър или експортирайте множество като JPG, PNG или HEIC — поверително на устройството.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: кадри от видео за iPhone",
+                "item": "https://extractframeapp.com/bg/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/bg/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/bg/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Как да извлечете кадър от видео на iPhone",
+        "description": "Прости стъпки за запазване на перфектни снимки от клиповете ви",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "BGN",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "BGN"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Отворете от Снимки",
+                "text": "Споделете видео от Снимки към Video To Photo - Grab Frame, или първо отворете приложението и изберете клипа.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Намерете точния момент",
+                "text": "Използвайте плъзгача, за да преминавате кадър по кадър и спрете на желаното изображение.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Уловете един или повече кадри",
+                "text": "Уловете един кадър или маркирайте няколко момента за групов експорт.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Експортирайте и запазете",
+                "text": "Запазете кадрите като JPG, PNG или HEIC, или експортирайте като ZIP или PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Екстрактор на кадри от видео",
+        "description": "Извличайте снимки от видео на iPhone за секунди. Запазете един кадър или експортирайте множество като JPG, PNG или HEIC — поверително на устройството.",
+        "url": "https://extractframeapp.com/bg/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Снимки и видео",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "BGN",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.825Z",
+        "featureList": [
+            "Точен избор на кадър",
+            "Един или повече кадри",
+            "Експорт JPG, PNG и HEIC",
+            "Работен процес Споделяне",
+            "Изход ZIP и PDF",
+            "Запазване и повторно отваряне на проекти"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Как да извлека кадър от видео на iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Отворете клип в Video To Photo - Grab Frame, преминете до точния момент и уловете кадъра. След това го експортирайте като JPG, PNG или HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Мога ли да експортирам повече от един кадър наведнъж?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. Можете да изберете няколко момента и да експортирате няколко кадъра в една партида."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Кои формати мога да експортирам?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Приложението поддържа JPG, PNG и HEIC. Можете също да експортирате като ZIP или PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Качва ли приложението моите видеа?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Не. Извличането се извършва на устройството — видеата и изображенията остават на вашия iPhone."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Мога ли да продължа по-късно?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Да. Можете да запазите сесиите като проекти и да ги отворите отново."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Безплатно ли е Video To Photo - Grab Frame?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Приложението е безплатно за изтегляне; разширените функции са чрез покупки в приложението."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "За кого е приложението?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "За създатели на съдържание, преподаватели и всеки, който иска да улови конкретен момент от видео като снимка."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: кадри от видео за iPhone",
+            "item": "https://extractframeapp.com/bg/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084825" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084825">
+    <link rel="stylesheet" href="/style.css?v=1780165084825">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Лого на Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Извличайте кадри от видео на iPhone</h1>
+                    <h2>Запазете точни снимки от клиповете си за секунди</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame е iOS приложение, което превръща видеа в снимки на вашия iPhone. Изберете точния момент и експортирайте кадри като JPG, PNG или HEIC.</p>
+                    <p class="subheadline">Отворете от Снимки, преминете до правилния момент и запазете един или повече кадри. Без акаунт, без качване и без монтажна времева линия.</p>
+                    <p class="last-updated-hero">Последна актуализация: май 2026 г.</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="Изтеглете от App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR код за изтегляне на приложението" class="qr-code">
+                        <p class="qr-text">Сканирайте с iPhone, за да изтеглите</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            Докоснете, за да запазите кадър от видео
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Защо потребителите избират това приложение</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Точен избор на кадър</h3>
+                    <p>Преминавайте през видеото и уловете точно нужната статична снимка в точния момент.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Един или повече кадри</h3>
+                    <p>Уловете един кадър или маркирайте няколко момента и експортирайте цял набор снимки наведнъж.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Експорт JPG, PNG и HEIC</h3>
+                    <p>Запазвайте извлечените кадри във формат, подходящ за вашия работен процес.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Работен процес Споделяне</h3>
+                    <p>Започнете директно от Снимки чрез Споделяне и преминете направо към извличане на кадри.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>Изход ZIP и PDF</h3>
+                    <p>Експортирайте отделни изображения, ZIP архив или PDF при нужда от групиран изход.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>Запазване и повторно отваряне на проекти</h3>
+                    <p>Запазете сесиите като проекти и продължете по-късно без да започвате отначало.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame в цифри</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5,0</div>
+                    <div class="stat-label">Оценка</div>
+                    <div class="stat-detail">На база 8 оценки в App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42,9 MB</div>
+                    <div class="stat-label">Размер</div>
+                    <div class="stat-detail">Леко приложение Снимки и видео</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Формати</div>
+                    <div class="stat-detail">JPG, PNG и HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">На устройството</div>
+                    <div class="stat-label">Поверителност</div>
+                    <div class="stat-detail">Без качване на видео</div>
+                </div>
+            </div>
+            <p class="last-updated">Последна актуализация: май 2026 г.</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Как да превърнете видео в снимки на iPhone</h2>
+            <p class="subheadline">Извличайте точни кадри без качване на видеото</p>
+            <p>Video To Photo - Grab Frame е iPhone приложение в категория Снимки и видео, което извлича статични кадри от видео. Според App Store: оценка 5,0 от 8 отзива, размер 42,9 MB, експорт към JPG, PNG и HEIC. Обработка на устройството — без изпращане към външни сървъри.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Извличане на кадър стъпка по стъпка</h3>
+                    <p>Споделете видео от Снимки към приложението, преминете до момента и уловете кадъра. Повторете на няколко места в клипа и експортирайте като JPG, PNG или HEIC. ZIP и PDF са налични за групирана доставка.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Защо е полезно</h3>
+                    <p>Video To Photo - Grab Frame се фокусира върху една задача: бързо и точно превръщане на видео моменти в статични кадри. За разлика от браузърни инструменти, без чакане за качване и с видеото на устройството. Групов експорт и проекти включени.</p>
+                </div>
+            </div>
+            <h3>Често срещани случаи на употреба</h3>
+            <ul>
+                <li>Миниатюри за социални мрежи от видеоклипове</li>
+                <li>Запазване на изрази или жестове като снимки</li>
+                <li>Сторибордове от уроци или демонстрации</li>
+                <li>Референтни кадри за дизайн или монтаж</li>
+            </ul>
+            <p>Video To Photo - Grab Frame предлага на потребителите на iPhone фокусиран начин за извличане на кадри от видео с точен контрол, гъвкави формати и поверителност на устройството. Последна проверка спрямо App Store LAST_UPDATED.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame срещу браузърни инструменти</h3>
+                <p>Сравнение между Video To Photo - Grab Frame и типични браузърни екстрактори на кадри:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Функция</th>
+                            <th>Типични уеб инструменти</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Поверителност</td>
+                            <td>Обикновено изисква качване на видео</td>
+                            <td>Кадрите се извличат директно на вашия iPhone</td>
+                        </tr>
+                        <tr>
+                            <td>Точност</td>
+                            <td>Често ограничен контрол</td>
+                            <td>Преминаване кадър по кадър до точния момент</td>
+                        </tr>
+                        <tr>
+                            <td>Изход</td>
+                            <td>Понякога само един формат</td>
+                            <td>JPG, PNG и HEIC, плюс ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Работен процес</td>
+                            <td>Цикъл качване/изтегляне в браузъра</td>
+                            <td>Старт от Споделяне в Снимки и незабавно запазване</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Как да извлечете кадър от видео на iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Прости стъпки за запазване на перфектни снимки от клиповете ви</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Демо видео скоро</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Стъпка 1: Отворете от Снимки > Стъпка 2: Преминете до момента > Стъпка 3: Уловете кадър(и) > Стъпка 4: Експорт JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">Оценка 5,0 от потребители на App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Точно това, което ми трябваше за перфектен кадър от семейно видео. Бързо и просто.“</p>
+                    <div class="testimonial-author">Потребител на App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Изборът на кадър е точен, а експортът на множество изображения е много удобен.“</p>
+                    <div class="testimonial-author">Потребител на App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">„Отличен работен процес от Споделяне в Снимки. Не е нужен сложен редактор.“</p>
+                    <div class="testimonial-author">Потребител на App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">ЧЗВ: видео към снимка на iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Как да извлека кадър от видео на iPhone?</div>
+                <div class="faq-answer">Отворете клип в Video To Photo - Grab Frame, преминете до точния момент и уловете кадъра. След това го експортирайте като JPG, PNG или HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Мога ли да експортирам повече от един кадър наведнъж?</div>
+                <div class="faq-answer">Да. Можете да изберете няколко момента и да експортирате няколко кадъра в една партида.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Кои формати мога да експортирам?</div>
+                <div class="faq-answer">Приложението поддържа JPG, PNG и HEIC. Можете също да експортирате като ZIP или PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Качва ли приложението моите видеа?</div>
+                <div class="faq-answer">Не. Извличането се извършва на устройството — видеата и изображенията остават на вашия iPhone.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Мога ли да продължа по-късно?</div>
+                <div class="faq-answer">Да. Можете да запазите сесиите като проекти и да ги отворите отново.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Безплатно ли е Video To Photo - Grab Frame?</div>
+                <div class="faq-answer">Приложението е безплатно за изтегляне; разширените функции са чрез покупки в приложението.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">За кого е приложението?</div>
+                <div class="faq-answer">За създатели на съдържание, преподаватели и всеки, който иска да улови конкретен момент от видео като снимка.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Изтеглете Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Политика за поверителност</a>
+                    <a href="https://extractframeapp.com/terms.html">Условия за ползване</a>
+                    <a href="mailto:c-basso@ya.ru">Поддръжка</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Разработено от Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Всички права запазени.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Уловете перфектни кадри от видео на iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

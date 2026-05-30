@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="bn" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: iPhone-এ ভিডিও থেকে ফ্রেম</title>
+    <meta name="description" content="iPhone-এ কয়েক সেকেন্ডে ভিডিও থেকে স্থির ছবি বের করুন। একটি ফ্রেম বা একসাথে JPG, PNG বা HEIC-এ সংরক্ষণ করুন — ডিভাইসে প্রক্রিয়াকরণ, আপলোড ছাড়াই।">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="bn">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="IN">
+    <meta name="geo.placename" content="ভারত">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/bn/">
+    <meta property="og:title" content="Video To Photo - Grab Frame for iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="bn_IN">
+    <meta property="og:description" content="iPhone-এ ভিডিওকে স্থির ছবিতে রূপান্তর করুন। সঠিক মুহূর্ত বেছে নিন এবং JPG, PNG বা HEIC-এ উচ্চমানের ফ্রেম রপ্তানি করুন — ডিভাইসে প্রক্রিয়াকরণ।">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/bn/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="iPhone-এ ভিডিও থেকে সঠিক ফ্রেম বের করুন। ডিভাইসে প্রক্রিয়াকরণ, ব্যাচ এক্সপোর্ট এবং নমনীয় ফরম্যাট।">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/bn/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: iPhone-এ ভিডিও থেকে ফ্রেম",
+        "description": "iPhone-এ কয়েক সেকেন্ডে ভিডিও থেকে স্থির ছবি বের করুন। একটি ফ্রেম বা একসাথে JPG, PNG বা HEIC-এ সংরক্ষণ করুন — ডিভাইসে প্রক্রিয়াকরণ, আপলোড ছাড়াই।",
+        "url": "https://extractframeapp.com/bn/",
+        "dateModified": "2026-05-30T18:18:04.831Z",
+        "inLanguage": "bn",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/bn/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "iPhone-এ কয়েক সেকেন্ডে ভিডিও থেকে স্থির ছবি বের করুন। একটি ফ্রেম বা একসাথে JPG, PNG বা HEIC-এ সংরক্ষণ করুন — ডিভাইসে প্রক্রিয়াকরণ, আপলোড ছাড়াই।",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: iPhone-এ ভিডিও থেকে ফ্রেম",
+                "item": "https://extractframeapp.com/bn/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/bn/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/bn/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "iPhone-এ ভিডিও থেকে ফ্রেম কীভাবে বের করবেন",
+        "description": "আপনার ক্লিপ থেকে নিখুঁত স্থির ছবি সংরক্ষণের সহজ ধাপ",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "INR",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "INR"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Photos থেকে খুলুন",
+                "text": "Photos থেকে ভিডিও Video To Photo - Grab Frame-এ Share করুন, অথবা আগে অ্যাপ খুলে আপনার ক্লিপ বেছে নিন।",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "সঠিক মুহূর্ত খুঁজুন",
+                "text": "স্ক্রব নিয়ন্ত্রণ দিয়ে ফ্রেমে ফ্রেমে এগিয়ে যান এবং যে স্থির ছবি চান সেখানে থামুন।",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "একটি বা একাধিক ফ্রেম নিন",
+                "text": "একটি ফ্রেম ক্যাপচার করুন অথবা ব্যাচ রপ্তানির জন্য একাধিক মুহূর্ত চিহ্নিত করুন।",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "রপ্তানি ও সংরক্ষণ",
+                "text": "বের করা ছবি JPG, PNG বা HEIC-এ সংরক্ষণ করুন, অথবা ZIP বা PDF হিসেবে রপ্তানি করুন।",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "ভিডিও ফ্রেম এক্সট্র্যাক্টর",
+        "description": "iPhone-এ কয়েক সেকেন্ডে ভিডিও থেকে স্থির ছবি বের করুন। একটি ফ্রেম বা একসাথে JPG, PNG বা HEIC-এ সংরক্ষণ করুন — ডিভাইসে প্রক্রিয়াকরণ, আপলোড ছাড়াই।",
+        "url": "https://extractframeapp.com/bn/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Photo & Video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.831Z",
+        "featureList": [
+            "সঠিক ফ্রেম নির্বাচন",
+            "একটি বা একাধিক ফ্রেম",
+            "JPG, PNG এবং HEIC রপ্তানি",
+            "Share Sheet ওয়ার্কফ্লো",
+            "ZIP এবং PDF আউটপুট",
+            "প্রজেক্ট সংরক্ষণ ও পুনরায় খোলা"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "iPhone-এ ভিডিও থেকে ফ্রেম কীভাবে বের করব?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Video To Photo - Grab Frame-এ ক্লিপ খুলুন, সঠিক মুহূর্তে স্ক্রব করুন এবং স্থির ফ্রেম ক্যাপচার করুন। তারপর JPG, PNG বা HEIC-এ রপ্তানি করুন।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "আমি কি একসাথে একাধিক ফ্রেম রপ্তানি করতে পারি?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "হ্যাঁ। আপনি একাধিক মুহূর্ত বেছে নিয়ে এক ব্যাচে কয়েকটি ফ্রেম রপ্তানি করতে পারেন।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "আমি কোন ফরম্যাটে রপ্তানি করতে পারি?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "অ্যাপ JPG, PNG এবং HEIC-এ ছবি রপ্তানি সমর্থন করে। ZIP বা PDF হিসেবেও রপ্তানি করা যায়।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "অ্যাপ কি আমার ভিডিও আপলোড করে?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "না। ফ্রেম বের করা ডিভাইসে হয় — ভিডিও ও ছবি আপনার iPhone-এই থাকে।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "আমি কি পরে কাজ চালিয়ে যেতে পারি?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "হ্যাঁ। সেশন প্রজেক্ট হিসেবে সংরক্ষণ করে পরে আবার খুলতে পারেন।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Video To Photo - Grab Frame কি বিনামূল্যে?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "অ্যাপটি বিনামূল্যে ডাউনলোড; উন্নত বৈশিষ্ট্যের জন্য ইন-অ্যাপ কেনাকাটা রয়েছে।"
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "এই অ্যাপ কার জন্য?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "কনটেন্ট ক্রিয়েটর, শিক্ষক এবং যে কেউ ভিডিওর নির্দিষ্ট মুহূর্তকে স্থির ছবি হিসেবে সংরক্ষণ করতে চান তাদের জন্য।"
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: iPhone-এ ভিডিও থেকে ফ্রেম",
+            "item": "https://extractframeapp.com/bn/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084831" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084831">
+    <link rel="stylesheet" href="/style.css?v=1780165084831">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Video To Photo - Grab Frame লোগো" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>iPhone-এ ভিডিও থেকে ফ্রেম বের করুন</h1>
+                    <h2>আপনার ক্লিপ থেকে সঠিক স্থির ছবি কয়েক সেকেন্ডে সংরক্ষণ করুন</h2>
+                    <p class="entity-definition">Video To Photo - Grab Frame একটি iOS অ্যাপ যা iPhone-এ ভিডিওকে স্থির ছবিতে রূপান্তর করে। সঠিক মুহূর্ত বেছে নিন এবং JPG, PNG বা HEIC-এ ফ্রেম রপ্তানি করুন।</p>
+                    <p class="subheadline">Photos থেকে খুলুন, সঠিক মুহূর্তে স্ক্রব করুন, এবং একটি বা একাধিক ফ্রেম সংরক্ষণ করুন। কোনো অ্যাকাউন্ট নয়, আপলোড নয়, এবং সম্পাদনা টাইমলাইনের প্রয়োজন নেই।</p>
+                    <p class="last-updated-hero">সর্বশেষ আপডেট: মে ২০২৬</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="App Store থেকে ডাউনলোড করুন" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="অ্যাপ ডাউনলোডের QR কোড" class="qr-code">
+                        <p class="qr-text">ডাউনলোড করতে iPhone দিয়ে স্ক্যান করুন</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            ভিডিও থেকে ফ্রেম নিতে ট্যাপ করুন
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">ব্যবহারকারীরা কেন এই অ্যাপ বেছে নেন</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>সঠিক ফ্রেম নির্বাচন</h3>
+                    <p>ভিডিও স্ক্রব করুন এবং ঠিক সেই মুহূর্তে প্রয়োজনীয় স্থির ফ্রেম ক্যাপচার করুন।</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>একটি বা একাধিক ফ্রেম</h3>
+                    <p>একটি ফ্রেম নিন অথবা একাধিক মুহূর্ত চিহ্নিত করে একসাথে পুরো সেট রপ্তানি করুন।</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>JPG, PNG এবং HEIC রপ্তানি</h3>
+                    <p>বের করা ফ্রেম আপনার ওয়ার্কফ্লোর জন্য উপযুক্ত ফরম্যাটে সংরক্ষণ করুন।</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Share Sheet ওয়ার্কফ্লো</h3>
+                    <p>Photos থেকে সরাসরি Share-এর মাধ্যমে শুরু করুন এবং তৎক্ষণাৎ ফ্রেম বের করতে যান।</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP এবং PDF আউটপুট</h3>
+                    <p>আলাদা ছবি, ZIP আর্কাইভ বা PDF হিসেবে রপ্তানি করুন যখন গোষ্ঠীবদ্ধ আউটপুট দরকার।</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>প্রজেক্ট সংরক্ষণ ও পুনরায় খোলা</h3>
+                    <p>এক্সট্র্যাকশন সেশন প্রজেক্ট হিসেবে সংরক্ষণ করুন এবং পরে শুরু থেকে ছাড়াই চালিয়ে যান।</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame সংখ্যায়</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5.0</div>
+                    <div class="stat-label">রেটিং</div>
+                    <div class="stat-detail">App Store-এর ৮টি রেটিংয়ের ভিত্তিতে</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42.9 MB</div>
+                    <div class="stat-label">সাইজ</div>
+                    <div class="stat-detail">হালকা Photo & Video অ্যাপ</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">ফরম্যাট</div>
+                    <div class="stat-detail">JPG, PNG এবং HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">ডিভাইসে</div>
+                    <div class="stat-label">গোপনীয়তা</div>
+                    <div class="stat-detail">ভিডিও আপলোডের প্রয়োজন নেই</div>
+                </div>
+            </div>
+            <p class="last-updated">সর্বশেষ আপডেট: মে ২০২৬</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">iPhone-এ ভিডিওকে ছবিতে কীভাবে রূপান্তর করবেন</h2>
+            <p class="subheadline">ভিডিও আপলোড ছাড়াই সঠিক স্থির মুহূর্ত বের করুন</p>
+            <p>Video To Photo - Grab Frame Photo & Video বিভাগের iPhone অ্যাপ যা ভিডিও থেকে স্থির ছবি বের করে। App Store অনুযায়ী: ৮টি রেটিং থেকে ৫.০, ৪২.৯ MB সাইজ, JPG, PNG এবং HEIC রপ্তানি। ডিভাইসে প্রক্রিয়াকরণ — বাহ্যিক সার্ভারে পাঠানোর দরকার নেই।</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>ধাপে ধাপে ফ্রেম বের করা</h3>
+                    <p>Photos থেকে ভিডিও অ্যাপে Share করুন, মুহূর্তে স্ক্রব করুন এবং ফ্রেম ক্যাপচার করুন। ক্লিপের একাধিক স্থানে পুনরাবৃত্তি করুন, তারপর JPG, PNG বা HEIC-এ রপ্তানি করুন। গোষ্ঠীবদ্ধ ডেলিভারির জন্য ZIP ও PDF-ও আছে।</p>
+                </div>
+                <div class="seo-section">
+                    <h3>এটি কেন উপযোগী</h3>
+                    <p>Video To Photo - Grab Frame একটি কাজে মনোনিবেশ করে: সঠিক নিয়ন্ত্রণে দ্রুত ভিডিও মুহূর্তকে স্থির ছবিতে রূপান্তর। ব্রাউজার টুলের তুলনায় আপলোডের অপেক্ষা নেই এবং ভিডিও ডিভাইসেই থাকে। ব্যাচ রপ্তানি ও প্রজেক্ট সংরক্ষণ/পুনরায় খোলা অন্তর্ভুক্ত।</p>
+                </div>
+            </div>
+            <h3>সাধারণ ব্যবহারের ক্ষেত্র</h3>
+            <ul>
+                <li>ভিডিও ক্লিপ থেকে সোশ্যাল থাম্বনেইল তৈরি</li>
+                <li>স্মরণীয় অভিব্যক্তি বা অঙ্গভঙ্গি ছবি হিসেবে সংরক্ষণ</li>
+                <li>টিউটোরিয়াল বা ডেমো ফুটেজ থেকে স্টোরিবোর্ড তৈরি</li>
+                <li>ডিজাইন বা সম্পাদনার জন্য রেফারেন্স স্থির ছবি নেওয়া</li>
+            </ul>
+            <p>Video To Photo - Grab Frame iPhone ব্যবহারকারীদের সঠিক নিয়ন্ত্রণ, নমনীয় রপ্তানি ফরম্যাট এবং ডিভাইসে গোপনীয়তার সাথে ভিডিও থেকে স্থির ছবি বের করার কেন্দ্রীভূত উপায় দেয়। App Store বিবরণ ২৮ মে ২০২৬-এ যাচাই করা হয়েছে।</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame বনাম ব্রাউজার টুল</h3>
+                <p>Video To Photo - Grab Frame এবং সাধারণ ব্রাউজার ফ্রেম এক্সট্র্যাক্টর টুলের তুলনা:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>বৈশিষ্ট্য</th>
+                            <th>সাধারণ ওয়েব টুল</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>গোপনীয়তা</td>
+                            <td>সাধারণত ভিডিও আপলোড প্রয়োজন</td>
+                            <td>ফ্রেম সরাসরি iPhone-এ বের করা হয়</td>
+                        </tr>
+                        <tr>
+                            <td>সঠিকতা</td>
+                            <td>প্রায়ই সীমিত নিয়ন্ত্রণ</td>
+                            <td>সঠিক ফ্রেম-স্তরের মুহূর্তে স্ক্রব</td>
+                        </tr>
+                        <tr>
+                            <td>আউটপুট</td>
+                            <td>কখনও কখনও শুধু একটি ফরম্যাট</td>
+                            <td>JPG, PNG এবং HEIC, সাথে ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>ওয়ার্কফ্লো</td>
+                            <td>ব্রাউজার আপলোড/ডাউনলোড চক্র</td>
+                            <td>Photos Share Sheet থেকে শুরু ও তৎক্ষণাৎ সংরক্ষণ</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">iPhone-এ ভিডিও থেকে ফ্রেম কীভাবে বের করবেন</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">আপনার ক্লিপ থেকে নিখুঁত স্থির ছবি সংরক্ষণের সহজ ধাপ</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 ডেমো ভিডিও শীঘ্রই আসছে</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">ধাপ ১: Photos থেকে খুলুন > ধাপ ২: মুহূর্তে স্ক্রব > ধাপ ৩: ফ্রেম নিন > ধাপ ৪: JPG/PNG/HEIC রপ্তানি</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">App Store ব্যবহারকারীদের কাছ থেকে ৫.০ রেটিং</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«পারিবারিক ভিডিও থেকে নিখুঁত ফ্রেম তুলতে ঠিক যা দরকার ছিল। দ্রুত এবং সহজ।»</p>
+                    <div class="testimonial-author">App Store ব্যবহারকারী</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«ফ্রেম পিকার খুব সঠিক এবং একাধিক ছবি রপ্তানি করা খুব সুবিধাজনক।»</p>
+                    <div class="testimonial-author">App Store ব্যবহারকারী</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">«Photos-এর Share মেনু থেকে দারুণ ওয়ার্কফ্লো। জটিল এডিটরের দরকার নেই।»</p>
+                    <div class="testimonial-author">App Store ব্যবহারকারী</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">iPhone-এ ভিডিও থেকে ছবি: প্রায়শই জিজ্ঞাসিত প্রশ্ন</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">iPhone-এ ভিডিও থেকে ফ্রেম কীভাবে বের করব?</div>
+                <div class="faq-answer">Video To Photo - Grab Frame-এ ক্লিপ খুলুন, সঠিক মুহূর্তে স্ক্রব করুন এবং স্থির ফ্রেম ক্যাপচার করুন। তারপর JPG, PNG বা HEIC-এ রপ্তানি করুন।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">আমি কি একসাথে একাধিক ফ্রেম রপ্তানি করতে পারি?</div>
+                <div class="faq-answer">হ্যাঁ। আপনি একাধিক মুহূর্ত বেছে নিয়ে এক ব্যাচে কয়েকটি ফ্রেম রপ্তানি করতে পারেন।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">আমি কোন ফরম্যাটে রপ্তানি করতে পারি?</div>
+                <div class="faq-answer">অ্যাপ JPG, PNG এবং HEIC-এ ছবি রপ্তানি সমর্থন করে। ZIP বা PDF হিসেবেও রপ্তানি করা যায়।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">অ্যাপ কি আমার ভিডিও আপলোড করে?</div>
+                <div class="faq-answer">না। ফ্রেম বের করা ডিভাইসে হয় — ভিডিও ও ছবি আপনার iPhone-এই থাকে।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">আমি কি পরে কাজ চালিয়ে যেতে পারি?</div>
+                <div class="faq-answer">হ্যাঁ। সেশন প্রজেক্ট হিসেবে সংরক্ষণ করে পরে আবার খুলতে পারেন।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Video To Photo - Grab Frame কি বিনামূল্যে?</div>
+                <div class="faq-answer">অ্যাপটি বিনামূল্যে ডাউনলোড; উন্নত বৈশিষ্ট্যের জন্য ইন-অ্যাপ কেনাকাটা রয়েছে।</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">এই অ্যাপ কার জন্য?</div>
+                <div class="faq-answer">কনটেন্ট ক্রিয়েটর, শিক্ষক এবং যে কেউ ভিডিওর নির্দিষ্ট মুহূর্তকে স্থির ছবি হিসেবে সংরক্ষণ করতে চান তাদের জন্য।</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 Video To Photo - Grab Frame ডাউনলোড করুন
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">গোপনীয়তা নীতি</a>
+                    <a href="https://extractframeapp.com/terms.html">ব্যবহারের শর্তাবলী</a>
+                    <a href="mailto:c-basso@ya.ru">সহায়তা</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Vladimir Ivakhnenko (c-basso) দ্বারা উন্নীত</p>
+                © 2026 c-basso. সর্বস্বত্ব সংরক্ষিত।
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 iPhone-এ ভিডিও থেকে নিখুঁত ফ্রেম নিন
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+

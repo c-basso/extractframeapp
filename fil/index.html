@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="fil" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <title>Video To Photo - Grab Frame: kunin ang frame mula sa video</title>
+    <meta name="description" content="Kunin ang still na larawan mula sa video sa iPhone mo. I-save ang isang frame o i-export ang marami bilang JPG, PNG o HEIC — pribado sa device, walang upload.">
+    <meta name="author" content="Vladimir Ivakhnenko">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="language" content="fil">
+    <meta name="revisit-after" content="7 days">
+    <meta name="distribution" content="global">
+    <meta name="rating" content="general">
+    <meta name="geo.region" content="PH">
+    <meta name="geo.placename" content="Pilipinas">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Video To Photo - Grab Frame">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
+    <meta name="color-scheme" content="light dark">
+    <meta name="application-name" content="Video To Photo - Grab Frame">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://extractframeapp.com/fil/">
+    <meta property="og:title" content="Video To Photo - Grab Frame para sa iPhone">
+    <meta property="og:site_name" content="Video To Photo - Grab Frame">
+    <meta property="og:locale" content="fil_PH">
+    <meta property="og:description" content="Gawing larawan ang video sa iPhone mo. Piliin ang eksaktong sandali at i-export ang de-kalidad na frame bilang JPG, PNG, o HEIC — processing sa device.">
+    <meta property="og:image" content="https://extractframeapp.com/site_preview.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:logo" content="https://extractframeapp.com/logo.webp">
+
+    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://extractframeapp.com/fil/">
+    <meta name="twitter:title" content="Video To Photo - Grab Frame">
+    <meta name="twitter:description" content="Kunin ang eksaktong still frame mula sa video sa iPhone. Processing sa device, batch export, at flexible na format.">
+    <meta name="twitter:image" content="https://extractframeapp.com/site_preview.png">
+    <meta name="twitter:image:width" content="1200">
+    <meta name="twitter:image:height" content="630">
+
+    <!-- App Store Meta -->
+    <meta name="apple-itunes-app" content="app-id=6743497797">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://extractframeapp.com/fil/">
+    
+    <link rel="alternate" hreflang="en" href="https://extractframeapp.com/" />
+    
+    <link rel="alternate" hreflang="ru" href="https://extractframeapp.com/ru/" />
+    
+    <link rel="alternate" hreflang="es" href="https://extractframeapp.com/es/" />
+    
+    <link rel="alternate" hreflang="fr" href="https://extractframeapp.com/fr/" />
+    
+    <link rel="alternate" hreflang="de" href="https://extractframeapp.com/de/" />
+    
+    <link rel="alternate" hreflang="it" href="https://extractframeapp.com/it/" />
+    
+    <link rel="alternate" hreflang="pt" href="https://extractframeapp.com/pt/" />
+    
+    <link rel="alternate" hreflang="ja" href="https://extractframeapp.com/ja/" />
+    
+    <link rel="alternate" hreflang="ko" href="https://extractframeapp.com/ko/" />
+    
+    <link rel="alternate" hreflang="nl" href="https://extractframeapp.com/nl/" />
+    
+    <link rel="alternate" hreflang="pl" href="https://extractframeapp.com/pl/" />
+    
+    <link rel="alternate" hreflang="ro" href="https://extractframeapp.com/ro/" />
+    
+    <link rel="alternate" hreflang="th" href="https://extractframeapp.com/th/" />
+    
+    <link rel="alternate" hreflang="tr" href="https://extractframeapp.com/tr/" />
+    
+    <link rel="alternate" hreflang="uk" href="https://extractframeapp.com/uk/" />
+    
+    <link rel="alternate" hreflang="vi" href="https://extractframeapp.com/vi/" />
+    
+    <link rel="alternate" hreflang="cs" href="https://extractframeapp.com/cs/" />
+    
+    <link rel="alternate" hreflang="zh-Hans" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="zh-Hant" href="https://extractframeapp.com/zh/" />
+    
+    <link rel="alternate" hreflang="da" href="https://extractframeapp.com/da/" />
+    
+    <link rel="alternate" hreflang="el" href="https://extractframeapp.com/el/" />
+    
+    <link rel="alternate" hreflang="fi" href="https://extractframeapp.com/fi/" />
+    
+    <link rel="alternate" hreflang="fil" href="https://extractframeapp.com/fil/" />
+    
+    <link rel="alternate" hreflang="he" href="https://extractframeapp.com/he/" />
+    
+    <link rel="alternate" hreflang="hr" href="https://extractframeapp.com/hr/" />
+    
+    <link rel="alternate" hreflang="hu" href="https://extractframeapp.com/hu/" />
+    
+    <link rel="alternate" hreflang="id" href="https://extractframeapp.com/id/" />
+    
+    <link rel="alternate" hreflang="ms" href="https://extractframeapp.com/ms/" />
+    
+    <link rel="alternate" hreflang="no" href="https://extractframeapp.com/no/" />
+    
+    <link rel="alternate" hreflang="sk" href="https://extractframeapp.com/sk/" />
+    
+    <link rel="alternate" hreflang="sv" href="https://extractframeapp.com/sv/" />
+    
+    <link rel="alternate" hreflang="bg" href="https://extractframeapp.com/bg/" />
+    
+    <link rel="alternate" hreflang="sl" href="https://extractframeapp.com/sl/" />
+    
+    <link rel="alternate" hreflang="ca" href="https://extractframeapp.com/ca/" />
+    
+    <link rel="alternate" hreflang="hi" href="https://extractframeapp.com/hi/" />
+    
+    <link rel="alternate" hreflang="bn" href="https://extractframeapp.com/bn/" />
+    
+    <link rel="alternate" hreflang="ta" href="https://extractframeapp.com/ta/" />
+    
+    <link rel="alternate" hreflang="te" href="https://extractframeapp.com/te/" />
+    
+    <link rel="alternate" hreflang="ml" href="https://extractframeapp.com/ml/" />
+    
+    <link rel="alternate" hreflang="x-default" href="https://extractframeapp.com/" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- WebPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Video To Photo - Grab Frame: kunin ang frame mula sa video",
+        "description": "Kunin ang still na larawan mula sa video sa iPhone mo. I-save ang isang frame o i-export ang marami bilang JPG, PNG o HEIC — pribado sa device, walang upload.",
+        "url": "https://extractframeapp.com/fil/",
+        "dateModified": "2026-05-30T18:18:04.808Z",
+        "inLanguage": "fil",
+        "isPartOf": {
+            "@type": "WebSite",
+            "name": "Video To Photo - Grab Frame",
+            "url": "https://extractframeapp.com/fil/"
+        },
+        "about": {
+            "@type": "SoftwareApplication",
+            "name": "Video To Photo - Grab Frame",
+            "description": "Kunin ang still na larawan mula sa video sa iPhone mo. I-save ang isang frame o i-export ang marami bilang JPG, PNG o HEIC — pribado sa device, walang upload.",
+            "applicationCategory": "PhotoApplication"
+        },
+        "breadcrumb": {
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Video To Photo - Grab Frame: kunin ang frame mula sa video",
+                "item": "https://extractframeapp.com/fil/"
+            }]
+        }
+    }
+    </script>
+    
+    <!-- WebSite Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Video To Photo - Grab Frame",
+        "url": "https://extractframeapp.com/fil/"
+    }
+    </script>
+    
+    <!-- Organization Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "c-basso",
+        "url": "https://extractframeapp.com/fil/",
+        "logo": "https://extractframeapp.com/site_preview.png",
+        "sameAs": [
+            "https://apps.apple.com/app/id6743497797"
+        ]
+    }
+    </script>
+    
+    <!-- HowTo Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Paano kunin ang frame mula sa video sa iPhone",
+        "description": "Sundin ang simpleng hakbang na ito para i-save ang perpektong still na larawan mula sa mga clip mo",
+        "image": "https://extractframeapp.com/site_preview.png",
+        "totalTime": "PT2M",
+        "estimatedCost": {
+            "@type": "MonetaryAmount",
+            "currency": "PHP",
+            "value": "0"
+        },
+        "tool": [
+            {
+                "@type": "SoftwareApplication",
+                "name": "Video To Photo - Grab Frame",
+                "operatingSystem": "iOS",
+                "applicationCategory": "PhotoApplication",
+                "offers": {
+                    "@type": "Offer",
+                    "price": "0",
+                    "priceCurrency": "PHP"
+                }
+            }
+        ],
+        "step": [
+            
+            {
+                "@type": "HowToStep",
+                "name": "Buksan mula sa Photos",
+                "text": "Ibahagi ang video mula sa Photos papunta sa Video To Photo - Grab Frame, o buksan muna ang app at piliin ang clip mo.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Hanapin ang eksaktong sandali",
+                "text": "Gamitin ang scrub control para lumipat frame by frame at huminto sa still image na gusto mo.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "Kunin ang isa o maraming frame",
+                "text": "Kunin ang isang frame o markahan ang maraming sandali para sa batch export.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            },
+            
+            {
+                "@type": "HowToStep",
+                "name": "I-export at i-save",
+                "text": "I-save ang still na larawan bilang JPG, PNG, o HEIC, o i-export bilang ZIP o PDF.",
+                "image": "https://extractframeapp.com/site_preview.png"
+            }
+            ]
+    }
+    </script>
+    
+    <!-- SoftwareApplication Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Video To Photo - Grab Frame",
+        "alternateName": "Video frame extractor",
+        "description": "Kunin ang still na larawan mula sa video sa iPhone mo. I-save ang isang frame o i-export ang marami bilang JPG, PNG o HEIC — pribado sa device, walang upload.",
+        "url": "https://extractframeapp.com/fil/",
+        "applicationCategory": "PhotoApplication",
+        "applicationSubCategory": "Larawan at Video",
+        "operatingSystem": ["iOS"],
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "PHP",
+            "availability": "https://schema.org/InStock"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.8,
+            "ratingCount": 259,
+            "bestRating": 5,
+            "worstRating": 1
+        },
+        "author": {
+            "@type": "Person",
+            "name": "Vladimir Ivakhnenko"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "c-basso"
+        },
+        "screenshot": "/screenshots/1.webp",
+        "downloadUrl": "https://apps.apple.com/app/id6743497797",
+        "softwareVersion": "1.1.13",
+        "fileSize": "42 MB",
+        "installUrl": "https://apps.apple.com/app/id6743497797",
+        "dateModified": "2026-05-30T18:18:04.808Z",
+        "featureList": [
+            "Eksaktong pagpili ng frame",
+            "Isang frame o marami",
+            "Export bilang JPG, PNG, at HEIC",
+            "Ibahagi workflow",
+            "ZIP at PDF output",
+            "I-save at buksan muli ang mga project"
+        ]
+    }
+    </script>
+    
+    <!-- FAQPage Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            
+            {
+                "@type": "Question",
+                "name": "Paano kukunin ang frame mula sa video sa iPhone?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Buksan ang clip sa Video To Photo - Grab Frame, i-scrub sa eksaktong sandali, at kunin ang still. Pagkatapos i-export bilang JPG, PNG, o HEIC."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Puwede bang mag-export ng higit sa isang frame?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oo. Puwede kang pumili ng maraming sandali at mag-export ng ilang frame sa isang batch."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Anong mga format ang puwedeng i-export?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Sinusuportahan ng app ang JPG, PNG, at HEIC. Puwede ring i-export bilang ZIP o PDF."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Ina-upload ba ng app ang mga video ko?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hindi. Ang extraction ay nangyayari sa device — nananatili ang video at larawan sa iPhone mo."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Puwede bang magpatuloy mamaya?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oo. Puwede mong i-save ang mga session bilang project at buksan muli mamaya."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Libre ba ang Video To Photo - Grab Frame?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Libre ang i-download ang app; ang advanced features ay sa pamamagitan ng in-app purchase."
+                }
+            },
+            
+            {
+                "@type": "Question",
+                "name": "Para kanino ang app na ito?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Para sa content creators, educators, at sinumang gustong kunin ang partikular na sandali mula sa video bilang still na larawan."
+                }
+            }
+            ]
+    }
+    </script>
+    
+    <!-- BreadcrumbList Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Video To Photo - Grab Frame: kunin ang frame mula sa video",
+            "item": "https://extractframeapp.com/fil/"
+        }]
+    }
+    </script>
+
+    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" as="image" href="/img/bg.webp?v=1780165084808" fetchpriority="high">
+    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
+
+    <link rel="stylesheet" href="/fonts/fonts.css?v=1780165084808">
+    <link rel="stylesheet" href="/style.css?v=1780165084808">
+</head>
+<body>
+    <main role="main">
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-layout">
+                <div class="hero-main">
+                    <a href="https://apps.apple.com/app/id6743497797" class="logo-link">
+                        <div class="logo">
+                            <img src="/img/logo.webp" alt="Logo ng Video To Photo - Grab Frame" width="300" height="300">
+                        </div>
+                    </a>
+                    <h1>Kunin ang frame mula sa video sa iPhone</h1>
+                    <h2>I-save ang eksaktong still na larawan mula sa mga clip mo sa ilang segundo</h2>
+                    <p class="entity-definition">Ang Video To Photo - Grab Frame ay iOS app na ginagawang still na larawan ang video sa iPhone mo. Piliin ang eksaktong sandali at i-export ang frame bilang JPG, PNG, o HEIC.</p>
+                    <p class="subheadline">Buksan mula sa Photos, i-scrub sa tamang sandali, at i-save ang isang frame o marami. Walang account, walang upload, at walang editing timeline.</p>
+                    <p class="last-updated-hero">Huling na-update: Mayo 2026</p>
+                    <a href="https://apps.apple.com/app/id6743497797" class="app-store-btn app-store-btn-mobile">
+                        <img src="/img/download.svg" alt="I-download sa App Store" width="120" height="40">
+                    </a>
+                </div>
+                <div class="hero-side">
+                    <div class="app-store-btn-desktop">
+                        <img src="/img/qr-code.gif" alt="QR code para i-download ang app" class="qr-code">
+                        <p class="qr-text">I-scan gamit ang iPhone mo para i-download</p>
+                    </div>
+                    <div class="phone-mockup" style="display: none;">
+                        <div class="phone-screen">
+                            I-tap para kunin ang frame mula sa video
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title">Bakit pinipili ng mga user ang app na ito</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🎯</div>
+                    <h3>Eksaktong pagpili ng frame</h3>
+                    <p>I-scrub ang video at kunin ang eksaktong still na kailangan mo sa tamang sandali.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🧩</div>
+                    <h3>Isang frame o marami</h3>
+                    <p>Kunin ang isang frame o piliin ang maraming sandali at i-export ang buong set nang sabay-sabay.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🖼️</div>
+                    <h3>Export bilang JPG, PNG, at HEIC</h3>
+                    <p>I-save ang na-extract na frame sa format na swak sa workflow at pagbabahagi mo.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔗</div>
+                    <h3>Ibahagi workflow</h3>
+                    <p>Magsimula direkta mula sa Photos via Ibahagi at pumunta agad sa frame extraction.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">📦</div>
+                    <h3>ZIP at PDF output</h3>
+                    <p>I-export bilang hiwalay na larawan, ZIP archive, o PDF kapag kailangan mo ng grouped output.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💾</div>
+                    <h3>I-save at buksan muli ang mga project</h3>
+                    <p>I-save ang mga session bilang project at magpatuloy mamaya nang hindi nagsisimula ulit.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- By the Numbers Section -->
+    <section class="by-the-numbers">
+        <div class="container">
+            <h2 class="section-title">Video To Photo - Grab Frame sa mga numero</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">5.0</div>
+                    <div class="stat-label">Rating</div>
+                    <div class="stat-detail">Batay sa 8 rating sa App Store</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">42.9 MB</div>
+                    <div class="stat-label">Laki</div>
+                    <div class="stat-detail">Magaan na Photo & Video app</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">3</div>
+                    <div class="stat-label">Format</div>
+                    <div class="stat-detail">JPG, PNG, at HEIC</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">Sa device</div>
+                    <div class="stat-label">Privacy</div>
+                    <div class="stat-detail">Walang kailangang i-upload ang video</div>
+                </div>
+            </div>
+            <p class="last-updated">Huling na-update: Mayo 2026</p>
+        </div>
+    </section>
+
+    <!-- SEO Chapter -->
+    <section class="seo-chapter">
+        <div class="container">
+            <h2 class="section-title">Paano gawing larawan ang video sa iPhone</h2>
+            <p class="subheadline">Kunin ang eksaktong still moment nang hindi ina-upload ang video</p>
+            <p>Ang Video To Photo - Grab Frame ay iPhone app sa kategoryang Larawan at Video na kumukuha ng still image mula sa video. Ayon sa App Store: 5.0 rating mula sa 8 review, 42.9 MB ang laki, at suportado ang export sa JPG, PNG, at HEIC. Processing sa device — walang upload sa external server.</p>
+            <div class="seo-sections">
+                <div class="seo-section">
+                    <h3>Frame extraction hakbang-hakbang</h3>
+                    <p>Ibahagi ang video mula sa Photos papunta sa app, i-scrub sa sandali, at kunin ang frame. Ulitin sa maraming punto sa clip at i-export bilang JPG, PNG, o HEIC. Para sa grouped delivery, may ZIP at PDF.</p>
+                </div>
+                <div class="seo-section">
+                    <h3>Bakit ito kapaki-pakinabang</h3>
+                    <p>Nakatuon ang Video To Photo - Grab Frame sa isang trabaho: gawing still image ang video moment nang mabilis at tumpak. Kumpara sa browser tools, walang upload waiting time at nananatili ang video sa device. Kasama ang batch export at project save/reopen.</p>
+                </div>
+            </div>
+            <h3>Karaniwang use case</h3>
+            <ul>
+                <li>Gumawa ng social thumbnail mula sa video clip</li>
+                <li>I-save ang memorable na expression o gesture bilang larawan</li>
+                <li>Gumawa ng storyboard mula sa tutorial o demo footage</li>
+                <li>Kumuha ng reference still para sa design o editing</li>
+            </ul>
+            <p>Nagbibigay ang Video To Photo - Grab Frame sa mga iPhone user ng focused na paraan para kunin ang still image mula sa video na may eksaktong kontrol, flexible na format, at privacy sa device. Na-verify laban sa App Store noong Mayo 28, 2026.</p>
+            
+            <!-- Comparison Section -->
+            <div class="comparison-section">
+                <h3>Video To Photo - Grab Frame vs. browser tools</h3>
+                <p>Paghahambing ng Video To Photo - Grab Frame at typical na browser-based frame extractor:</p>
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>Feature</th>
+                            <th>Typical na web tool</th>
+                            <th>Video To Photo - Grab Frame</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Privacy</td>
+                            <td>Karaniwang kailangan ang video upload</td>
+                            <td>Direktang kinukuha ang frame sa iPhone mo</td>
+                        </tr>
+                        <tr>
+                            <td>Precision</td>
+                            <td>Madalas limitado ang kontrol</td>
+                            <td>I-scrub frame by frame sa eksaktong sandali</td>
+                        </tr>
+                        <tr>
+                            <td>Output</td>
+                            <td>Minsan isang format lang</td>
+                            <td>JPG, PNG, at HEIC, plus ZIP/PDF</td>
+                        </tr>
+                        <tr>
+                            <td>Workflow</td>
+                            <td>Upload/download cycle sa browser</td>
+                            <td>Magsimula mula sa Ibahagi sa Photos at i-save agad</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Demo Section (hidden) -->
+    <section class="demo" style="display:none;">
+        <div class="container">
+            <h2 class="section-title">Paano kunin ang frame mula sa video sa iPhone</h2>
+            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">Sundin ang simpleng hakbang na ito para i-save ang perpektong still na larawan mula sa mga clip mo</p>
+            <div class="demo-video">
+                <div>
+                    <p>📱 Demo video malapit na</p>
+                    <p style="font-size: 0.9rem; margin-top: 10px;">Hakbang 1: Buksan mula sa Photos > Hakbang 2: Scrub sa sandali > Hakbang 3: Kunin ang frame > Hakbang 4: Export JPG/PNG/HEIC</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="rating">
+                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
+                <div class="rating-text">5.0 rating mula sa mga user ng App Store</div>
+            </div>
+            <div class="testimonial-grid">
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Eksaktong kailangan ko para sa perpektong still mula sa family video. Mabilis at simple."</p>
+                    <div class="testimonial-author">User ng App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Tumpak ang frame picker at napakadali mag-export ng maraming larawan."</p>
+                    <div class="testimonial-author">User ng App Store</div>
+                </div>
+                <div class="testimonial-card">
+                    <p class="testimonial-text">"Magandang workflow mula sa Ibahagi sa Photos. Hindi kailangan ng komplikadong editor."</p>
+                    <div class="testimonial-author">User ng App Store</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq">
+        <div class="container">
+            <h2 class="section-title">FAQ: video to photo sa iPhone</h2>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Paano kukunin ang frame mula sa video sa iPhone?</div>
+                <div class="faq-answer">Buksan ang clip sa Video To Photo - Grab Frame, i-scrub sa eksaktong sandali, at kunin ang still. Pagkatapos i-export bilang JPG, PNG, o HEIC.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Puwede bang mag-export ng higit sa isang frame?</div>
+                <div class="faq-answer">Oo. Puwede kang pumili ng maraming sandali at mag-export ng ilang frame sa isang batch.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Anong mga format ang puwedeng i-export?</div>
+                <div class="faq-answer">Sinusuportahan ng app ang JPG, PNG, at HEIC. Puwede ring i-export bilang ZIP o PDF.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Ina-upload ba ng app ang mga video ko?</div>
+                <div class="faq-answer">Hindi. Ang extraction ay nangyayari sa device — nananatili ang video at larawan sa iPhone mo.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Puwede bang magpatuloy mamaya?</div>
+                <div class="faq-answer">Oo. Puwede mong i-save ang mga session bilang project at buksan muli mamaya.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Libre ba ang Video To Photo - Grab Frame?</div>
+                <div class="faq-answer">Libre ang i-download ang app; ang advanced features ay sa pamamagitan ng in-app purchase.</div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question" onclick="toggleFAQ(this)">Para kanino ang app na ito?</div>
+                <div class="faq-answer">Para sa content creators, educators, at sinumang gustong kunin ang partikular na sandali mula sa video bilang still na larawan.</div>
+            </div>
+        </div>
+    </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div>
+                    <a href="https://apps.apple.com/app/id6743497797" class="footer-cta">
+                        📱 I-download ang Video To Photo - Grab Frame
+                    </a>
+                </div>
+                <div class="footer-links">
+                    <a href="https://extractframeapp.com/privacy.html">Patakaran sa Privacy</a>
+                    <a href="https://extractframeapp.com/terms.html">Mga Tuntunin ng Paggamit</a>
+                    <a href="mailto:c-basso@ya.ru">Suporta</a>
+                </div>
+                <div class="footer-links">
+                    
+                    <a href="https://extractframeapp.com/" hreflang="en">en</a>
+                    
+                    <a href="https://extractframeapp.com/ru/" hreflang="ru">ru</a>
+                    
+                    <a href="https://extractframeapp.com/es/" hreflang="es">es</a>
+                    
+                    <a href="https://extractframeapp.com/fr/" hreflang="fr">fr</a>
+                    
+                    <a href="https://extractframeapp.com/de/" hreflang="de">de</a>
+                    
+                    <a href="https://extractframeapp.com/it/" hreflang="it">it</a>
+                    
+                    <a href="https://extractframeapp.com/pt/" hreflang="pt">pt</a>
+                    
+                    <a href="https://extractframeapp.com/ja/" hreflang="ja">ja</a>
+                    
+                    <a href="https://extractframeapp.com/ko/" hreflang="ko">ko</a>
+                    
+                    <a href="https://extractframeapp.com/nl/" hreflang="nl">nl</a>
+                    
+                    <a href="https://extractframeapp.com/pl/" hreflang="pl">pl</a>
+                    
+                    <a href="https://extractframeapp.com/ro/" hreflang="ro">ro</a>
+                    
+                    <a href="https://extractframeapp.com/th/" hreflang="th">th</a>
+                    
+                    <a href="https://extractframeapp.com/tr/" hreflang="tr">tr</a>
+                    
+                    <a href="https://extractframeapp.com/uk/" hreflang="uk">uk</a>
+                    
+                    <a href="https://extractframeapp.com/vi/" hreflang="vi">vi</a>
+                    
+                    <a href="https://extractframeapp.com/cs/" hreflang="cs">cs</a>
+                    
+                    <a href="https://extractframeapp.com/zh/" hreflang="zh">中文</a>
+                    
+                    <a href="https://extractframeapp.com/da/" hreflang="da">da</a>
+                    
+                    <a href="https://extractframeapp.com/el/" hreflang="el">el</a>
+                    
+                    <a href="https://extractframeapp.com/fi/" hreflang="fi">fi</a>
+                    
+                    <a href="https://extractframeapp.com/fil/" hreflang="fil">fil</a>
+                    
+                    <a href="https://extractframeapp.com/he/" hreflang="he">he</a>
+                    
+                    <a href="https://extractframeapp.com/hr/" hreflang="hr">hr</a>
+                    
+                    <a href="https://extractframeapp.com/hu/" hreflang="hu">hu</a>
+                    
+                    <a href="https://extractframeapp.com/id/" hreflang="id">id</a>
+                    
+                    <a href="https://extractframeapp.com/ms/" hreflang="ms">ms</a>
+                    
+                    <a href="https://extractframeapp.com/no/" hreflang="no">no</a>
+                    
+                    <a href="https://extractframeapp.com/sk/" hreflang="sk">sk</a>
+                    
+                    <a href="https://extractframeapp.com/sv/" hreflang="sv">sv</a>
+                    
+                    <a href="https://extractframeapp.com/bg/" hreflang="bg">bg</a>
+                    
+                    <a href="https://extractframeapp.com/sl/" hreflang="sl">sl</a>
+                    
+                    <a href="https://extractframeapp.com/ca/" hreflang="ca">ca</a>
+                    
+                    <a href="https://extractframeapp.com/hi/" hreflang="hi">hi</a>
+                    
+                    <a href="https://extractframeapp.com/bn/" hreflang="bn">bn</a>
+                    
+                    <a href="https://extractframeapp.com/ta/" hreflang="ta">ta</a>
+                    
+                    <a href="https://extractframeapp.com/te/" hreflang="te">te</a>
+                    
+                    <a href="https://extractframeapp.com/ml/" hreflang="ml">ml</a>
+                    
+                </div>
+            </div>
+            <div style="margin-top: 20px; opacity: 0.7;">
+                <p>Ginawa ni Vladimir Ivakhnenko (c-basso)</p>
+                © 2026 c-basso. Lahat ng karapatan ay nakalaan.
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating CTA -->
+    <a href="https://apps.apple.com/app/id6743497797" class="floating-cta">
+        📱 Kunin ang perpektong frame mula sa video sa iPhone
+    </a>
+
+    <script>
+        function toggleFAQ(element) {
+            const answer = element.nextElementSibling;
+            const isActive = answer.classList.contains('active');
+            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
+            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
+            if (!isActive) {
+                answer.classList.add('active');
+                const parentItem = element.closest('.faq-item');
+                if (parentItem) parentItem.classList.add('open');
+            }
+        }
+
+        const floatingCta = document.querySelector('.floating-cta');
+        const heroSection = document.querySelector('.hero');
+        const footerCta = document.querySelector('.footer-cta');
+        function checkScroll() {
+            if (heroSection) {
+                const heroRect = heroSection.getBoundingClientRect();
+                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
+                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
+                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
+                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
+            }
+        }
+        window.addEventListener('scroll', checkScroll);
+        window.addEventListener('resize', checkScroll);
+        checkScroll();
+
+        // Make hero section clickable
+        if (heroSection) {
+            const ctaLink = heroSection.querySelector('a[href]');
+            if (ctaLink) {
+                const ctaUrl = ctaLink.getAttribute('href');
+                heroSection.addEventListener('click', function(e) {
+                    // Don't trigger if clicking on a link or button
+                    if (e.target.closest('a') || e.target.closest('button')) {
+                        return;
+                    }
+                    window.open(ctaUrl, '_blank');
+                });
+            }
+        }
+    </script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>
+
