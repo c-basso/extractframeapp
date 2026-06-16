@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "he",
-    "title": "Video To Photo - Grab Frame: חילוץ פריימים מווידאו ב-iPhone",
-    "description": "חלץ תמונות סטילס מווידאו באייפון בתוך שניות. שמור פריים בודד או ייצא מספר פריימים ב-JPG, PNG או HEIC — בעיבוד פרטי על המכשיר, בלי העלאה.",
-    "keywords": "וידאו לתמונה, חילוץ פריים מווידאו, מחלץ פריימים, iPhone פריים מווידאו, שמירת פריים, וידאו לתמונה, jpg מווידאו, png מווידאו, heic מווידאו, ייצוא מרוכז, שיתוף מתמונות, app store מחלץ פריימים",
+    "title": "וידאו לתמונה iPhone | Video To Photo",
+    "description": "וידאו לתמונה באייפון: שמרו פריים בודד או ייצאו מספר פריימים ב-JPG, PNG או HEIC בתוך שניות — עיבוד על המכשיר, בלי העלאה.",
+    "keywords": "וידאו לתמונה, חילוץ פריים מווידאו, לכידת פריים, מחלץ פריימים, iPhone פריים מווידאו, שמירת פריים, jpg מווידאו, png מווידאו, heic מווידאו, ייצוא מרוכז, שיתוף מתמונות",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/he/",
-    "og_title": "Video To Photo - Grab Frame לאייפון",
-    "og_description": "הפוך וידאו לתמונות באייפון. בחר את הרגע המדויק וייצא פריימים באיכות גבוהה ב-JPG, PNG או HEIC — עיבוד על המכשיר.",
+    "og_title": "וידאו לתמונה לאייפון",
+    "og_description": "וידאו לתמונה באייפון. בחרו את הרגע המדויק וייצאו פריימים מדויקים ב-JPG, PNG או HEIC — עיבוד על המכשיר, בלי העלאה.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "he_IL",
     "twitter_url": "https://extractframeapp.com/he/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "חלץ פריימים סטילס מדויקים מווידאו באייפון. עיבוד על המכשיר, ייצוא מרוכז ופורמטים גמישים.",
+    "twitter_description": "וידאו לתמונה באייפון. פריימים מדויקים, עיבוד על המכשיר, ייצוא מרוכז ופורמטים JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/he/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "לוגו Video To Photo - Grab Frame",
     "title": "חילוץ פריימים מווידאו באייפון",
-    "subtitle": "שמירת תמונות סטילס מדויקות מהקליפים שלך תוך שניות",
+    "subtitle": "וידאו לתמונה—שמרו פריימים מדויקים מהקליפים שלכם תוך שניות",
     "entity_definition": "Video To Photo - Grab Frame הוא אפליקציית iOS שהופכת וידאו לתמונות סטילס באייפון. בחרו את הרגע המדויק וייצאו פריימים ב-JPG, PNG או HEIC.",
     "subheadline": "פתיחה מתמונות, גלילה לרגע הנכון ושמירת פריים אחד או יותר. בלי חשבון, בלי העלאה ובלי ציר זמן לעריכה.",
     "download_alt": "הורדה ב-App Store",
@@ -32,10 +32,10 @@
     "qr_text": "סרקו עם האייפון להורדה"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "עודכן לאחרונה: 16 ביוני 2026"
   },
   "features": {
-    "title": "למה משתמשים בוחרים באפליקציה הזו",
+    "title": "למה בוחרים בוידאו לתמונה",
     "items": [
       {
         "title": "בחירת פריים מדויקת",
@@ -180,12 +180,16 @@
       {
         "question": "למי מיועדת האפליקציה?",
         "answer": "ליוצרי תוכן, למורים ולכל מי שרוצה לתפוס רגע ספציפי מווידאו כתמונה סטילס."
+      },
+      {
+        "question": "האם יש אפליקציית וידאו לתמונה לאייפון?",
+        "answer": "כן. Video To Photo - Grab Frame ממירה וידאו לתמונה: פתחו קליפ, גללו לרגע המדויק ושמרו פריימים ב-JPG, PNG או HEIC — הכל באייפון שלכם."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "מחלץ פריימים מווידאו",
+    "alternate_name": "וידאו לתמונה",
     "application_category": "PhotoApplication",
     "application_sub_category": "תמונות וסרטונים"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "איך להפוך וידאו לתמונות באייפון",
-    "subtitle": "חילוץ רגעי סטילס מדויקים בלי להעלות את הווידאו",
+    "subtitle": "וידאו לתמונה—חילוץ רגעי סטילס בלי להעלות את הווידאו",
     "intro": "Video To Photo - Grab Frame הוא אפליקציית iPhone בקטגוריית תמונות וסרטונים שמחלצת תמונות סטילס מווידאו. לפי App Store: דירוג 5.0 מ-8 ביקורות, גודל 42.9 MB, ייצוא ל-JPG, PNG ו-HEIC. עיבוד על המכשיר — בלי שליחה לשרתים חיצוניים.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboards מסרטוני הדרכה או הדגמה",
       "תמונות ייחוס לעיצוב או עריכה"
     ],
-    "conclusion": "Video To Photo - Grab Frame נותן למשתמשי iPhone דרך ממוקדת לחילוץ תמונות סטילס מווידאו עם שליטה מדויקת, פורמטים גמישים ופרטיות על המכשיר. אומת מול App Store ב-28 במאי 2026."
+    "conclusion": "Video To Photo - Grab Frame היא אפליקציית וידאו לתמונה לאייפון עם שליטה מדויקת, פורמטים גמישים ופרטיות על המכשיר. אומת מול App Store ב-16 ביוני 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame מול כלי דפדפן",

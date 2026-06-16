@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hi",
-    "title": "Video To Photo - Grab Frame: iPhone पर वीडियो से फ़्रेम",
-    "description": "iPhone पर सेकंडों में वीडियो से स्थिर फ़ोटो निकालें। एक फ़्रेम या कई फ़्रेम एक साथ JPG, PNG या HEIC में सेव करें — निजी ऑन-डिवाइस प्रोसेसिंग, बिना अपलोड के।",
-    "keywords": "वीडियो से फ़ोटो, फ़्रेम ग्रैबर, वीडियो से फ़्रेम निकालें, वीडियो फ़्रेम एक्सट्रैक्टर, iPhone फ़्रेम ग्रैबर, वीडियो से फ़्रेम सेव, वीडियो से इमेज, jpg वीडियो से, png वीडियो से, heic वीडियो से, बैच फ़्रेम एक्सपोर्ट, शेयर शीट फ़्रेम एक्सट्रैक्टर, app store फ़्रेम ग्रैबर",
+    "title": "वीडियो से फ़ोटो / इमेज iPhone | Video To Photo",
+    "description": "iPhone पर वीडियो से फ़ोटो: एक फ़्रेम सेव करें या कई फ़्रेम JPG, PNG या HEIC में सेकंडों में निर्यात करें — ऑन-डिवाइस प्रोसेसिंग, बिना अपलोड के।",
+    "keywords": "वीडियो से फ़ोटो, वीडियो से इमेज, वीडियो से फ़्रेम निकालें, फ़्रेम ग्रैबर, iPhone वीडियो से फ़ोटो, वीडियो फ़्रेम एक्सट्रैक्टर, वीडियो से फ़्रेम सेव, jpg वीडियो से, png वीडियो से, heic वीडियो से, बैच फ़्रेम एक्सपोर्ट, शेयर शीट",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/hi/",
-    "og_title": "Video To Photo - Grab Frame for iPhone",
-    "og_description": "iPhone पर वीडियो को स्थिर फ़ोटो में बदलें। सही पल चुनें और JPG, PNG या HEIC में उच्च गुणवत्ता वाले फ़्रेम निर्यात करें — ऑन-डिवाइस प्रोसेसिंग।",
+    "og_title": "iPhone पर वीडियो से फ़ोटो",
+    "og_description": "iPhone पर वीडियो से फ़ोटो। सही पल चुनें और JPG, PNG या HEIC में फ़्रेम निर्यात करें — ऑन-डिवाइस प्रोसेसिंग, बिना अपलोड के।",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "hi_IN",
     "twitter_url": "https://extractframeapp.com/hi/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "iPhone पर वीडियो से सटीक फ़्रेम निकालें। ऑन-डिवाइस प्रोसेसिंग, बैच एक्सपोर्ट और लचीले फ़ॉर्मैट।",
+    "twitter_description": "iPhone पर वीडियो से फ़ोटो। सटीक फ़्रेम, ऑन-डिवाइस प्रोसेसिंग, बैच एक्सपोर्ट और JPG, PNG, HEIC फ़ॉर्मैट।",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/hi/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame लोगो",
     "title": "iPhone पर वीडियो से फ़्रेम निकालें",
-    "subtitle": "अपने क्लिप से सटीक स्थिर फ़ोटो सेकंडों में सेव करें",
+    "subtitle": "वीडियो से फ़ोटो और इमेज—अपने क्लिप से सटीक स्थिर फ़ोटो सेकंडों में सेव करें",
     "entity_definition": "Video To Photo - Grab Frame एक iOS ऐप है जो iPhone पर वीडियो को स्थिर फ़ोटो में बदलता है। सही पल चुनें और JPG, PNG या HEIC में फ़्रेम निर्यात करें।",
     "subheadline": "फ़ोटो से खोलें, सही पल तक स्क्रब करें, और एक या कई फ़्रेम सेव करें। कोई अकाउंट नहीं, कोई अपलोड नहीं, और एडिटिंग टाइमलाइन की ज़रूरत नहीं।",
     "download_alt": "App Store से डाउनलोड करें",
@@ -32,10 +32,10 @@
     "qr_text": "डाउनलोड करने के लिए iPhone से स्कैन करें"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "अंतिम अपडेट: 16 जून 2026"
   },
   "features": {
-    "title": "उपयोगकर्ता इस ऐप को क्यों चुनते हैं",
+    "title": "उपयोगकर्ता वीडियो से फ़ोटो क्यों चुनते हैं",
     "items": [
       {
         "title": "सटीक फ़्रेम चयन",
@@ -180,12 +180,16 @@
       {
         "question": "यह ऐप किसके लिए है?",
         "answer": "कंटेंट क्रिएटर्स, शिक्षकों और हर उस व्यक्ति के लिए जो वीडियो के किसी खास पल को स्थिर फ़ोटो के रूप में सेव करना चाहता है।"
+      },
+      {
+        "question": "क्या iPhone पर वीडियो से फ़ोटो ऐप है?",
+        "answer": "हाँ। Video To Photo - Grab Frame वीडियो को फ़ोटो में बदलता है: क्लिप खोलें, सही पल तक स्क्रब करें और JPG, PNG या HEIC में फ़्रेम सेव करें — सब कुछ आपके iPhone पर।"
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "वीडियो फ़्रेम एक्सट्रैक्टर",
+    "alternate_name": "वीडियो से फ़ोटो",
     "application_category": "PhotoApplication",
     "application_sub_category": "फ़ोटो और वीडियो"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "iPhone पर वीडियो को फ़ोटो में कैसे बदलें",
-    "subtitle": "वीडियो अपलोड किए बिना सटीक स्थिर पल निकालें",
+    "subtitle": "वीडियो से फ़ोटो—वीडियो अपलोड किए बिना सटीक स्थिर पल निकालें",
     "intro": "Video To Photo - Grab Frame फ़ोटो और वीडियो श्रेणी का iPhone ऐप है जो वीडियो से स्थिर इमेज निकालता है। App Store के अनुसार: 8 रेटिंग से 5.0, 42.9 MB साइज़, JPG, PNG और HEIC निर्यात। ऑन-डिवाइस प्रोसेसिंग — बाहरी सर्वर पर भेजने की ज़रूरत नहीं।",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "ट्यूटोरियल या डेमो फ़ुटेज से स्टोरीबोर्ड बनाना",
       "डिज़ाइन या एडिटिंग के लिए संदर्भ स्थिर इमेज लेना"
     ],
-    "conclusion": "Video To Photo - Grab Frame iPhone उपयोगकर्ताओं को सटीक नियंत्रण, लचीले निर्यात फ़ॉर्मैट और ऑन-डिवाइस गोपनीयता के साथ वीडियो से स्थिर इमेज निकालने का केंद्रित तरीका देता है। App Store विवरण 28 मई 2026 को सत्यापित।"
+    "conclusion": "Video To Photo - Grab Frame iPhone के लिए वीडियो से फ़ोटो ऐप है — सटीक नियंत्रण, लचीले फ़ॉर्मैट और ऑन-डिवाइस गोपनीयता के साथ। App Store विवरण 16 जून 2026 को सत्यापित।"
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame बनाम ब्राउज़र टूल",

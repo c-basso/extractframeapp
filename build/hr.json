@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hr",
-    "title": "Video To Photo - Grab Frame: kadrovi iz videa iPhone",
-    "description": "Izvucite fotografije iz videa na iPhonu u sekundama. Spremite jedan kadar ili izvezite više kao JPG, PNG ili HEIC — privatno na uređaju, bez učitavanja.",
-    "keywords": "video u foto, kadar iz videa, ekstraktor kadrova, iPhone kadar videa, spremi kadar, video u sliku, jpg iz videa, png iz videa, heic iz videa, grupni izvoz, podijeli iz fotografija, app store ekstraktor kadrova",
+    "title": "Video u foto / slika iPhone | Video To Photo",
+    "description": "Video u foto na iPhonu: spremite jedan kadar ili izvezite više u JPG, PNG ili HEIC u sekundama — obrada na uređaju, bez učitavanja.",
+    "keywords": "video u foto, video u sliku, kadar iz videa, ekstraktor kadrova, iPhone kadar videa, spremi kadar, jpg iz videa, png iz videa, heic iz videa, grupni izvoz, podijeli iz fotografija",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/hr/",
-    "og_title": "Video To Photo - Grab Frame za iPhone",
-    "og_description": "Pretvorite videozapise u fotografije na iPhonu. Odaberite točan trenutak i izvezite visokokvalitetne kadrove kao JPG, PNG ili HEIC — obrada na uređaju.",
+    "og_title": "Video u foto za iPhone",
+    "og_description": "Video u foto na iPhonu. Odaberite točan trenutak i izvezite kadrove kao JPG, PNG ili HEIC — obrada na uređaju, bez učitavanja.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "hr_HR",
     "twitter_url": "https://extractframeapp.com/hr/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Izvucite točne kadrove iz videa na iPhonu. Obrada na uređaju, grupni izvoz i fleksibilni formati.",
+    "twitter_description": "Video u foto na iPhonu. Točni kadrovi, obrada na uređaju, grupni izvoz i JPG, PNG, HEIC formati.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/hr/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logo Video To Photo - Grab Frame",
     "title": "Izvucite kadrove iz videa na iPhonu",
-    "subtitle": "Spremite točne fotografije iz klipova u sekundama",
+    "subtitle": "Video u foto i sliku—spremite točne kadrove iz klipova u sekundama",
     "entity_definition": "Video To Photo - Grab Frame je iOS aplikacija koja na iPhonu pretvara videozapise u fotografije. Odaberite točan trenutak i izvezite kadrove kao JPG, PNG ili HEIC.",
     "subheadline": "Otvorite iz Fotografija, pomaknite se na pravi trenutak i spremite jedan ili više kadrova. Bez računa, učitavanja i vremenske crte za montažu.",
     "download_alt": "Preuzmite u App Storeu",
@@ -32,10 +32,10 @@
     "qr_text": "Skenirajte iPhoneom za preuzimanje"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "Zadnje ažuriranje: 16. lipnja 2026."
   },
   "features": {
-    "title": "Zašto korisnici biraju ovu aplikaciju",
+    "title": "Zašto biraju video u foto",
     "items": [
       {
         "title": "Precizan odabir kadra",
@@ -180,12 +180,16 @@
       {
         "question": "Za koga je aplikacija?",
         "answer": "Za kreatore sadržaja, edukatore i sve koji žele uhvatiti određeni trenutak iz videa kao fotografiju."
+      },
+      {
+        "question": "Postoji li aplikacija video u foto za iPhone?",
+        "answer": "Da. Video To Photo - Grab Frame pretvara video u foto: otvorite klip, pomaknite se na trenutak i spremite kadrove kao JPG, PNG ili HEIC — sve na vašem iPhonu."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Ekstraktor kadrova iz videa",
+    "alternate_name": "Video u foto",
     "application_category": "PhotoApplication",
     "application_sub_category": "Fotografije i video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Kako pretvoriti video u fotografije na iPhonu",
-    "subtitle": "Izvucite točne kadrove bez učitavanja videa",
+    "subtitle": "Video u foto—izvucite točne kadrove bez učitavanja videa",
     "intro": "Video To Photo - Grab Frame je iPhone aplikacija u kategoriji Fotografije i video koja izvlači statične kadrove iz videa. Prema App Storeu: ocjena 5,0 od 8 recenzija, veličina 42,9 MB, izvoz u JPG, PNG i HEIC. Obrada na uređaju — bez slanja na vanjske poslužitelje.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboardi iz tutorijala ili demo snimaka",
       "Referentni kadrovi za dizajn ili montažu"
     ],
-    "conclusion": "Video To Photo - Grab Frame nudi korisnicima iPhona fokusiran način izvlačenja kadrova iz videa s preciznom kontrolom, fleksibilnim formatima i privatnošću na uređaju. Zadnja provjera prema App Storeu 28. svibnja 2026."
+    "conclusion": "Video To Photo - Grab Frame je aplikacija video u foto za iPhone s preciznom kontrolom, fleksibilnim formatima i privatnošću na uređaju. Podaci provjereni s App Storeom 16. lipnja 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. alati u pregledniku",

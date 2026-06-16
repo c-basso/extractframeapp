@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "cs",
-    "title": "Video To Photo - Grab Frame: snímky z videa iPhone",
-    "description": "Vytáhněte fotky z videa na iPhonu během sekund. Uložte jeden snímek nebo exportujte více jako JPG, PNG nebo HEIC — soukromě na zařízení, bez nahrávání.",
-    "keywords": "video na foto, snímek z videa, extraktor snímků, iPhone snímek videa, uložit snímek, video na obrázek, jpg z videa, png z videa, heic z videa, hromadný export, sdílet z fotek, app store extraktor snímků",
+    "title": "Video na foto / obrázek iPhone | Video To Photo",
+    "description": "Video na foto / obrázek na iPhonu: uložte jeden snímek nebo exportujte více v JPG, PNG nebo HEIC během sekund — zpracování na zařízení, bez nahrávání.",
+    "keywords": "video na foto, video na obrázek, snímek z videa, extraktor snímků, iPhone snímek videa, uložit snímek, video na fotografii, jpg z videa, png z videa, heic z videa, hromadný export, sdílet z fotek",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/cs/",
-    "og_title": "Video To Photo - Grab Frame pro iPhone",
-    "og_description": "Přeměňte videa na fotky na iPhonu. Vyberte přesný okamžik a exportujte snímky ve vysoké kvalitě jako JPG, PNG nebo HEIC — zpracování na zařízení.",
+    "og_title": "Video na foto / obrázek pro iPhone",
+    "og_description": "Video na foto / obrázek na iPhonu. Vyberte přesný okamžik a exportujte snímky jako JPG, PNG nebo HEIC — zpracování na zařízení, bez nahrávání.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "cs_CZ",
     "twitter_url": "https://extractframeapp.com/cs/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Vytáhněte přesné snímky z videa na iPhonu. Zpracování na zařízení, hromadný export a flexibilní formáty.",
+    "twitter_description": "Video na foto / obrázek na iPhonu. Přesné snímky, zpracování na zařízení, hromadný export a formáty JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/cs/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logo Video To Photo - Grab Frame",
     "title": "Vytáhněte snímky z videa na iPhonu",
-    "subtitle": "Uložte přesné fotky z klipů během sekund",
+    "subtitle": "Video na foto a obrázek—uložte přesné snímky z klipů během sekund",
     "entity_definition": "Video To Photo - Grab Frame je iOS aplikace, která na iPhonu mění videa na fotky. Vyberte přesný okamžik a exportujte snímky jako JPG, PNG nebo HEIC.",
     "subheadline": "Otevřete z Fotek, posuňte se na správný okamžik a uložte jeden nebo více snímků. Bez účtu, nahrávání a střihové časové osy.",
     "download_alt": "Stáhnout v App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Naskenujte iPhonem ke stažení"
   },
   "last_updated": {
-    "text": "Naposledy aktualizováno: 28. května 2026"
+    "text": "Naposledy aktualizováno: 16. června 2026"
   },
   "features": {
-    "title": "Proč uživatelé volí tuto aplikaci",
+    "title": "Proč volí video na foto / obrázek",
     "items": [
       {
         "title": "Přesný výběr snímku",
@@ -180,12 +180,16 @@
       {
         "question": "Pro koho je aplikace?",
         "answer": "Pro tvůrce obsahu, pedagogy a každého, kdo chce zachytit konkrétní moment z videa jako fotku."
+      },
+      {
+        "question": "Existuje aplikace video na foto pro iPhone?",
+        "answer": "Ano. Video To Photo - Grab Frame převádí video na foto a obrázek: otevřete klip, posuňte se na okamžik a uložte snímky jako JPG, PNG nebo HEIC — vše na vašem iPhonu."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Extraktor snímků z videa",
+    "alternate_name": "Video na foto",
     "application_category": "PhotoApplication",
     "application_sub_category": "Fotky a video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Jak přeměnit video na fotky na iPhonu",
-    "subtitle": "Vytáhněte přesné snímky bez nahrání videa",
+    "subtitle": "Video na foto—vytáhněte přesné snímky bez nahrání videa",
     "intro": "Video To Photo - Grab Frame je iPhone aplikace v kategorii Fotky a video, která vytahuje statické snímky z videa. Podle App Store: hodnocení 5,0 z 8 recenzí, velikost 42,9 MB, export do JPG, PNG a HEIC. Zpracování na zařízení — bez odeslání na externí servery.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboardy z tutoriálů nebo dem",
       "Referenční snímky pro design nebo střih"
     ],
-    "conclusion": "Video To Photo - Grab Frame nabízí uživatelům iPhonu soustředěný způsob extrakce snímků z videa s přesnou kontrolou, flexibilními formáty a soukromím na zařízení. Ověřeno vůči App Store 28. května 2026."
+    "conclusion": "Video To Photo - Grab Frame je aplikace video na foto / obrázek pro iPhone s přesnou kontrolou, flexibilními formáty a soukromím na zařízení. Ověřeno vůči App Store 16. června 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. nástroje v prohlížeči",

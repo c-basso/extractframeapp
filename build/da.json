@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "da",
-    "title": "Video To Photo - Grab Frame: hent billeder fra video iPhone",
-    "description": "Træk stillbilleder ud af video på din iPhone på få sekunder. Gem én ramme eller eksporter flere som JPG, PNG eller HEIC — privat på enheden, uden upload.",
-    "keywords": "video til foto, hent ramme fra video, frame grabber, iPhone ramme fra video, gem ramme, video til billede, jpg fra video, png fra video, heic fra video, batch eksport, del fra fotos, app store frame grabber",
+    "title": "Video til foto konverter iPhone | Video To Photo",
+    "description": "Video til foto-konverter til iPhone: gem én ramme eller eksporter flere som JPG, PNG eller HEIC på få sekunder — behandling på enheden, uden upload.",
+    "keywords": "video til foto, video til foto konverter, hent ramme fra video, frame grabber, iPhone ramme fra video, gem ramme, video til billede, jpg fra video, png fra video, heic fra video, batch eksport, del fra fotos",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/da/",
-    "og_title": "Video To Photo - Grab Frame til iPhone",
-    "og_description": "Gør video til billeder på din iPhone. Vælg det præcise øjeblik og eksporter rammer i høj kvalitet som JPG, PNG eller HEIC — behandling på enheden.",
+    "og_title": "Video til foto konverter til iPhone",
+    "og_description": "Video til foto-konverter til iPhone. Vælg det præcise øjeblik og eksporter rammer som JPG, PNG eller HEIC — behandling på enheden, uden upload.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "da_DK",
     "twitter_url": "https://extractframeapp.com/da/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Hent præcise stillbilleder fra video på iPhone. Behandling på enheden, batch-eksport og fleksible formater.",
+    "twitter_description": "Video til foto-konverter til iPhone. Præcise rammer, behandling på enheden, batch-eksport og formater JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/da/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame logo",
     "title": "Hent rammer fra video på iPhone",
-    "subtitle": "Gem præcise stillbilleder fra dine klip på få sekunder",
+    "subtitle": "Video til foto og billede—gem præcise stillbilleder fra dine klip på få sekunder",
     "entity_definition": "Video To Photo - Grab Frame er en iOS-app, der gør video til stillbilleder på din iPhone. Vælg det præcise øjeblik og eksporter rammer som JPG, PNG eller HEIC.",
     "subheadline": "Åbn fra Fotos, skub til det rigtige øjeblik, og gem én ramme eller flere. Ingen konto, ingen upload og ingen redigeringstidslinje.",
     "download_alt": "Hent i App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Scan med din iPhone for at hente"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "Sidst opdateret: 16. juni 2026"
   },
   "features": {
-    "title": "Derfor vælger brugere denne app",
+    "title": "Derfor vælger brugere video til foto-konverteren",
     "items": [
       {
         "title": "Præcis rammevalg",
@@ -180,12 +180,16 @@
       {
         "question": "Hvem er appen til?",
         "answer": "Den er nyttig for indholdsskabere, undervisere og alle, der vil fange et bestemt øjeblik fra video som et stillbillede."
+      },
+      {
+        "question": "Findes der en video til foto-konverter til iPhone?",
+        "answer": "Ja. Video To Photo - Grab Frame fungerer som video til foto-konverter: åbn et klip, skub til det præcise øjeblik og gem rammer som JPG, PNG eller HEIC — alt på din iPhone."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video-rammeudtrækker",
+    "alternate_name": "Video til foto konverter",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto og video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Sådan gør du video til billeder på iPhone",
-    "subtitle": "Hent præcise stillbilleder uden at uploade din video",
+    "subtitle": "Video til foto—hent præcise stillbilleder uden at uploade din video",
     "intro": "Video To Photo - Grab Frame er en iPhone-app i kategorien Foto og video, der udtrækker stillbilleder fra video. Ifølge App Store: 5,0-bedømmelse fra 8 anmeldelser, 42,9 MB, eksport til JPG, PNG og HEIC. Behandling på enheden — ingen upload til eksterne servere.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboards fra tutorials eller demoer",
       "Referencebilleder til design eller redigering"
     ],
-    "conclusion": "Video To Photo - Grab Frame giver iPhone-brugere en fokuseret måde at udtrække stillbilleder fra video med præcis kontrol, fleksible formater og privatliv på enheden. Verificeret mod App Store 28. maj 2026."
+    "conclusion": "Video To Photo - Grab Frame er en video til foto-konverter til iPhone med præcis kontrol, fleksible formater og privatliv på enheden. Verificeret mod App Store 16. juni 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. browser-værktøjer",

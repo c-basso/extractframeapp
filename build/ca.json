@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ca",
-    "title": "Video To Photo - Grab Frame: fotos des de vídeo iPhone",
-    "description": "Extreu fotos de vídeo a l'iPhone en segons. Desa un fotograma o exporta'n diversos com a JPG, PNG o HEIC — de forma privada al dispositiu, sense pujar res.",
-    "keywords": "vídeo a foto, fotograma de vídeo, extractor de fotogrames, iPhone fotograma vídeo, desar fotograma, vídeo a imatge, jpg de vídeo, png de vídeo, heic de vídeo, exportació per lots, compartir des de fotos, app store extractor de fotogrames",
+    "title": "Convertidor de vídeo a foto iPhone | Video To Photo",
+    "description": "Convertidor de vídeo a foto a l'iPhone: desa un fotograma o exporta diversos en JPG, PNG o HEIC en segons — processament al dispositiu, sense pujar res.",
+    "keywords": "vídeo a foto, vídeo a imatge, fotograma de vídeo, convertidor vídeo a foto, extractor de fotogrames, iPhone fotograma vídeo, desar fotograma, jpg de vídeo, png de vídeo, heic de vídeo, exportació per lots, compartir des de fotos",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/ca/",
-    "og_title": "Video To Photo - Grab Frame per a iPhone",
-    "og_description": "Converteix vídeos en fotos a l'iPhone. Tria el moment exacte i exporta fotogrames d'alta qualitat com a JPG, PNG o HEIC — processament al dispositiu.",
+    "og_title": "Convertidor de vídeo a foto per a iPhone",
+    "og_description": "Convertidor de vídeo a foto a l'iPhone. Tria el moment exacte i exporta fotogrames en JPG, PNG o HEIC — processament al dispositiu, sense pujar res.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "ca_ES",
     "twitter_url": "https://extractframeapp.com/ca/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Extreu fotogrames exactes de vídeo a l'iPhone. Processament al dispositiu, exportació per lots i formats flexibles.",
+    "twitter_description": "Convertidor de vídeo a foto a l'iPhone. Fotogrames exactes, processament al dispositiu, exportació per lots i formats JPG, PNG i HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/ca/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logotip de Video To Photo - Grab Frame",
     "title": "Extreu fotogrames de vídeo a l'iPhone",
-    "subtitle": "Desa fotos exactes dels teus clips en segons",
+    "subtitle": "Vídeo a foto i imatge—desa fotogrames exactes dels teus clips en segons",
     "entity_definition": "Video To Photo - Grab Frame és una app d'iOS que converteix vídeos en fotos a l'iPhone. Tria el moment exacte i exporta fotogrames com a JPG, PNG o HEIC.",
     "subheadline": "Obre des de Fotos, desplaça't al moment correcte i desa un o més fotogrames. Sense compte, sense pujar res i sense línia de temps d'edició.",
     "download_alt": "Baixa a l'App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Escaneja amb l'iPhone per baixar"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "Darrera actualització: 16 de juny de 2026"
   },
   "features": {
-    "title": "Per què els usuaris trien aquesta app",
+    "title": "Per què trien el convertidor de vídeo a foto",
     "items": [
       {
         "title": "Selecció exacta de fotograma",
@@ -180,12 +180,16 @@
       {
         "question": "Per a qui és l'app?",
         "answer": "Per a creadors de contingut, educadors i qualsevol que vulgui capturar un moment concret del vídeo com a foto."
+      },
+      {
+        "question": "Hi ha un convertidor de vídeo a foto per a iPhone?",
+        "answer": "Sí. Video To Photo - Grab Frame funciona com a convertidor de vídeo a foto i imatge: obre un clip, desplaça't al moment exacte i desa fotogrames en JPG, PNG o HEIC — tot a l'iPhone."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Extractor de fotogrames de vídeo",
+    "alternate_name": "Convertidor de vídeo a foto",
     "application_category": "PhotoApplication",
     "application_sub_category": "Fotos i vídeo"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Com convertir vídeo en fotos a l'iPhone",
-    "subtitle": "Extreu fotogrames exactes sense pujar el vídeo",
+    "subtitle": "Convertidor de vídeo a foto—extreu fotogrames sense pujar el vídeo",
     "intro": "Video To Photo - Grab Frame és una app d'iPhone a la categoria Fotos i vídeo que extreu imatges estàtiques de vídeo. Segons l'App Store: valoració 5,0 de 8 ressenyes, mida 42,9 MB, exportació a JPG, PNG i HEIC. Processament al dispositiu — sense enviar vídeos a servidors externs.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboards des de tutorials o demos",
       "Fotogrames de referència per a disseny o edició"
     ],
-    "conclusion": "Video To Photo - Grab Frame ofereix als usuaris d'iPhone una manera concentrada d'extreure imatges de vídeo amb control precís, formats flexibles i privadesa al dispositiu. Darrera verificació segons l'App Store LAST_UPDATED."
+    "conclusion": "Video To Photo - Grab Frame ofereix als usuaris d'iPhone un convertidor de vídeo a foto amb control precís, formats flexibles i privadesa al dispositiu. Dades verificades amb l'App Store el 16 de juny de 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. eines del navegador",

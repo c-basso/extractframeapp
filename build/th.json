@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "th",
-    "title": "Video To Photo - Grab Frame: ดึงเฟรมจากวิดีโอบน iPhone",
-    "description": "ดึงภาพนิ่งจากวิดีโอบน iPhone ในไม่กี่วินาที บันทึกหนึ่งเฟรมหรือส่งออกหลายเฟรมเป็น JPG, PNG หรือ HEIC ประมวลผลบนเครื่อง ไม่ต้องอัปโหลด ดาวน์โหลดได้จาก App Store",
-    "keywords": "วิดีโอเป็นภาพ, ดึงเฟรมจากวิดีโอ, ตัวดึงเฟรมวิดีโอ, iPhone เฟรมวิดีโอ, บันทึกเฟรม, วิดีโอเป็นรูป, jpg จากวิดีโอ, png จากวิดีโอ, heic จากวิดีโอ, ส่งออกเป็นชุด, แชร์จากรูปภาพ, app store ดึงเฟรม",
+    "title": "วิดีโอเป็นภาพ / รูป iPhone | Video To Photo",
+    "description": "วิดีโอเป็นภาพบน iPhone: บันทึกหนึ่งเฟรมหรือส่งออกหลายเฟรมเป็น JPG, PNG หรือ HEIC ในไม่กี่วินาที — ประมวลผลบนเครื่อง ไม่ต้องอัปโหลด",
+    "keywords": "วิดีโอเป็นภาพ, วิดีโอเป็นรูป, ดึงเฟรมจากวิดีโอ, ตัวดึงเฟรมวิดีโอ, iPhone เฟรมวิดีโอ, บันทึกเฟรม, jpg จากวิดีโอ, png จากวิดีโอ, heic จากวิดีโอ, ส่งออกเป็นชุด, แชร์จากรูปภาพ",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/th/",
-    "og_title": "Video To Photo - Grab Frame for iPhone",
-    "og_description": "เปลี่ยนวิดีโอเป็นภาพถ่ายบน iPhone เลือกช่วงเวลาที่ต้องการแล้วส่งออกเฟรมคุณภาพสูงเป็น JPG, PNG หรือ HEIC ประมวลผลบนเครื่อง ไม่ต้องอัปโหลดวิดีโอ",
+    "og_title": "วิดีโอเป็นภาพสำหรับ iPhone",
+    "og_description": "วิดีโอเป็นภาพบน iPhone เลือกช่วงเวลาที่ต้องการแล้วส่งออกเฟรมเป็น JPG, PNG หรือ HEIC — ประมวลผลบนเครื่อง ไม่ต้องอัปโหลด",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "th_TH",
     "twitter_url": "https://extractframeapp.com/th/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "ดึงเฟรมจากวิดีโอบน iPhone อย่างแม่นยำ ประมวลผลบนเครื่อง ส่งออกเป็นชุด และรองรับหลายรูปแบบ",
+    "twitter_description": "วิดีโอเป็นภาพบน iPhone เฟรมแม่นยำ ประมวลผลบนเครื่อง ส่งออกเป็นชุด และรูปแบบ JPG, PNG, HEIC",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/th/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "โลโก้ Video To Photo - Grab Frame",
     "title": "ดึงเฟรมจากวิดีโอบน iPhone",
-    "subtitle": "บันทึกภาพนิ่งจากคลิปได้ในไม่กี่วินาที",
+    "subtitle": "วิดีโอเป็นภาพและรูป—บันทึกภาพนิ่งจากคลิปได้ในไม่กี่วินาที",
     "entity_definition": "Video To Photo - Grab Frame เป็นแอป iOS ที่เปลี่ยนวิดีโอเป็นภาพถ่ายบน iPhone เลือกช่วงเวลาที่ต้องการแล้วส่งออกเฟรมเป็น JPG, PNG หรือ HEIC",
     "subheadline": "เปิดจากรูปภาพ เลื่อนหาช่วงเวลาที่ต้องการ แล้วบันทึกหนึ่งเฟรมหรือหลายเฟรม ไม่ต้องมีบัญชี ไม่ต้องอัปโหลด และไม่ต้องใช้ไทม์ไลน์ตัดต่อ",
     "download_alt": "ดาวน์โหลดบน App Store",
@@ -32,10 +32,10 @@
     "qr_text": "สแกนด้วย iPhone เพื่อดาวน์โหลด"
   },
   "last_updated": {
-    "text": "อัปเดตล่าสุด: 28 พฤษภาคม 2026"
+    "text": "อัปเดตล่าสุด: 16 มิถุนายน 2026"
   },
   "features": {
-    "title": "ทำไมผู้ใช้ถึงเลือกแอปนี้",
+    "title": "ทำไมต้องเลือกวิดีโอเป็นภาพบน iPhone",
     "items": [
       {
         "title": "เลือกเฟรมได้แม่นยำ",
@@ -180,12 +180,16 @@
       {
         "question": "เหมาะกับใคร?",
         "answer": "เหมาะกับครีเอเตอร์ ครู และทุกคนที่ต้องการเก็บช่วงเวลาจากวิดีโอเป็นภาพถ่าย"
+      },
+      {
+        "question": "มีแอปแปลงวิดีโอเป็นภาพบน iPhone ไหม?",
+        "answer": "มี Video To Photo - Grab Frame แปลงวิดีโอเป็นภาพได้: เปิดคลิป เลื่อนหาช่วงเวลาที่ต้องการ แล้วบันทึกเฟรมเป็น JPG, PNG หรือ HEIC — ทั้งหมดบน iPhone ของคุณ"
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "ตัวดึงเฟรมวิดีโอ",
+    "alternate_name": "วิดีโอเป็นภาพ",
     "application_category": "PhotoApplication",
     "application_sub_category": "รูปภาพและวิดีโอ"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "วิธีเปลี่ยนวิดีโอเป็นภาพถ่ายบน iPhone",
-    "subtitle": "ดึงภาพนิ่งได้แม่นยำโดยไม่ต้องอัปโหลดวิดีโอ",
+    "subtitle": "วิดีโอเป็นภาพ—ดึงภาพนิ่งได้แม่นยำโดยไม่ต้องอัปโหลดวิดีโอ",
     "intro": "Video To Photo - Grab Frame เป็นแอป iPhone ในหมวดรูปภาพและวิดีโอที่ดึงภาพนิ่งจากวิดีโอ ตาม App Store: คะแนน 5.0 จาก 8 รีวิว ขนาด 42.9 MB ส่งออก JPG, PNG และ HEIC ประมวลผลบนเครื่อง ไม่ต้องส่งวิดีโอไปเซิร์ฟเวอร์ภายนอก",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "สร้างสตอรีบอร์ดจากวิดีโอสอนหรือเดโม",
       "จับภาพอ้างอิงสำหรับงานออกแบบหรือตัดต่อ"
     ],
-    "conclusion": "Video To Photo - Grab Frame ให้ผู้ใช้ iPhone วิธีที่มุ่งเน้นในการดึงภาพจากวิดีโอด้วยการควบคุมที่แม่นยำ รูปแบบที่ยืดหยุ่น และความเป็นส่วนตัวบนเครื่อง ตรวจสอบกับ App Store เมื่อ 28 พฤษภาคม 2026"
+    "conclusion": "Video To Photo - Grab Frame เป็นแอปวิดีโอเป็นภาพสำหรับ iPhone ด้วยการควบคุมที่แม่นยำ รูปแบบที่ยืดหยุ่น และความเป็นส่วนตัวบนเครื่อง ตรวจสอบกับ App Store เมื่อ 16 มิถุนายน 2026"
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame เทียบกับเครื่องมือบนเบราว์เซอร์",

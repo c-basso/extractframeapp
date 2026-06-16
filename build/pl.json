@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "pl",
-    "title": "Video To Photo - Grab Frame: klatki z wideo iPhone",
-    "description": "Wyciągaj zdjęcia z wideo na iPhone w kilka sekund. Zapisz jedną klatkę lub eksportuj wiele jako JPG, PNG lub HEIC — prywatnie na urządzeniu, bez wysyłania.",
-    "keywords": "wideo na zdjęcie, klatka z wideo, ekstraktor klatek, iPhone klatka, zapisz klatkę, wideo na obraz, jpg z wideo, png z wideo, heic z wideo, eksport wsadowy, udostępnij z zdjęć, app store ekstraktor klatek",
+    "title": "Wideo na zdjęcie / obraz iPhone | Video To Photo",
+    "description": "Wideo na zdjęcie / obraz na iPhone: zapisz jedną klatkę lub eksportuj wiele w JPG, PNG lub HEIC w kilka sekund — prywatnie na urządzeniu, bez wysyłania.",
+    "keywords": "wideo na zdjęcie, wideo na zdjęcie obraz, klatka z wideo, ekstraktor klatek, iPhone klatka, zapisz klatkę, wideo na obraz, jpg z wideo, png z wideo, heic z wideo, eksport wsadowy, udostępnij z zdjęć",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/pl/",
-    "og_title": "Video To Photo - Grab Frame na iPhone",
-    "og_description": "Zamieniaj wideo w zdjęcia na iPhone. Wybierz dokładny moment i eksportuj klatki w wysokiej jakości jako JPG, PNG lub HEIC — przetwarzanie na urządzeniu.",
+    "og_title": "Wideo na zdjęcie / obraz na iPhone",
+    "og_description": "Wideo na zdjęcie / obraz na iPhone. Wybierz dokładny moment i eksportuj klatki w wysokiej jakości jako JPG, PNG lub HEIC — przetwarzanie na urządzeniu.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "pl_PL",
     "twitter_url": "https://extractframeapp.com/pl/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Wyciągaj dokładne klatki z wideo na iPhone. Przetwarzanie na urządzeniu, eksport wsadowy i elastyczne formaty.",
+    "twitter_description": "Wideo na zdjęcie / obraz na iPhone. Dokładne klatki, przetwarzanie na urządzeniu, eksport wsadowy i elastyczne formaty.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/pl/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logo Video To Photo - Grab Frame",
     "title": "Wyciągaj klatki z wideo na iPhone",
-    "subtitle": "Zapisuj dokładne zdjęcia z klipów w kilka sekund",
+    "subtitle": "Wideo na zdjęcie i obraz—zapisuj dokładne kadry z klipów w kilka sekund",
     "entity_definition": "Video To Photo - Grab Frame to aplikacja iOS, która zamienia wideo w zdjęcia na iPhone. Wybierz dokładny moment i eksportuj klatki jako JPG, PNG lub HEIC.",
     "subheadline": "Otwórz ze Zdjęć, przewiń do właściwego momentu i zapisz jedną klatkę lub wiele. Bez konta, bez wysyłania i bez osi czasu montażu.",
     "download_alt": "Pobierz w App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Zeskanuj iPhone, aby pobrać"
   },
   "last_updated": {
-    "text": "Ostatnia aktualizacja: 28 maja 2026"
+    "text": "Ostatnia aktualizacja: 16 czerwca 2026"
   },
   "features": {
-    "title": "Dlaczego użytkownicy wybierają tę aplikację",
+    "title": "Dlaczego wybierają wideo na zdjęcie / obraz",
     "items": [
       {
         "title": "Dokładny wybór klatki",
@@ -180,12 +180,16 @@
       {
         "question": "Dla kogo jest ta aplikacja?",
         "answer": "Dla twórców, nauczycieli i każdego, kto chce zapisać konkretny moment z wideo jako zdjęcie."
+      },
+      {
+        "question": "Czy jest aplikacja wideo na zdjęcie / obraz na iPhone?",
+        "answer": "Tak. Video To Photo - Grab Frame zamienia wideo na zdjęcie i obraz: otwórz klip, przewiń do dokładnego momentu i zapisz JPG, PNG lub HEIC — wszystko na Twoim iPhone."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Ekstraktor klatek wideo",
+    "alternate_name": "Wideo na zdjęcie / obraz",
     "application_category": "PhotoApplication",
     "application_sub_category": "Zdjęcia i wideo"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Jak zamienić wideo w zdjęcia na iPhone",
-    "subtitle": "Wyciągaj dokładne kadry bez wysyłania wideo",
+    "subtitle": "Wideo na zdjęcie / obraz—wyciągaj kadry bez wysyłania wideo",
     "intro": "Video To Photo - Grab Frame to aplikacja iPhone z kategorii Zdjęcia i wideo, która wyciąga obrazy z wideo. Według App Store: ocena 5,0 z 8 ocen, rozmiar 42,9 MB, eksport do JPG, PNG i HEIC. Przetwarzanie na urządzeniu — bez wysyłania na zewnętrzne serwery.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboardy z materiałów tutorialowych lub demo",
       "Klatki referencyjne do designu lub montażu"
     ],
-    "conclusion": "Video To Photo - Grab Frame daje użytkownikom iPhone skoncentrowany sposób wyciągania zdjęć z wideo z precyzyjną kontrolą, elastycznymi formatami i prywatnością na urządzeniu. Zweryfikowano z App Store 28 maja 2026."
+    "conclusion": "Video To Photo - Grab Frame daje użytkownikom iPhone sposób na wideo na zdjęcie / obraz z precyzyjną kontrolą, elastycznymi formatami i prywatnością na urządzeniu. Zweryfikowano z App Store 16 czerwca 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs narzędzia w przeglądarce",

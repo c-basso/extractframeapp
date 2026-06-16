@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "Video To Photo - Grab Frame: frames uit video iPhone",
-    "description": "Haal in seconden foto's uit video op je iPhone. Leg één frame vast of exporteer meerdere als JPG, PNG of HEIC — privé op je apparaat, zonder upload nodig.",
-    "keywords": "video naar foto, frame uit video, video frame extractor, iPhone frame, frame opslaan, video naar afbeelding, jpg uit video, png uit video, heic uit video, batch export, delen vanuit foto's, app store frame grabber",
+    "title": "Video naar foto / afbeelding iPhone | Video To Photo",
+    "description": "Video naar foto op iPhone: leg één frame vast of exporteer meerdere als JPG, PNG of HEIC in seconden — verwerking op je apparaat, zonder upload nodig.",
+    "keywords": "video naar foto, foto's uit video, video naar afbeelding, frame uit video, video naar foto converter, iPhone frame, frame vastleggen, video frame extractor, jpg uit video, png uit video, heic uit video, batch export, delen vanuit foto's",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/nl/",
-    "og_title": "Video To Photo - Grab Frame voor iPhone",
-    "og_description": "Zet video's om in foto's op je iPhone. Kies het exacte moment en exporteer frames in hoge kwaliteit als JPG, PNG of HEIC, rechtstreeks op je apparaat.",
+    "og_title": "Video naar foto / afbeelding voor iPhone",
+    "og_description": "Video naar foto op iPhone. Kies het exacte moment en exporteer frames als JPG, PNG of HEIC — verwerking op je apparaat, zonder upload.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "nl_NL",
     "twitter_url": "https://extractframeapp.com/nl/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Extraheer exacte frames uit video op iPhone. Verwerking op apparaat, batch-export en flexibele formaten.",
+    "twitter_description": "Video naar foto op iPhone. Precieze frames, verwerking op apparaat, batch-export en formaten JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/nl/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame-logo",
     "title": "Haal frames uit video op iPhone",
-    "subtitle": "Sla exacte foto's uit je clips op in seconden",
+    "subtitle": "Video naar foto en afbeelding—sla exacte stills op in seconden",
     "entity_definition": "Video To Photo - Grab Frame is een iOS-app die video's op je iPhone omzet in foto's. Kies het exacte moment en exporteer frames als JPG, PNG of HEIC.",
     "subheadline": "Open vanuit Foto's, scrub naar het juiste moment en sla één frame of meerdere op. Geen account, geen upload en geen bewerkingstijdlijn nodig.",
     "download_alt": "Downloaden in de App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Scan met je iPhone om te downloaden"
   },
   "last_updated": {
-    "text": "Laatst bijgewerkt: 28 mei 2026"
+    "text": "Laatst bijgewerkt: 16 juni 2026"
   },
   "features": {
-    "title": "Waarom gebruikers deze app kiezen",
+    "title": "Waarom kiezen voor video naar foto op iPhone",
     "items": [
       {
         "title": "Exacte framekeuze",
@@ -180,12 +180,16 @@
       {
         "question": "Voor wie is deze app?",
         "answer": "Voor makers, docenten en iedereen die een specifiek videomoment als foto wil vastleggen."
+      },
+      {
+        "question": "Hoe zet ik video om naar foto op iPhone?",
+        "answer": "Open een clip in Video To Photo - Grab Frame, scrub naar het exacte moment en sla frames op als JPG, PNG of HEIC — alles op je iPhone."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video-frame-extractor",
+    "alternate_name": "Video naar foto",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto's en video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Video omzetten in foto's op iPhone",
-    "subtitle": "Extraheer exacte stills zonder je video te uploaden",
+    "subtitle": "Video naar foto—extraheer exacte stills zonder je video te uploaden",
     "intro": "Video To Photo - Grab Frame is een iPhone-app in de categorie Foto's en video die stills uit video haalt. Volgens de App Store: beoordeling 5,0 uit 8 beoordelingen, 42,9 MB, export naar JPG, PNG en HEIC. Verwerking op het apparaat — geen upload naar externe servers.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboards bouwen uit tutorial- of demobeelden",
       "Referentiestills vastleggen voor design of montage"
     ],
-    "conclusion": "Video To Photo - Grab Frame biedt iPhone-gebruikers een gerichte manier om stills uit video te halen met precieze controle, flexibele formaten en privacy op het apparaat. Laatst gecontroleerd met App Store-gegevens op 28 mei 2026."
+    "conclusion": "Video To Photo - Grab Frame is een video naar foto-oplossing voor iPhone met precieze controle, flexibele formaten en privacy op het apparaat. Laatst gecontroleerd met App Store-gegevens op 16 juni 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. browsertools",

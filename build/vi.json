@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "vi",
-    "title": "Video To Photo - Grab Frame: khung hình video iPhone",
-    "description": "Trích xuất ảnh từ video trên iPhone trong vài giây. Lưu một khung hoặc xuất nhiều khung JPG, PNG hoặc HEIC — xử lý trên thiết bị, không tải video lên.",
-    "keywords": "video thành ảnh, trích khung hình video, trích xuất khung hình, iPhone khung hình video, lưu khung hình, video thành hình ảnh, jpg từ video, png từ video, heic từ video, xuất hàng loạt, chia sẻ từ ảnh, app store trích khung hình",
+    "title": "Video thành ảnh / hình ảnh iPhone | Video To Photo",
+    "description": "Video thành ảnh trên iPhone: lưu một khung hoặc xuất nhiều khung JPG, PNG hoặc HEIC trong vài giây — xử lý trên thiết bị, không tải video lên.",
+    "keywords": "video thành ảnh, lấy ảnh từ video, trích khung hình video, video thành hình ảnh, iPhone khung hình video, lưu khung hình, jpg từ video, png từ video, heic từ video, xuất hàng loạt, chia sẻ từ ảnh",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/vi/",
-    "og_title": "Video To Photo - Grab Frame cho iPhone",
-    "og_description": "Biến video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình JPG, PNG hoặc HEIC chất lượng cao — xử lý trên thiết bị, không tải video lên.",
+    "og_title": "Video thành ảnh cho iPhone",
+    "og_description": "Video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình JPG, PNG hoặc HEIC — xử lý trên thiết bị, không tải video lên.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "vi_VN",
     "twitter_url": "https://extractframeapp.com/vi/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Trích xuất khung hình chính xác từ video trên iPhone. Xử lý trên thiết bị, xuất hàng loạt và định dạng linh hoạt.",
+    "twitter_description": "Video thành ảnh trên iPhone. Khung hình chính xác, xử lý trên thiết bị, xuất hàng loạt và định dạng JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/vi/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logo Video To Photo - Grab Frame",
     "title": "Trích khung hình từ video trên iPhone",
-    "subtitle": "Lưu ảnh tĩnh chính xác từ clip trong vài giây",
+    "subtitle": "Video thành ảnh và hình ảnh—lưu ảnh tĩnh chính xác từ clip trong vài giây",
     "entity_definition": "Video To Photo - Grab Frame là ứng dụng iOS biến video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình dưới dạng JPG, PNG hoặc HEIC.",
     "subheadline": "Mở từ Ảnh, tua đến đúng thời điểm và lưu một hoặc nhiều khung hình. Không cần tài khoản, tải lên hay timeline chỉnh sửa.",
     "download_alt": "Tải trên App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Quét bằng iPhone để tải"
   },
   "last_updated": {
-    "text": "Cập nhật lần cuối: 28 tháng 5, 2026"
+    "text": "Cập nhật lần cuối: 16 tháng 6, 2026"
   },
   "features": {
-    "title": "Vì sao người dùng chọn ứng dụng này",
+    "title": "Vì sao chọn video thành ảnh trên iPhone",
     "items": [
       {
         "title": "Chọn khung hình chính xác",
@@ -180,12 +180,16 @@
       {
         "question": "Ứng dụng dành cho ai?",
         "answer": "Người sáng tạo nội dung, giáo viên và bất kỳ ai muốn lưu khoảnh khắc cụ thể từ video thành ảnh."
+      },
+      {
+        "question": "Có ứng dụng chuyển video thành ảnh trên iPhone không?",
+        "answer": "Có. Video To Photo - Grab Frame chuyển video thành ảnh: mở clip, tua đến đúng thời điểm và lưu khung hình JPG, PNG hoặc HEIC — tất cả trên iPhone của bạn."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Trích xuất khung hình video",
+    "alternate_name": "Video thành ảnh",
     "application_category": "PhotoApplication",
     "application_sub_category": "Ảnh và video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Cách biến video thành ảnh trên iPhone",
-    "subtitle": "Trích ảnh tĩnh chính xác mà không tải video lên",
+    "subtitle": "Video thành ảnh—trích ảnh tĩnh chính xác mà không tải video lên",
     "intro": "Video To Photo - Grab Frame là ứng dụng iPhone thuộc mục Ảnh và video, trích ảnh tĩnh từ video. Theo App Store: xếp hạng 5,0 từ 8 đánh giá, 42,9 MB, xuất JPG, PNG và HEIC. Xử lý trên thiết bị — không cần gửi video lên máy chủ bên ngoài.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Dựng storyboard từ video hướng dẫn hoặc demo",
       "Chụp khung tham chiếu cho thiết kế hoặc dựng phim"
     ],
-    "conclusion": "Video To Photo - Grab Frame mang đến cho người dùng iPhone cách tập trung để trích ảnh từ video với kiểm soát chính xác, định dạng linh hoạt và quyền riêng tư trên thiết bị. Đã xác minh với App Store ngày 28 tháng 5, 2026."
+    "conclusion": "Video To Photo - Grab Frame là ứng dụng video thành ảnh cho iPhone với kiểm soát chính xác, định dạng linh hoạt và quyền riêng tư trên thiết bị. Đã xác minh với App Store ngày 16 tháng 6, 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame so với công cụ trình duyệt",

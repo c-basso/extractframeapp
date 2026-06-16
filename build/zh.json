@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "zh",
-    "title": "Video To Photo - Grab Frame：iPhone视频抽帧",
-    "description": "在 iPhone 上几秒从视频提取高质量照片。保存单帧或批量导出 JPG、PNG 或 HEIC。设备端处理，无需上传视频。支持批量导出、项目保存与隐私保护。可从 App Store 免费下载，无需注册账号，立即开始抽帧。",
-    "keywords": "视频转照片, 视频抽帧, 视频帧提取, iPhone 保存视频帧, 视频转图片, jpg 视频, png 视频, heic 视频, 批量导出, 从照片共享, App Store 抽帧",
+    "title": "视频转照片/图片 iPhone | Video To Photo",
+    "description": "视频转照片 iPhone应用：保存单帧或批量导出 JPG、PNG、HEIC，数秒完成。设备端处理，无需上传视频。支持批量导出、项目保存与隐私保护。",
+    "keywords": "视频转照片, 视频抽帧, 视频转图片, 视频帧提取, iPhone 保存视频帧, 视频转图片, jpg 视频, png 视频, heic 视频, 批量导出, 从照片共享",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/zh/",
-    "og_title": "Video To Photo - Grab Frame for iPhone",
-    "og_description": "在 iPhone 上将视频转为照片。选择精确时刻，以 JPG、PNG 或 HEIC 导出高质量帧。设备端处理，无需上传视频。支持批量导出、项目保存与隐私保护，可从 App Store 免费下载，无需注册，马上开始抽帧即可。",
+    "og_title": "视频转照片/图片 iPhone应用",
+    "og_description": "视频转照片 iPhone应用。选择精确时刻，以 JPG、PNG 或 HEIC 导出高质量帧。设备端处理，无需上传视频到外部服务器。支持批量导出、ZIP与PDF输出及项目保存，可从 App Store 免费下载，无需注册账号。",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "zh_CN",
     "twitter_url": "https://extractframeapp.com/zh/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "在 iPhone 上精确提取视频帧。设备端处理，支持批量导出和多种格式。",
+    "twitter_description": "视频转照片 iPhone应用。精确抽帧、设备端处理、批量导出，支持 JPG、PNG、HEIC。",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/zh/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame 标志",
     "title": "在 iPhone 上从视频提取帧",
-    "subtitle": "几秒内从片段保存精确静帧照片",
+    "subtitle": "视频转照片与图片—几秒内从片段保存精确静帧",
     "entity_definition": "Video To Photo - Grab Frame 是一款 iOS 应用，可在 iPhone 上将视频转为照片。选择精确时刻，以 JPG、PNG 或 HEIC 导出帧。",
     "subheadline": "从“照片”打开，拖动到正确时刻，保存一帧或多帧。无需账号、无需上传、无需剪辑时间线。",
     "download_alt": "在 App Store 下载",
@@ -32,10 +32,10 @@
     "qr_text": "用 iPhone 扫描下载"
   },
   "last_updated": {
-    "text": "最后更新：2026年5月28日"
+    "text": "最后更新：2026年6月16日"
   },
   "features": {
-    "title": "用户选择这款抽帧应用的原因",
+    "title": "为何选择 iPhone 视频转照片",
     "items": [
       {
         "title": "精确选帧",
@@ -180,12 +180,16 @@
       {
         "question": "适合谁使用？",
         "answer": "适合内容创作者、教师，以及希望将视频中特定时刻保存为照片的用户。"
+      },
+      {
+        "question": "有 iPhone 视频转照片应用吗？",
+        "answer": "有。Video To Photo - Grab Frame 可将视频转为照片与图片：打开片段，拖动到精确时刻，以 JPG、PNG 或 HEIC 保存帧。全部在 iPhone 上完成。"
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "视频帧提取器",
+    "alternate_name": "视频转照片",
     "application_category": "PhotoApplication",
     "application_sub_category": "照片与视频"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "如何在 iPhone 上将视频转为照片",
-    "subtitle": "无需上传视频即可提取精确静帧",
+    "subtitle": "视频转照片—无需上传即可提取精确静帧",
     "intro": "Video To Photo - Grab Frame 是“照片与视频”类别的 iPhone 应用，可从视频提取静帧。据 App Store：评分 5.0（8 条评价），大小 42.9 MB，支持导出 JPG、PNG 和 HEIC。处理在设备端完成，无需将视频上传到外部服务器。",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "从教程或演示素材制作分镜",
       "为设计或剪辑捕捉参考静帧"
     ],
-    "conclusion": "Video To Photo - Grab Frame 为 iPhone 用户提供专注的方式，以精确控制、灵活格式和设备端隐私从视频提取静帧。已于 2026 年 5 月 28 日对照 App Store 信息核实。"
+    "conclusion": "Video To Photo - Grab Frame 是 iPhone 视频转照片应用，提供精确控制、灵活格式与设备端隐私保护。已于 2026 年 6 月 16 日对照 App Store 信息核实。"
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame 与浏览器抽帧工具对比",

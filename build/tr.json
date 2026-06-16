@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "Video To Photo - Grab Frame: videodan kare al iPhone",
-    "description": "iPhone'da saniyeler içinde videodan fotoğraf çıkarın. Tek kare veya birden fazlasını JPG, PNG veya HEIC olarak dışa aktarın — cihazda gizli işlem, yükleme yok.",
-    "keywords": "videodan fotoğraf, videodan kare çıkarma, kare çıkarıcı, iPhone video karesi, kare kaydet, videodan görüntü, jpg video, png video, heic video, toplu dışa aktarma, fotoğraflardan paylaş, app store kare çıkarıcı",
+    "title": "Videodan resim çıkarma iPhone | Video To Photo",
+    "description": "Videodan resim çıkarma iPhone uygulaması: tek veya birden fazla kareyi JPG, PNG veya HEIC olarak saniyeler içinde dışa aktarın — cihazda işlem, yükleme yok.",
+    "keywords": "videodan fotoğraf, videodan resim çıkarma, videodan fotoğrafa görüntü, videodan kare çıkarma, kare çıkarıcı, iPhone video karesi, kare kaydet, videodan görüntü, jpg video, png video, heic video, toplu dışa aktarma, fotoğraflardan paylaş",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/tr/",
-    "og_title": "Video To Photo - Grab Frame for iPhone",
-    "og_description": "iPhone'da videoları fotoğrafa dönüştürün. Tam anı seçin ve kareleri JPG, PNG veya HEIC olarak dışa aktarın. İşlem cihazda yapılır, video yüklemesi gerekmez.",
+    "og_title": "Videodan resim çıkarma iPhone uygulaması",
+    "og_description": "Videodan resim çıkarma iPhone uygulaması. Tam anı seçin ve kareleri JPG, PNG veya HEIC olarak dışa aktarın. İşlem cihazda yapılır, video yüklemesi gerekmez.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "tr_TR",
     "twitter_url": "https://extractframeapp.com/tr/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "iPhone'da videodan tam kareler çıkarın. Cihazda işlem, toplu dışa aktarma ve esnek formatlar.",
+    "twitter_description": "Videodan resim çıkarma iPhone uygulaması. Tam kareler, cihazda işlem, toplu dışa aktarma ve esnek formatlar.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/tr/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame logosu",
     "title": "iPhone'da videodan kare çıkarın",
-    "subtitle": "Kliplerinizden saniyeler içinde tam fotoğraflar kaydedin",
+    "subtitle": "Videodan fotoğrafa ve görüntü—kliplerinizden saniyeler içinde tam fotoğraflar",
     "entity_definition": "Video To Photo - Grab Frame, iPhone'da videoları fotoğrafa dönüştüren bir iOS uygulamasıdır. Tam anı seçin ve kareleri JPG, PNG veya HEIC olarak dışa aktarın.",
     "subheadline": "Fotoğraflar'dan açın, doğru ana kadar kaydırın ve bir veya birden fazla kare kaydedin. Hesap, yükleme ve düzenleme zaman çizelgesi gerekmez.",
     "download_alt": "App Store'dan indir",
@@ -32,10 +32,10 @@
     "qr_text": "İndirmek için iPhone ile tarayın"
   },
   "last_updated": {
-    "text": "Son güncelleme: 28 Mayıs 2026"
+    "text": "Son güncelleme: 16 Haziran 2026"
   },
   "features": {
-    "title": "Kullanıcılar neden bu uygulamayı seçiyor",
+    "title": "Videodan resim çıkarma için neden bu uygulama",
     "items": [
       {
         "title": "Tam kare seçimi",
@@ -180,12 +180,16 @@
       {
         "question": "Bu uygulama kimin için?",
         "answer": "İçerik üreticileri, eğitmenler ve videodan belirli bir anı fotoğraf olarak kaydetmek isteyen herkes için."
+      },
+      {
+        "question": "iPhone için videodan resim çıkarma uygulaması var mı?",
+        "answer": "Evet. Video To Photo - Grab Frame videodan resim çıkarma uygulamasıdır: bir klip açın, tam ana kaydırın ve JPG, PNG veya HEIC olarak kaydedin — hepsi iPhone'unuzda."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video kare çıkarıcı",
+    "alternate_name": "Videodan resim çıkarma",
     "application_category": "PhotoApplication",
     "application_sub_category": "Fotoğraflar ve Video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "iPhone'da videoyu fotoğrafa dönüştürme",
-    "subtitle": "Videoyu yüklemeden tam kareler çıkarın",
+    "subtitle": "Videodan resim çıkarma—videoyu yüklemeden tam kareler",
     "intro": "Video To Photo - Grab Frame, videodan sabit görüntü çıkaran bir iPhone uygulamasıdır (Fotoğraflar ve Video). App Store'a göre: 8 değerlendirmede 5,0 puan, 42,9 MB, JPG, PNG ve HEIC dışa aktarma. İşlem cihazda — harici sunuculara video göndermek gerekmez.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Eğitim veya demo görüntülerinden storyboard oluşturma",
       "Tasarım veya kurgu için referans kareler yakalama"
     ],
-    "conclusion": "Video To Photo - Grab Frame, iPhone kullanıcılarına videodan görüntü çıkarmak için odaklı bir yol sunar: hassas kontrol, esnek formatlar ve cihazda gizlilik. App Store bilgileriyle 28 Mayıs 2026'da doğrulandı."
+    "conclusion": "Video To Photo - Grab Frame, iPhone kullanıcılarına videodan resim çıkarma için odaklı bir yol sunar: hassas kontrol, esnek formatlar ve cihazda gizlilik. App Store bilgileriyle 16 Haziran 2026'da doğrulandı."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs tarayıcı araçları",

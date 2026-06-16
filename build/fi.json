@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "fi",
-    "title": "Video To Photo - Grab Frame: kuvat videosta iPhonella",
-    "description": "Poimi stillkuvat videosta iPhonellasi sekunneissa. Tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa — yksityisesti laitteella, ilman latauksia.",
-    "keywords": "video kuvaksi, ruutu videosta, ruudun poiminta, iPhone ruutu videosta, tallenna ruutu, video kuvaksi, jpg videosta, png videosta, heic videosta, erävienti, jaa kuvista, app store ruudun poiminta",
+    "title": "Video kuvaksi iPhone | Video To Photo",
+    "description": "Video kuvaksi iPhonella: tallenna yksi ruutu tai vie useita JPG-, PNG- tai HEIC-muodossa sekunneissa — käsittely laitteella, ilman latauksia.",
+    "keywords": "video kuvaksi, ruutu videosta, ruudun poiminta, iPhone ruutu videosta, tallenna ruutu, kuva videosta, jpg videosta, png videosta, heic videosta, erävienti, jaa kuvista",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/fi/",
-    "og_title": "Video To Photo - Grab Frame iPhonelle",
-    "og_description": "Muuta videot valokuviksi iPhonellasi. Valitse tarkka hetki ja vie laadukkaita ruutuja JPG-, PNG- tai HEIC-muodossa — käsittely laitteella.",
+    "og_title": "Video kuvaksi iPhonelle",
+    "og_description": "Video kuvaksi iPhonella. Valitse tarkka hetki ja vie ruutuja JPG-, PNG- tai HEIC-muodossa — käsittely laitteella, ilman latauksia.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "fi_FI",
     "twitter_url": "https://extractframeapp.com/fi/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Poimi tarkat stillkuvat videosta iPhonella. Käsittely laitteella, erävienti ja joustavat formaatit.",
+    "twitter_description": "Video kuvaksi iPhonella. Tarkat stillkuvat, käsittely laitteella, erävienti ja JPG-, PNG-, HEIC-formaatit.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/fi/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame -logo",
     "title": "Poimi ruutuja videosta iPhonella",
-    "subtitle": "Tallenna tarkat stillkuvat klippeistäsi sekunneissa",
+    "subtitle": "Video kuvaksi—tallenna tarkat stillkuvat klippeistäsi sekunneissa",
     "entity_definition": "Video To Photo - Grab Frame on iOS-sovellus, joka muuttaa videot stillkuviksi iPhonellasi. Valitse tarkka hetki ja vie ruutuja JPG-, PNG- tai HEIC-muodossa.",
     "subheadline": "Avaa Kuvista, siirry oikeaan kohtaan ja tallenna yksi tai useampi ruutu. Ei tiliä, ei latauksia eikä editointiaikajanaa.",
     "download_alt": "Lataa App Storesta",
@@ -32,10 +32,10 @@
     "qr_text": "Skannaa iPhonellasi ladataksesi"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "Viimeksi päivitetty: 16.6.2026"
   },
   "features": {
-    "title": "Miksi käyttäjät valitsevat tämän sovelluksen",
+    "title": "Miksi käyttäjät valitsevat video kuvaksi -sovelluksen",
     "items": [
       {
         "title": "Tarkka ruudun valinta",
@@ -180,12 +180,16 @@
       {
         "question": "Kenelle sovellus on tarkoitettu?",
         "answer": "Sisällöntuottajille, opettajille ja kaikille, jotka haluavat tallentaa tietyn hetken videosta stillkuvaksi."
+      },
+      {
+        "question": "Onko olemassa video kuvaksi -sovellusta iPhonelle?",
+        "answer": "Kyllä. Video To Photo - Grab Frame muuttaa videon kuvaksi: avaa klippi, siirry hetkeen ja tallenna ruutuja JPG-, PNG- tai HEIC-muodossa — kaikki iPhonellasi."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Videoruudun poiminta",
+    "alternate_name": "Video kuvaksi",
     "application_category": "PhotoApplication",
     "application_sub_category": "Valokuvat ja video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Näin muutat videon kuviksi iPhonella",
-    "subtitle": "Poimi tarkat stillhetket lataamatta videota",
+    "subtitle": "Video kuvaksi—poimi tarkat stillhetket lataamatta videota",
     "intro": "Video To Photo - Grab Frame on iPhone-sovellus Valokuvat ja video -kategoriassa, joka poimii stillkuvia videosta. App Storen mukaan: arvio 5,0 kahdeksasta arviosta, koko 42,9 MB, vienti JPG-, PNG- ja HEIC-muodossa. Käsittely laitteella — ei lähetystä ulkoisille palvelimille.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Storyboardit opetus- tai demovideoista",
       "Referenssikuvat suunnitteluun tai editointiin"
     ],
-    "conclusion": "Video To Photo - Grab Frame tarjoaa iPhone-käyttäjille keskittyneen tavan poimia stillkuvia videosta tarkalla hallinnalla, joustavilla formaateilla ja yksityisyydellä laitteella. Varmistettu App Storea vastaan 28.5.2026."
+    "conclusion": "Video To Photo - Grab Frame on video kuvaksi -sovellus iPhonelle tarkalla hallinnalla, joustavilla formaateilla ja yksityisyydellä laitteella. Varmistettu App Storea vastaan 16.6.2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. selaintyökalut",

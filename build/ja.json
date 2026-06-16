@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ja",
-    "title": "Video To Photo - Grab Frame：iPhoneで動画からフレームを抽出",
-    "description": "iPhoneで数秒で動画から静止画を抽出するアプリ。1フレームまたは複数をJPG・PNG・HEICで保存。一括エクスポート対応。処理は端末内で完結し、動画のアップロードやアカウント登録は不要。App Storeで今すぐ入手。",
-    "keywords": "動画から写真, フレーム抽出, 動画フレーム抽出, iPhone フレーム保存, 動画から画像, jpg 動画, png 動画, heic 動画, 一括エクスポート, 写真から共有, App Store フレーム抽出",
+    "title": "動画から写真・画像 iPhone | Video To Photo",
+    "description": "動画から写真・画像をiPhoneで取得するアプリ。1フレームまたは複数を数秒でJPG・PNG・HEICに書き出し。一括エクスポート対応。処理は端末内で完結し、動画のアップロードは不要。",
+    "keywords": "動画から写真, 動画から写真を取得, 動画から写真 画像, フレーム抽出, 動画フレーム抽出, iPhone フレーム保存, 動画から画像, jpg 動画, png 動画, heic 動画, 一括エクスポート, 写真から共有",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/ja/",
-    "og_title": "Video To Photo - Grab Frame for iPhone",
-    "og_description": "iPhoneで動画から高品質な静止画を抽出できるアプリ。欲しい瞬間をフレーム単位で選び、JPG・PNG・HEICで書き出し。一括エクスポートにも対応します。処理は端末内で完結し、動画のアップロードもアカウント登録も不要です。",
+    "og_title": "動画から写真・画像 iPhoneアプリ",
+    "og_description": "動画から写真・画像をiPhoneで取得できるアプリです。欲しい瞬間をフレーム単位で選び、JPG・PNG・HEICで高品質に書き出し。一括エクスポートにも対応。処理は端末内で完結し、動画のアップロードやアカウント登録は不要です。",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "ja_JP",
     "twitter_url": "https://extractframeapp.com/ja/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "iPhoneで動画から正確なフレームを抽出。端末内処理、一括エクスポート、柔軟な形式に対応。",
+    "twitter_description": "動画から写真・画像をiPhoneで取得。端末内処理、一括エクスポート、柔軟な形式に対応。",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/ja/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Video To Photo - Grab Frame のロゴ",
     "title": "iPhoneで動画からフレームを抽出",
-    "subtitle": "クリップから欲しい静止画を数秒で保存",
+    "subtitle": "動画から写真を取得—クリップから欲しい静止画を数秒で保存",
     "entity_definition": "Video To Photo - Grab Frameは、iPhone上で動画を静止画に変換するiOSアプリです。欲しい瞬間を選び、JPG、PNG、HEICでフレームを書き出せます。",
     "subheadline": "「写真」から開き、目的の瞬間までスクラブして、1フレームまたは複数を保存。アカウント不要、動画のアップロード不要、編集タイムラインも不要です。",
     "download_alt": "App Storeからダウンロード",
@@ -32,10 +32,10 @@
     "qr_text": "iPhoneでスキャンしてダウンロード"
   },
   "last_updated": {
-    "text": "最終更新：2026年5月28日"
+    "text": "最終更新：2026年6月16日"
   },
   "features": {
-    "title": "このアプリが選ばれる理由",
+    "title": "動画から写真を取得できる理由",
     "items": [
       {
         "title": "正確なフレーム選択",
@@ -180,12 +180,16 @@
       {
         "question": "どんな人向けですか？",
         "answer": "コンテンツ制作者、教育者、動画の特定の瞬間を静止画として残したい方に役立ちます。"
+      },
+      {
+        "question": "iPhoneで動画から写真を取得するアプリはありますか？",
+        "answer": "はい。Video To Photo - Grab Frameは動画から写真・画像を取得できるアプリです。クリップを開き、正確な瞬間までスクラブして、JPG・PNG・HEICで保存できます。すべてiPhone上で完結します。"
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "動画フレーム抽出",
+    "alternate_name": "動画から写真・画像",
     "application_category": "PhotoApplication",
     "application_sub_category": "写真とビデオ"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "iPhoneで動画を写真に変換する方法",
-    "subtitle": "動画をアップロードせず正確な静止画を抽出",
+    "subtitle": "動画から写真・画像—アップロード不要で正確な静止画を抽出",
     "intro": "Video To Photo - Grab Frameは「写真とビデオ」カテゴリのiPhoneアプリで、動画から静止画を抽出します。App Storeによると、評価5.0（8件）、サイズ42.9 MB、JPG・PNG・HEICへの書き出しに対応。処理は端末内で行われ、外部サーバーへ動画を送る必要はありません。",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "チュートリアルやデモ映像からストーリーボードを作成",
       "デザインや編集用の参考静止画を取得"
     ],
-    "conclusion": "Video To Photo - Grab Frameは、iPhoneユーザーが動画から静止画を正確に、柔軟な形式で、端末内のプライバシーを保ちながら抽出するための特化型アプリです。App Store情報は2026年5月28日時点で確認済み。"
+    "conclusion": "Video To Photo - Grab Frameは、iPhoneで動画から写真・画像を正確に、柔軟な形式で、端末内のプライバシーを保ちながら取得するための特化型アプリです。App Store情報は2026年6月16日時点で確認済み。"
   },
   "comparison": {
     "title": "Video To Photo - Grab Frameとブラウザ型抽出ツール",

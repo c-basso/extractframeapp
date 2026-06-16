@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ms",
-    "title": "Video To Photo - Grab Frame: Bingkai Video pada iPhone",
-    "description": "Ekstrak foto dari video pada iPhone dalam saat. Simpan satu bingkai atau eksport banyak sebagai JPG, PNG atau HEIC — peribadi pada peranti, tanpa muat naik.",
-    "keywords": "video ke foto, bingkai video, ekstrak bingkai dari video, pengekstrak bingkai video, iPhone bingkai video, simpan bingkai, video ke imej, jpg dari video, png dari video, heic dari video, eksport batch, kongsi dari foto, app store pengekstrak bingkai",
+    "title": "Video ke foto / gambar iPhone | Video To Photo",
+    "description": "Video ke foto pada iPhone: simpan satu bingkai atau eksport banyak sebagai JPG, PNG atau HEIC dalam beberapa saat — diproses pada peranti, tanpa muat naik.",
+    "keywords": "video ke foto, video ke gambar, bingkai video, ekstrak bingkai dari video, pengekstrak bingkai video, iPhone bingkai video, simpan bingkai, jpg dari video, png dari video, heic dari video, eksport batch, kongsi dari foto",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/ms/",
-    "og_title": "Video To Photo - Grab Frame untuk iPhone",
-    "og_description": "Tukar video kepada foto pada iPhone. Pilih detik tepat dan eksport bingkai berkualiti tinggi sebagai JPG, PNG atau HEIC — diproses pada peranti.",
+    "og_title": "Video ke foto untuk iPhone",
+    "og_description": "Video ke foto pada iPhone. Pilih detik tepat dan eksport bingkai sebagai JPG, PNG atau HEIC — diproses pada peranti, tanpa muat naik.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "ms_MY",
     "twitter_url": "https://extractframeapp.com/ms/",
     "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Ekstrak bingkai tepat dari video pada iPhone. Pemprosesan peribadi pada peranti, eksport batch dan format fleksibel.",
+    "twitter_description": "Video ke foto pada iPhone. Bingkai tepat, pemprosesan pada peranti, eksport batch dan format JPG, PNG, HEIC.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/ms/",
@@ -23,7 +23,7 @@
   "hero": {
     "logo_alt": "Logo Video To Photo - Grab Frame",
     "title": "Ekstrak Bingkai dari Video pada iPhone",
-    "subtitle": "Simpan foto diam tepat dari klip anda dalam beberapa saat",
+    "subtitle": "Video ke foto dan gambar—simpan bingkai tepat dari klip anda dalam beberapa saat",
     "entity_definition": "Video To Photo - Grab Frame ialah aplikasi iOS yang menukar video kepada foto diam pada iPhone. Pilih detik tepat dan eksport bingkai sebagai JPG, PNG atau HEIC.",
     "subheadline": "Buka dari Foto, leret ke detik yang betul, dan simpan satu atau banyak bingkai. Tanpa akaun, muat naik dan garis masa suntingan.",
     "download_alt": "Muat turun di App Store",
@@ -32,10 +32,10 @@
     "qr_text": "Imbas dengan iPhone untuk muat turun"
   },
   "last_updated": {
-    "text": "LAST_UPDATED"
+    "text": "Kemas kini terakhir: 16 Jun 2026"
   },
   "features": {
-    "title": "Mengapa pengguna memilih aplikasi ini",
+    "title": "Mengapa memilih video ke foto",
     "items": [
       {
         "title": "Pemilihan bingkai tepat",
@@ -180,12 +180,16 @@
       {
         "question": "Untuk siapa aplikasi ini?",
         "answer": "Berguna untuk pencipta kandungan, pendidik, dan sesiapa yang ingin menangkap detik tertentu dari video sebagai foto diam."
+      },
+      {
+        "question": "Adakah ada aplikasi video ke foto untuk iPhone?",
+        "answer": "Ya. Video To Photo - Grab Frame menukar video ke foto: buka klip, leret ke detik tepat, dan simpan bingkai sebagai JPG, PNG atau HEIC — semuanya pada iPhone anda."
       }
     ]
   },
   "app_info": {
     "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Pengekstrak bingkai video",
+    "alternate_name": "Video ke foto",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto & Video"
   },
@@ -202,7 +206,7 @@
   },
   "seo_chapter": {
     "title": "Cara Menukar Video kepada Foto pada iPhone",
-    "subtitle": "Ekstrak bingkai tepat tanpa memuat naik video",
+    "subtitle": "Video ke foto—ekstrak bingkai tepat tanpa memuat naik video",
     "intro": "Video To Photo - Grab Frame ialah aplikasi iPhone dalam kategori Foto & Video yang mengekstrak imej diam dari video. Menurut App Store: penilaian 5,0 daripada 8 ulasan, saiz 42,9 MB, eksport ke JPG, PNG dan HEIC. Pemprosesan pada peranti — tanpa muat naik ke pelayan luar.",
     "sections": [
       {
@@ -221,7 +225,7 @@
       "Bina storyboard dari rakaman tutorial atau demo",
       "Tangkap bingkai rujukan untuk reka bentuk atau suntingan"
     ],
-    "conclusion": "Video To Photo - Grab Frame memberi pengguna iPhone cara fokus untuk mengekstrak imej diam dari video dengan kawalan tepat, format eksport fleksibel dan privasi pada peranti. Terakhir disahkan dengan App Store pada 28 Mei 2026."
+    "conclusion": "Video To Photo - Grab Frame ialah aplikasi video ke foto untuk iPhone dengan kawalan tepat, format fleksibel dan privasi pada peranti. Disahkan dengan App Store pada 16 Jun 2026."
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs. Alat Berasaskan Pelayar",
