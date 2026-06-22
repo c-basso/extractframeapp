@@ -90,6 +90,20 @@ const SITE_PRIVACY_URL = 'https://extractframeapp.com/privacy.html';
 const SITE_TERMS_URL = 'https://extractframeapp.com/terms.html';
 const SUPPORT_MAILTO_URL = 'mailto:c-basso@ya.ru';
 
+const FOOTER_PRIVACY_URL = '/privacy.html';
+const FOOTER_TERMS_URL = '/terms.html';
+const FOOTER_BLOG_URL = '/blog/';
+const BLOG_POSTS_PER_PAGE = 10;
+const AUTHOR_URL = 'https://apps.apple.com/developer/id1239180595';
+const DEFAULT_OG_LOGO = `${SITE_URL}img/logo.webp`;
+
+const BLOG_INDEX_JSON_LD_TYPES = ['CollectionPage', 'BreadcrumbList'];
+const BLOG_POST_JSON_LD_TYPES = ['BlogPosting', 'BreadcrumbList'];
+
+function getAnalyticsContext() {
+    return { yandex_metrika: '' };
+}
+
 const APP_PUBLISHER = 'c-basso';
 const APP_VERSION = '1.1.13';
 const APP_FILE_SIZE = '42 MB';
@@ -165,5 +179,14 @@ module.exports = {
     SCHEMA_AGGREGATE_RATING_VALUE,
     SCHEMA_AGGREGATE_RATING_COUNT,
     SCHEMA_AGGREGATE_BEST_RATING,
-    SCHEMA_AGGREGATE_WORST_RATING
+    SCHEMA_AGGREGATE_WORST_RATING,
+    FOOTER_PRIVACY_URL,
+    FOOTER_TERMS_URL,
+    FOOTER_BLOG_URL,
+    BLOG_POSTS_PER_PAGE,
+    AUTHOR_URL,
+    DEFAULT_OG_LOGO,
+    BLOG_INDEX_JSON_LD_TYPES,
+    BLOG_POST_JSON_LD_TYPES,
+    getAnalyticsContext
 };

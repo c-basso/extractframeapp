@@ -36,3 +36,6 @@ https://extractframeapp.com/bn/
 https://extractframeapp.com/ta/
 https://extractframeapp.com/te/
 https://extractframeapp.com/ml/
+https://extractframeapp.com/blog/
+https://extractframeapp.com/blog/feed.xml
+https://extractframeapp.com/blog/extract-frame-from-video-iphone/

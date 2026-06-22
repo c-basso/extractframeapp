@@ -45,6 +45,7 @@
 
 ## Other site URLs
 
+- [blog/](https://extractframeapp.com/blog/)
 - [llms.txt](https://extractframeapp.com/llms.txt)
 
 ## Crawling / discovery

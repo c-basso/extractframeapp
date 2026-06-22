@@ -135,6 +135,18 @@ function checkDuplicatesInBlock(obj, path = '', duplicates = []) {
   return duplicates;
 }
 
+function parseJsonLdBlock(block, meta = {}) {
+  return parseJsonLd(block, meta);
+}
+
+async function expandJsonLdBlock(obj) {
+  await jsonld.expand(obj, jsonLdExpandOptions);
+}
+
+function normalizeJsonLdTypes(typeValue) {
+  return normalizeTypes(typeValue);
+}
+
 async function validateJsonLD() {
   const projectRoot = path.join(__dirname, '..', '..');
   const results = [];
@@ -271,4 +283,10 @@ async function validateJsonLD() {
   return { ok: false, errors: results };
 }
 
-module.exports = { validateJsonLD };
+module.exports = {
+  validateJsonLD,
+  extractJsonLdBlocks,
+  parseJsonLdBlock,
+  expandJsonLdBlock,
+  normalizeJsonLdTypes
+};

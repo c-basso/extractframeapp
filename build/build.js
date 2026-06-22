@@ -10,6 +10,7 @@ const {
     APP_STORE_APP_URL,
     SITE_PRIVACY_URL,
     SITE_TERMS_URL,
+    FOOTER_BLOG_URL,
     SUPPORT_MAILTO_URL,
     APP_PUBLISHER,
     APP_VERSION,
@@ -21,17 +22,22 @@ const {
     SCHEMA_AGGREGATE_WORST_RATING
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
+const { buildBlog } = require('./blog/build-blog');
 
 const PROJECT_ROOT = path.join(__dirname, '..');
 
 /** Markdown for repo root; single source of truth for URLs is `build/constants.js`. */
-function buildReadmeMarkdown() {
+function buildReadmeMarkdown(blogUrl) {
     const landing = URLS.map(
         (e) => `- [${e.link_label}](${e.url})${e.lang === DEFAULT_LANGUAGE ? ' — default locale' : ''}`
     ).join('\n');
+    const extraItems = [...ADDITIONAL_URLS];
+    if (blogUrl) {
+        extraItems.unshift(`${SITE_URL.replace(/\/?$/, '/')}blog/`);
+    }
     const extra =
-        ADDITIONAL_URLS.length > 0
-            ? ADDITIONAL_URLS.map((u) => {
+        extraItems.length > 0
+            ? extraItems.map((u) => {
                   const pathPart = u.replace(/^https?:\/\/[^/]+/i, '').replace(/^\//, '') || u;
                   const label = pathPart || u;
                   return `- [${label}](${u})`;
@@ -79,6 +85,10 @@ function injectAppDefaults(data, lang) {
     data.footer.privacy_url = SITE_PRIVACY_URL;
     data.footer.terms_url = SITE_TERMS_URL;
     data.footer.support_url = SUPPORT_MAILTO_URL;
+    data.footer.blog_url = FOOTER_BLOG_URL;
+    if (!data.footer.blog_text) {
+        data.footer.blog_text = 'Blog';
+    }
 
     data.floating_cta = data.floating_cta || {};
     data.floating_cta.url = APP_STORE_APP_URL;
@@ -107,18 +117,10 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
 
 (async function main() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
-
-    fs.writeFileSync(urlsPath, URLS.map(({url}) => url).join('\n'), 'utf8');
-    console.log(`✅ Successfully built urls.txt file`);
-    console.log(`📁 Output saved to: ${urlsPath}`);
-    console.log();
-
     const readmePath = path.join(PROJECT_ROOT, 'README.md');
-    fs.writeFileSync(readmePath, buildReadmeMarkdown(), 'utf8');
-    console.log(`✅ Successfully built README.md`);
-    console.log(`📁 Output saved to: ${readmePath}`);
-    console.log();
-
+    const buildTimestamp = Date.now();
+    const buildDateIso = new Date(buildTimestamp).toISOString().slice(0, 10);
+    const currentYear = new Date(buildTimestamp).getFullYear();
 
     for (const lang of LANGUAGES) {
         try {
@@ -139,7 +141,6 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
             injectAppDefaults(data, lang);
 
             // Add build timestamp for cache busting
-            const buildTimestamp = Date.now();
             if (!data.meta) {
                 data.meta = {};
             }
@@ -401,6 +402,30 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
             process.exit(1);
         }
     }
+
+    let blogUrls = [];
+    try {
+        blogUrls = await buildBlog({
+            buildTimestamp,
+            buildDateIso,
+            currentYear
+        });
+    } catch (error) {
+        console.error('❌ Error building blog:', error.message);
+        process.exit(1);
+    }
+
+    const allUrls = [...URLS.map(({ url }) => url), ...blogUrls];
+    fs.writeFileSync(urlsPath, allUrls.join('\n'), 'utf8');
+    console.log(`✅ Successfully built urls.txt file`);
+    console.log(`📁 Output saved to: ${urlsPath}`);
+    console.log();
+
+    const blogIndexUrl = blogUrls.length > 0 ? `${SITE_URL.replace(/\/?$/, '/')}blog/` : null;
+    fs.writeFileSync(readmePath, buildReadmeMarkdown(blogIndexUrl), 'utf8');
+    console.log(`✅ Successfully built README.md`);
+    console.log(`📁 Output saved to: ${readmePath}`);
+    console.log();
 })().catch((err) => {
     console.error('❌ Build failed:', err);
     process.exit(1);

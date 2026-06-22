@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Video To Photo Blog — Frame Extraction & Video-to-Photo Guides",
+    "description": "Expert guides on extracting frames from video on iPhone, batch export, and choosing JPG, PNG, or HEIC. Practical tips for turning clips into still photos.",
+    "og_title": "Video To Photo Blog — Frame Extraction Guides",
+    "og_description": "How to grab still frames from video on iPhone, export in multiple formats, and batch-extract photos from clips.",
+    "og_type": "website",
+    "twitter_card": "summary_large_image",
+    "theme_color": "#020617"
+  },
+  "header": {
+    "logo_alt": "Video To Photo - Grab Frame app logo",
+    "home_aria_label": "Video To Photo home"
+  },
+  "labels": {
+    "blog_title": "Video To Photo Blog",
+    "blog_subtitle": "Guides on extracting frames from video and turning clips into photos on iPhone",
+    "read_more": "Read article",
+    "min_read": "min read",
+    "published": "Published",
+    "updated": "Updated",
+    "tags": "Tags",
+    "prev_post": "Previous",
+    "next_post": "Next",
+    "back_to_blog": "All articles",
+    "home": "Home",
+    "rss_title": "Video To Photo Blog RSS Feed",
+    "pagination_prev": "Newer posts",
+    "pagination_next": "Older posts",
+    "page_of": "Page",
+    "no_posts": "No articles yet. Check back soon.",
+    "summarize_with": "Summarize with:",
+    "ai_chatgpt": "ChatGPT",
+    "ai_perplexity": "Perplexity",
+    "ai_claude": "Claude",
+    "ai_grok": "Grok"
+  },
+  "footer": {
+    "blog_link": "Blog",
+    "privacy_link": "Privacy Policy",
+    "terms_link": "Terms of Use",
+    "copyright": "© {year} c-basso. All rights reserved."
+  }
+}
