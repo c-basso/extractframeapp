@@ -9,12 +9,52 @@
     <atom:link href="https://extractframeapp.com/blog/feed.xml" rel="self" type="application/rss+xml"/>
     
     <item>
+      <title>Best Apps to Extract Frames from Video on iPhone</title>
+      <link>https://extractframeapp.com/blog/best-apps-extract-frames-from-video/</link>
+      <guid isPermaLink="true">https://extractframeapp.com/blog/best-apps-extract-frames-from-video/</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Not every app is built for frame extraction. Here is how Photos, editors, web converters, and dedicated grabbers compare for turning video into stills on iPhone.</description>
+      <enclosure url="https://extractframeapp.com/blog/img/best-apps-extract-frames-from-video-hero.webp" type="image/webp" length="136390"/>
+    </item>
+    <item>
+      <title>How to Convert Live Photos to Still Images on iPhone</title>
+      <link>https://extractframeapp.com/blog/convert-live-photos-to-still-images/</link>
+      <guid isPermaLink="true">https://extractframeapp.com/blog/convert-live-photos-to-still-images/</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Live Photos capture motion and sound, but sometimes you only need one sharp still. Here is how to convert a Live Photo to a regular image on iPhone.</description>
+      <enclosure url="https://extractframeapp.com/blog/img/convert-live-photos-to-still-images-hero.webp" type="image/webp" length="85320"/>
+    </item>
+    <item>
+      <title>How to Create Thumbnails from Videos on iPhone</title>
+      <link>https://extractframeapp.com/blog/create-thumbnails-from-videos/</link>
+      <guid isPermaLink="true">https://extractframeapp.com/blog/create-thumbnails-from-videos/</guid>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Great thumbnails start with the right frame. Learn how to pull a sharp still from any video on iPhone and size it for YouTube, TikTok, Instagram, and more.</description>
+      <enclosure url="https://extractframeapp.com/blog/img/create-thumbnails-from-videos-hero.webp" type="image/webp" length="137092"/>
+    </item>
+    <item>
+      <title>HEIC vs JPG When Exporting Frames from Video</title>
+      <link>https://extractframeapp.com/blog/heic-vs-jpg-exporting-frames/</link>
+      <guid isPermaLink="true">https://extractframeapp.com/blog/heic-vs-jpg-exporting-frames/</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Exporting a frame from video? HEIC saves space on Apple devices; JPG works everywhere. Here is how to choose—and when PNG beats both.</description>
+      <enclosure url="https://extractframeapp.com/blog/img/heic-vs-jpg-exporting-frames-hero.webp" type="image/webp" length="89516"/>
+    </item>
+    <item>
+      <title>How to Save a Still Image from Video</title>
+      <link>https://extractframeapp.com/blog/save-still-image-from-video/</link>
+      <guid isPermaLink="true">https://extractframeapp.com/blog/save-still-image-from-video/</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 GMT</pubDate>
+      <description>Screenshots are the slow path. Here is how to save a crisp still from a video at full resolution, pick the exact frame, and export in JPG, PNG, or HEIC.</description>
+      <enclosure url="https://extractframeapp.com/blog/img/save-still-image-from-video-hero.webp" type="image/webp" length="430012"/>
+    </item>
+    <item>
       <title>How to Extract a Frame from Video on iPhone</title>
       <link>https://extractframeapp.com/blog/extract-frame-from-video-iphone/</link>
       <guid isPermaLink="true">https://extractframeapp.com/blog/extract-frame-from-video-iphone/</guid>
       <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
       <description>Turn any video clip into a sharp still on iPhone. Scrub to the perfect frame, export in your preferred format, and skip uploads or complicated editing apps.</description>
-      <enclosure url="https://extractframeapp.com/blog/img/extract-frame-from-video-iphone-hero.webp" type="image/webp" length="77374"/>
+      <enclosure url="https://extractframeapp.com/blog/img/extract-frame-from-video-iphone-hero.webp" type="image/webp" length="125244"/>
     </item>
   </channel>
 </rss>

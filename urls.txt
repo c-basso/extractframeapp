@@ -38,4 +38,9 @@ https://extractframeapp.com/te/
 https://extractframeapp.com/ml/
 https://extractframeapp.com/blog/
 https://extractframeapp.com/blog/feed.xml
+https://extractframeapp.com/blog/best-apps-extract-frames-from-video/
+https://extractframeapp.com/blog/convert-live-photos-to-still-images/
+https://extractframeapp.com/blog/create-thumbnails-from-videos/
+https://extractframeapp.com/blog/heic-vs-jpg-exporting-frames/
+https://extractframeapp.com/blog/save-still-image-from-video/
 https://extractframeapp.com/blog/extract-frame-from-video-iphone/
