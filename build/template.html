@@ -266,9 +266,14 @@
                     <h2>{{hero.subtitle}}</h2>
                     <p class="entity-definition">{{hero.entity_definition}}</p>
                     <p class="subheadline">{{hero.subheadline}}</p>
-                    <p class="last-updated-hero">{{last_updated.text}}</p>
+                    <div class="hero-updated-cta">
+                        <p class="last-updated-hero">{{last_updated.text}}</p>
+                        <a href="{{hero.cta_url}}" class="app-store-btn app-store-btn-hero-desktop">
+                            <img src="/img/download.svg" alt="{{hero.download_alt}}" width="260" height="87">
+                        </a>
+                    </div>
                     <a href="{{hero.cta_url}}" class="app-store-btn app-store-btn-mobile">
-                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="120" height="40">
+                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="260" height="87">
                     </a>
                 </div>
                 <div class="hero-side">
