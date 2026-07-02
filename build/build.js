@@ -156,6 +156,7 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
             data.meta.date_modified_iso = new Date().toISOString();
             data.meta.text_direction = lang === 'he' ? 'rtl' : 'ltr';
             data.meta.alternate_default = SITE_URL;
+            data.meta.site_url = SITE_URL;
             data.meta.alternate_languages = URLS;
             data.meta.alternate_languages_head = URLS.flatMap((entry) =>
                 entry.hreflangs
@@ -389,9 +390,9 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
                 return result;
             }
             
-            // First process #each blocks, then #if blocks, then replace remaining variables
-            let result = processEachBlocks(template, data);
-            result = processIfBlocks(result, data);
+            // Process #if blocks first so conditional #each sections are skipped when absent
+            let result = processIfBlocks(template, data);
+            result = processEachBlocks(result, data);
             result = replaceVariables(result, data);
             
             // Final cleanup: remove any trailing commas before closing brackets in JSON-LD

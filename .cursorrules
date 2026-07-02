@@ -22,3 +22,8 @@
 - `privacy.html` - Privacy policy page
 - `terms.html` - Terms of service page
 - `package.json` - Node.js dependencies and scripts
+
+## Search Console & Webmaster Verification
+
+- **Google Search Console** — verified at the **DNS** level (domain property). Do **not** add a `google-site-verification` meta tag; absence in HTML is expected.
+- **Bing Webmaster Tools** — verified via `msvalidate.01` meta tag in `build/constants.js` (`MS_VALIDATE`) and `build/template.html`.

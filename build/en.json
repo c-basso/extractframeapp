@@ -226,7 +226,22 @@
       "Build storyboards from tutorial or demo footage",
       "Capture reference stills for design or editing tasks"
     ],
-    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused photo extractor from video with precise control, flexible export formats, and on-device privacy. Last verified against App Store product details on June 16, 2026."
+    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused photo extractor from video with precise control, flexible export formats, and on-device privacy. Last verified against App Store product details on June 16, 2026.",
+    "related_links_title": "Related guides",
+    "related_links": [
+      {
+        "url": "/blog/extract-frame-from-video-iphone/",
+        "text": "How to extract a frame from video on iPhone"
+      },
+      {
+        "url": "/blog/heic-vs-jpg-exporting-frames/",
+        "text": "HEIC vs JPG when exporting frames from video"
+      },
+      {
+        "url": "/blog/best-apps-extract-frames-from-video/",
+        "text": "Best apps to extract frames from video on iPhone"
+      }
+    ]
   },
   "comparison": {
     "title": "Video To Photo - Grab Frame vs Browser-Based Frame Extractors",

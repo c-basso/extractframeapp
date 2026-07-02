@@ -34,7 +34,7 @@ Video To Photo - Grab Frame is an iOS app for iPhone that extracts still images 
 
 ## Freshness
 
-- Content last updated: May 28, 2026
+- Content last updated: July 2, 2026
 
 ## Contact and Ownership
 

@@ -12,7 +12,8 @@ const LOOP_PLACEHOLDER_ROOTS = new Set([
     'post',
     'page',
     'tag',
-    'related'
+    'related',
+    'link'
 ]);
 
 function getValue(obj, keyPath) {

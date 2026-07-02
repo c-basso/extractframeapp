@@ -51,6 +51,10 @@ const URLS = LANGUAGES.map((lang) => {
     if (lang === 'zh') {
         entry.hreflangs = ['zh-Hans', 'zh-Hant'];
     }
+    // Norwegian Bokmål — ISO 639-1 code is `nb` (folder stays `/no/`).
+    if (lang === 'no') {
+        entry.hreflangs = ['nb'];
+    }
     entry.link_label = lang === 'zh' ? '中文' : lang;
     return entry;
 });
@@ -74,6 +78,8 @@ const INDEX_NOW_KEY = 'HdTK4Y2gn9Tp9o6kXOQU';
 
 /** Bing Webmaster Tools — meta name="msvalidate.01" */
 const MS_VALIDATE = 'E15B500A4986A32DDDF23064D5A94A0F';
+
+/** Google Search Console — verified via DNS (domain property). No HTML meta tag needed. */
 
 // https://www.indexnow.org/searchengines.json
 const INDEX_NOW_ENGINES = [
@@ -111,9 +117,9 @@ const APP_PUBLISHER = 'c-basso';
 const APP_VERSION = '1.1.13';
 const APP_FILE_SIZE = '42 MB';
 
-/** JSON-LD AggregateRating — держите в соответствии с данными в App Store Connect. */
-const SCHEMA_AGGREGATE_RATING_VALUE = 4.8;
-const SCHEMA_AGGREGATE_RATING_COUNT = 259;
+/** JSON-LD AggregateRating — keep in sync with App Store Connect. */
+const SCHEMA_AGGREGATE_RATING_VALUE = 5.0;
+const SCHEMA_AGGREGATE_RATING_COUNT = 8;
 const SCHEMA_AGGREGATE_BEST_RATING = 5;
 const SCHEMA_AGGREGATE_WORST_RATING = 1;
 

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const { SITE_URL, URLS, SITE_PRIVACY_URL, SITE_TERMS_URL, BLOG_POSTS_PER_PAGE } = require('./constants');
+const { SITE_URL, URLS, ADDITIONAL_URLS, SITE_PRIVACY_URL, SITE_TERMS_URL, BLOG_POSTS_PER_PAGE } = require('./constants');
 const { loadPosts, collectBlogUrls } = require('./blog/build-blog');
 
 function getBlogSitemapUrls(siteOrigin) {
@@ -62,6 +62,15 @@ function getBlogSitemapUrls(siteOrigin) {
     lines.push(`    <xhtml:link rel="alternate" hreflang="x-default" href="${legalUrl}" />`);
     lines.push(`    <lastmod>${lastmod}</lastmod>`);
     lines.push('    <priority>0.3</priority>');
+    lines.push('  </url>');
+    lines.push('');
+  }
+
+  for (const extraUrl of ADDITIONAL_URLS) {
+    lines.push('  <url>');
+    lines.push(`    <loc>${extraUrl}</loc>`);
+    lines.push(`    <lastmod>${lastmod}</lastmod>`);
+    lines.push('    <priority>0.5</priority>');
     lines.push('  </url>');
     lines.push('');
   }
