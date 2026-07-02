@@ -72,6 +72,9 @@ const EXPECTED_JSON_LD_TYPES = [
 
 const INDEX_NOW_KEY = 'HdTK4Y2gn9Tp9o6kXOQU';
 
+/** Bing Webmaster Tools — meta name="msvalidate.01" */
+const MS_VALIDATE = 'E15B500A4986A32DDDF23064D5A94A0F';
+
 // https://www.indexnow.org/searchengines.json
 const INDEX_NOW_ENGINES = [
     'indexnow.yep.com',
@@ -167,6 +170,7 @@ module.exports = {
     EXPECTED_JSON_LD_TYPES,
     INDEX_NOW_KEY,
     INDEX_NOW_ENGINES,
+    MS_VALIDATE,
     ADDITIONAL_URLS,
     APP_STORE_APP_URL,
     SITE_PRIVACY_URL,

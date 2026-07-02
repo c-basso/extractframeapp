@@ -23,6 +23,11 @@
     <meta name="color-scheme" content="light dark">
     <meta name="application-name" content="{{app_info.name}}">
 
+    <!-- Site verification: build/constants.js (MS_VALIDATE) -->
+    {{#if meta.ms_validate}}
+    <meta name="msvalidate.01" content="{{meta.ms_validate}}" />
+    {{/if}}
+
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{meta.og_url}}">

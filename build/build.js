@@ -12,6 +12,7 @@ const {
     SITE_TERMS_URL,
     FOOTER_BLOG_URL,
     SUPPORT_MAILTO_URL,
+    MS_VALIDATE,
     APP_PUBLISHER,
     APP_VERSION,
     APP_FILE_SIZE,
@@ -105,6 +106,13 @@ function injectAppDefaults(data, lang) {
         best_rating: SCHEMA_AGGREGATE_BEST_RATING,
         worst_rating: SCHEMA_AGGREGATE_WORST_RATING
     };
+
+    data.meta = data.meta || {};
+    if (MS_VALIDATE) {
+        data.meta.ms_validate = MS_VALIDATE;
+    } else {
+        delete data.meta.ms_validate;
+    }
 }
 
 function resolveSiteImageUrlToLocalPath(imageUrl) {
