@@ -10,6 +10,27 @@ const {
     INDEX_NOW_ENGINES,
     ADDITIONAL_URLS
 } = require('./constants');
+const { getGuideUrls } = require('./guides/build-guides');
+const { loadPosts, collectBlogUrls } = require('./blog/build-blog');
+const { BLOG_POSTS_PER_PAGE } = require('./constants');
+
+/** Every public page: landing locales, guides (+ hub), blog (index, pages, posts), extra URLs. */
+function collectAllUrls() {
+    const origin = SITE_URL.replace(/\/$/, '');
+    let blogUrls = [];
+    const posts = loadPosts();
+    if (posts.length > 0) {
+        const totalPages = Math.max(1, Math.ceil(posts.length / BLOG_POSTS_PER_PAGE));
+        blogUrls = collectBlogUrls(posts.map((post) => ({ ...post, canonical: `${origin}/blog/${post.slug}/` })), totalPages)
+            .filter((u) => !u.endsWith('.xml'));
+    }
+    return [...new Set([
+        ...URLS.map(({ url }) => url),
+        ...getGuideUrls(),
+        ...blogUrls,
+        ...ADDITIONAL_URLS
+    ])];
+}
 
 const indexNow = async (engine) => {
     console.log('🚀 Starting IndexNow submit...');
@@ -17,9 +38,7 @@ const indexNow = async (engine) => {
     const data = {
         host: new URL(SITE_URL).hostname,
         key: INDEX_NOW_KEY,
-        urlList: URLS
-            .map(({url}) => url)
-            .concat(ADDITIONAL_URLS)
+        urlList: collectAllUrls()
     };
 
     console.log()
