@@ -1,0 +1,65 @@
+{
+  "slug": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "frame by frame video on iPhone",
+  "secondary_keywords": [
+    "how to go frame by frame on iphone video",
+    "how to see frame by frame iphone video",
+    "play frame by frame iphone video",
+    "can you go frame by frame on iphone video",
+    "frame by frame video player iphone"
+  ],
+  "title": "How to Go Frame by Frame on an iPhone Video (and Save It)",
+  "description": "Move through an iPhone video frame by frame to find the exact moment — a golf swing, a blink, a goal — then save that frame as a full-quality photo in seconds.",
+  "h1": "How to go frame by frame through a video on iPhone",
+  "nav_title": "Go frame by frame on iPhone",
+  "card_title": "Go frame by frame through an iPhone video",
+  "excerpt": "Find the precise moment in a video — and save it as a photo once you've found it.",
+  "lead": "Checking a swing, a finish line, a trick or a blink needs more than play and pause. You need to crawl through the video one moment at a time. Here's how to do that on iPhone, and how to keep the frame you land on.",
+  "quick_answer": "In Photos, pause and drag slowly along the timeline strip to scrub; on iOS 27+ you can then save the frame with ••• → Save Video Frame as Photo. To collect several moments in one pass, open the clip in Video To Photo – Grab Frame, scrub the filmstrip while watching the large preview, and tap Grab This Frame on each.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>Frame by frame in the Photos app</h2><ol><li>Open the video and tap pause.</li><li>Touch the thumbnail strip (the timeline) at the bottom and drag slowly left or right.</li><li>Hold your finger on the strip for a moment to expand it for finer control.</li></ol><p>This is fine for viewing. Once you find the moment on iOS 27 or later, tap <strong>•••</strong> and choose <strong>Save Video Frame as Photo</strong> to keep it. On older iOS the only built-in option is a <a href=\"/guides/screenshot-video-iphone-without-losing-quality/\">screenshot, which loses quality</a> — and on any version, a frame grabber lets you keep several moments from the same pass.</p><h2>Why slow scrubbing matters</h2><p>At 30 fps, each frame lasts 33 milliseconds; at 60 fps, 17 ms. Blinks, ball contact and facial expressions change within a couple of frames, so the difference between a great still and a missed one is often one frame.</p>",
+  "steps_title": "How to step through a video and save the frame you want",
+  "steps": [
+    {
+      "name": "Open the video in the app",
+      "text": "Share the clip from Photos to Video To Photo – Grab Frame. It opens with a large preview and a filmstrip.",
+      "shot": 0
+    },
+    {
+      "name": "Scrub slowly along the filmstrip",
+      "text": "Drag in small movements and watch the preview. Go back and forth around the action until you land on the moment.",
+      "shot": 1
+    },
+    {
+      "name": "Grab it — and its neighbours",
+      "text": "Tap Grab This Frame, nudge a little and grab again. Compare them in the preview and keep the best.",
+      "shot": 2
+    },
+    {
+      "name": "Export the winner",
+      "text": "Export as PNG or HEIC to keep the full detail for analysis, coaching notes or sharing.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Great uses for frame-by-frame</h2><ul><li><strong>Sports coaching</strong> — golf and tennis swings, running form, jumps. Grab key positions and export a PDF for side-by-side review.</li><li><strong>Kids and pets</strong> — the one frame where everyone is looking at the camera.</li><li><strong>Tutorials and screen recordings</strong> — freeze the exact step and save it as a reference image.</li><li><strong>Reviewing footage</strong> — check what really happened at a finish line or a near-miss.</li></ul><h2>Record for easier frame-by-frame later</h2><p>Recording at <strong>60 fps</strong> (Settings → Camera → Record Video) gives you twice as many moments to choose from and less motion blur per frame. Slow-motion clips give even more. More tips in <a href=\"/guides/clear-high-quality-picture-from-video/\">getting a clear picture from a video</a>.</p>",
+  "faq": [
+    {
+      "q": "Can the iPhone Photos app play a video frame by frame?",
+      "a": "Not with dedicated step buttons. You can pause and drag the timeline strip slowly, which gets close. On iOS 27 and later you can then save the current frame with ••• → Save Video Frame as Photo."
+    },
+    {
+      "q": "How do I save the frame I found?",
+      "a": "Open the video in Video To Photo – Grab Frame, scrub to the same moment and tap Grab This Frame, then export as JPG, PNG or HEIC."
+    },
+    {
+      "q": "Is 60 fps better for frame by frame?",
+      "a": "Yes. 60 fps gives twice as many frames as 30 fps and each frame has less motion blur, so it's easier to find a sharp moment."
+    }
+  ],
+  "related": [
+    "clear-high-quality-picture-from-video",
+    "extract-multiple-frames-from-video",
+    "how-to-get-a-picture-from-a-video-on-iphone"
+  ]
+}

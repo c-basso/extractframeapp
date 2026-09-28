@@ -1,0 +1,65 @@
+{
+  "slug": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video frames to PDF",
+  "secondary_keywords": [
+    "video to pdf",
+    "convert video frames to pdf",
+    "video to pdf converter free",
+    "make stills from video",
+    "storyboard from video"
+  ],
+  "title": "How to Convert Video Frames to PDF on iPhone (No Upload)",
+  "description": "Turn selected video frames into a single PDF on iPhone — ideal for storyboards, lesson notes and client reviews. Pick the key moments; offline, no upload.",
+  "h1": "How to turn video frames into a PDF on iPhone",
+  "nav_title": "Video frames to PDF",
+  "card_title": "Turn video frames into a PDF",
+  "excerpt": "Pick the key moments of a video and export them as one clean PDF — for storyboards, lessons and reviews.",
+  "lead": "A PDF of key frames is the fastest way to share what happens in a video with someone who won't watch it: a client reviewing a cut, a student revising a lesson, a team signing off a storyboard.",
+  "quick_answer": "Open the video in Video To Photo – Grab Frame, tap Grab This Frame at each key moment, then tap Export, pick an image format and choose PDF as the save format. You get one PDF of those frames — ready to AirDrop, email or save to Files.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>What \"video to PDF\" really means</h2><p>A PDF can't play video, so converting \"video to PDF\" means capturing <strong>still frames</strong> and laying them out as pages. The useful part is choosing <em>which</em> frames: a PDF of 900 nearly identical frames is useless; a PDF of the 12 moments that matter is gold.</p><h2>Great uses for a frames-to-PDF export</h2><ul><li><strong>Storyboards and shot lists</strong> — one frame per scene for planning or pitching.</li><li><strong>Lesson and lecture notes</strong> — capture slides or whiteboard moments from a recorded class.</li><li><strong>Client and team reviews</strong> — people can comment on a PDF without scrubbing a video.</li><li><strong>Sports and technique analysis</strong> — key positions of a movement on consecutive pages.</li><li><strong>How-to documentation</strong> — turn a screen recording into step-by-step pages.</li></ul>",
+  "steps_title": "How to convert video frames to a PDF on iPhone",
+  "steps": [
+    {
+      "name": "Open the video",
+      "text": "Share it from Photos to Video To Photo – Grab Frame, or open the app and choose the clip.",
+      "shot": 0
+    },
+    {
+      "name": "Grab the key moments",
+      "text": "Scrub through and tap Grab This Frame at every scene, slide or step you want in the document.",
+      "shot": 1
+    },
+    {
+      "name": "Choose PDF as the save format",
+      "text": "Tap Export, pick JPEG, PNG or HEIC for the images, then select PDF under Save Format and export.",
+      "shot": 3
+    },
+    {
+      "name": "Share or save the PDF",
+      "text": "Save it to Files, AirDrop it, or attach it to an email or chat straight from the share sheet.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips for a clean PDF</h2><ul><li>Grab frames in the order you want the pages — scrub from start to end.</li><li>Pick moments where text on screen is fully visible and not mid-transition.</li><li>Choose PNG as the image format when frames contain slides or small text.</li><li>Save the project so you can add pages later and re-export.</li></ul><h2>PDF vs ZIP</h2><p>Export a <strong>PDF</strong> when people need to read or comment on frames in order. Export a <strong>ZIP</strong> when they need the individual image files, for example to drop into a design tool. Both are covered in <a href=\"/guides/extract-multiple-frames-from-video/\">extracting multiple frames from a video</a>.</p>",
+  "faq": [
+    {
+      "q": "Can I convert a video to PDF without uploading it?",
+      "a": "Yes. Video To Photo – Grab Frame builds the PDF on your iPhone from the frames you grab. The video never leaves your device."
+    },
+    {
+      "q": "How are frames laid out in the PDF?",
+      "a": "The PDF contains the frames you grabbed, so grab them from start to end to keep the document in the same order as the video."
+    },
+    {
+      "q": "Can I make a storyboard from a video on iPhone?",
+      "a": "Yes. Grab one frame per shot or scene and export as PDF. You get a simple storyboard you can annotate in Markup or any PDF app."
+    }
+  ],
+  "related": [
+    "extract-multiple-frames-from-video",
+    "video-to-jpg-png-heic-iphone",
+    "frame-grabber-app-iphone"
+  ]
+}

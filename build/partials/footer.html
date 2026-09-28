@@ -1,0 +1,85 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div>
+                <a class="brand" href="{{site.home_url}}">
+                    <img src="/img/app-icon-192.webp" alt="" width="36" height="36" loading="lazy">
+                    <span>{{app_info.name}}</span>
+                </a>
+                <p>{{footer.developer_info}}</p>
+                <p><a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="footer"><img src="/img/download.svg" alt="{{hero.download_alt}}" width="150" height="50" style="height:50px" loading="lazy"></a></p>
+            </div>
+            {{#if footer.guides_text}}
+            <div>
+                <h4>{{footer.guides_text}}</h4>
+                <ul>
+                    {{#each footer_guides as |guide|}}
+                    <li><a href="{{guide.url}}">{{guide.nav_title}}</a></li>
+                    {{/each}}
+                </ul>
+            </div>
+            {{/if}}
+            <div>
+                <h4>{{app_info.name}}</h4>
+                <ul>
+                    {{#if footer.guides_text}}<li><a href="{{site.guides_url}}">{{footer.guides_text}}</a></li>{{/if}}
+                    <li><a href="{{site.blog_url}}">{{footer.blog_text}}</a></li>
+                    <li><a href="{{site.cta_url}}" rel="noopener">App Store</a></li>
+                    <li><a href="{{site.privacy_url}}">{{footer.privacy_text}}</a></li>
+                    <li><a href="{{site.terms_url}}">{{footer.terms_text}}</a></li>
+                    <li><a href="{{site.support_url}}">{{footer.support_text}}</a></li>
+                </ul>
+            </div>
+        </div>
+        {{#if show_languages}}
+        <nav class="langs" aria-label="Languages">
+            {{#each footer_languages as |lang|}}
+            <a href="{{lang.url}}" hreflang="{{lang.lang}}">{{lang.link_label}}</a>
+            {{/each}}
+        </nav>
+        {{/if}}
+        <p class="legal">{{footer.copyright}}</p>
+    </div>
+</footer>
+
+<a class="sticky-cta" href="{{site.cta_url}}" rel="noopener" data-cta="sticky" aria-label="{{hero.download_alt}}">
+    <img src="/img/app-icon-192.webp" alt="" width="42" height="42" loading="lazy">
+    <span><b>{{app_info.name}}</b>{{sticky.text}}</span>
+    <img src="/img/download.svg" alt="" width="108" height="36" style="height:36px;width:auto;border-radius:0" loading="lazy">
+</a>
+
+<script>
+(function () {
+    var cta = document.querySelector('.sticky-cta');
+    var hero = document.querySelector('[data-hero]');
+    var end = document.querySelector('[data-cta-end]');
+    if (!cta || !('IntersectionObserver' in window)) { if (cta) cta.classList.add('show'); return; }
+    var visible = { hero: true, end: false };
+    function update() { cta.classList.toggle('show', !visible.hero && !visible.end); }
+    var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) { visible[e.target === hero ? 'hero' : 'end'] = e.isIntersecting; });
+        update();
+    }, { threshold: 0 });
+    if (hero) io.observe(hero); else visible.hero = false;
+    if (end) io.observe(end);
+    update();
+    document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[data-cta]');
+        if (a && window.ym && window.ym.apply) { try { window.ym(109474190, 'reachGoal', 'appstore_click', { placement: a.getAttribute('data-cta') }); } catch (err) {} }
+    });
+})();
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
+
+    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->

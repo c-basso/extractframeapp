@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>{{meta.title}}</title>
+    <meta name="description" content="{{meta.description}}">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+    <link rel="canonical" href="{{meta.canonical}}">
+    <link rel="alternate" hreflang="en" href="{{meta.canonical}}" />
+    <link rel="alternate" hreflang="x-default" href="{{meta.canonical}}" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{meta.canonical}}">
+    <meta property="og:title" content="{{meta.title}}">
+    <meta property="og:description" content="{{meta.description}}">
+    <meta property="og:site_name" content="{{meta.site_name}}">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="{{meta.og_image}}">
+    <meta property="og:image:width" content="{{meta.og_image_width}}">
+    <meta property="og:image:height" content="{{meta.og_image_height}}">
+    <meta property="og:image:alt" content="{{meta.title}}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{meta.title}}">
+    <meta name="twitter:description" content="{{meta.description}}">
+    <meta name="twitter:image" content="{{meta.og_image}}">
+{{> head-common}}
+    <script type="application/ld+json">{{seo.collection | json}}</script>
+    <script type="application/ld+json">{{seo.breadcrumb | json}}</script>
+</head>
+<body>
+{{> header}}
+
+<main id="main">
+    <div class="container">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+            <ol>
+                <li><a href="/">{{labels.home}}</a></li>
+                <li aria-current="page">{{labels.guides}}</li>
+            </ol>
+        </nav>
+    </div>
+    <section class="hub-hero" data-hero>
+        <div class="container">
+            <span class="eyebrow">{{hub.eyebrow}}</span>
+            <h1>{{hub.h1}}</h1>
+            <p>{{hub.intro}}</p>
+            <p style="margin-top:26px"><a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="hub"><img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" style="margin:0 auto"></a></p>
+        </div>
+    </section>
+    <section class="section" style="padding-top:24px">
+        <div class="container">
+            <div class="guides-grid">
+                {{#each guides as |guide|}}
+                <a class="guide-card" href="{{guide.url}}">
+                    <span class="kw">{{guide.keyword}}</span>
+                    <h2 style="font-size:1.18rem;line-height:1.25">{{guide.card_title}}</h2>
+                    <p>{{guide.excerpt}}</p>
+                    <span class="more">{{labels.read_guide}}</span>
+                </a>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+    <section class="section" style="padding-top:0" data-cta-end>
+        <div class="container">
+            <div class="cta-band">
+                <div>
+                    <h2>{{labels.final_cta_title}}</h2>
+                    <p>{{labels.final_cta_text}}</p>
+                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="hub-final"><img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" loading="lazy"></a>
+                </div>
+                <div class="cta-phones" aria-hidden="true">
+                    <div class="phone"><img src="{{shots.0.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
+                    <div class="phone"><img src="{{shots.4.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+{{> footer}}
+</body>
+</html>

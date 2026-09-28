@@ -1,195 +1,234 @@
 {
   "meta": {
     "lang": "en",
-    "title": "Photo extractor from video iPhone | Video To Photo",
-    "description": "Photo extractor from video on iPhone—grab one frame or batch-export many stills in seconds. Save as JPG, PNG, or HEIC with private on-device processing.",
-    "keywords": "video to photo, frame grabber, extract frame from video, video frame extractor, photo extractor from video, iPhone frame grabber, save frame from video, video to image, jpg from video, png from video, heic from video, batch frame export, frame extract video to photo",
+    "title": "Video to Photo on iPhone – Extract HD Frames | Grab Frame",
+    "description": "Turn any video into HD photos on iPhone. Scrub to the exact frame, grab one or many, and save as JPG, PNG or HEIC — offline, no upload. Free download.",
+    "keywords": "video to photo, video to photo iphone, extract frame from video iphone, frame grabber app, save frame from video iphone, picture from video iphone, video frame extractor",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/",
-    "og_title": "Photo extractor from video for iPhone",
-    "og_description": "Photo extractor from video on iPhone. Pick exact moments from your clips and export high-quality stills as JPG, PNG, or HEIC.",
+    "og_title": "Video to Photo for iPhone — grab the exact frame in HD",
+    "og_description": "Scrub to the perfect moment, grab one frame or dozens, and export JPG, PNG, HEIC, ZIP or PDF. 100% on-device, no upload, no account.",
     "og_image": "https://extractframeapp.com/site_preview.png",
-    "site_name": "Video To Photo - Grab Frame",
+    "site_name": "Video To Photo – Grab Frame",
     "og_locale": "en_US",
     "twitter_url": "https://extractframeapp.com/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Photo extractor from video on iPhone. Grab exact still frames with private on-device processing, batch export, and flexible formats.",
+    "twitter_title": "Video to Photo for iPhone — Grab Frame",
+    "twitter_description": "Grab HD stills from any video on iPhone. JPG, PNG, HEIC, ZIP or PDF. Offline, no upload.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/",
     "geo_region": "US",
     "geo_placename": "United States"
   },
+  "labels": {
+    "skip": "Skip to content",
+    "ratings": "ratings"
+  },
+  "nav": {
+    "how": "How it works",
+    "screenshots": "Screenshots",
+    "guides": "Guides",
+    "faq": "FAQ"
+  },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame logo",
-    "title": "Extract Frames from Video on iPhone",
-    "subtitle": "Photo extractor from video—grab exact stills from your clips in seconds",
-    "entity_definition": "Video To Photo - Grab Frame is an iOS app that turns videos into still photos on your iPhone. Choose the exact moment and export frames in JPG, PNG, or HEIC.",
-    "subheadline": "Open from Photos, scrub to the right moment, and save one frame or many. No account, no upload, and no editing timeline required.",
-    "download_alt": "Download on the App Store",
-    "phone_text": "Tap to grab a frame from video",
-    "qr_alt": "QR code to download the app",
-    "qr_text": "Scan with your iPhone to download"
-  },
-  "last_updated": {
-    "text": "Last updated: June 16, 2026"
-  },
-  "features": {
-    "title": "Why users choose this photo extractor & frame grabber",
-    "items": [
-      {
-        "title": "Exact frame selection",
-        "description": "Scrub through your video and capture the exact still you need at the precise moment.",
-        "icon": "🎯"
-      },
-      {
-        "title": "Single or batch extraction",
-        "description": "Grab one frame or select multiple moments and export a full set of still images at once.",
-        "icon": "🧩"
-      },
-      {
-        "title": "JPG, PNG, and HEIC export",
-        "description": "Save extracted frames in the format that fits your workflow and sharing needs.",
-        "icon": "🖼️"
-      },
-      {
-        "title": "Share Sheet workflow",
-        "description": "Start directly from Photos via Share and open straight into frame extraction.",
-        "icon": "🔗"
-      },
-      {
-        "title": "ZIP and PDF output",
-        "description": "Export results as separate images, a ZIP archive, or a PDF when you need grouped output.",
-        "icon": "📦"
-      },
-      {
-        "title": "Project save and reopen",
-        "description": "Save your extraction sessions as projects and continue later without starting over.",
-        "icon": "💾"
-      }
-    ]
-  },
-  "by_the_numbers": {
-    "title": "Video To Photo - Grab Frame by the Numbers",
-    "items": [
-      "5.0 out of 5 from 8 App Store ratings",
-      "42.9 MB app size",
-      "Supports export as JPG, PNG, and HEIC",
-      "Built for iPhone",
-      "Processing stays on-device for privacy"
+    "kicker": "Free download · iPhone · Offline",
+    "logo_alt": "Video To Photo – Grab Frame app icon",
+    "title": "Video to Photo on iPhone — Grab the Exact Frame in HD",
+    "title_html": "<span class=\"grad-text\">Video to photo</span> on iPhone. Grab the exact frame in&nbsp;HD.",
+    "subtitle": "Scrub to the perfect moment, grab one still or dozens, and save them as JPG, PNG or HEIC — right on your iPhone. No upload, no account.",
+    "entity_definition": "Video To Photo – Grab Frame is an iPhone frame grabber that turns video clips into high-resolution still photos, entirely on your device.",
+    "subheadline": "Share a clip from Photos, scrub, grab, export. That's it.",
+    "bullets": [
+      "Works offline",
+      "JPG · PNG · HEIC",
+      "ZIP & PDF export",
+      "No account"
     ],
-    "stats": [
+    "download_alt": "Download Video To Photo – Grab Frame on the App Store",
+    "qr_alt": "QR code to download Video To Photo – Grab Frame",
+    "qr_text": "Scan with your iPhone camera to install"
+  },
+  "download": {
+    "title": "Built for one job: getting photos out of videos",
+    "subtitle": "No timeline, no effects, no learning curve. Just the moment you want, saved as a real photo.",
+    "facts": [
       {
-        "number": "5.0",
-        "label": "Star Rating",
-        "detail": "Based on 8 App Store ratings"
+        "icon": "🎯",
+        "title": "Land on the exact moment",
+        "description": "Drag along the filmstrip and stop on the frame you want — the smile, the jump, the eyes-open shot."
       },
       {
-        "number": "42.9 MB",
-        "label": "App Size",
-        "detail": "Lightweight Photo & Video app"
+        "icon": "🖼️",
+        "title": "Real frames, not screenshots",
+        "description": "Stills are taken from the video itself — no player controls, no black bars, no screen-size limit."
       },
       {
-        "number": "3",
-        "label": "Image Formats",
-        "detail": "JPG, PNG, and HEIC"
+        "icon": "🗂️",
+        "title": "Grab as many as you like",
+        "description": "Save every frame you like in one pass, review them side by side, keep only the best."
       },
       {
-        "number": "On-Device",
-        "label": "Privacy First",
-        "detail": "No video upload required"
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP or PDF",
+        "description": "Pick the image format and how you get it: separate files, one ZIP archive or a single PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% on-device",
+        "description": "Your videos never leave your iPhone. No upload, no account, works in airplane mode."
+      },
+      {
+        "icon": "💾",
+        "title": "Projects you can reopen",
+        "description": "Every clip is saved as a project, so you can come back later and grab more frames."
+      }
+    ],
+    "meta_labels": {
+      "version": "Version",
+      "size": "Size",
+      "requires": "Requires",
+      "price": "Price",
+      "price_value": "Free · in-app purchases",
+      "category": "Category",
+      "category_value": "Photo & Video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Screenshots",
+    "title": "From video to photo in six screens",
+    "subtitle": "Straight from the App Store listing — this is exactly what you get.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: grab the best moments from any video",
+        "title": "Grab the best moments",
+        "caption": "From any video in your library."
+      },
+      {
+        "alt": "Grab This Frame button with a tray of four grabbed frames from a cat video",
+        "title": "Save every frame you like",
+        "caption": "Tap Grab This Frame as often as you want."
+      },
+      {
+        "alt": "Frame Preview screen zooming into a grabbed video frame",
+        "title": "Choose only the best",
+        "caption": "Preview and zoom before you export."
+      },
+      {
+        "alt": "Export Frames sheet with JPEG, PNG and HEIC formats and Files, ZIP Archive and PDF options",
+        "title": "Pick the output format",
+        "caption": "JPEG, PNG or HEIC — as files, ZIP or PDF."
+      },
+      {
+        "alt": "iOS share sheet exporting a ZIP archive of video frames with Save to Files",
+        "title": "Save and share anywhere",
+        "caption": "Save to Files or share from the iOS share sheet."
+      },
+      {
+        "alt": "Projects list showing saved videos with duration, frame count, size and fps",
+        "title": "Keep multiple projects",
+        "caption": "Reopen any clip later and keep grabbing."
       }
     ]
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "cta": "Get the app — it's a free download"
   },
   "demo": {
-    "title": "How to Extract a Frame from Video on iPhone",
-    "subtitle": "Use these simple steps to save perfect still photos from your clips",
-    "placeholder_line1": "📱 Demo video coming soon",
-    "placeholder_line2": "Step 1: Open from Photos > Step 2: Scrub to moment > Step 3: Grab frame(s) > Step 4: Export as JPG/PNG/HEIC"
+    "title": "How to extract a frame from a video on iPhone",
+    "subtitle": "Four steps, about a minute, nothing to learn."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Open from Photos",
-        "text": "Share a video from Photos to {{app_info.name}}, or open the app first and select your clip."
+        "name": "Share a video from Photos",
+        "text": "Open the clip in Photos, tap Share and pick the app in the share sheet — or open the app and choose a video. It opens straight into frame-grab mode."
       },
       {
-        "name": "Find the Exact Moment",
-        "text": "Use the scrub control to move frame by frame and stop on the still image you want."
+        "name": "Scrub and grab",
+        "text": "Drag along the filmstrip to the exact moment and tap Grab This Frame. Repeat for every moment you want to keep."
       },
       {
-        "name": "Grab One or More Frames",
-        "text": "Capture a single frame or mark multiple moments for batch export."
+        "name": "Keep only the best",
+        "text": "Preview your grabbed frames full screen, zoom in to check sharpness, and delete the misses."
       },
       {
-        "name": "Export and Save",
-        "text": "Save your extracted stills as JPG, PNG, or HEIC, or export as ZIP or PDF."
+        "name": "Export and share",
+        "text": "Choose JPEG, PNG or HEIC, then save as separate images, one ZIP archive or a PDF — and share them anywhere."
       }
     ]
   },
-  "testimonials": {
-    "rating_text": "5.0 rating from App Store users",
-    "items": [
-      {
-        "text": "\"Exactly what I needed to pull a perfect still from a family video. Fast and simple.\"",
-        "author": "App Store user",
-        "rating": "5 stars",
-        "verified": true
-      },
-      {
-        "text": "\"The frame picker is precise and exporting multiple images is very convenient.\"",
-        "author": "App Store user",
-        "rating": "5 stars",
-        "verified": true
-      },
-      {
-        "text": "\"Great workflow from the Photos share menu. No complicated editor needed.\"",
-        "author": "App Store user",
-        "rating": "5 stars",
-        "verified": true
-      }
-    ]
+  "guides_section": {
+    "eyebrow": "Guides",
+    "title": "Video-to-photo guides for iPhone",
+    "subtitle": "Clear answers to the questions people search most — and the fastest way to do each one on your iPhone.",
+    "read_more": "Read the guide",
+    "all_text": "Browse all guides"
   },
   "faq": {
-    "title": "Video-to-Photo FAQ for iPhone",
+    "eyebrow": "FAQ",
+    "title": "Video to photo on iPhone: FAQ",
+    "learn_more": "Learn more",
     "items": [
       {
-        "question": "How do I extract a frame from a video on iPhone?",
-        "answer": "Open a clip in Video To Photo - Grab Frame, scrub to the exact moment, and capture the still. Then export it as JPG, PNG, or HEIC."
+        "question": "How do I get a picture from a video on iPhone?",
+        "answer": "On iOS 27 and later, pause the video in Photos, tap ••• and choose Save Video Frame as Photo to save that one frame. For older iOS, or to grab many frames at once and export JPG, PNG, HEIC, ZIP or PDF, use Video To Photo – Grab Frame.",
+        "url": "/guides/how-to-get-a-picture-from-a-video-on-iphone/"
       },
       {
-        "question": "Can I export more than one frame at a time?",
-        "answer": "Yes. You can select multiple moments and export several frames in one batch."
+        "question": "How do I screenshot a video on iPhone without losing quality?",
+        "answer": "A screenshot only captures your screen, with player controls and black bars, so a 4K frame shrinks to screen size. Instead, extract the frame from the video file itself: grab it in Video To Photo – Grab Frame and export as PNG or HEIC to keep full quality.",
+        "url": "/guides/screenshot-video-iphone-without-losing-quality/"
       },
       {
-        "question": "Which formats can I export?",
-        "answer": "The app supports image export as JPG, PNG, and HEIC. You can also export results as ZIP or PDF."
+        "question": "How do I save a single frame from a video to my Photos?",
+        "answer": "On iOS 27, Photos can do it: pause, tap ••• and choose Save Video Frame as Photo. With Video To Photo – Grab Frame you can do it on any supported iOS and save several frames at once: grab them, tap Export and save to Photos or Files. The original video is not changed.",
+        "url": "/guides/save-frame-from-video-iphone/"
       },
       {
-        "question": "Does the app upload my videos?",
-        "answer": "No. Frame extraction runs on-device, so your videos and generated images stay on your iPhone."
+        "question": "What is the best frame grabber app for iPhone?",
+        "answer": "Look for four things: frame-accurate scrubbing, export at the video's own resolution, on-device processing and batch export. Video To Photo – Grab Frame does all four and adds JPG, PNG and HEIC plus ZIP and PDF export.",
+        "url": "/guides/frame-grabber-app-iphone/"
       },
       {
-        "question": "Can I resume work later?",
-        "answer": "Yes. You can save sessions as projects and reopen them later."
+        "question": "Can I extract multiple frames from a video at once?",
+        "answer": "Yes. In Video To Photo – Grab Frame you can tap Grab This Frame as many times as you like in one clip, review them together, and export them all at once as separate images, a ZIP archive or a PDF.",
+        "url": "/guides/extract-multiple-frames-from-video/"
       },
       {
-        "question": "Is Video To Photo - Grab Frame free?",
-        "answer": "The app is free to download and includes in-app purchases for advanced usage."
+        "question": "How do I go frame by frame through a video on iPhone?",
+        "answer": "The Photos player is built for watching, not precise stepping. In Video To Photo – Grab Frame, drag slowly along the filmstrip and watch the large preview to land on the exact moment, then grab it.",
+        "url": "/guides/frame-by-frame-video-iphone/"
       },
       {
-        "question": "Who is this app for?",
-        "answer": "It is useful for content creators, educators, and anyone who wants to capture a specific moment from video as a still photo."
+        "question": "How do I get a clear, high-quality picture from a video?",
+        "answer": "Pick a frame with little motion, prefer 4K or 60 fps clips, and extract the frame from the file rather than screenshotting. Export as PNG or HEIC to avoid extra compression. Grab a few frames around the moment and keep the sharpest.",
+        "url": "/guides/clear-high-quality-picture-from-video/"
       },
       {
-        "question": "Is there a photo extractor from video app for iPhone?",
-        "answer": "Yes. Video To Photo - Grab Frame works as a photo extractor from video: open a clip, scrub to any moment, and save still images as JPG, PNG, or HEIC—all on your iPhone."
+        "question": "Can I convert a video to JPG or PNG on iPhone?",
+        "answer": "Yes. Video To Photo – Grab Frame exports any frame you grab as JPG, PNG or HEIC. JPG is best for sharing, PNG for lossless editing, and HEIC for the smallest files at high quality on Apple devices.",
+        "url": "/guides/video-to-jpg-png-heic-iphone/"
+      },
+      {
+        "question": "How do I turn video frames into a PDF?",
+        "answer": "Grab the frames you need in Video To Photo – Grab Frame, choose PDF as the save format and export. You get a single PDF of your frames — handy for storyboards, lesson notes and reports.",
+        "url": "/guides/video-frames-to-pdf/"
+      },
+      {
+        "question": "How do I make a thumbnail from a video on iPhone?",
+        "answer": "Scrub to an expressive, sharp moment, grab the frame and export it as PNG or high-quality JPG. Then add text in your favourite editor and upload it as a custom thumbnail on YouTube, TikTok or Instagram.",
+        "url": "/guides/make-thumbnail-from-video-iphone/"
       }
     ]
   },
+  "cta": {
+    "title": "Your best photo is hiding in a video.",
+    "text": "Get it out in seconds — full quality, on your iPhone, without uploading anything."
+  },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Photo extractor from video",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Video to Photo – frame grabber for iPhone",
     "application_category": "PhotoApplication",
     "application_sub_category": "Photo & Video"
   },
@@ -199,79 +238,14 @@
     "privacy_text": "Privacy Policy",
     "terms_text": "Terms of Use",
     "support_text": "Support",
-    "developer_info": "Developed by Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. All rights reserved."
+    "developer_info": "Made by Vladimir Ivakhnenko (c-basso). Frames are processed on your device — nothing is uploaded.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Guides"
+  },
+  "sticky": {
+    "text": "Grab HD photos from any video"
   },
   "floating_cta": {
     "text": "📱 Grab perfect frames from video on iPhone"
-  },
-  "seo_chapter": {
-    "title": "How to Turn Video into Photos on iPhone",
-    "subtitle": "Photo extractor from video—extract exact still moments without uploading your clips",
-    "intro": "Video To Photo - Grab Frame is an iPhone app in the Photo & Video category that extracts still images from video. According to the App Store listing, the app has a 5.0 rating from 8 ratings, a 42.9 MB size, and supports export to JPG, PNG, and HEIC. Processing is done on-device, so videos do not need to be uploaded to external servers.",
-    "sections": [
-      {
-        "heading": "Step-by-step frame extraction",
-        "body": "Share a video from Photos to the app, scrub to the moment you want, and capture the frame. You can repeat this for multiple points in the clip, then export as JPG, PNG, or HEIC. For grouped delivery, exports are also available as ZIP or PDF."
-      },
-      {
-        "heading": "What makes it useful",
-        "body": "Video To Photo - Grab Frame focuses on one job: turning video moments into still images quickly with precise control. Compared with browser-based frame tools, it avoids upload waiting time and keeps source videos on-device. It includes batch export and project save/reopen for larger workflows."
-      }
-    ],
-    "bullets_title": "Common Use Cases",
-    "bullets": [
-      "Create social thumbnails from video clips",
-      "Save memorable expressions or gestures as photos",
-      "Build storyboards from tutorial or demo footage",
-      "Capture reference stills for design or editing tasks"
-    ],
-    "conclusion": "Video To Photo - Grab Frame gives iPhone users a focused photo extractor from video with precise control, flexible export formats, and on-device privacy. Last verified against App Store product details on June 16, 2026.",
-    "related_links_title": "Related guides",
-    "related_links": [
-      {
-        "url": "/blog/extract-frame-from-video-iphone/",
-        "text": "How to extract a frame from video on iPhone"
-      },
-      {
-        "url": "/blog/heic-vs-jpg-exporting-frames/",
-        "text": "HEIC vs JPG when exporting frames from video"
-      },
-      {
-        "url": "/blog/best-apps-extract-frames-from-video/",
-        "text": "Best apps to extract frames from video on iPhone"
-      }
-    ]
-  },
-  "comparison": {
-    "title": "Video To Photo - Grab Frame vs Browser-Based Frame Extractors",
-    "intro": "Here is a factual comparison between Video To Photo - Grab Frame and typical browser-based frame extractor tools:",
-    "table": {
-      "feature": "Feature",
-      "online_converters": "Typical Browser Tools",
-      "this_app": "Video To Photo - Grab Frame",
-      "rows": [
-        {
-          "feature": "Privacy",
-          "online": "Usually requires video upload",
-          "app": "Frames are extracted directly on your iPhone"
-        },
-        {
-          "feature": "Precision",
-          "online": "Often limited control",
-          "app": "Scrub to exact frame-level moments"
-        },
-        {
-          "feature": "Output",
-          "online": "May offer only one format",
-          "app": "Exports JPG, PNG, and HEIC, plus ZIP/PDF options"
-        },
-        {
-          "feature": "Workflow",
-          "online": "Browser upload/download cycle",
-          "app": "Start from Photos Share Sheet and save instantly"
-        }
-      ]
-    }
   }
 }

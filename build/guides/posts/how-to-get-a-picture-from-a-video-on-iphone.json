@@ -1,0 +1,73 @@
+{
+  "slug": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "picture from a video on iPhone",
+  "secondary_keywords": [
+    "how to take a picture from a video on iphone",
+    "how to pull a picture from a video on iphone",
+    "how to make a video into a picture on iphone",
+    "can you take a picture from a video on iphone",
+    "how to get a still from a video on iphone"
+  ],
+  "title": "How to Get a Picture From a Video on iPhone (Full Quality)",
+  "description": "Get a picture from a video on iPhone: the iOS 27 Photos option, the screenshot trick, and how to save many frames as JPG, PNG or HEIC in one go.",
+  "h1": "How to get a picture from a video on iPhone",
+  "nav_title": "Picture from a video on iPhone",
+  "card_title": "How to get a picture from a video on iPhone",
+  "excerpt": "The three ways to pull a photo out of a video on iPhone — and the only one that keeps full quality.",
+  "lead": "You filmed the moment instead of photographing it. Every video is a stack of photos — here are the ways to get the one you want out of it on iPhone, and when each one makes sense.",
+  "quick_answer": "On iOS 27 or later, open the video in Photos, pause on the moment, tap ••• and choose Save Video Frame as Photo — it saves that one frame at the video's resolution. On older iOS, or when you want several frames, PNG, ZIP or PDF, use Video To Photo – Grab Frame: scrub, tap Grab This Frame for each moment and export them together.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>Can you take a picture from a video on iPhone?</h2><p>Yes. A video is simply 24, 30 or 60 still images per second, and getting one out as a photo is called <strong>extracting a frame</strong>. Which method is best depends on your iOS version and how many frames you need.</p><h2>Your options, compared</h2><table><thead><tr><th>Method</th><th>Quality</th><th>Limits</th><th>Best for</th></tr></thead><tbody><tr><td><strong>Photos → Save Video Frame as Photo</strong> (iOS 27+)</td><td>The video's own resolution, HEIF or JPG</td><td>One frame at a time; the photo is filed under the video's original date, not in Recents</td><td>A single quick still on iOS 27</td></tr><tr><td><strong>Screenshot</strong> a paused video</td><td>Screen resolution; controls or black bars often included</td><td>Hard to hit the exact moment</td><td>A throwaway reference on older iOS</td></tr><tr><td><strong>Live Photo</strong> → Make Key Photo</td><td>Full photo quality</td><td>Only for Live Photos, not videos</td><td>Changing the cover frame of a Live Photo</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Taken from the video file</td><td>Needs the app (iOS 18.6+)</td><td>Many frames per clip, PNG, ZIP or PDF export, older iOS versions</td></tr></tbody></table><h3>On iOS 27: the built-in way</h3><ol><li>Open the video in Photos, pause on the moment, tap the <strong>•••</strong> button and choose <strong>Save Video Frame as Photo</strong>.</li><li>The frame is saved to your library as a photo at the video's resolution.</li><li>Look for it under the video's original date — it inherits the video's date and location, so it won't appear at the top of Recents.</li></ol><p>That's perfect for one frame. It gets slow when you want ten moments from the same clip, need PNG for editing, or want to hand someone a ZIP or PDF of frames.</p><h3>Why a screenshot isn't the same as a photo</h3><p>On iOS 26 and earlier, a screenshot is the usual workaround. It saves what's on the display, so a landscape 4K clip viewed on a portrait screen fills only a narrow strip, and you have to crop out controls and pause at exactly the right instant.</p>",
+  "steps_title": "How to get several pictures from a video with Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Share the video to the app",
+      "text": "Open the video in Photos, tap Share and pick the app in the share sheet. You can also open Video To Photo – Grab Frame first and choose a clip from your library.",
+      "shot": 0
+    },
+    {
+      "name": "Scrub to the moment and grab it",
+      "text": "Drag along the filmstrip until the preview shows the exact moment, then tap Grab This Frame. Grab a few neighbouring frames if the subject is moving.",
+      "shot": 1
+    },
+    {
+      "name": "Check the frame",
+      "text": "Open the preview, zoom in on faces or text, and delete any frame that's blurry. Keep the sharpest one.",
+      "shot": 2
+    },
+    {
+      "name": "Export as a photo",
+      "text": "Choose JPEG, PNG or HEIC and export. Save the image to Photos or Files, or share it straight to Messages, Instagram or email.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tips for a better picture from your video</h2><ul><li><strong>Look for the pause in the action.</strong> The top of a jump, the moment before a smile fades — frames where movement slows are the sharpest.</li><li><strong>Grab three frames, keep one.</strong> Neighbouring frames can look identical until you zoom in. Grab a few and compare in the preview.</li><li><strong>Shoot in 4K or 60 fps when you can.</strong> More pixels and shorter exposure per frame mean crisper stills later. See <a href=\"/guides/clear-high-quality-picture-from-video/\">how to get a clear picture from a video</a>.</li><li><strong>Pick the right format.</strong> JPG to share, PNG to edit, HEIC to save space. More in <a href=\"/guides/video-to-jpg-png-heic-iphone/\">video to JPG, PNG or HEIC</a>.</li></ul><h2>What if I shot a Live Photo instead?</h2><p>Live Photos already contain a short video. Open the photo in Photos, tap <strong>Edit</strong>, tap the Live Photo button, move the white frame along the strip and tap <strong>Make Key Photo</strong>. That swaps which frame is shown; if you need several different stills, a frame grabber is quicker. Our blog explains <a href=\"/blog/convert-live-photos-to-still-images/\">how to convert Live Photos to still images</a>.</p><h2>Does it change or upload my video?</h2><p>No. Video To Photo – Grab Frame works on a copy inside the app and processes everything on your iPhone. Your original video stays exactly as it was in Photos, and nothing is sent to a server. For the general background on frame extraction, see <a href=\"/blog/save-still-image-from-video/\">how to save a still image from a video</a>.</p>",
+  "faq": [
+    {
+      "q": "Is there a built-in way to get a picture from a video on iPhone?",
+      "a": "Yes, on iOS 27 and later: pause the video in Photos, tap the ••• button and choose Save Video Frame as Photo. It saves one frame at a time as HEIF or JPG. On iOS 26 and earlier there's no built-in option besides taking a screenshot."
+    },
+    {
+      "q": "Where does the saved frame go on iOS 27?",
+      "a": "Into your Photos library, but it keeps the video's original date and location, so it's sorted next to the video rather than at the top of Recents."
+    },
+    {
+      "q": "Will the picture be the same quality as the video?",
+      "a": "Yes, as long as you save the frame itself rather than a screenshot — both the iOS 27 Photos option and Video To Photo – Grab Frame read the frame from the video file. Fast motion can still show blur, so pick a still moment."
+    },
+    {
+      "q": "Can I get several pictures from one video?",
+      "a": "Yes. Tap Grab This Frame for every moment you want, then export them together as separate images, a ZIP archive or a PDF."
+    },
+    {
+      "q": "Does this work on older videos in my library?",
+      "a": "Yes. Any video in your Photos library or Files can be opened, including clips you received in Messages or AirDrop and saved."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-without-losing-quality",
+    "save-frame-from-video-iphone",
+    "clear-high-quality-picture-from-video"
+  ]
+}

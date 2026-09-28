@@ -1,0 +1,69 @@
+{
+  "slug": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "save frame from video iPhone",
+  "secondary_keywords": [
+    "how to save a frame from a video on iphone",
+    "export frame from video iphone",
+    "how to save a still image from a video on iphone",
+    "how to save a single frame from a video on iphone",
+    "save frame from video as photo iphone"
+  ],
+  "title": "How to Save a Frame From a Video on iPhone to Photos",
+  "description": "Save one frame from any iPhone video as a photo. Pick the exact frame, export it as JPG, PNG or HEIC, and save it to your Photos library or Files.",
+  "h1": "How to save a frame from a video on iPhone",
+  "nav_title": "Save a frame from a video",
+  "card_title": "Save a single frame from a video to Photos",
+  "excerpt": "Export one exact frame from a video and put it in your Photos library or Files — without touching the original clip.",
+  "lead": "You know exactly which frame you want. You just need it saved as a normal photo next to the rest of your pictures. Here's the cleanest way to export it on iPhone.",
+  "quick_answer": "On iOS 27 and later: open the video in Photos, pause, tap ••• and choose Save Video Frame as Photo. On older iOS, or to save several frames, PNG, a ZIP or a PDF: share the video to Video To Photo – Grab Frame, tap Grab This Frame, then Export and save to Photos or Files.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>Option 1: the built-in way on iOS 27</h2><ol><li>Open the video in Photos and pause on the frame (drag the timeline for precision).</li><li>Tap the <strong>•••</strong> button in the top-right corner.</li><li>Choose <strong>Save Video Frame as Photo</strong>.</li></ol><p>The frame is saved at the video's resolution as HEIF or JPG (per your camera format setting). Two things to know: it saves <strong>one frame per tap</strong>, and the new photo keeps the <strong>video's original date</strong>, so you'll find it next to the video rather than at the top of Recents.</p><h2>Option 2: when you need more than one frame, or you're on iOS 26 or earlier</h2><p>Older iOS versions can't export a frame at all — the workaround is a screenshot, which saves your screen rather than the frame (see <a href=\"/guides/screenshot-video-iphone-without-losing-quality/\">why video screenshots lose quality</a>). And even on iOS 27, a frame grabber is faster when you want a set of frames, PNG files, or a ZIP or PDF to send.</p>",
+  "steps_title": "How to save a frame from a video on iPhone",
+  "steps": [
+    {
+      "name": "Share the clip from Photos",
+      "text": "Open the video, tap Share and pick the app in the share sheet. It opens straight into frame-grab mode for that clip.",
+      "shot": 0
+    },
+    {
+      "name": "Find the frame and grab it",
+      "text": "Drag along the filmstrip to the exact frame and tap Grab This Frame. The counter shows how many frames you've grabbed.",
+      "shot": 1
+    },
+    {
+      "name": "Choose the format",
+      "text": "Tap Export. Pick JPEG for sharing, PNG for lossless quality or HEIC for small, high-quality files. Leave the save format on Files for a normal image.",
+      "shot": 3
+    },
+    {
+      "name": "Save to Photos or Files",
+      "text": "In the share sheet, save the image to your Photos library, choose Save to Files, or send it straight to a chat or email.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Where does the saved frame go?</h2><ul><li><strong>Photos library</strong> — appears in Recents like any other photo, ready for editing, sharing or printing.</li><li><strong>Files</strong> — pick an iCloud Drive or On My iPhone folder; handy for work projects.</li><li><strong>Any app</strong> — the share sheet can send it directly to Messages, Mail, Instagram and more.</li></ul><h2>Saving several frames at once</h2><p>Grab every frame you want before exporting. You can export them together as separate images, bundle them into one <strong>ZIP archive</strong>, or combine them into a <strong>PDF</strong>. See <a href=\"/guides/extract-multiple-frames-from-video/\">how to extract multiple frames from a video</a>.</p><h2>Come back later</h2><p>Each clip you open is kept as a project, so you can return tomorrow and save more frames without searching for the video again.</p><p>For a broader walkthrough, our blog has <a href=\"/blog/extract-frame-from-video-iphone/\">how to extract a frame from video on iPhone</a>.</p>",
+  "faq": [
+    {
+      "q": "Can the iPhone Photos app save a frame from a video?",
+      "a": "Yes, from iOS 27: pause the video, tap ••• and choose Save Video Frame as Photo. It saves one frame at a time as HEIF or JPG. Earlier iOS versions have no built-in option besides a screenshot."
+    },
+    {
+      "q": "Does saving a frame change the original video?",
+      "a": "No. The app reads the video and writes a new image file. Your video stays exactly as it was in Photos."
+    },
+    {
+      "q": "Can I save the frame straight to my camera roll?",
+      "a": "Yes. After exporting, choose the option to save the image in the share sheet and it appears in your Photos library."
+    },
+    {
+      "q": "Does it work offline?",
+      "a": "Yes. Frames are extracted on your iPhone, so it works without a connection and nothing is uploaded."
+    }
+  ],
+  "related": [
+    "how-to-get-a-picture-from-a-video-on-iphone",
+    "extract-multiple-frames-from-video",
+    "video-to-jpg-png-heic-iphone"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "extract multiple frames from a video",
+  "secondary_keywords": [
+    "how to extract all frames from a video",
+    "how to get all frames from a video",
+    "extract all frames from video iphone",
+    "extract images from video frame by frame",
+    "batch export frames from video"
+  ],
+  "title": "How to Extract Multiple Frames From a Video on iPhone",
+  "description": "Extract many frames from one video on iPhone in a single pass — no ffmpeg or computer. Grab every moment you need and export them as images, one ZIP or a PDF.",
+  "h1": "How to extract multiple frames from a video (on your iPhone)",
+  "nav_title": "Extract multiple frames",
+  "card_title": "Extract multiple frames from one video",
+  "excerpt": "Grab a whole sequence of stills from one clip and export them together — as images, a ZIP archive or a PDF.",
+  "lead": "Storyboards, sports sequences, before-and-after shots, reaction sets — sometimes one frame isn't enough. Here's how to pull out as many frames as you need in one go, right on your iPhone.",
+  "quick_answer": "Open the video in Video To Photo – Grab Frame and tap Grab This Frame at every moment you want. Review the set, delete the misses, then export them all at once as separate JPG, PNG or HEIC images, a single ZIP archive, or a single PDF.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>Do you need <em>all</em> frames, or the right ones?</h2><p>A 30-second clip at 30 fps is 900 frames. Exporting every single one (the desktop approach with tools like ffmpeg or VLC) leaves you with hundreds of near-identical files to sort through. On a phone, it's almost always faster to <strong>pick the frames that matter</strong> and export just those.</p><table><thead><tr><th>Goal</th><th>Best approach</th></tr></thead><tbody><tr><td>Storyboard or lesson steps</td><td>Grab one frame per scene or step</td></tr><tr><td>Sports / motion sequence</td><td>Grab frames at even gaps through the movement</td></tr><tr><td>Find the perfect shot</td><td>Grab 3–5 neighbouring frames, keep the sharpest</td></tr><tr><td>Every frame for animation or analysis</td><td>Desktop tools (ffmpeg) are better suited</td></tr></tbody></table>",
+  "steps_title": "How to extract multiple frames from a video on iPhone",
+  "steps": [
+    {
+      "name": "Open the clip",
+      "text": "Share the video from Photos to the app, or open Video To Photo – Grab Frame and pick it.",
+      "shot": 0
+    },
+    {
+      "name": "Grab every moment you need",
+      "text": "Scrub along the filmstrip and tap Grab This Frame at each moment. The tray fills up and the counter shows how many frames you have.",
+      "shot": 1
+    },
+    {
+      "name": "Review the set",
+      "text": "Preview frames full screen, zoom to check focus, and remove duplicates or blurry ones.",
+      "shot": 2
+    },
+    {
+      "name": "Export them together",
+      "text": "Pick JPEG, PNG or HEIC, then choose Files for separate images, ZIP Archive for one download, or PDF for a single document.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF or separate files?</h2><ul><li><strong>Separate files</strong> — best when you'll edit or post frames individually.</li><li><strong>ZIP archive</strong> — one tidy file to AirDrop, email or upload to a shared drive. The recipient unzips and gets every frame.</li><li><strong>PDF</strong> — your selected frames in one document. Great for storyboards, class notes and client reviews. See <a href=\"/guides/video-frames-to-pdf/\">turning video frames into a PDF</a>.</li></ul><h2>Tips for sequences</h2><ul><li>For a motion sequence, grab frames at roughly even gaps so the movement reads smoothly.</li><li>Use PNG if you'll combine frames into a collage or composite later — it avoids repeated JPEG compression.</li><li>Save the project. You can reopen the clip later to add frames you missed.</li></ul>",
+  "faq": [
+    {
+      "q": "How many frames can I grab from one video?",
+      "a": "Grab as many moments as you need — tap Grab This Frame for each one — then export the whole set together. Larger sets simply take a little longer to export."
+    },
+    {
+      "q": "Can I extract every single frame automatically?",
+      "a": "Video To Photo – Grab Frame is designed for choosing frames. If you truly need every frame for animation or analysis, a desktop tool such as ffmpeg is the better fit."
+    },
+    {
+      "q": "How do I send lots of frames at once?",
+      "a": "Export as a ZIP archive and share the single file via AirDrop, Mail or Files. Or export a PDF so the frames stay in order."
+    }
+  ],
+  "related": [
+    "video-frames-to-pdf",
+    "frame-by-frame-video-iphone",
+    "save-frame-from-video-iphone"
+  ]
+}

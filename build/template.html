@@ -2,33 +2,18 @@
 <html lang="{{meta.lang}}" dir="{{meta.text_direction}}">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>{{meta.title}}</title>
     <meta name="description" content="{{meta.description}}">
     <meta name="author" content="{{meta.author}}">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-    <meta name="language" content="{{meta.lang}}">
-    <meta name="revisit-after" content="7 days">
-    <meta name="distribution" content="global">
-    <meta name="rating" content="general">
-    <meta name="geo.region" content="{{meta.geo_region}}">
-    <meta name="geo.placename" content="{{meta.geo_placename}}">
-    <meta name="format-detection" content="telephone=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="{{app_info.name}}">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#667eea" media="(prefers-color-scheme: light)">
-    <meta name="theme-color" content="#4a5568" media="(prefers-color-scheme: dark)">
-    <meta name="color-scheme" content="light dark">
     <meta name="application-name" content="{{app_info.name}}">
-
-    <!-- Site verification: Bing via build/constants.js (MS_VALIDATE); Google Search Console via DNS (no meta tag) -->
+    <meta name="apple-mobile-web-app-title" content="{{app_info.name}}">
     {{#if meta.ms_validate}}
     <meta name="msvalidate.01" content="{{meta.ms_validate}}" />
     {{/if}}
 
-    <!-- Open Graph / Facebook -->
+    <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{meta.og_url}}">
     <meta property="og:title" content="{{meta.og_title}}">
@@ -38,9 +23,10 @@
     <meta property="og:image" content="{{meta.og_image}}">
     <meta property="og:image:width" content="{{meta.og_image_width}}">
     <meta property="og:image:height" content="{{meta.og_image_height}}">
+    <meta property="og:image:alt" content="{{meta.og_title}}">
     <meta property="og:logo" content="{{meta.og_logo}}">
 
-    <!-- Twitter / X Cards — name="twitter:*" per https://developer.x.com/en/docs/twitter-for-websites/cards/overview/markup -->
+    <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:url" content="{{meta.twitter_url}}">
     <meta name="twitter:title" content="{{meta.twitter_title}}">
@@ -49,67 +35,42 @@
     <meta name="twitter:image:width" content="{{meta.og_image_width}}">
     <meta name="twitter:image:height" content="{{meta.og_image_height}}">
 
-    <!-- App Store Meta -->
-    <meta name="apple-itunes-app" content="app-id={{meta.app_store_id}}">
-
-    <!-- Canonical URL -->
     <link rel="canonical" href="{{meta.canonical}}">
     {{#each meta.alternate_languages_head as |alt|}}
     <link rel="alternate" hreflang="{{alt.hreflang}}" href="{{alt.url}}" />
     {{/each}}
     <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
-    <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt">
-    <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-    <link rel="icon" type="image/svg+xml" href="/img/favicon.svg">
-    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
-    <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-    <link rel="mask-icon" href="/img/logo.webp" color="#667eea">
-    <link rel="manifest" href="/site.webmanifest">
-    
-    <!-- WebPage Structured Data -->
+{{> head-common}}
+    <link rel="preload" as="image" href="/screenshots/v2/hero-grab-720.webp?v=2" fetchpriority="high">
+
+    <!-- WebPage -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "{{meta.title}}",
-        "description": "{{meta.description}}",
+        "name": {{meta.title | json}},
+        "description": {{meta.description | json}},
         "url": "{{meta.canonical}}",
         "dateModified": "{{meta.date_modified_iso}}",
         "inLanguage": "{{meta.lang}}",
-        "isPartOf": {
-            "@type": "WebSite",
-            "name": "{{app_info.name}}",
-            "url": "{{meta.site_url}}"
-        },
-        "about": {
-            "@type": "SoftwareApplication",
-            "name": "{{app_info.name}}",
-            "description": "{{meta.description}}",
-            "applicationCategory": "{{app_info.application_category}}"
-        },
-        "breadcrumb": {
-            "@type": "BreadcrumbList",
-            "itemListElement": [{
-                "@type": "ListItem",
-                "position": 1,
-                "name": "{{meta.title}}",
-                "item": "{{meta.canonical}}"
-            }]
-        }
+        "isPartOf": { "@type": "WebSite", "name": "{{app_info.name}}", "url": "{{meta.site_url}}" },
+        "about": { "@type": "SoftwareApplication", "name": "{{app_info.name}}", "applicationCategory": "{{app_info.application_category}}" },
+        "primaryImageOfPage": "{{meta.og_image}}"
     }
     </script>
-    
-    <!-- WebSite Structured Data -->
+
+    <!-- WebSite -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "WebSite",
         "name": "{{app_info.name}}",
-        "url": "{{meta.site_url}}"
+        "url": "{{meta.site_url}}",
+        "inLanguage": "{{meta.lang}}"
     }
     </script>
-    
-    <!-- Organization Structured Data -->
+
+    <!-- Organization -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -117,64 +78,23 @@
         "name": "{{app_info.publisher}}",
         "url": "{{meta.site_url}}",
         "logo": "{{meta.og_logo}}",
-        "sameAs": [
-            "{{hero.cta_url}}"
-        ]
+        "sameAs": ["{{site.cta_url}}"]
     }
     </script>
-    
-    <!-- HowTo Structured Data -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "HowTo",
-        "name": "{{demo.title}}",
-        "description": "{{demo.subtitle}}",
-        "image": "{{meta.og_image}}",
-        "totalTime": "PT2M",
-        "estimatedCost": {
-            "@type": "MonetaryAmount",
-            "currency": "{{app_info.price_currency}}",
-            "value": "0"
-        },
-        "tool": [
-            {
-                "@type": "SoftwareApplication",
-                "name": "{{app_info.name}}",
-                "operatingSystem": "iOS",
-                "applicationCategory": "{{app_info.application_category}}",
-                "offers": {
-                    "@type": "Offer",
-                    "price": "0",
-                    "priceCurrency": "{{app_info.price_currency}}"
-                }
-            }
-        ],
-        "step": [
-            {{#each howto_steps.items as |step|}}
-            {
-                "@type": "HowToStep",
-                "name": "{{step.name}}",
-                "text": "{{step.text}}",
-                "image": "{{meta.og_image}}"
-            },
-            {{/each}}
-        ]
-    }
-    </script>
-    
-    <!-- SoftwareApplication Structured Data -->
+
+    <!-- SoftwareApplication -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "SoftwareApplication",
         "name": "{{app_info.name}}",
-        "alternateName": "{{app_info.alternate_name}}",
-        "description": "{{meta.description}}",
+        "alternateName": {{app_info.alternate_name | json}},
+        "description": {{meta.description | json}},
         "url": "{{meta.canonical}}",
+        "image": "{{meta.og_logo}}",
         "applicationCategory": "{{app_info.application_category}}",
         "applicationSubCategory": "{{app_info.application_sub_category}}",
-        "operatingSystem": ["iOS"],
+        "operatingSystem": "iOS {{app_info.min_ios}} or later",
         "offers": {
             "@type": "Offer",
             "price": "0",
@@ -188,32 +108,49 @@
             "bestRating": {{schema_rating.best_rating}},
             "worstRating": {{schema_rating.worst_rating}}
         },
-        "author": {
-            "@type": "Person",
-            "name": "{{meta.author}}"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "{{app_info.publisher}}"
-        },
-        "screenshot": "{{meta.og_image}}",
-        "downloadUrl": "{{hero.cta_url}}",
+        "author": { "@type": "Person", "name": "{{meta.author}}" },
+        "publisher": { "@type": "Organization", "name": "{{app_info.publisher}}" },
+        "screenshot": [
+            {{#each shots as |shot|}}
+            "{{meta.site_url}}{{shot.src_780_rel}}",
+            {{/each}}
+        ],
+        "downloadUrl": "{{site.cta_url}}",
+        "installUrl": "{{site.cta_url}}",
         "softwareVersion": "{{app_info.version}}",
         "fileSize": "{{app_info.file_size}}",
-        "installUrl": "{{hero.cta_url}}",
         "dateModified": "{{meta.date_modified_iso}}",
         "featureList": [
-            "{{features.items.0.title}}",
-            "{{features.items.1.title}}",
-            "{{features.items.2.title}}",
-            "{{features.items.3.title}}",
-            "{{features.items.4.title}}",
-            "{{features.items.5.title}}"
+            {{#each facts as |item|}}
+            {{item.title | json}},
+            {{/each}}
         ]
     }
     </script>
-    
-    <!-- FAQPage Structured Data -->
+
+    <!-- HowTo -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": {{demo.title | json}},
+        "description": {{demo.subtitle | json}},
+        "totalTime": "PT1M",
+        "tool": [{ "@type": "HowToTool", "name": "{{app_info.name}}" }],
+        "step": [
+            {{#each howto_steps.items as |step|}}
+            {
+                "@type": "HowToStep",
+                "name": {{step.name | json}},
+                "text": {{step.text | json}},
+                "image": "{{meta.site_url}}{{step.image_rel}}"
+            },
+            {{/each}}
+        ]
+    }
+    </script>
+
+    <!-- FAQPage -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
@@ -222,390 +159,246 @@
             {{#each faq.items as |item|}}
             {
                 "@type": "Question",
-                "name": "{{item.question}}",
-                "acceptedAnswer": {
-                    "@type": "Answer",
-                    "text": "{{item.answer}}"
-                }
+                "name": {{item.question | json}},
+                "acceptedAnswer": { "@type": "Answer", "text": {{item.answer | json}} }
             },
             {{/each}}
         ]
     }
     </script>
-    
-    <!-- BreadcrumbList Structured Data -->
+
+    <!-- BreadcrumbList -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
-        "itemListElement": [{
-            "@type": "ListItem",
-            "position": 1,
-            "name": "{{meta.title}}",
-            "item": "{{meta.canonical}}"
-        }]
+        "itemListElement": [{ "@type": "ListItem", "position": 1, "name": "{{app_info.name}}", "item": "{{meta.canonical}}" }]
     }
     </script>
-
-    <link rel="preload" href="/fonts/manrope-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="/fonts/fraunces-latin.woff2" as="font" type="font/woff2" crossorigin>
-    <link rel="preload" as="image" href="/img/bg.webp" fetchpriority="high">
-    <link rel="preload" as="image" href="/img/logo.webp" fetchpriority="high">
-
-    <link rel="stylesheet" href="/fonts/fonts.css?v={{meta.version}}">
-    <link rel="stylesheet" href="/style.css?v={{meta.version}}">
 </head>
 <body>
-    <main role="main">
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="container">
-            <div class="hero-layout">
-                <div class="hero-main">
-                    <a href="{{hero.cta_url}}" class="logo-link">
-                        <div class="logo">
-                            <img src="/img/logo.webp" alt="{{hero.logo_alt}}" width="300" height="300">
-                        </div>
+{{> header}}
+
+<main id="main">
+
+    <!-- ============ HERO ============ -->
+    <section class="hero" data-hero>
+        <div class="container hero-grid">
+            <div class="hero-copy">
+                <a class="hero-pill" href="{{site.cta_url}}" rel="noopener" data-cta="hero-pill">
+                    <img src="/img/app-icon-192.webp" alt="{{hero.logo_alt}}" width="24" height="24">
+                    <span>{{app_info.name}}</span>
+                    <span class="pill-sep" aria-hidden="true"></span>
+                    <span class="pill-rating"><span class="stars" aria-hidden="true">★</span> {{schema_rating.rating_value}}</span>
+                </a>
+                <h1>{{hero.title_html}}</h1>
+                <p class="lead">{{hero.subtitle}}</p>
+                <div class="hero-cta">
+                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="hero">
+                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="162" height="54" fetchpriority="high">
                     </a>
-                    <h1>{{hero.title}}</h1>
-                    <h2>{{hero.subtitle}}</h2>
-                    <p class="entity-definition">{{hero.entity_definition}}</p>
-                    <p class="subheadline">{{hero.subheadline}}</p>
-                    <div class="hero-updated-cta">
-                        <p class="last-updated-hero">{{last_updated.text}}</p>
-                        <a href="{{hero.cta_url}}" class="app-store-btn app-store-btn-hero-desktop">
-                            <img src="/img/download.svg" alt="{{hero.download_alt}}" width="260" height="87">
-                        </a>
+                    <div class="rating" aria-label="{{schema_rating.rating_value}} / 5">
+                        <span class="stars" aria-hidden="true">★★★★★</span>
+                        <span><b>{{schema_rating.rating_value}}</b> · {{schema_rating.rating_count}} {{labels.ratings}}</span>
                     </div>
-                    <a href="{{hero.cta_url}}" class="app-store-btn app-store-btn-mobile">
-                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="260" height="87">
+                </div>
+                {{#if hero.bullets}}
+                <ul class="hero-checks">
+                    {{#each hero.bullets as |item|}}<li>{{item}}</li>{{/each}}
+                </ul>
+                {{/if}}
+            </div>
+            <div class="hero-visual">
+                <div class="device">
+                    <img src="/screenshots/v2/hero-grab-720.webp?v=2" srcset="/screenshots/v2/hero-grab-360.webp?v=2 360w, /screenshots/v2/hero-grab-720.webp?v=2 720w" sizes="(min-width: 980px) 340px, 78vw" alt="{{shots.1.alt}}" width="720" height="1004" fetchpriority="high">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ DOWNLOAD ============ -->
+    <section class="download" id="download">
+        <div class="container">
+            <div class="download-card">
+                <div class="download-top">
+                    <div>
+                        <h2>{{download.title}}</h2>
+                        <p>{{hero.entity_definition}}</p>
+                    </div>
+                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="download">
+                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" loading="lazy">
                     </a>
                 </div>
-                <div class="hero-side">
-                    <div class="app-store-btn-desktop">
-                        <img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" class="qr-code">
-                        <p class="qr-text">{{hero.qr_text}}</p>
+                <div class="facts">
+                    {{#each facts as |item|}}
+                    <div class="fact">
+                        <span class="icon" aria-hidden="true">{{item.icon}}</span>
+                        <h3>{{item.title}}</h3>
+                        <p>{{item.description}}</p>
                     </div>
-                    <div class="phone-mockup" style="display: none;">
-                        <div class="phone-screen">
-                            {{hero.phone_text}}
-                        </div>
-                    </div>
+                    {{/each}}
                 </div>
+                {{#if download.meta}}
+                <p class="meta-row">
+                    {{#each download.meta as |item|}}<span>{{item.label}} <b>{{item.value}}</b></span>{{/each}}
+                </p>
+                {{/if}}
             </div>
         </div>
     </section>
 
-    <!-- Features Section -->
-    <section class="features">
+    <!-- ============ SCREENSHOTS ============ -->
+    <section class="section" id="screenshots" style="padding-top:0">
         <div class="container">
-            <h2 class="section-title">{{features.title}}</h2>
-            <div class="features-grid">
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.0.icon}}</div>
-                    <h3>{{features.items.0.title}}</h3>
-                    <p>{{features.items.0.description}}</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.1.icon}}</div>
-                    <h3>{{features.items.1.title}}</h3>
-                    <p>{{features.items.1.description}}</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.2.icon}}</div>
-                    <h3>{{features.items.2.title}}</h3>
-                    <p>{{features.items.2.description}}</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.3.icon}}</div>
-                    <h3>{{features.items.3.title}}</h3>
-                    <p>{{features.items.3.description}}</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.4.icon}}</div>
-                    <h3>{{features.items.4.title}}</h3>
-                    <p>{{features.items.4.description}}</p>
-                </div>
-                <div class="feature-card">
-                    <div class="feature-icon">{{features.items.5.icon}}</div>
-                    <h3>{{features.items.5.title}}</h3>
-                    <p>{{features.items.5.description}}</p>
-                </div>
+            {{#if screenshots.title}}
+            <div class="section-head">
+                {{#if screenshots.eyebrow}}<span class="eyebrow">{{screenshots.eyebrow}}</span>{{/if}}
+                <h2>{{screenshots.title}}</h2>
+                {{#if screenshots.subtitle}}<p>{{screenshots.subtitle}}</p>{{/if}}
             </div>
-        </div>
-    </section>
-
-    <!-- By the Numbers Section -->
-    <section class="by-the-numbers">
-        <div class="container">
-            <h2 class="section-title">{{by_the_numbers.title}}</h2>
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <div class="stat-number">{{by_the_numbers.stats.0.number}}</div>
-                    <div class="stat-label">{{by_the_numbers.stats.0.label}}</div>
-                    <div class="stat-detail">{{by_the_numbers.stats.0.detail}}</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">{{by_the_numbers.stats.1.number}}</div>
-                    <div class="stat-label">{{by_the_numbers.stats.1.label}}</div>
-                    <div class="stat-detail">{{by_the_numbers.stats.1.detail}}</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">{{by_the_numbers.stats.2.number}}</div>
-                    <div class="stat-label">{{by_the_numbers.stats.2.label}}</div>
-                    <div class="stat-detail">{{by_the_numbers.stats.2.detail}}</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">{{by_the_numbers.stats.3.number}}</div>
-                    <div class="stat-label">{{by_the_numbers.stats.3.label}}</div>
-                    <div class="stat-detail">{{by_the_numbers.stats.3.detail}}</div>
-                </div>
-            </div>
-            <p class="last-updated">{{last_updated.text}}</p>
-        </div>
-    </section>
-
-    <!-- SEO Chapter -->
-    <section class="seo-chapter">
-        <div class="container">
-            <h2 class="section-title">{{seo_chapter.title}}</h2>
-            <p class="subheadline">{{seo_chapter.subtitle}}</p>
-            <p>{{seo_chapter.intro}}</p>
-            <div class="seo-sections">
-                <div class="seo-section">
-                    <h3>{{seo_chapter.sections.0.heading}}</h3>
-                    <p>{{seo_chapter.sections.0.body}}</p>
-                </div>
-                <div class="seo-section">
-                    <h3>{{seo_chapter.sections.1.heading}}</h3>
-                    <p>{{seo_chapter.sections.1.body}}</p>
-                </div>
-            </div>
-            <h3>{{seo_chapter.bullets_title}}</h3>
-            <ul>
-                <li>{{seo_chapter.bullets.0}}</li>
-                <li>{{seo_chapter.bullets.1}}</li>
-                <li>{{seo_chapter.bullets.2}}</li>
-                <li>{{seo_chapter.bullets.3}}</li>
-            </ul>
-            <p>{{seo_chapter.conclusion}}</p>
-            {{#if seo_chapter.related_links}}
-            <h3>{{seo_chapter.related_links_title}}</h3>
-            <ul>
-                {{#each seo_chapter.related_links as |link|}}
-                <li><a href="{{link.url}}">{{link.text}}</a></li>
-                {{/each}}
-            </ul>
             {{/if}}
-            
-            <!-- Comparison Section -->
-            <div class="comparison-section">
-                <h3>{{comparison.title}}</h3>
-                <p>{{comparison.intro}}</p>
+            <div class="shots" tabindex="0" role="list">
+                {{#each shots as |shot|}}
+                <figure class="shot" role="listitem">
+                    <div class="phone">
+                        <img src="{{shot.src_390}}" srcset="{{shot.src_390}} 390w, {{shot.src_780}} 780w" sizes="(min-width: 1180px) 180px, (min-width: 640px) 250px, 62vw" alt="{{shot.alt}}" width="390" height="844" loading="lazy" decoding="async">
+                    </div>
+                    {{#if shot.title}}<figcaption><b>{{shot.title}}</b>{{shot.caption}}</figcaption>{{/if}}
+                </figure>
+                {{/each}}
+            </div>
+        </div>
+    </section>
+
+    <!-- ============ HOW IT WORKS ============ -->
+    <section class="section" id="how-it-works" style="padding-top:0">
+        <div class="container">
+            <div class="section-head">
+                {{#if how.eyebrow}}<span class="eyebrow">{{how.eyebrow}}</span>{{/if}}
+                <h2>{{demo.title}}</h2>
+                <p>{{demo.subtitle}}</p>
+            </div>
+            <ol class="steps" style="list-style:none">
+                {{#each howto_steps.items as |step|}}
+                <li class="step">
+                    <span class="step-num" aria-hidden="true">{{step.num}}</span>
+                    <h3>{{step.name}}</h3>
+                    <p>{{step.text}}</p>
+                    <div class="step-img"><img src="{{step.image}}" alt="{{step.image_alt}}" width="390" height="844" loading="lazy" decoding="async"></div>
+                </li>
+                {{/each}}
+            </ol>
+            {{#if how.cta}}
+            <p class="center"><a class="btn btn-primary" href="{{site.cta_url}}" rel="noopener" data-cta="how">{{how.cta}}</a></p>
+            {{/if}}
+        </div>
+    </section>
+
+    {{#if guides_section}}
+    <!-- ============ GUIDES ============ -->
+    <section class="section" id="guides" style="padding-top:0">
+        <div class="container">
+            <div class="section-head">
+                <span class="eyebrow">{{guides_section.eyebrow}}</span>
+                <h2>{{guides_section.title}}</h2>
+                <p>{{guides_section.subtitle}}</p>
+            </div>
+            <div class="guides-grid">
+                {{#each guides_section.items as |guide|}}
+                <a class="guide-card" href="{{guide.url}}">
+                    <span class="kw">{{guide.keyword}}</span>
+                    <h3>{{guide.card_title}}</h3>
+                    <p>{{guide.excerpt}}</p>
+                    <span class="more">{{guides_section.read_more}}</span>
+                </a>
+                {{/each}}
+            </div>
+            <p class="center"><a class="btn btn-ghost" href="{{site.guides_url}}">{{guides_section.all_text}}</a></p>
+        </div>
+    </section>
+    {{/if}}
+
+    {{#if show_seo_chapter}}
+    <!-- ============ MORE (locales without guides) ============ -->
+    <section class="section" id="more" style="padding-top:0">
+        <div class="container prose-block">
+            <div class="section-head">
+                <h2>{{seo_chapter.title}}</h2>
+                <p>{{seo_chapter.subtitle}}</p>
+            </div>
+            <p>{{seo_chapter.intro}}</p>
+            {{#each seo_chapter.sections as |section|}}
+            <h3>{{section.heading}}</h3>
+            <p>{{section.body}}</p>
+            {{/each}}
+            <h3>{{seo_chapter.bullets_title}}</h3>
+            <ul>{{#each seo_chapter.bullets as |item|}}<li>{{item}}</li>{{/each}}</ul>
+            <p>{{seo_chapter.conclusion}}</p>
+            {{#if comparison.title}}
+            <h3>{{comparison.title}}</h3>
+            <p>{{comparison.intro}}</p>
+            <div class="table-wrap">
                 <table class="comparison-table">
-                    <thead>
-                        <tr>
-                            <th>{{comparison.table.feature}}</th>
-                            <th>{{comparison.table.online_converters}}</th>
-                            <th>{{comparison.table.this_app}}</th>
-                        </tr>
-                    </thead>
+                    <thead><tr><th>{{comparison.table.feature}}</th><th>{{comparison.table.online_converters}}</th><th>{{comparison.table.this_app}}</th></tr></thead>
                     <tbody>
-                        <tr>
-                            <td>{{comparison.table.rows.0.feature}}</td>
-                            <td>{{comparison.table.rows.0.online}}</td>
-                            <td>{{comparison.table.rows.0.app}}</td>
-                        </tr>
-                        <tr>
-                            <td>{{comparison.table.rows.1.feature}}</td>
-                            <td>{{comparison.table.rows.1.online}}</td>
-                            <td>{{comparison.table.rows.1.app}}</td>
-                        </tr>
-                        <tr>
-                            <td>{{comparison.table.rows.2.feature}}</td>
-                            <td>{{comparison.table.rows.2.online}}</td>
-                            <td>{{comparison.table.rows.2.app}}</td>
-                        </tr>
-                        <tr>
-                            <td>{{comparison.table.rows.3.feature}}</td>
-                            <td>{{comparison.table.rows.3.online}}</td>
-                            <td>{{comparison.table.rows.3.app}}</td>
-                        </tr>
+                        {{#each comparison.table.rows as |row|}}
+                        <tr><td>{{row.feature}}</td><td>{{row.online}}</td><td>{{row.app}}</td></tr>
+                        {{/each}}
                     </tbody>
                 </table>
             </div>
+            {{/if}}
+        </div>
+    </section>
+    {{/if}}
+
+    <!-- ============ FAQ ============ -->
+    <section class="section" id="faq" style="padding-top:0">
+        <div class="container">
+            <div class="section-head">
+                {{#if faq.eyebrow}}<span class="eyebrow">{{faq.eyebrow}}</span>{{/if}}
+                <h2>{{faq.title}}</h2>
+            </div>
+            <div class="faq-list">
+                {{#each faq.items as |item|}}
+                <details>
+                    <summary>{{item.question}}</summary>
+                    <div class="answer">
+                        <p>{{item.answer}}</p>
+                        {{#if item.url}}<a class="learn-more" href="{{item.url}}">{{faq.learn_more}}<span class="visually-hidden">: {{item.question}}</span></a>{{/if}}
+                    </div>
+                </details>
+                {{/each}}
+            </div>
         </div>
     </section>
 
-    <!-- Demo Section (hidden) -->
-    <section class="demo" style="display:none;">
+    <!-- ============ FINAL CTA ============ -->
+    <section class="section" style="padding-top:0" data-cta-end>
         <div class="container">
-            <h2 class="section-title">{{demo.title}}</h2>
-            <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px;">{{demo.subtitle}}</p>
-            <div class="demo-video">
+            <div class="cta-band">
                 <div>
-                    <p>{{demo.placeholder_line1}}</p>
-                    <p style="font-size: 0.9rem; margin-top: 10px;">{{demo.placeholder_line2}}</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Testimonials Section -->
-    <section class="testimonials">
-        <div class="container">
-            <div class="rating">
-                <div class="stars">⭐️⭐️⭐️⭐️⭐️</div>
-                <div class="rating-text">{{testimonials.rating_text}}</div>
-            </div>
-            <div class="testimonial-grid">
-                <div class="testimonial-card">
-                    <p class="testimonial-text">{{testimonials.items.0.text}}</p>
-                    <div class="testimonial-author">{{testimonials.items.0.author}}</div>
-                </div>
-                <div class="testimonial-card">
-                    <p class="testimonial-text">{{testimonials.items.1.text}}</p>
-                    <div class="testimonial-author">{{testimonials.items.1.author}}</div>
-                </div>
-                <div class="testimonial-card">
-                    <p class="testimonial-text">{{testimonials.items.2.text}}</p>
-                    <div class="testimonial-author">{{testimonials.items.2.author}}</div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- FAQ Section -->
-    <section class="faq">
-        <div class="container">
-            <h2 class="section-title">{{faq.title}}</h2>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.0.question}}</div>
-                <div class="faq-answer">{{faq.items.0.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.1.question}}</div>
-                <div class="faq-answer">{{faq.items.1.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.2.question}}</div>
-                <div class="faq-answer">{{faq.items.2.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.3.question}}</div>
-                <div class="faq-answer">{{faq.items.3.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.4.question}}</div>
-                <div class="faq-answer">{{faq.items.4.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.5.question}}</div>
-                <div class="faq-answer">{{faq.items.5.answer}}</div>
-            </div>
-            <div class="faq-item">
-                <div class="faq-question" onclick="toggleFAQ(this)">{{faq.items.6.question}}</div>
-                <div class="faq-answer">{{faq.items.6.answer}}</div>
-            </div>
-        </div>
-    </section>
-    </main>
-
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div>
-                    <a href="{{footer.cta_url}}" class="footer-cta">
-                        {{footer.cta_text}}
+                    <h2>{{cta.title}}</h2>
+                    <p>{{cta.text}}</p>
+                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="final">
+                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" loading="lazy">
                     </a>
+                    <div class="qr">
+                        <img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" width="64" height="64" loading="lazy">
+                        <span>{{hero.qr_text}}</span>
+                    </div>
                 </div>
-                <div class="footer-links">
-                    <a href="{{footer.blog_url}}">{{footer.blog_text}}</a>
-                    <a href="{{footer.privacy_url}}">{{footer.privacy_text}}</a>
-                    <a href="{{footer.terms_url}}">{{footer.terms_text}}</a>
-                    <a href="{{footer.support_url}}">{{footer.support_text}}</a>
+                <div class="cta-phones" aria-hidden="true">
+                    <div class="phone"><img src="{{shots.2.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
+                    <div class="phone"><img src="{{shots.5.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
                 </div>
-                <div class="footer-links">
-                    {{#each meta.alternate_languages as |lang|}}
-                    <a href="{{lang.url}}" hreflang="{{lang.lang}}">{{lang.link_label}}</a>
-                    {{/each}}
-                </div>
-            </div>
-            <div style="margin-top: 20px; opacity: 0.7;">
-                <p>{{footer.developer_info}}</p>
-                {{footer.copyright}}
             </div>
         </div>
-    </footer>
+    </section>
 
-    <!-- Floating CTA -->
-    <a href="{{floating_cta.url}}" class="floating-cta">
-        {{floating_cta.text}}
-    </a>
+    <p class="container" style="text-align:center;color:var(--text-3);font-size:.85rem">{{last_updated.text}}</p>
+</main>
 
-    <script>
-        function toggleFAQ(element) {
-            const answer = element.nextElementSibling;
-            const isActive = answer.classList.contains('active');
-            document.querySelectorAll('.faq-answer').forEach(item => { item.classList.remove('active'); });
-            document.querySelectorAll('.faq-item').forEach(item => { item.classList.remove('open'); });
-            if (!isActive) {
-                answer.classList.add('active');
-                const parentItem = element.closest('.faq-item');
-                if (parentItem) parentItem.classList.add('open');
-            }
-        }
-
-        const floatingCta = document.querySelector('.floating-cta');
-        const heroSection = document.querySelector('.hero');
-        const footerCta = document.querySelector('.footer-cta');
-        function checkScroll() {
-            if (heroSection) {
-                const heroRect = heroSection.getBoundingClientRect();
-                const footerRect = footerCta ? footerCta.getBoundingClientRect() : null;
-                const heroVisible = heroRect.top < window.innerHeight && heroRect.bottom > 0;
-                const footerVisible = footerRect ? (footerRect.top < window.innerHeight && footerRect.bottom > 0) : false;
-                if (!heroVisible && !footerVisible) { floatingCta.classList.add('show'); } else { floatingCta.classList.remove('show'); }
-            }
-        }
-        window.addEventListener('scroll', checkScroll);
-        window.addEventListener('resize', checkScroll);
-        checkScroll();
-
-        // Make hero section clickable
-        if (heroSection) {
-            const ctaLink = heroSection.querySelector('a[href]');
-            if (ctaLink) {
-                const ctaUrl = ctaLink.getAttribute('href');
-                heroSection.addEventListener('click', function(e) {
-                    // Don't trigger if clicking on a link or button
-                    if (e.target.closest('a') || e.target.closest('button')) {
-                        return;
-                    }
-                    window.open(ctaUrl, '_blank');
-                });
-            }
-        }
-    </script>
-
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function(m,e,t,r,i,k,a){
-        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-        m[i].l=1*new Date();
-        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=109474190', 'ym');
-
-    ym(109474190, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/109474190" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
-
+{{> footer}}
 </body>
 </html>
-

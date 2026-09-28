@@ -1,0 +1,65 @@
+{
+  "slug": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "thumbnail from a video on iPhone",
+  "secondary_keywords": [
+    "how to make a thumbnail for video on iphone",
+    "thumbnail from video",
+    "get thumbnail from video",
+    "youtube thumbnail from video iphone",
+    "best frame from video"
+  ],
+  "title": "How to Make a YouTube Thumbnail From a Video on iPhone",
+  "description": "Make a scroll-stopping thumbnail from your own video on iPhone: pick the best frame, export it in full quality, add text and upload to YouTube, TikTok or Reels.",
+  "h1": "How to make a thumbnail from a video on iPhone",
+  "nav_title": "Make a thumbnail from a video",
+  "card_title": "Make a thumbnail from your video on iPhone",
+  "excerpt": "Find the frame that earns the click, export it sharp, and turn it into a YouTube, TikTok or Reels cover.",
+  "lead": "The best thumbnail is usually already in your video — a real expression, a real moment. The trick is finding that frame and getting it out sharp enough to survive text, cropping and compression.",
+  "quick_answer": "Open your video in Video To Photo – Grab Frame, scrub to a sharp, expressive moment, grab two or three options and export the best as PNG. Add big text in any editor (1280 × 720 for YouTube, 9:16 for TikTok and Reels), then upload it as your custom thumbnail or cover.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>What makes a thumbnail frame work</h2><ul><li><strong>A clear face or subject</strong> — close, sharp and facing the camera.</li><li><strong>Emotion</strong> — surprise, laughter or concentration beats a neutral look.</li><li><strong>Space for text</strong> — a less busy side of the frame where a few words fit.</li><li><strong>Sharpness</strong> — thumbnails are tiny; any blur makes them look amateur.</li></ul><h2>Thumbnail sizes to aim for</h2><table><thead><tr><th>Platform</th><th>Shape</th><th>Size</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>YouTube Shorts, TikTok, Instagram Reels</td><td>9:16 cover</td><td>1080 × 1920</td></tr><tr><td>Instagram grid preview</td><td>Crops to 1:1 / 4:5</td><td>Keep the subject centred</td></tr></tbody></table><p>A frame from a 1080p or 4K video already exceeds these sizes, so extract the frame from the file rather than taking a screenshot to keep it crisp.</p>",
+  "steps_title": "How to make a thumbnail from your video on iPhone",
+  "steps": [
+    {
+      "name": "Open your finished video",
+      "text": "Share it from Photos to Video To Photo – Grab Frame, or open the app and pick the clip.",
+      "shot": 0
+    },
+    {
+      "name": "Grab 3 thumbnail candidates",
+      "text": "Scrub to strong moments and tap Grab This Frame on each. Expressions change fast, so grab neighbouring frames too.",
+      "shot": 1
+    },
+    {
+      "name": "Pick the sharpest",
+      "text": "Zoom into faces in the preview. Delete anything with motion blur or closed eyes.",
+      "shot": 2
+    },
+    {
+      "name": "Export as PNG and add text",
+      "text": "Export as PNG to keep quality through editing, then add a short headline in your editor and upload it as the custom thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Upload it as your custom thumbnail</h2><ul><li><strong>YouTube:</strong> in the YouTube or YouTube Studio app, edit the video's details and choose a custom thumbnail from your photos. Custom thumbnails require a verified account.</li><li><strong>TikTok:</strong> before posting, tap <em>Edit cover</em> and pick the image or a frame.</li><li><strong>Instagram Reels:</strong> tap <em>Edit cover</em> and add from your camera roll.</li></ul><h2>Tips that lift click-through</h2><ul><li>Three to five words of text, max.</li><li>High contrast between subject, text and background.</li><li>Keep a consistent style across videos so viewers recognise you.</li><li>Test two frames — swap the thumbnail after a few days and compare.</li></ul><p>More ideas in our blog post on <a href=\"/blog/create-thumbnails-from-videos/\">creating thumbnails from videos</a>.</p>",
+  "faq": [
+    {
+      "q": "Can I use a frame from my video as a YouTube thumbnail?",
+      "a": "Yes. Extract the frame, add text if you like, and upload it as a custom thumbnail. A 1280 × 720 image in JPG or PNG under YouTube's size limit works best."
+    },
+    {
+      "q": "Should I export thumbnails as JPG or PNG?",
+      "a": "Export the frame as PNG while you edit, so text stays crisp. Save the final thumbnail as JPG if you need a smaller file for upload."
+    },
+    {
+      "q": "Why does my thumbnail look blurry?",
+      "a": "Usually because it's a screenshot or a frame with motion. Extract the frame from the video file and choose a moment where the subject is still."
+    }
+  ],
+  "related": [
+    "clear-high-quality-picture-from-video",
+    "video-to-jpg-png-heic-iphone",
+    "how-to-get-a-picture-from-a-video-on-iphone"
+  ]
+}

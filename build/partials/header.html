@@ -1,0 +1,20 @@
+<a class="skip-link" href="#main">{{labels.skip}}</a>
+<header class="site-header">
+    <div class="container">
+        <a class="brand" href="{{site.home_url}}" aria-label="{{app_info.name}}">
+            <img src="/img/app-icon-192.webp" alt="" width="36" height="36">
+            <span>{{site.brand_short}}</span>
+        </a>
+        {{#if nav.how}}
+        <nav class="nav" aria-label="Primary">
+            <a href="{{nav.prefix}}#how-it-works">{{nav.how}}</a>
+            <a href="{{nav.prefix}}#screenshots">{{nav.screenshots}}</a>
+            <a href="{{site.guides_url}}">{{nav.guides}}</a>
+            <a href="{{nav.prefix}}#faq">{{nav.faq}}</a>
+        </nav>
+        {{/if}}
+        <a class="appstore-badge header-cta" href="{{site.cta_url}}" rel="noopener" data-cta="header">
+            <img src="/img/download.svg" alt="{{hero.download_alt}}" width="120" height="40" style="height:40px">
+        </a>
+    </div>
+</header>

@@ -3,6 +3,7 @@ const path = require('path');
 
 const { SITE_URL, URLS, ADDITIONAL_URLS, SITE_PRIVACY_URL, SITE_TERMS_URL, BLOG_POSTS_PER_PAGE } = require('./constants');
 const { loadPosts, collectBlogUrls } = require('./blog/build-blog');
+const { getGuideUrls } = require('./guides/build-guides');
 
 function getBlogSitemapUrls(siteOrigin) {
     try {
@@ -71,6 +72,21 @@ function getBlogSitemapUrls(siteOrigin) {
     lines.push(`    <loc>${extraUrl}</loc>`);
     lines.push(`    <lastmod>${lastmod}</lastmod>`);
     lines.push('    <priority>0.5</priority>');
+    lines.push('  </url>');
+    lines.push('');
+  }
+
+  let guideUrls = [];
+  try {
+    guideUrls = getGuideUrls();
+  } catch (error) {
+    console.warn(`Warning: guide URLs omitted from sitemap (${error.message})`);
+  }
+  for (const loc of guideUrls) {
+    lines.push('  <url>');
+    lines.push(`    <loc>${loc}</loc>`);
+    lines.push(`    <lastmod>${lastmod}</lastmod>`);
+    lines.push(`    <priority>${loc.endsWith('/guides/') ? '0.8' : '0.85'}</priority>`);
     lines.push('  </url>');
     lines.push('');
   }

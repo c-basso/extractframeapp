@@ -18,7 +18,12 @@
 - `index.html` - Generated file for English (do not edit directly)
 - `README.md` - Generated list of site URLs (do not edit directly)
 - `*/index.html` - Generated files for language-specific pages (de, es, fr, it, pt, ru) - do not edit directly
-- `style.css` - Main stylesheet
+- `build/partials/*.html` - Shared header / footer / head snippets, inlined with `{{> name}}`
+- `build/guides/posts/*.json` - One keyword-targeted guide per file → `/guides/<slug>/` (built by `build/guides/build-guides.js`; hub page at `/guides/`)
+- `build/guides/guides.json` - Guides hub copy and shared labels
+- `appstore/` - Original App Store screenshots + icon; web sizes in `screenshots/v2/` and `img/app-icon-*.webp`
+- `app.md` - App Store listing snapshot; `keywords.md` - keyword research and guide mapping
+- `style.css` - Main stylesheet (landing + guides)
 - `privacy.html` - Privacy policy page
 - `terms.html` - Terms of service page
 - `package.json` - Node.js dependencies and scripts
@@ -27,3 +32,9 @@
 
 - **Google Search Console** — verified at the **DNS** level (domain property). Do **not** add a `google-site-verification` meta tag; absence in HTML is expected.
 - **Bing Webmaster Tools** — verified via `msvalidate.01` meta tag in `build/constants.js` (`MS_VALIDATE`) and `build/template.html`.
+
+## Landing + guides content rules
+
+- New landing sections (download facts, screenshot captions, guides, CTA) are written in `build/en.json`. Other locales fall back to their existing `features`, `seo_chapter` and `comparison` content until translated.
+- Every homepage FAQ item may carry a `url` pointing at a guide (`/guides/<slug>/`); the build fails if the guide doesn't exist.
+- App version, size, min iOS and rating live in `build/constants.js` — update them after each App Store release.

@@ -46,6 +46,17 @@
 ## Other site URLs
 
 - [blog/](https://extractframeapp.com/blog/)
+- [guides/](https://extractframeapp.com/guides/)
+- [guides/how-to-get-a-picture-from-a-video-on-iphone/](https://extractframeapp.com/guides/how-to-get-a-picture-from-a-video-on-iphone/)
+- [guides/screenshot-video-iphone-without-losing-quality/](https://extractframeapp.com/guides/screenshot-video-iphone-without-losing-quality/)
+- [guides/save-frame-from-video-iphone/](https://extractframeapp.com/guides/save-frame-from-video-iphone/)
+- [guides/frame-grabber-app-iphone/](https://extractframeapp.com/guides/frame-grabber-app-iphone/)
+- [guides/extract-multiple-frames-from-video/](https://extractframeapp.com/guides/extract-multiple-frames-from-video/)
+- [guides/frame-by-frame-video-iphone/](https://extractframeapp.com/guides/frame-by-frame-video-iphone/)
+- [guides/clear-high-quality-picture-from-video/](https://extractframeapp.com/guides/clear-high-quality-picture-from-video/)
+- [guides/video-to-jpg-png-heic-iphone/](https://extractframeapp.com/guides/video-to-jpg-png-heic-iphone/)
+- [guides/video-frames-to-pdf/](https://extractframeapp.com/guides/video-frames-to-pdf/)
+- [guides/make-thumbnail-from-video-iphone/](https://extractframeapp.com/guides/make-thumbnail-from-video-iphone/)
 - [llms.txt](https://extractframeapp.com/llms.txt)
 
 ## Crawling / discovery

@@ -102,6 +102,23 @@ const SUPPORT_MAILTO_URL = 'mailto:c-basso@ya.ru';
 const FOOTER_PRIVACY_URL = '/privacy.html';
 const FOOTER_TERMS_URL = '/terms.html';
 const FOOTER_BLOG_URL = '/blog/';
+const FOOTER_GUIDES_URL = '/guides/';
+
+/** Minimum iOS version from the App Store listing (keep in sync). */
+const APP_MIN_IOS = '18.6';
+
+/** App Store screenshots (downloaded to appstore/, resized to screenshots/v2/). Order = App Store order. */
+const APP_SCREENSHOTS = [
+    { key: '1-cover', width: 1284, height: 2778 },
+    { key: '2-choose', width: 1284, height: 2778 },
+    { key: '3-preview', width: 1284, height: 2778 },
+    { key: '4-export', width: 1284, height: 2778 },
+    { key: '5-share', width: 1284, height: 2778 },
+    { key: '6-projects', width: 1284, height: 2778 }
+];
+
+const GUIDE_JSON_LD_TYPES = ['Article', 'HowTo', 'FAQPage', 'BreadcrumbList'];
+const GUIDES_INDEX_JSON_LD_TYPES = ['CollectionPage', 'BreadcrumbList'];
 const BLOG_POSTS_PER_PAGE = 10;
 const AUTHOR_URL = 'https://apps.apple.com/developer/id1239180595';
 const DEFAULT_OG_LOGO = `${SITE_URL}img/logo.webp`;
@@ -114,12 +131,12 @@ function getAnalyticsContext() {
 }
 
 const APP_PUBLISHER = 'c-basso';
-const APP_VERSION = '1.1.13';
-const APP_FILE_SIZE = '42 MB';
+const APP_VERSION = '1.2.2';
+const APP_FILE_SIZE = '24.9 MB';
 
 /** JSON-LD AggregateRating — keep in sync with App Store Connect. */
-const SCHEMA_AGGREGATE_RATING_VALUE = 5.0;
-const SCHEMA_AGGREGATE_RATING_COUNT = 8;
+const SCHEMA_AGGREGATE_RATING_VALUE = 4.6;
+const SCHEMA_AGGREGATE_RATING_COUNT = 12;
 const SCHEMA_AGGREGATE_BEST_RATING = 5;
 const SCHEMA_AGGREGATE_WORST_RATING = 1;
 
@@ -193,6 +210,11 @@ module.exports = {
     FOOTER_PRIVACY_URL,
     FOOTER_TERMS_URL,
     FOOTER_BLOG_URL,
+    FOOTER_GUIDES_URL,
+    APP_MIN_IOS,
+    APP_SCREENSHOTS,
+    GUIDE_JSON_LD_TYPES,
+    GUIDES_INDEX_JSON_LD_TYPES,
     BLOG_POSTS_PER_PAGE,
     AUTHOR_URL,
     DEFAULT_OG_LOGO,

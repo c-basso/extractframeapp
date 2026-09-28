@@ -1,43 +1,49 @@
 # Extract Frame App
 
-> Official landing site for the iPhone app "Video To Photo - Grab Frame", focused on extracting still photos from videos.
+> Official site for the iPhone app "Video To Photo – Grab Frame" (App Store ID 6743497797): extract still photos (frames) from videos on iPhone, on-device.
 
 ## Main Sections
 
-- [Home](https://extractframeapp.com/): Product overview, features, steps, FAQ, and comparison content.
-- [Privacy Policy](https://extractframeapp.com/privacy.html): Data handling and privacy terms.
-- [Terms of Use](https://extractframeapp.com/terms.html): Legal terms and app usage terms.
-- [App Store Listing](https://apps.apple.com/us/app/video-to-photo-grab-frame/id6743497797): Store metadata, ratings, and release information.
+- [Home](https://extractframeapp.com/): Product overview, screenshots, how it works, FAQ.
+- [Guides](https://extractframeapp.com/guides/): Step-by-step iPhone guides, one per question.
+- [Blog](https://extractframeapp.com/blog/): Longer articles on frame extraction and formats.
+- [Privacy Policy](https://extractframeapp.com/privacy.html)
+- [Terms of Use](https://extractframeapp.com/terms.html)
+- [App Store Listing](https://apps.apple.com/us/app/video-to-photo-grab-frame/id6743497797)
+
+## Guides
+
+- [How to get a picture from a video on iPhone](https://extractframeapp.com/guides/how-to-get-a-picture-from-a-video-on-iphone/): The three ways to pull a photo out of a video on iPhone — and the only one that keeps full quality.
+- [How to screenshot a video on iPhone without losing quality](https://extractframeapp.com/guides/screenshot-video-iphone-without-losing-quality/): Why video screenshots look soft — and the no-screenshot way to save a sharp, full-size frame.
+- [How to save a frame from a video on iPhone](https://extractframeapp.com/guides/save-frame-from-video-iphone/): Export one exact frame from a video and put it in your Photos library or Files — without touching the original clip.
+- [Frame grabber app for iPhone: how to pick the right one](https://extractframeapp.com/guides/frame-grabber-app-iphone/): Six things that separate a good video-to-photo app from a screenshot tool with ads — and a checklist to test any app in two minutes.
+- [How to extract multiple frames from a video (on your iPhone)](https://extractframeapp.com/guides/extract-multiple-frames-from-video/): Grab a whole sequence of stills from one clip and export them together — as images, a ZIP archive or a PDF.
+- [How to go frame by frame through a video on iPhone](https://extractframeapp.com/guides/frame-by-frame-video-iphone/): Find the precise moment in a video — and save it as a photo once you've found it.
+- [How to get a clear, high-quality picture from a video](https://extractframeapp.com/guides/clear-high-quality-picture-from-video/): Why video stills look soft, what you can fix after recording, and what to change before you hit record.
+- [Video to JPG, PNG or HEIC on iPhone](https://extractframeapp.com/guides/video-to-jpg-png-heic-iphone/): Which image format to pick for your video frames — and how to export them on iPhone without an online converter.
+- [How to turn video frames into a PDF on iPhone](https://extractframeapp.com/guides/video-frames-to-pdf/): Pick the key moments of a video and export them as one clean PDF — for storyboards, lessons and reviews.
+- [How to make a thumbnail from a video on iPhone](https://extractframeapp.com/guides/make-thumbnail-from-video-iphone/): Find the frame that earns the click, export it sharp, and turn it into a YouTube, TikTok or Reels cover.
 
 ## Entity Definition
 
-Video To Photo - Grab Frame is an iOS app for iPhone that extracts still images from video clips. Users can scrub to exact moments and export frames as JPG, PNG, or HEIC. The app supports single-frame and batch export workflows, including ZIP and PDF output options.
+Video To Photo – Grab Frame is an iPhone frame grabber that turns video clips into high-resolution still photos entirely on the device. Users share a video from Photos, scrub to the exact moment, grab one or many frames and export them as JPG, PNG or HEIC — as separate files, a ZIP archive or a PDF. Sessions are saved as projects.
 
 ## Key Facts
 
 - App Store ID: `6743497797`
+- Subtitle: Extract stills, save offline
 - Category: Photo & Video
-- Platform: iPhone
-- App Size: 42.9 MB
-- App Store Rating: 5.0 (8 ratings)
-- Export formats: JPG, PNG, HEIC
-- Processing model: On-device frame extraction (no required upload)
-- Pricing model: Free download with in-app purchases
-
-## Common User Intents
-
-- "How do I extract a frame from video on iPhone?"
-- "What is the best iPhone frame grabber app?"
-- "Can I save video frames as JPG, PNG, or HEIC?"
-- "Is Video To Photo - Grab Frame private and offline?"
-- "How does this app compare to browser-based frame extractors?"
-
-## Freshness
-
-- Content last updated: July 2, 2026
+- Platform: iPhone, requires iOS 18.6 or later
+- Version: 1.2.2 (September 2026)
+- Size: 24.9 MB
+- App Store rating: 4.6 (12 ratings, US)
+- Export formats: JPG, PNG, HEIC; containers: files, ZIP, PDF
+- Processing: on-device, works offline, no account, no upload
+- Pricing: free download with in-app purchases (weekly with free trial, annual, lifetime)
 
 ## Contact and Ownership
 
 - Developer: Vladimir Ivakhnenko
 - Brand/Copyright: c-basso
 - Website: https://extractframeapp.com/
+- Support: c-basso@ya.ru

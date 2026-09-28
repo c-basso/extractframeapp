@@ -13,7 +13,12 @@ const LOOP_PLACEHOLDER_ROOTS = new Set([
     'page',
     'tag',
     'related',
-    'link'
+    'link',
+    'shot',
+    'step',
+    'guide',
+    'alt',
+    'q'
 ]);
 
 function getValue(obj, keyPath) {
@@ -112,7 +117,8 @@ function replaceVariables(template, context, lang) {
 }
 
 function processIfBlocks(template, context) {
-    const ifPattern = /\{\{#if\s+([^\s}]+)\}\}([\s\S]*?)\{\{\/if\}\}/g;
+    // Match innermost blocks only (body must not contain another {{#if), so nested blocks resolve inside-out.
+    const ifPattern = /\{\{#if\s+([^\s}]+)\}\}((?:(?!\{\{#if\s)[\s\S])*?)\{\{\/if\}\}/g;
     let result = template;
     let previous;
 
@@ -169,7 +175,17 @@ function processEachBlocks(template, context, lang) {
     return result;
 }
 
-function renderTemplate(template, data, lang = 'en') {
+/**
+ * @param {object} [options]
+ * @param {boolean} [options.eachFirst=false] Expand {{#each}} before evaluating top-level {{#if}}.
+ *   Lets `{{#if item.x}}` inside a loop see the loop variable (used by landing + guides templates).
+ */
+function renderTemplate(template, data, lang = 'en', options = {}) {
+    if (options.eachFirst) {
+        const withEach = processEachBlocks(template, data, lang);
+        const withIf = processIfBlocks(withEach, data);
+        return cleanupJsonArtifacts(replaceVariables(withIf, data, lang));
+    }
     const withIf = processIfBlocks(template, data);
     const withEach = processEachBlocks(withIf, data, lang);
     return cleanupJsonArtifacts(replaceVariables(withEach, data, lang));

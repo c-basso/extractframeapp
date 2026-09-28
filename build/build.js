@@ -24,15 +24,19 @@ const {
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
 const { buildBlog } = require('./blog/build-blog');
+const { buildGuides, loadGuides, guideCards } = require('./guides/build-guides');
+const { renderTemplate } = require('./template-engine');
+const { loadTemplate, escapeHtml } = require('./lib/partials');
+const { siteLinks, screenshots, appFacts } = require('./lib/site-context');
 
 const PROJECT_ROOT = path.join(__dirname, '..');
 
 /** Markdown for repo root; single source of truth for URLs is `build/constants.js`. */
-function buildReadmeMarkdown(blogUrl) {
+function buildReadmeMarkdown(blogUrl, guideUrls = []) {
     const landing = URLS.map(
         (e) => `- [${e.link_label}](${e.url})${e.lang === DEFAULT_LANGUAGE ? ' — default locale' : ''}`
     ).join('\n');
-    const extraItems = [...ADDITIONAL_URLS];
+    const extraItems = [...guideUrls, ...ADDITIONAL_URLS];
     if (blogUrl) {
         extraItems.unshift(`${SITE_URL.replace(/\/?$/, '/')}blog/`);
     }
@@ -99,6 +103,7 @@ function injectAppDefaults(data, lang) {
     data.app_info.version = APP_VERSION;
     data.app_info.file_size = APP_FILE_SIZE;
     data.app_info.price_currency = currency;
+    data.app_info.min_ios = appFacts().min_ios;
 
     data.schema_rating = {
         rating_value: SCHEMA_AGGREGATE_RATING_VALUE,
@@ -115,6 +120,7 @@ function injectAppDefaults(data, lang) {
     }
 }
 
+
 function resolveSiteImageUrlToLocalPath(imageUrl) {
     if (imageUrl.startsWith(SITE_URL)) {
         const relativePath = imageUrl.replace(SITE_URL, '');
@@ -123,35 +129,110 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
     return path.join(PROJECT_ROOT, imageUrl);
 }
 
+/** Screens used for the 4 "how it works" steps (index into APP_SCREENSHOTS). */
+const STEP_SHOTS = [0, 1, 2, 3];
+
+/**
+ * Normalise locale JSON into the landing-page shape. New sections (download facts, screenshot captions,
+ * guides, CTA copy) are fully written in en.json; other locales fall back to their existing content
+ * (features → download facts, seo_chapter/comparison block, hero copy) until translated.
+ */
+function prepareLandingContext(data, lang, guides) {
+    const isDefault = lang === DEFAULT_LANGUAGE;
+    const homeUrl = isDefault ? '/' : `/${lang}/`;
+
+    data.site = siteLinks(homeUrl);
+    data.labels = { skip: 'Skip to content', ratings: '', ...(data.labels || {}) };
+    data.nav = data.nav ? { ...data.nav, prefix: '' } : {};
+    data.sticky = data.sticky || { text: String((data.floating_cta && data.floating_cta.text) || '').replace(/^\W+\s*/u, '') };
+
+    data.hero = data.hero || {};
+    data.hero.title_html = data.hero.title_html || escapeHtml(data.hero.title || '');
+    data.hero.kicker = data.hero.kicker || 'iPhone · App Store';
+
+    // Download / trust facts
+    data.download = data.download || { title: (data.features && data.features.title) || '' };
+    data.facts = (data.download.facts || (data.features && data.features.items) || []).slice(0, 6);
+    const ml = data.download.meta_labels;
+    if (ml) {
+        const facts = appFacts();
+        data.download.meta = [
+            { label: ml.version, value: facts.version },
+            { label: ml.size, value: facts.file_size },
+            { label: ml.requires, value: `iOS ${facts.min_ios}+` },
+            { label: ml.category, value: ml.category_value },
+            { label: ml.price, value: ml.price_value }
+        ];
+    }
+
+    // Screenshots
+    data.shots = screenshots((data.screenshots && data.screenshots.items) || [], data.app_info.name);
+
+    // How it works (images + numbering)
+    data.demo = data.demo || {};
+    data.how = data.how || {};
+    const steps = (data.howto_steps && data.howto_steps.items) || [];
+    steps.forEach((step, i) => {
+        const shot = data.shots[STEP_SHOTS[i] ?? STEP_SHOTS[STEP_SHOTS.length - 1]];
+        step.num = i + 1;
+        step.image = shot.src_390;
+        step.image_rel = shot.src_780_rel;
+        step.image_alt = step.image_alt || shot.alt;
+        step.text = String(step.text || '').replace(/\{\{\s*app_info\.name\s*\}\}/g, data.app_info.name);
+    });
+
+    // Guides (English content only)
+    if (data.guides_section && guides.length > 0) {
+        data.guides_section.items = guideCards(guides);
+        data.footer_guides = guideCards(guides).slice(0, 6);
+        data.show_seo_chapter = false;
+    } else {
+        delete data.guides_section;
+        data.footer_guides = [];
+        data.footer.guides_text = data.footer.guides_text || '';
+        data.show_seo_chapter = Boolean(data.seo_chapter && data.seo_chapter.title);
+    }
+
+    // FAQ "Learn more" links must point at existing guides
+    const guideUrls = new Set(guides.map((g) => g.url));
+    (data.faq && data.faq.items || []).forEach((item) => {
+        if (item.url && !guideUrls.has(item.url) && !item.url.startsWith('/blog/')) {
+            throw new Error(`[${lang}] FAQ link ${item.url} does not match a guide`);
+        }
+    });
+
+    // Final CTA
+    data.cta = data.cta || { title: data.hero.title, text: data.hero.subheadline || data.hero.subtitle || '' };
+
+    // Footer languages
+    data.footer_languages = URLS;
+    data.show_languages = true;
+    return data;
+}
+
 (async function main() {
     const urlsPath = path.join(__dirname, '..', 'urls.txt');
     const readmePath = path.join(PROJECT_ROOT, 'README.md');
     const buildTimestamp = Date.now();
     const buildDateIso = new Date(buildTimestamp).toISOString().slice(0, 10);
     const currentYear = new Date(buildTimestamp).getFullYear();
+    const template = loadTemplate(path.join(__dirname, 'template.html'));
+    const guides = loadGuides();
+    let enData = null;
 
     for (const lang of LANGUAGES) {
         try {
             const htmlDir = path.join(__dirname, lang === DEFAULT_LANGUAGE ? '..' : `../${lang}/`);
-
-            // Read the template and JSON files
-            const templatePath = path.join(__dirname, 'template.html');
             const jsonPath = path.join(__dirname, `${lang}.json`);
             const outputPath = path.join(htmlDir, 'index.html');
-
             if (!fs.existsSync(htmlDir)) {
                 fs.mkdirSync(htmlDir, { recursive: true });
             }
-            
-            const template = fs.readFileSync(templatePath, 'utf8');
-            const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
 
+            const data = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
             injectAppDefaults(data, lang);
 
-            // Add build timestamp for cache busting
-            if (!data.meta) {
-                data.meta = {};
-            }
+            data.meta = data.meta || {};
             data.meta.version = buildTimestamp;
             data.meta.date_modified_iso = new Date().toISOString();
             data.meta.text_direction = lang === 'he' ? 'rtl' : 'ltr';
@@ -250,12 +331,10 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
                 ml: 'അവസാനമായി അപ്ഡേറ്റ് ചെയ്തത്:'
             };
             const lastUpdatedPrefix = lastUpdatedPrefixByLang[lang] || lastUpdatedPrefixByLang.en;
-            data.last_updated = {
-                text: `${lastUpdatedPrefix} ${monthYear}`
-            };
+            data.last_updated = { text: `${lastUpdatedPrefix} ${monthYear}` };
 
             if (!data.meta.og_logo) {
-                data.meta.og_logo = `${SITE_URL}logo.webp`;
+                data.meta.og_logo = `${SITE_URL}img/app-icon-512.webp`;
             }
 
             const ogImagePath = resolveSiteImageUrlToLocalPath(data.meta.og_image);
@@ -264,177 +343,52 @@ function resolveSiteImageUrlToLocalPath(imageUrl) {
                 data.meta.og_image_width = String(width);
                 data.meta.og_image_height = String(height);
             } else {
-                // Keep build non-blocking when preview image is absent locally.
                 data.meta.og_image_width = '1200';
                 data.meta.og_image_height = '630';
-                console.warn(
-                    `⚠️ Warning: OG image file is missing: ${ogImagePath}. ` +
-                        'Using fallback dimensions 1200x630.'
-                );
+                console.warn(`⚠️ Warning: OG image file is missing: ${ogImagePath}. Using fallback dimensions 1200x630.`);
             }
-            
-            // Replace {year} placeholder in footer.copyright with current year
-            const currentYear = new Date().getFullYear();
+
             if (data.footer && data.footer.copyright) {
-                data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, currentYear.toString());
+                data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, String(currentYear));
             }
-            
-            // Function to get value from nested object path
-            function getValue(obj, path) {
-                const keys = path.split('.');
-                let value = obj;
-                
-                for (const k of keys) {
-                    if (value && typeof value === 'object' && k in value) {
-                        value = value[k];
-                    } else {
-                        return undefined;
-                    }
-                }
-                
-                return value;
+
+            prepareLandingContext(data, lang, lang === DEFAULT_LANGUAGE ? guides : []);
+            if (lang === DEFAULT_LANGUAGE) {
+                enData = data;
             }
-            
-            // Function to replace variables in template
-            function replaceVariables(template, context) {
-                return template.replace(/\{\{([^}]+)\}\}/g, (match, key) => {
-                    const value = getValue(context, key.trim());
-                    
-                    if (value !== undefined) {
-                        return value;
-                    } else {
-                        console.warn(`Warning: Variable ${key} not found in data`);
-                        return match; // Keep original placeholder if not found
-                    }
-                });
-            }
-            
-            // Function to process #if blocks
-            function processIfBlocks(template, data) {
-                // Pattern to match {{#if path}}...{{/if}}
-                const ifPattern = /\{\{#if\s+([^\s}]+)\}\}([\s\S]*?)\{\{\/if\}\}/g;
-                let result = template;
-                let match;
-                
-                // Process all #if blocks
-                while ((match = ifPattern.exec(result)) !== null) {
-                    const fullMatch = match[0];
-                    const path = match[1].trim();
-                    const blockContent = match[2];
-                    
-                    // Get the value from data
-                    const value = getValue(data, path);
-                    
-                    // Check if value is truthy
-                    const shouldInclude = value !== undefined && value !== null && value !== false && value !== '';
-                    
-                    // Replace with content if truthy, or empty string if falsy
-                    result = result.replace(fullMatch, shouldInclude ? blockContent : '');
-                    
-                    // Reset regex lastIndex to start from beginning for next iteration
-                    ifPattern.lastIndex = 0;
-                }
-                
-                return result;
-            }
-            
-            // Function to process #each blocks (handles nested blocks recursively)
-            function processEachBlocks(template, data) {
-                // Pattern to match {{#each path as |varName|}}...{{/each}}
-                const eachPattern = /\{\{#each\s+([^\s]+)\s+as\s+\|([^|]+)\|\}\}([\s\S]*?)\{\{\/each\}\}/;
-                let result = template;
-                let match;
-                
-                // Keep processing until no more #each blocks are found
-                while ((match = result.match(eachPattern)) !== null) {
-                    const fullMatch = match[0];
-                    const arrayPath = match[1].trim();
-                    const varName = match[2].trim();
-                    let blockContent = match[3];
-                    
-                    // Get the array from data
-                    const array = getValue(data, arrayPath);
-                    
-                    if (!Array.isArray(array)) {
-                        console.warn(`Warning: ${arrayPath} is not an array or not found`);
-                        result = result.replace(fullMatch, '');
-                        continue;
-                    }
-                    
-                    // Process each item in the array
-                    let processedBlocks = array.map((item, index) => {
-                        // Create context with the item accessible by varName
-                        const itemContext = { [varName]: item };
-                        const mergedContext = { ...data, ...itemContext };
-                        
-                        // Recursively process nested #each blocks first
-                        let processedContent = processEachBlocks(blockContent, mergedContext);
-                        // Process #if blocks
-                        processedContent = processIfBlocks(processedContent, mergedContext);
-                        // Then process variables in the block content
-                        processedContent = replaceVariables(processedContent, mergedContext);
-                        
-                        return processedContent;
-                    }).join('');
-                    
-                    // Remove trailing comma after the last item in JSON-LD arrays
-                    // Pattern: }, followed by newline, optional whitespace/newlines, then closing bracket
-                    processedBlocks = processedBlocks.replace(/,\s*\n[\s\n]*\]/g, '\n            ]');
-                    // Also handle comma on same line as closing bracket (fallback)
-                    processedBlocks = processedBlocks.replace(/,\s*\]/g, ']');
-                    
-                    // Replace the entire #each block with processed content
-                    result = result.replace(fullMatch, processedBlocks);
-                }
-                
-                return result;
-            }
-            
-            // Process #if blocks first so conditional #each sections are skipped when absent
-            let result = processIfBlocks(template, data);
-            result = processEachBlocks(result, data);
-            result = replaceVariables(result, data);
-            
-            // Final cleanup: remove any trailing commas before closing brackets in JSON-LD
-            // This catches any trailing commas that might have been missed
-            result = result.replace(/,\s*\n[\s\n]*\]/g, '\n            ]');
-            result = result.replace(/,\s*\]/g, ']');
-            
-            // Write the result to en.html
+
+            const result = renderTemplate(template, data, lang, { eachFirst: true });
             fs.writeFileSync(outputPath, result, 'utf8');
-            
-            console.log(`✅ Successfully built ${lang}.html from template and ${lang}.json`);
-            console.log(`📁 Output saved to: ${outputPath}`);
-            
+            console.log(`✅ Successfully built ${lang} → ${path.relative(PROJECT_ROOT, outputPath)}`);
         } catch (error) {
-            console.error('❌ Error building HTML:', error.message);
+            console.error(`❌ Error building ${lang}:`, error.message);
             process.exit(1);
         }
     }
 
+    let guideUrls = [];
+    try {
+        guideUrls = await buildGuides({ buildTimestamp, buildDateIso, en: enData });
+    } catch (error) {
+        console.error('❌ Error building guides:', error.message);
+        process.exit(1);
+    }
+
     let blogUrls = [];
     try {
-        blogUrls = await buildBlog({
-            buildTimestamp,
-            buildDateIso,
-            currentYear
-        });
+        blogUrls = await buildBlog({ buildTimestamp, buildDateIso, currentYear });
     } catch (error) {
         console.error('❌ Error building blog:', error.message);
         process.exit(1);
     }
 
-    const allUrls = [...URLS.map(({ url }) => url), ...blogUrls];
+    const allUrls = [...URLS.map(({ url }) => url), ...guideUrls, ...blogUrls];
     fs.writeFileSync(urlsPath, allUrls.join('\n'), 'utf8');
     console.log(`✅ Successfully built urls.txt file`);
-    console.log(`📁 Output saved to: ${urlsPath}`);
-    console.log();
 
     const blogIndexUrl = blogUrls.length > 0 ? `${SITE_URL.replace(/\/?$/, '/')}blog/` : null;
-    fs.writeFileSync(readmePath, buildReadmeMarkdown(blogIndexUrl), 'utf8');
+    fs.writeFileSync(readmePath, buildReadmeMarkdown(blogIndexUrl, guideUrls), 'utf8');
     console.log(`✅ Successfully built README.md`);
-    console.log(`📁 Output saved to: ${readmePath}`);
-    console.log();
 })().catch((err) => {
     console.error('❌ Build failed:', err);
     process.exit(1);

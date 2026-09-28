@@ -1,0 +1,65 @@
+{
+  "slug": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "clear picture from a video",
+  "secondary_keywords": [
+    "how to get a high quality picture from a video",
+    "how to get a clear picture from a video on iphone",
+    "high quality frame from video",
+    "extract high quality image from video",
+    "how to get a good photo from a video iphone"
+  ],
+  "title": "How to Get a Clear, High-Quality Picture From a Video",
+  "description": "Why stills from video look blurry and how to fix it: pick low-motion frames, record in 4K or 60 fps, extract instead of screenshot, and export PNG or HEIC.",
+  "h1": "How to get a clear, high-quality picture from a video",
+  "nav_title": "Clear picture from a video",
+  "card_title": "Get a clear, high-quality picture from a video",
+  "excerpt": "Why video stills look soft, what you can fix after recording, and what to change before you hit record.",
+  "lead": "You found the perfect moment, saved it — and it's blurry. Video frames are built for motion, not for staring at, but with the right frame and the right method they can look like proper photos.",
+  "quick_answer": "Choose a frame where the subject is barely moving, extract it from the video file instead of taking a screenshot, and export as PNG or HEIC to avoid extra compression. Grab three to five neighbouring frames and keep the sharpest. For future clips, record in 4K and 60 fps in good light.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>Why pictures from videos look blurry</h2><ul><li><strong>Motion blur.</strong> Each video frame is exposed for a fraction of a second. If the subject moves during that time, it smears.</li><li><strong>Screen capture.</strong> Screenshots scale the video down to your screen and add another save. See <a href=\"/guides/screenshot-video-iphone-without-losing-quality/\">why screenshots lose quality</a>.</li><li><strong>Video compression.</strong> Videos are heavily compressed; in-between frames can carry less detail than others.</li><li><strong>Low light.</strong> In dim scenes the camera uses longer exposures and more noise reduction, which softens detail.</li></ul><h2>What you can fix after recording</h2><table><thead><tr><th>Problem</th><th>Fix</th></tr></thead><tbody><tr><td>Blurry subject</td><td>Grab several neighbouring frames and pick the sharpest</td></tr><tr><td>Small or cropped image</td><td>Extract the frame from the file instead of screenshotting</td></tr><tr><td>Blocky artifacts</td><td>Export PNG or HEIC, not low-quality JPG; avoid re-saving</td></tr><tr><td>Moment between blinks</td><td>Scrub slowly — the right frame often sits 1–2 frames away</td></tr></tbody></table>",
+  "steps_title": "How to get the sharpest possible frame from a video",
+  "steps": [
+    {
+      "name": "Open the clip",
+      "text": "Share the video from Photos to Video To Photo – Grab Frame so the frame is read from the file, not your screen.",
+      "shot": 0
+    },
+    {
+      "name": "Hunt for the still moment",
+      "text": "Scrub around the action. Look for peaks — the top of a jump, the pause before a laugh — where movement is smallest.",
+      "shot": 1
+    },
+    {
+      "name": "Grab a burst and compare",
+      "text": "Grab 3–5 neighbouring frames, then zoom into eyes, edges or text in the preview and delete the soft ones.",
+      "shot": 2
+    },
+    {
+      "name": "Export without extra compression",
+      "text": "Export the winner as PNG (lossless) or HEIC (high quality, small file). Use JPG only for quick sharing.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Record for better stills next time</h2><ul><li><strong>Use 4K.</strong> More pixels per frame means more detail and room to crop (Settings → Camera → Record Video).</li><li><strong>Use 60 fps for action.</strong> More frames to choose from and shorter exposure per frame means less blur.</li><li><strong>Add light.</strong> Daylight or a bright room makes the biggest difference to sharpness.</li><li><strong>Hold steady.</strong> Brace your elbows or use a stand; camera shake blurs every frame.</li></ul><h2>Should I upscale or \"enhance\" the frame?</h2><p>AI upscalers can make a small frame look bigger, but they invent detail. Start from the best real frame first — extracted at the video's own resolution — and only enhance if you really need a larger print.</p><p>Choosing between formats? Read <a href=\"/guides/video-to-jpg-png-heic-iphone/\">video to JPG, PNG or HEIC</a> or the blog's <a href=\"/blog/heic-vs-jpg-exporting-frames/\">HEIC vs JPG for exported frames</a>.</p>",
+  "faq": [
+    {
+      "q": "Can a picture from a video be as good as a photo?",
+      "a": "From a sharp, well-lit 4K clip, an extracted frame can look very close to a photo, especially for social media. A dedicated photo still has advantages such as faster shutter and processing designed for stills."
+    },
+    {
+      "q": "What resolution is a frame from a 4K video?",
+      "a": "A 4K iPhone video frame is 3840 × 2160 pixels, about 8.3 megapixels. A 1080p frame is 1920 × 1080, about 2 megapixels."
+    },
+    {
+      "q": "Which export format keeps the most detail?",
+      "a": "PNG is lossless and keeps every pixel. HEIC keeps nearly the same quality in much smaller files. JPG adds some compression but is the most compatible."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-without-losing-quality",
+    "frame-by-frame-video-iphone",
+    "video-to-jpg-png-heic-iphone"
+  ]
+}

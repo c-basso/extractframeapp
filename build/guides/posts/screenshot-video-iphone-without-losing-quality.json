@@ -1,0 +1,64 @@
+{
+  "slug": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot a video without losing quality",
+  "secondary_keywords": [
+    "how to screenshot a video on iphone",
+    "how to turn a video into a photo on iphone without screenshot",
+    "high quality screenshot from video iphone",
+    "how to get a picture from a video without screenshotting"
+  ],
+  "title": "How to Screenshot a Video on iPhone Without Losing Quality",
+  "description": "Screenshots of videos come out soft, cropped and covered in controls. Here's why — and how to save the real video frame on iPhone in full quality instead.",
+  "h1": "How to screenshot a video on iPhone without losing quality",
+  "nav_title": "Screenshot a video without losing quality",
+  "card_title": "Screenshot a video on iPhone without losing quality",
+  "excerpt": "Why video screenshots look soft — and the no-screenshot way to save a sharp, full-size frame.",
+  "lead": "Pause, press the side and volume buttons, crop out the controls… and the result still looks worse than the video. That isn't your eyes. A screenshot is a picture of your screen, not of your video.",
+  "quick_answer": "You can't make a screenshot sharper than your screen, so skip it. On iOS 27+, pause the video in Photos, tap ••• and choose Save Video Frame as Photo. On older iOS, or for several frames or PNG output, open the clip in Video To Photo – Grab Frame, tap Grab This Frame and export. Both save the real frame, with no controls or black bars.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>How to screenshot a video on iPhone (the usual way)</h2><ol><li>Play the video in Photos and pause at the moment you want.</li><li>Tap the screen until the controls disappear.</li><li>Press the <strong>side button</strong> and <strong>volume up</strong> together (or the Home button and side button on older iPhones).</li><li>Tap the thumbnail, crop out any black bars and tap <strong>Done</strong>.</li></ol><p>It works — but you'll notice three problems.</p><h2>Why video screenshots lose quality</h2><ul><li><strong>Screen resolution, not video resolution.</strong> A landscape 4K video (3840 × 2160) shown on a portrait iPhone screen occupies only a thin band. After cropping, your photo can be well under a third of the width the video really has.</li><li><strong>Hard to hit the exact frame.</strong> Pausing by tap is imprecise, so the blink or the blur you wanted to avoid is often the frame you get.</li><li><strong>Extra compression and clutter.</strong> Controls, captions or the progress bar can sneak in, and cropping adds another save.</li></ul><blockquote><p>The fix is not a better screenshot. It's not taking a screenshot at all.</p></blockquote><h2>No-screenshot method 1: iOS 27 Photos</h2><p>Open the video in Photos, pause on the moment, tap the <strong>•••</strong> button and choose <strong>Save Video Frame as Photo</strong>. The frame is saved at the video's resolution as HEIF or JPG. It saves one frame per tap and files the photo under the video's original date.</p><h2>No-screenshot method 2: a frame grabber (any iOS, many frames)</h2><p>On iOS 26 or earlier, or when you want several frames, PNG, or a ZIP or PDF of stills, a frame grabber reads the images straight out of the video file and lets you export them in one go.</p>",
+  "steps_title": "How to save a video frame on iPhone without a screenshot",
+  "steps": [
+    {
+      "name": "Open the video in the app",
+      "text": "In Photos, open the clip, tap Share and choose the app — or open Video To Photo – Grab Frame and pick the video.",
+      "shot": 0
+    },
+    {
+      "name": "Stop on the exact frame",
+      "text": "Drag slowly along the filmstrip until the large preview shows the moment you want. No pausing race against playback.",
+      "shot": 1
+    },
+    {
+      "name": "Tap Grab This Frame",
+      "text": "The frame is saved to the tray. Grab a couple of neighbours too and compare them in the preview.",
+      "shot": 2
+    },
+    {
+      "name": "Export as PNG or HEIC",
+      "text": "PNG is lossless and HEIC keeps high quality in small files. Save to Photos or Files and you're done.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Screenshot vs extracted frame</h2><table><thead><tr><th></th><th>Screenshot</th><th>Extracted frame</th></tr></thead><tbody><tr><td>Resolution</td><td>Limited to your screen</td><td>The video's own resolution</td></tr><tr><td>Exact moment</td><td>Hit or miss</td><td>Scrub to the frame</td></tr><tr><td>Controls / bars</td><td>Often visible, needs cropping</td><td>Never</td></tr><tr><td>Many frames</td><td>One screenshot at a time</td><td>Batch export, ZIP or PDF</td></tr><tr><td>Format</td><td>PNG screenshot</td><td>JPG, PNG or HEIC</td></tr></tbody></table><h2>Getting the sharpest result</h2><p>An extracted frame can only be as sharp as the video. Moments with less movement, good light and higher resolution recordings give the best stills. Our guide on <a href=\"/guides/clear-high-quality-picture-from-video/\">getting a clear picture from a video</a> covers settings to use before you record.</p><p>If you just need <em>some</em> image to text a friend, a screenshot is fine. For anything you'll print, post or keep, extract the frame.</p>",
+  "faq": [
+    {
+      "q": "Why is my screenshot of a video blurry?",
+      "a": "A screenshot captures your display, so the video is scaled down to the part of the screen it occupies. Pausing also often lands on a frame with motion blur. Extracting the frame from the file avoids both problems."
+    },
+    {
+      "q": "Can I save a video frame without a screenshot on iPhone?",
+      "a": "Yes. On iOS 27 and later, use Save Video Frame as Photo in the Photos ••• menu. On any iOS version, Video To Photo – Grab Frame extracts frames straight from the video file, with no player controls or bars."
+    },
+    {
+      "q": "Which format keeps the most quality?",
+      "a": "PNG is lossless, so it keeps every pixel of the frame. HEIC keeps very high quality in smaller files. JPG is smallest and best for quick sharing."
+    }
+  ],
+  "related": [
+    "how-to-get-a-picture-from-a-video-on-iphone",
+    "clear-high-quality-picture-from-video",
+    "video-to-jpg-png-heic-iphone"
+  ]
+}

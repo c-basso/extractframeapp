@@ -1,0 +1,65 @@
+{
+  "slug": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "frame grabber app for iPhone",
+  "secondary_keywords": [
+    "frame grabber iphone",
+    "free frame grabber app iphone",
+    "best app to get pictures from video",
+    "app to extract frame from video iphone",
+    "video to photo app"
+  ],
+  "title": "Frame Grabber App for iPhone: What to Look For in 2026",
+  "description": "Choosing a frame grabber app for iPhone? The 6 features that matter — accuracy, resolution, privacy, batch export, formats, price — and a 2-minute test.",
+  "h1": "Frame grabber app for iPhone: how to pick the right one",
+  "nav_title": "Frame grabber app for iPhone",
+  "card_title": "Choosing a frame grabber app for iPhone",
+  "excerpt": "Six things that separate a good video-to-photo app from a screenshot tool with ads — and a checklist to test any app in two minutes.",
+  "lead": "Search the App Store for \"video to photo\" and you'll find dozens of look-alike apps. Most do the basics. The difference shows up in the details: how precisely you can pick a frame, what size the result is, and whether your video gets uploaded.",
+  "quick_answer": "A good frame grabber app lets you scrub to the exact frame, saves it from the video file (not a screen capture), works on-device, grabs many frames in one pass and exports in several formats. Video To Photo – Grab Frame does all of that and adds ZIP and PDF export and reopenable projects.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>What is a frame grabber?</h2><p>A frame grabber is an app that pulls individual still images (frames) out of a video and saves them as photos. Since iOS 27, the Photos app can save one paused frame with <em>Save Video Frame as Photo</em>. A dedicated app is still worth it on older iOS, and when you need many frames, PNG files, or a ZIP or PDF of stills.</p><h2>6 things to look for</h2><ol><li><strong>Precise frame selection.</strong> A filmstrip or scrubber that lets you land on the exact moment, not just the nearest second.</li><li><strong>Real frame extraction.</strong> The image should come from the video file, not a picture of the screen. Test it: grab a frame from a landscape 4K clip and check the image size.</li><li><strong>On-device processing.</strong> Your family videos shouldn't need an upload. Check the App Privacy label and try it in airplane mode.</li><li><strong>Batch grabbing.</strong> Storyboards, sports and tutorials need many frames. Tapping once per frame and exporting once is a huge time-saver.</li><li><strong>Formats and containers.</strong> JPG, PNG and HEIC cover every use. ZIP and PDF export are rare but useful for sending sets of frames.</li><li><strong>Fair pricing.</strong> Look at what's free, what needs a subscription, and whether there's a one-time option.</li></ol>",
+  "steps_title": "How to test a frame grabber app in two minutes",
+  "steps": [
+    {
+      "name": "Open a real video",
+      "text": "Use a landscape clip with movement. In Video To Photo – Grab Frame, share it from Photos and it opens straight into frame-grab mode.",
+      "shot": 0
+    },
+    {
+      "name": "Try to hit one exact frame",
+      "text": "Scrub to a blink or a ball in mid-air. The filmstrip plus large preview should make that easy — tap Grab This Frame.",
+      "shot": 1
+    },
+    {
+      "name": "Grab several and review",
+      "text": "Grab four or five frames, then preview and zoom. You should be able to delete misses before exporting.",
+      "shot": 2
+    },
+    {
+      "name": "Export and check the file",
+      "text": "Export as PNG and open the image info in Photos. The dimensions should match the video, not your screen.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>How Video To Photo – Grab Frame stacks up</h2><table><thead><tr><th>Feature</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Open from Photos share sheet</td><td>Yes — lands directly in frame-grab mode</td></tr><tr><td>Frame source</td><td>Extracted from the video file</td></tr><tr><td>Batch grabbing</td><td>Grab many frames in one session</td></tr><tr><td>Formats</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export as</td><td>Separate files, ZIP archive or PDF</td></tr><tr><td>Projects</td><td>Saved and reopenable</td></tr><tr><td>Privacy</td><td>100% on-device, no account; App Privacy: no data linked to you</td></tr><tr><td>Price</td><td>Free download; Pro via in-app purchase (free trial, annual or lifetime)</td></tr></tbody></table><h2>When you don't need an app</h2><p>If you're on iOS 27 and need a single frame, use Photos: pause the video, tap ••• and choose Save Video Frame as Photo. On older iOS, a screenshot is fine for a rough, one-off image. The moment quality, precision or quantity matter, a dedicated frame grabber pays off. For a wider market overview, see our blog's <a href=\"/blog/best-apps-extract-frames-from-video/\">best apps to extract frames from video</a>.</p>",
+  "faq": [
+    {
+      "q": "Is there a free frame grabber app for iPhone?",
+      "a": "Video To Photo – Grab Frame is a free download. Some features are part of Pro, available through in-app purchase with a free trial, an annual plan or a one-time lifetime option. Check the App Store listing for current pricing in your country."
+    },
+    {
+      "q": "Do frame grabber apps upload my videos?",
+      "a": "Some online tools do. Video To Photo – Grab Frame processes everything on your iPhone and works offline, so your videos never leave the device."
+    },
+    {
+      "q": "Does it work with 4K and slow-motion videos?",
+      "a": "Yes, it works with videos in your Photos library, including 4K, 60 fps and slow-motion clips. Higher-quality recordings give sharper stills."
+    }
+  ],
+  "related": [
+    "how-to-get-a-picture-from-a-video-on-iphone",
+    "extract-multiple-frames-from-video",
+    "video-frames-to-pdf"
+  ]
+}

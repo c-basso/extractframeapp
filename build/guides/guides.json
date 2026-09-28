@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Video to Photo Guides for iPhone | Grab Frame",
+    "description": "Step-by-step iPhone guides: get a picture from a video, save frames in full quality, batch export, make thumbnails and turn video frames into JPG, PNG or PDF.",
+    "eyebrow": "Guides",
+    "h1": "Video to photo on iPhone: every guide in one place",
+    "intro": "Each guide answers one question people search for, explains what works (and what doesn't) with the built-in iPhone tools, then shows the quickest way to do it with Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Home",
+    "guides": "Guides",
+    "guide_eyebrow": "iPhone guide",
+    "quick_answer": "Quick answer",
+    "by": "By",
+    "updated": "Updated",
+    "min_read": "min read",
+    "faq_title": "Frequently asked questions",
+    "related": "Related guides",
+    "read_guide": "Read the guide",
+    "inline_cta": "Try it on your own video — it takes about a minute.",
+    "app_card_cta": "Get it on the App Store",
+    "app_card_fine": "Free download · in-app purchases · iOS 18.6+",
+    "app_card_bullets": ["Frame-accurate scrubbing", "JPG, PNG or HEIC", "Batch export to ZIP or PDF", "Offline — no upload, no account"],
+    "final_cta_title": "Your best photo is hiding in a video.",
+    "final_cta_text": "Grab it in full quality, right on your iPhone. No upload, no account, no editing skills."
+  }
+}

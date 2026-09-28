@@ -1,0 +1,67 @@
+{
+  "slug": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to JPG / PNG converter",
+  "secondary_keywords": [
+    "video to jpg converter high quality",
+    "video to jpg",
+    "video to png",
+    "video to png frames",
+    "video to heic",
+    "convert video to image iphone",
+    "video to image converter app"
+  ],
+  "title": "Video to JPG, PNG or HEIC on iPhone: High-Quality Frames",
+  "description": "Convert video frames to JPG, PNG or HEIC on iPhone — offline and in high quality. Which format to choose for sharing, editing or storage, and how to export.",
+  "h1": "Video to JPG, PNG or HEIC on iPhone",
+  "nav_title": "Video to JPG, PNG or HEIC",
+  "card_title": "Convert video frames to JPG, PNG or HEIC",
+  "excerpt": "Which image format to pick for your video frames — and how to export them on iPhone without an online converter.",
+  "lead": "Online \"video to JPG\" converters want you to upload the whole file, wait, and download a pile of images. On iPhone you can do it locally, pick only the frames you want, and choose the right format for the job.",
+  "quick_answer": "Open the video in Video To Photo – Grab Frame, grab the frames you want, tap Export and choose JPEG, PNG or HEIC. Use JPG for sharing, PNG for lossless editing and HEIC for the smallest high-quality files. Everything is converted on your iPhone — no upload.",
+  "datePublished": "2026-09-28",
+  "content_intro": "<h2>JPG vs PNG vs HEIC for video frames</h2><table><thead><tr><th>Format</th><th>Quality</th><th>File size</th><th>Best for</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Very good (lossy)</td><td>Small</td><td>Messages, social media, email, websites — works everywhere</td></tr><tr><td><strong>PNG</strong></td><td>Lossless</td><td>Largest</td><td>Editing, thumbnails with text, collages, anything you'll re-save</td></tr><tr><td><strong>HEIC</strong></td><td>Excellent (efficient)</td><td>Smallest for the quality</td><td>Keeping in your Apple Photos library, iPhone-to-Mac workflows</td></tr></tbody></table><p>Not sure? Pick <strong>JPG</strong> for sharing and <strong>PNG</strong> for anything you'll edit. Our blog covers the trade-offs in depth: <a href=\"/blog/heic-vs-jpg-exporting-frames/\">HEIC vs JPG when exporting frames</a>.</p><h2>Why not an online video-to-JPG converter?</h2><ul><li>You have to upload the full video — slow on mobile data and not great for private clips.</li><li>Many convert at fixed intervals, so you get hundreds of images but maybe not the moment you wanted.</li><li>Free tiers often cap file size or add watermarks.</li></ul>",
+  "steps_title": "How to convert video frames to JPG, PNG or HEIC on iPhone",
+  "steps": [
+    {
+      "name": "Open the video",
+      "text": "Share it from Photos to Video To Photo – Grab Frame, or open the app and pick the clip.",
+      "shot": 0
+    },
+    {
+      "name": "Grab the frames to convert",
+      "text": "Scrub to each moment and tap Grab This Frame. Only the frames you pick get converted.",
+      "shot": 1
+    },
+    {
+      "name": "Pick JPEG, PNG or HEIC",
+      "text": "Tap Export and choose the image format at the top of the export sheet.",
+      "shot": 3
+    },
+    {
+      "name": "Choose files, ZIP or PDF and save",
+      "text": "Export as separate images, one ZIP archive or a PDF, then save to Photos or Files or share anywhere.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Format tips by use case</h2><ul><li><strong>YouTube or TikTok thumbnail</strong> → PNG, then add text. See <a href=\"/guides/make-thumbnail-from-video-iphone/\">making a thumbnail from a video</a>.</li><li><strong>Sending to Windows or Android users</strong> → JPG (HEIC isn't supported everywhere).</li><li><strong>Printing</strong> → PNG or high-quality JPG from a 4K clip.</li><li><strong>Archiving lots of frames</strong> → HEIC in a ZIP to save space.</li><li><strong>A document of frames</strong> → PDF export. See <a href=\"/guides/video-frames-to-pdf/\">video frames to PDF</a>.</li></ul><h2>Does converting reduce quality?</h2><p>PNG keeps every pixel of the extracted frame. JPG and HEIC use compression, but at the quality levels used for photos the difference is very hard to see. What matters far more is extracting the frame from the file rather than taking a screenshot.</p>",
+  "faq": [
+    {
+      "q": "Can I convert a video to JPG on iPhone for free?",
+      "a": "Video To Photo – Grab Frame is a free download with optional Pro features via in-app purchase. It converts frames on your iPhone without uploading the video."
+    },
+    {
+      "q": "Can I convert a video to PNG frames?",
+      "a": "Yes. Grab the frames you want and choose PNG in the export sheet. Export them as separate PNG files or as one ZIP archive."
+    },
+    {
+      "q": "Can Windows open HEIC files?",
+      "a": "Newer Windows versions can with the right extension, but support isn't universal. If you're sending frames to someone outside Apple devices, export as JPG."
+    }
+  ],
+  "related": [
+    "clear-high-quality-picture-from-video",
+    "video-frames-to-pdf",
+    "make-thumbnail-from-video-iphone"
+  ]
+}
