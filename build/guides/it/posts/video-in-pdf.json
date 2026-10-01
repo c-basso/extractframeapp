@@ -1,0 +1,64 @@
+{
+  "slug": "video-in-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video in PDF",
+  "secondary_keywords": [
+    "convertire video in pdf",
+    "fotogrammi video in pdf",
+    "storyboard da video"
+  ],
+  "title": "Trasformare un video in PDF su iPhone, senza caricarlo",
+  "description": "Come trasformare un video in PDF su iPhone: scegli i fotogrammi chiave e raccoglili in un unico PDF per storyboard, appunti o approvazioni. Offline.",
+  "h1": "Come trasformare un video in PDF su iPhone",
+  "nav_title": "Video in PDF",
+  "card_title": "Trasformare i fotogrammi di un video in PDF",
+  "excerpt": "I momenti chiave di un video in un unico PDF pulito: storyboard, lezioni e approvazioni.",
+  "lead": "Un PDF con i fotogrammi chiave è il modo più rapido per mostrare cosa succede in un video a chi non lo guarderà: un cliente che approva un montaggio, uno studente che ripassa una lezione, un team che approva uno storyboard.",
+  "quick_answer": "Apri il video in Video To Photo – Grab Frame, cattura ogni momento chiave, tocca Esporta, scegli un formato immagine e PDF come formato di salvataggio. Ottieni un PDF con quei fotogrammi, pronto per AirDrop, WhatsApp, email o File.",
+  "content_intro": "<h2>Cosa significa «video in PDF»</h2><p>Un PDF non riproduce video: trasformare un video in PDF significa salvare <strong>fermi immagine</strong> e raccoglierli in un documento. Conta scegliere <em>quali</em>: un PDF di 900 fotogrammi uguali non serve, uno dei 12 momenti chiave vale oro.</p><h2>A cosa serve</h2><ul><li><strong>Storyboard e liste inquadrature</strong>: un fotogramma per scena per pianificare o presentare.</li><li><strong>Appunti delle lezioni</strong>: slide e lavagna di una lezione registrata.</li><li><strong>Approvazioni dei clienti</strong>: commentare un PDF è più semplice che cercare nel video.</li><li><strong>Analisi sportiva</strong>: le fasi chiave di un gesto in ordine.</li><li><strong>Guide</strong>: una registrazione dello schermo trasformata in passaggi.</li></ul>",
+  "steps_title": "Come trasformare i fotogrammi di un video in PDF su iPhone",
+  "steps": [
+    {
+      "name": "Apri il video",
+      "text": "Condividilo da Foto con Video To Photo – Grab Frame o sceglilo nell'app.",
+      "shot": 0
+    },
+    {
+      "name": "Cattura i momenti chiave",
+      "text": "Scorri il video e tocca cattura su ogni scena, slide o passaggio che vuoi nel documento.",
+      "shot": 1
+    },
+    {
+      "name": "Scegli PDF all'esportazione",
+      "text": "Tocca Esporta, scegli JPEG, PNG o HEIC per le immagini e PDF come formato di salvataggio.",
+      "shot": 3
+    },
+    {
+      "name": "Condividi o salva il PDF",
+      "text": "Salvalo in File o invialo con AirDrop, WhatsApp o email dal menu Condividi.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Consigli per un PDF pulito</h2><ul><li>Cattura i fotogrammi in ordine, dall'inizio alla fine.</li><li>Scegli momenti in cui il testo sullo schermo si vede tutto, senza transizioni.</li><li>Per slide o testo piccolo scegli PNG.</li><li>Il progetto viene salvato: aggiungi fotogrammi e riesporta quando vuoi.</li></ul><h2>PDF o ZIP?</h2><p><strong>PDF</strong> quando i fotogrammi vanno letti e commentati in ordine. <strong>ZIP</strong> quando servono i file separati, ad esempio per la grafica. Entrambi in <a href=\"/it/guides/estrarre-fotogrammi-da-video/\">estrarre fotogrammi da un video</a>.</p>",
+  "faq": [
+    {
+      "q": "Posso trasformare un video in PDF senza caricarlo online?",
+      "a": "Sì. Video To Photo – Grab Frame crea il PDF sull'iPhone dai fotogrammi catturati; il video non lascia il dispositivo."
+    },
+    {
+      "q": "In che ordine compaiono i fotogrammi nel PDF?",
+      "a": "Il PDF contiene i fotogrammi che hai catturato: catturali dall'inizio alla fine perché il documento segua l'ordine del video."
+    },
+    {
+      "q": "Come faccio uno storyboard da un video sul telefono?",
+      "a": "Cattura un fotogramma per inquadratura o scena ed esporta in PDF. Otterrai uno storyboard semplice da annotare con Annotazioni o qualsiasi app PDF."
+    }
+  ],
+  "related": [
+    "estrarre-fotogrammi-da-video",
+    "convertire-video-in-jpg",
+    "app-per-estrarre-foto-da-video"
+  ],
+  "datePublished": "2026-09-30"
+}

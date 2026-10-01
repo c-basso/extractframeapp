@@ -1,0 +1,65 @@
+{
+  "slug": "chuyen-video-sang-jpg",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "chuyển video sang JPG",
+  "secondary_keywords": [
+    "chuyển video sang jpg",
+    "chuyển video thành ảnh",
+    "chuyển video thành ảnh png",
+    "chuyển video mp4 sang jpg"
+  ],
+  "title": "Chuyển video sang JPG, PNG, HEIC trên iPhone (offline)",
+  "description": "Chuyển khung hình từ video sang JPG, PNG hoặc HEIC trên iPhone, offline và giữ nguyên chất lượng. Kèm cách chọn định dạng để gửi, chỉnh sửa hay lưu trữ.",
+  "h1": "Chuyển video sang JPG, PNG hoặc HEIC trên iPhone",
+  "nav_title": "Chuyển video sang JPG, PNG",
+  "card_title": "Chuyển khung hình video sang JPG, PNG, HEIC",
+  "excerpt": "Định dạng phù hợp cho khung hình và cách xuất không cần trang chuyển đổi online.",
+  "lead": "Các trang \"chuyển video thành ảnh online\" bắt bạn tải cả tệp lên, chờ đợi rồi tải về một đống ảnh. Trên iPhone, bạn làm ngay trên máy, chỉ với khung hình cần thiết, ở định dạng hợp mục đích.",
+  "quick_answer": "Mở video trong Video To Photo – Grab Frame, lưu các khung hình cần, chạm Xuất và chọn JPEG, PNG hoặc HEIC. JPG để gửi, PNG để chỉnh sửa không mất chất lượng, HEIC cho tệp nhỏ mà nét. Việc chuyển đổi diễn ra trên iPhone, không cần tải lên.",
+  "content_intro": "<h2>JPG, PNG và HEIC khác nhau thế nào</h2><table><thead><tr><th>Định dạng</th><th>Chất lượng</th><th>Dung lượng</th><th>Phù hợp nhất</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Rất tốt (có nén mất dữ liệu)</td><td>Nhỏ</td><td>Zalo, Messenger, mạng xã hội, email, web. Mở được mọi nơi</td></tr><tr><td><strong>PNG</strong></td><td>Không mất dữ liệu</td><td>Lớn nhất</td><td>Chỉnh sửa, thumbnail có chữ, ảnh ghép</td></tr><tr><td><strong>HEIC</strong></td><td>Xuất sắc</td><td>Nhỏ nhất ở cùng chất lượng</td><td>Thư viện Apple, iPhone và Mac</td></tr></tbody></table><p>Chưa chắc? <strong>JPG</strong> để gửi, <strong>PNG</strong> để chỉnh sửa.</p><h2>Vì sao không dùng trang chuyển đổi online</h2><ul><li>Phải tải cả video lên: chậm với 4G và không hợp với video riêng tư.</li><li>Nhiều trang cắt theo khoảng thời gian cố định: hàng trăm ảnh nhưng có thể không có khoảnh khắc của bạn.</li><li>Bản miễn phí thường giới hạn dung lượng hoặc có hình mờ.</li></ul>",
+  "steps_title": "Cách chuyển khung hình video sang JPG, PNG hoặc HEIC trên iPhone",
+  "steps": [
+    {
+      "name": "Mở video",
+      "text": "Chia sẻ từ Ảnh sang Video To Photo – Grab Frame hoặc chọn trong ứng dụng.",
+      "shot": 0
+    },
+    {
+      "name": "Lưu khung hình",
+      "text": "Chạm lưu ở mỗi khoảnh khắc. Chỉ những khung hình đã chọn được chuyển đổi.",
+      "shot": 1
+    },
+    {
+      "name": "Chọn JPEG, PNG hoặc HEIC",
+      "text": "Chạm Xuất và chọn định dạng ảnh ở phía trên.",
+      "shot": 3
+    },
+    {
+      "name": "Lưu thành tệp, ZIP hoặc PDF",
+      "text": "Xuất ảnh riêng, ZIP hoặc PDF rồi lưu vào Ảnh hoặc Tệp, hay chia sẻ ngay.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Định dạng nào cho việc gì?</h2><ul><li><strong>Thumbnail YouTube hoặc ảnh bìa TikTok</strong> → PNG rồi thêm chữ. Xem <a href=\"/vi/guides/lam-thumbnail-youtube/\">làm thumbnail YouTube từ video</a>.</li><li><strong>Gửi sang Windows hoặc Android</strong> → JPG (HEIC không mở được ở mọi nơi).</li><li><strong>In ảnh</strong> → PNG hoặc JPG chất lượng cao từ video 4K.</li><li><strong>Lưu trữ nhiều khung hình</strong> → HEIC trong ZIP.</li><li><strong>Khung hình trong tài liệu</strong> → PDF, xem <a href=\"/vi/guides/chuyen-video-sang-pdf/\">chuyển video sang PDF</a>.</li></ul><h2>Chuyển đổi có làm giảm chất lượng không?</h2><p>PNG giữ mọi điểm ảnh của khung hình. JPG và HEIC có nén, nhưng ở chất lượng ảnh chụp thì khác biệt gần như không thấy. Quan trọng hơn định dạng nhiều là xuất từ tệp chứ không chụp màn hình.</p>",
+  "faq": [
+    {
+      "q": "Có chuyển video sang JPG miễn phí trên iPhone được không?",
+      "a": "Video To Photo – Grab Frame tải miễn phí; tính năng Pro là mua trong ứng dụng. Khung hình được chuyển đổi trên iPhone và video không bị tải lên."
+    },
+    {
+      "q": "Có lưu khung hình từ video thành PNG được không?",
+      "a": "Được. Lưu khung hình, chọn PNG khi xuất rồi lưu thành tệp riêng hoặc ZIP."
+    },
+    {
+      "q": "Windows có mở được HEIC không?",
+      "a": "Windows mới mở được HEIC với tiện ích mở rộng, nhưng không phải máy nào cũng được. Gửi sang thiết bị không phải Apple thì JPG an toàn hơn."
+    }
+  ],
+  "related": [
+    "cat-anh-tu-video-net",
+    "chuyen-video-sang-pdf",
+    "lam-thumbnail-youtube"
+  ],
+  "datePublished": "2026-10-01"
+}

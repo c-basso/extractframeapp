@@ -1,0 +1,64 @@
+{
+  "slug": "shraniti-sliko-iz-videa",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "kako shraniti sliko iz videa",
+  "secondary_keywords": [
+    "shraniti sliko iz videa",
+    "zajem slike iz videa",
+    "sličica iz videa"
+  ],
+  "title": "Kako shraniti sliko iz videa na iPhonu",
+  "description": "Shranite eno sličico iz videa kot fotografijo na iPhonu: poiščite trenutek, ga shranite v polni ločljivosti in izvozite v Fotografije ali Datoteke.",
+  "h1": "Kako shraniti sliko iz videa na iPhonu",
+  "nav_title": "Shraniti sliko",
+  "card_title": "Kako shraniti sliko iz videa",
+  "excerpt": "Ena sličica, polna ločljivost, shranjena v Fotografije ali Datoteke.",
+  "lead": "Včasih potrebujete le eno sliko: za profil, voščilnico ali sporočilo. Tako shranite sliko iz videa na iPhonu, točno tja, kjer jo potrebujete.",
+  "quick_answer": "Delite video iz Fotografij v Video To Photo – Grab Frame, poiščite sličico, jo shranite in tapnite Izvozi. Slika gre v Fotografije ali Datoteke. V iOS 27 zmorejo to tudi Fotografije: ustavite video, ••• → shrani sličico kot fotografijo.",
+  "content_intro": "<h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p><h2>Kam se slika shrani?</h2><table><thead><tr><th>Cilj</th><th>Za kaj</th></tr></thead><tbody><tr><td>Fotografije (Nedavno)</td><td>Deljenje, albumi, iCloud</td></tr><tr><td>Datoteke</td><td>Delo, tisk, računalnik</td></tr><tr><td>Deli</td><td>Neposredno v Viber, WhatsApp, e-pošto</td></tr></tbody></table>",
+  "steps_title": "Shranjevanje slike iz videa",
+  "steps": [
+    {
+      "name": "Odprite video v aplikaciji",
+      "text": "V Fotografijah tapnite Deli → Video To Photo – Grab Frame ali odprite aplikacijo in izberite video.",
+      "shot": 0
+    },
+    {
+      "name": "Poiščite sličico",
+      "text": "Vlecite trak sličic, dokler ne pridete do pravega trenutka.",
+      "shot": 1
+    },
+    {
+      "name": "Shranite sličico",
+      "text": "Tapnite gumb za shranjevanje. Sličica se pojavi v pladnju.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite",
+      "text": "Izberite format in cilj: Fotografije, Datoteke ali Deli.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Se datum ohrani?</h2><p>V iOS 27 Fotografije shranijo sličico z datumom videa. Po izvozu iz aplikacije preverite podatke o fotografiji, če vam je datum pomemben.</p><h2>Pogoste napake</h2><ul><li>Sličica v gibanju: izberite sosednjo.</li><li>Stisnjena kopija: uporabite izvirni video.</li></ul>",
+  "faq": [
+    {
+      "q": "Kam se shrani slika iz videa?",
+      "a": "V Fotografije med nedavne ali v Datoteke, če to izberete."
+    },
+    {
+      "q": "Lahko shranim v PNG?",
+      "a": "Da, v Video To Photo – Grab Frame. Fotografije v iOS 27 shranjujejo v HEIF ali JPG."
+    },
+    {
+      "q": "Potrebujem internet?",
+      "a": "Ne. Vse poteka na iPhonu."
+    }
+  ],
+  "related": [
+    "slika-iz-videa-iphone",
+    "video-v-slike",
+    "video-v-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

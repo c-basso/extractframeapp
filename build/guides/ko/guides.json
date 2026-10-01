@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "가이드: 아이폰 동영상에서 사진 추출하는 방법 모음",
+    "description": "아이폰 동영상에서 사진을 추출하는 가이드 모음. 캡쳐보다 고화질로 저장하는 법, 장면 저장, 프레임 추출, PDF 변환, 썸네일 만들기, JPG·PNG 변환까지.",
+    "eyebrow": "가이드",
+    "h1": "아이폰 동영상에서 사진: 모든 가이드",
+    "intro": "각 가이드는 하나의 질문에 답합니다. 아이폰 기본 기능으로 할 수 있는 것(과 할 수 없는 것), 그리고 Video To Photo – Grab Frame으로 가장 빠르게 하는 방법."
+  },
+  "labels": {
+    "home": "홈",
+    "guides": "가이드",
+    "guide_eyebrow": "아이폰 가이드",
+    "quick_answer": "요약",
+    "by": "작성자:",
+    "updated": "업데이트",
+    "min_read": "분 분량",
+    "faq_title": "자주 묻는 질문",
+    "related": "관련 가이드",
+    "read_guide": "가이드 읽기",
+    "inline_cta": "가지고 있는 동영상으로 직접 해 보세요. 1분이면 됩니다.",
+    "app_card_cta": "App Store에서 다운로드",
+    "app_card_fine": "무료 · 앱 내 구입 · iOS 18.6 이상",
+    "app_card_bullets": ["정확한 프레임 선택", "JPG·PNG·HEIC", "ZIP·PDF 일괄 내보내기", "오프라인, 업로드·계정 불필요"],
+    "final_cta_title": "가장 좋은 사진은 동영상 안에 있습니다.",
+    "final_cta_text": "화질 그대로 아이폰에 저장하세요. 업로드도, 계정도, 편집 실력도 필요 없습니다."
+  }
+}

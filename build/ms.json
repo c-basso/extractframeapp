@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ms",
-    "title": "Aplikasi video ke foto / gambar iPhone | Video To Photo",
-    "description": "Video ke foto pada iPhone: simpan satu bingkai atau eksport banyak sebagai JPG, PNG atau HEIC dalam beberapa saat — diproses pada peranti, tanpa muat naik.",
-    "keywords": "video ke foto, video ke gambar, bingkai video, ekstrak bingkai dari video, pengekstrak bingkai video, iPhone bingkai video, simpan bingkai, jpg dari video, png dari video, heic dari video, eksport batch, kongsi dari foto",
+    "title": "Ambil Gambar dari Video di iPhone – Tajam | Grab Frame",
+    "description": "Ambil gambar dari video di iPhone dengan kualiti penuh. Bukan screenshot, tetapi bingkai tepat dalam JPG, PNG atau HEIC, atau ZIP dan PDF. Tanpa internet.",
+    "keywords": "cara ambil gambar dari video, gambar dari video, cara tukar video ke gambar, video ke gambar, cara screenshot video, aplikasi ambil gambar dari video, video to jpg, video to pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/ms/",
-    "og_title": "Video ke foto untuk iPhone",
-    "og_description": "Video ke foto pada iPhone. Pilih detik tepat dan eksport bingkai sebagai JPG, PNG atau HEIC — diproses pada peranti, tanpa muat naik.",
+    "og_title": "Gambar dari video di iPhone — bingkai tepat, tajam",
+    "og_description": "Cari detiknya dan simpan satu atau berpuluh-puluh bingkai dalam JPG, PNG atau HEIC, atau ZIP dan PDF. Semuanya pada peranti.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "ms_MY",
     "twitter_url": "https://extractframeapp.com/ms/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video ke foto pada iPhone. Bingkai tepat, pemprosesan pada peranti, eksport batch dan format JPG, PNG, HEIC.",
+    "twitter_title": "Gambar dari video — Grab Frame",
+    "twitter_description": "Foto HD daripada video iPhone anda. JPG, PNG, HEIC, ZIP, PDF. Luar talian, tanpa muat naik.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/ms/",
@@ -21,18 +21,25 @@
     "geo_placename": "Malaysia"
   },
   "hero": {
-    "logo_alt": "Logo Video To Photo - Grab Frame",
-    "title": "Ekstrak Bingkai dari Video pada iPhone",
-    "subtitle": "Video ke foto dan gambar—simpan bingkai tepat dari klip anda dalam beberapa saat",
-    "entity_definition": "Video To Photo - Grab Frame ialah aplikasi iOS yang menukar video kepada foto diam pada iPhone. Pilih detik tepat dan eksport bingkai sebagai JPG, PNG atau HEIC.",
-    "subheadline": "Buka dari Foto, leret ke detik yang betul, dan simpan satu atau banyak bingkai. Tanpa akaun, muat naik dan garis masa suntingan.",
-    "download_alt": "Muat turun di App Store",
-    "phone_text": "Ketik untuk mengambil bingkai dari video",
-    "qr_alt": "Kod QR untuk muat turun aplikasi",
-    "qr_text": "Imbas dengan iPhone untuk muat turun"
+    "logo_alt": "Ikon apl Video To Photo – Grab Frame",
+    "title": "Gambar dari video di iPhone — bingkai tepat, tajam",
+    "title_html": "Ambil <span class=\"grad-text\">gambar dari video</span>. Tepat pada bingkai yang anda mahu, tajam.",
+    "subtitle": "Seret ke detiknya dan simpan satu atau berpuluh-puluh bingkai. Eksport ke JPG, PNG atau HEIC. Semuanya berlaku di iPhone: tanpa muat naik, tanpa akaun.",
+    "entity_definition": "Video To Photo – Grab Frame ialah apl iPhone yang mengambil bingkai daripada video dan menyimpannya sebagai foto beresolusi tinggi. Semua pemprosesan berlaku pada peranti.",
+    "subheadline": "Kongsi dari Foto, cari detiknya, simpan. Siap.",
+    "download_alt": "Muat turun Video To Photo – Grab Frame di App Store",
+    "phone_text": "Ketik untuk ambil gambar dari video",
+    "qr_alt": "Kod QR untuk memuat turun Video To Photo – Grab Frame",
+    "qr_text": "Imbas dengan kamera iPhone untuk memasang",
+    "bullets": [
+      "Berfungsi luar talian",
+      "JPG, PNG, HEIC",
+      "Eksport ke ZIP dan PDF",
+      "Tanpa akaun"
+    ]
   },
   "last_updated": {
-    "text": "Kemas kini terakhir: 16 Jun 2026"
+    "text": "Kemas kini terakhir: 1 Oktober 2026"
   },
   "features": {
     "title": "Mengapa memilih video ke foto",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Cara Mengekstrak Bingkai dari Video pada iPhone",
-    "subtitle": "Langkah mudah untuk menyimpan foto diam sempurna dari klip anda",
-    "placeholder_line1": "📱 Video demo akan datang",
-    "placeholder_line2": "Langkah 1: Buka dari Foto > Langkah 2: Leret ke detik > Langkah 3: Ambil bingkai > Langkah 4: Eksport JPG/PNG/HEIC"
+    "title": "Cara ambil gambar dari video di iPhone",
+    "subtitle": "Empat langkah, kira-kira seminit. Tiada apa yang perlu dipelajari."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Buka dari Foto",
-        "text": "Kongsi video dari Foto ke {{app_info.name}}, atau buka aplikasi dahulu dan pilih klip anda."
+        "name": "Kongsi video dari Foto",
+        "text": "Buka video dalam apl Foto, ketik Kongsi dan pilih apl ini. Atau buka apl dan pilih video. Paparan bingkai terus dibuka."
       },
       {
-        "name": "Cari Detik Tepat",
-        "text": "Gunakan kawalan leret untuk bergerak bingkai demi bingkai dan berhenti pada imej yang diingini."
+        "name": "Cari detik dan simpan",
+        "text": "Seret jalur bingkai ke bingkai yang dikehendaki dan ketik simpan. Ulang untuk setiap bingkai yang anda mahu."
       },
       {
-        "name": "Ambil Satu atau Banyak Bingkai",
-        "text": "Tangkap satu bingkai atau tandakan beberapa detik untuk eksport batch."
+        "name": "Simpan yang terbaik sahaja",
+        "text": "Buka bingkai dalam skrin penuh, zum untuk semak ketajaman dan padam yang kabur."
       },
       {
-        "name": "Eksport dan Simpan",
-        "text": "Simpan bingkai sebagai JPG, PNG atau HEIC, atau eksport sebagai ZIP atau PDF."
+        "name": "Eksport dan kongsi",
+        "text": "Pilih JPEG, PNG atau HEIC dan simpan sebagai fail berasingan, ZIP atau PDF."
       }
     ]
   },
@@ -151,45 +156,65 @@
     ]
   },
   "faq": {
-    "title": "Soalan Lazim: Video ke Foto pada iPhone",
+    "eyebrow": "Soalan lazim",
+    "title": "Gambar dari video di iPhone: soalan lazim",
+    "learn_more": "Ketahui lebih lanjut",
     "items": [
       {
-        "question": "Bagaimana saya mengekstrak bingkai dari video pada iPhone?",
-        "answer": "Buka klip dalam Video To Photo - Grab Frame, leret ke detik tepat, dan tangkap bingkai. Kemudian eksport sebagai JPG, PNG atau HEIC."
+        "question": "Bagaimana cara ambil gambar dari video di iPhone?",
+        "answer": "Mulai iOS 27, buka video dalam apl Foto, jeda dan simpan bingkai sebagai foto daripada menu ••• (satu demi satu). Di iOS lama, atau untuk banyak gambar dalam JPG, PNG, HEIC, ZIP atau PDF, guna Video To Photo – Grab Frame.",
+        "url": "/ms/guides/cara-ambil-gambar-dari-video-iphone/"
       },
       {
-        "question": "Bolehkah saya mengeksport lebih daripada satu bingkai sekaligus?",
-        "answer": "Ya. Anda boleh memilih beberapa detik dan mengeksport beberapa bingkai dalam satu batch."
+        "question": "Kenapa screenshot video hasilnya teruk?",
+        "answer": "Screenshot merakam skrin: bingkai 4K mengecil ke saiz skrin, kawalan main balik atau jalur hitam turut terakam dan video HDR jadi gelap. Simpan bingkai daripada fail melalui apl Foto di iOS 27 atau Video To Photo – Grab Frame, dan eksport ke PNG atau HEIC.",
+        "url": "/ms/guides/cara-screenshot-video-iphone/"
       },
       {
-        "question": "Format apa yang disokong?",
-        "answer": "Aplikasi menyokong JPG, PNG dan HEIC. Anda juga boleh mengeksport sebagai ZIP atau PDF."
+        "question": "Bagaimana cara simpan gambar dari video?",
+        "answer": "Kongsi video dari apl Foto ke Video To Photo – Grab Frame, cari bingkainya, simpan dan ketik Eksport. Gambar masuk ke Foto atau Fail. Video asal tidak berubah.",
+        "url": "/ms/guides/cara-simpan-gambar-dari-video-iphone/"
       },
       {
-        "question": "Adakah aplikasi memuat naik video saya?",
-        "answer": "Tidak. Pengekstrakan berjalan pada peranti — video dan imej kekal pada iPhone anda."
+        "question": "Apa yang perlu diperhatikan pada aplikasi ambil gambar dari video?",
+        "answer": "Empat perkara: pemilihan bingkai yang tepat, eksport mengikut resolusi video, pemprosesan pada peranti dan eksport pukal. Video To Photo – Grab Frame memenuhi semuanya dan mengeksport ke JPG, PNG, HEIC, ZIP atau PDF.",
+        "url": "/ms/guides/aplikasi-ambil-gambar-dari-video/"
       },
       {
-        "question": "Bolehkah saya sambung kemudian?",
-        "answer": "Ya. Anda boleh menyimpan sesi sebagai projek dan membukanya semula kemudian."
+        "question": "Bolehkah ambil banyak gambar dari video serentak?",
+        "answer": "Boleh. Simpan seberapa banyak bingkai yang anda mahu daripada satu video dan eksport bersama sebagai fail, ZIP atau PDF. Memilih bingkai yang diperlukan sahaja lebih pantas daripada menyusun ratusan gambar yang serupa.",
+        "url": "/ms/guides/tukar-video-ke-gambar/"
       },
       {
-        "question": "Adakah Video To Photo - Grab Frame percuma?",
-        "answer": "Aplikasi percuma dimuat turun; ciri lanjutan tersedia melalui pembelian dalam aplikasi."
+        "question": "Bagaimana melihat video bingkai demi bingkai di iPhone?",
+        "answer": "Jeda video dalam apl Foto dan seret jalur bingkai perlahan-lahan. Dalam Video To Photo – Grab Frame, anda menyeret dengan pratonton besar dan terus menyimpan bingkai yang tepat.",
+        "url": "/ms/guides/video-frame-demi-frame-iphone/"
       },
       {
-        "question": "Untuk siapa aplikasi ini?",
-        "answer": "Berguna untuk pencipta kandungan, pendidik, dan sesiapa yang ingin menangkap detik tertentu dari video sebagai foto diam."
+        "question": "Bagaimana mendapatkan gambar HD yang jelas dari video?",
+        "answer": "Pilih bingkai dengan sedikit pergerakan, sebaiknya rakam dalam 4K atau 60 fps, dan eksport daripada fail, bukan screenshot. Eksport ke PNG atau HEIC dan bandingkan bingkai bersebelahan untuk menyimpan yang paling tajam.",
+        "url": "/ms/guides/gambar-hd-dari-video/"
       },
       {
-        "question": "Adakah ada aplikasi video ke foto untuk iPhone?",
-        "answer": "Ya. Video To Photo - Grab Frame menukar video ke foto: buka klip, leret ke detik tepat, dan simpan bingkai sebagai JPG, PNG atau HEIC — semuanya pada iPhone anda."
+        "question": "Bagaimana menukar video ke JPG atau PNG di iPhone?",
+        "answer": "Dengan Video To Photo – Grab Frame, bingkai pilihan boleh disimpan dalam JPG, PNG atau HEIC. JPG untuk berkongsi, PNG untuk suntingan tanpa kehilangan kualiti, HEIC untuk fail kecil dan tajam.",
+        "url": "/ms/guides/video-ke-jpg-png/"
+      },
+      {
+        "question": "Bagaimana membuat PDF daripada video?",
+        "answer": "Simpan bingkai penting dalam Video To Photo – Grab Frame dan pilih PDF semasa eksport. Anda mendapat satu PDF berisi bingkai, sesuai untuk papan cerita, nota dan laporan.",
+        "url": "/ms/guides/video-ke-pdf/"
+      },
+      {
+        "question": "Bagaimana buat thumbnail YouTube dari video di iPhone?",
+        "answer": "Simpan bingkai yang tajam dan ekspresif sebagai PNG, kemudian tambah teks dalam penyunting kegemaran anda. Selepas itu muat naik sebagai thumbnail YouTube atau kulit TikTok dan Instagram.",
+        "url": "/ms/guides/thumbnail-youtube-dari-video/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video ke foto",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Gambar dari video — apl bingkai untuk iPhone",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto & Video"
   },
@@ -198,11 +223,13 @@
     "privacy_text": "Dasar Privasi",
     "terms_text": "Terma Penggunaan",
     "support_text": "Sokongan",
-    "developer_info": "Dibangunkan oleh Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Hak cipta terpelihara."
+    "developer_info": "Pembangun: Vladimir Ivakhnenko (c-basso). Bingkai diproses pada peranti dan tidak pernah dihantar ke pelayan.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Panduan",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Ambil bingkai sempurna dari video pada iPhone"
+    "text": "📱 Bingkai sempurna daripada mana-mana video"
   },
   "seo_chapter": {
     "title": "Cara Menukar Video kepada Foto pada iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Langkau ke kandungan",
+    "ratings": "penilaian"
+  },
+  "nav": {
+    "how": "Cara ia berfungsi",
+    "screenshots": "Tangkapan skrin",
+    "guides": "Panduan",
+    "faq": "Soalan lazim"
+  },
+  "download": {
+    "title": "Satu apl, satu tugas: gambar dari video",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Tepat pada detik yang dikehendaki",
+        "description": "Seret jalur bingkai dan berhenti di mana sahaja. Senyuman, puncak lompatan, gambar tanpa mata terpejam."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Bingkai sebenar, bukan screenshot",
+        "description": "Terus daripada fail video: tanpa butang main, jalur hitam atau had saiz skrin."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Seberapa banyak yang anda mahu",
+        "description": "Simpan semua bingkai kegemaran serentak, bandingkan dan kekalkan yang terbaik."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Pilih format dan caranya: fail berasingan, arkib ZIP atau PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% pada peranti",
+        "description": "Video anda tidak keluar dari iPhone. Tanpa muat naik dan akaun, berfungsi dalam mod pesawat."
+      },
+      {
+        "icon": "💾",
+        "title": "Projek",
+        "description": "Setiap video disimpan sebagai projek. Buka semula kemudian dan sambung."
+      }
+    ],
+    "meta_labels": {
+      "version": "Versi",
+      "size": "Saiz",
+      "requires": "Memerlukan",
+      "price": "Harga",
+      "price_value": "Percuma · pembelian dalam apl",
+      "category": "Kategori",
+      "category_value": "Foto & Video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Tangkapan skrin",
+    "title": "Dari video ke gambar dalam enam skrin",
+    "subtitle": "Sama seperti di App Store. Ini apl sebenar.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: detik terbaik daripada mana-mana video",
+        "title": "Detik terbaik",
+        "caption": "Daripada mana-mana video dalam pustaka."
+      },
+      {
+        "alt": "Butang simpan bingkai dan dulang dengan 4 bingkai disimpan",
+        "title": "Simpan semua yang anda suka",
+        "caption": "Ketik Grab This Frame sekerap yang anda mahu."
+      },
+      {
+        "alt": "Pratonton yang membesarkan bingkai yang disimpan",
+        "title": "Simpan yang terbaik sahaja",
+        "caption": "Zum sebelum eksport."
+      },
+      {
+        "alt": "Paparan eksport dengan JPEG, PNG, HEIC serta Fail, ZIP atau PDF",
+        "title": "Pilih format",
+        "caption": "JPEG, PNG atau HEIC. Fail, ZIP atau PDF."
+      },
+      {
+        "alt": "Menu Kongsi iOS dengan fail ZIP berisi bingkai",
+        "title": "Simpan dan kongsi",
+        "caption": "Ke Fail atau melalui menu Kongsi."
+      },
+      {
+        "alt": "Senarai projek dengan tempoh, bilangan bingkai dan fps",
+        "title": "Banyak projek",
+        "caption": "Kembali kemudian dan sambung."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Cara ia berfungsi",
+    "cta": "Muat turun percuma"
+  },
+  "guides_section": {
+    "eyebrow": "Panduan",
+    "title": "Panduan: gambar dari video di iPhone",
+    "subtitle": "Jawapan kepada soalan paling kerap dicari dan cara terpantas di iPhone.",
+    "read_more": "Baca panduan",
+    "all_text": "Semua panduan"
+  },
+  "cta": {
+    "title": "Foto terbaik anda ada dalam video.",
+    "text": "Simpan dalam beberapa saat, kualiti penuh, hanya dengan iPhone. Tanpa muat naik."
+  },
+  "sticky": {
+    "text": "Foto HD daripada mana-mana video"
   }
 }

@@ -1,0 +1,64 @@
+{
+  "slug": "spara-bild-fran-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "spara bild från video iphone",
+  "secondary_keywords": [
+    "spara bild från video",
+    "stillbild från video",
+    "ta stillbild från video"
+  ],
+  "title": "Spara bild från video på iPhone",
+  "description": "Spara en bildruta från en video som foto på iPhone: hitta ögonblicket, spara i full upplösning och exportera till Bilder eller Filer. Videon förblir orörd.",
+  "h1": "Så sparar du en bild från en video på iPhone",
+  "nav_title": "Spara bild",
+  "card_title": "Så sparar du bild från video",
+  "excerpt": "En bildruta, full upplösning, sparad i Bilder eller Filer.",
+  "lead": "Ibland behöver du bara en bild: till profilen, ett kort eller ett meddelande. Så här sparar du en bild från en video på iPhone, precis där du behöver den.",
+  "quick_answer": "Dela videon från Bilder till Video To Photo – Grab Frame, hitta bildrutan, spara den och tryck på Exportera. Bilden hamnar i Bilder eller Filer. På iOS 27 klarar även Bilder det: pausa, ••• → spara bildruta som foto.",
+  "content_intro": "<h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p><h2>Var sparas bilden?</h2><table><thead><tr><th>Plats</th><th>Till</th></tr></thead><tbody><tr><td>Bilder (Senaste)</td><td>Delning, album, iCloud</td></tr><tr><td>Filer</td><td>Jobb, utskrift, dator</td></tr><tr><td>Dela</td><td>Direkt till Messenger, Snapchat, e-post</td></tr></tbody></table>",
+  "steps_title": "Spara bild från video",
+  "steps": [
+    {
+      "name": "Öppna videon i appen",
+      "text": "Tryck på Dela → Video To Photo – Grab Frame i Bilder, eller öppna appen och välj videon.",
+      "shot": 0
+    },
+    {
+      "name": "Hitta bildrutan",
+      "text": "Dra bildruteremsan tills du kommer till rätt ögonblick.",
+      "shot": 1
+    },
+    {
+      "name": "Spara bildrutan",
+      "text": "Tryck på spara-knappen. Bildrutan dyker upp i facket.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera",
+      "text": "Välj format och plats: Bilder, Filer eller Dela.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Behåller bilden datumet?</h2><p>På iOS 27 sparar Bilder bildrutan med videons datum. Efter export från appen kan du kontrollera bildinformationen om datumet är viktigt.</p><h2>Vanliga misstag</h2><ul><li>Bildruta i rörelse: välj bildrutan bredvid.</li><li>Komprimerad kopia: använd originalvideon.</li></ul>",
+  "faq": [
+    {
+      "q": "Var sparas bilden från videon?",
+      "a": "I Bilder, bland de senaste, eller i Filer om du väljer det."
+    },
+    {
+      "q": "Kan jag spara som PNG?",
+      "a": "Ja, i Video To Photo – Grab Frame. Bilder på iOS 27 sparar som HEIF eller JPG."
+    },
+    {
+      "q": "Behöver jag internet?",
+      "a": "Nej. Allt sker på iPhone."
+    }
+  ],
+  "related": [
+    "ta-bild-fran-video-iphone",
+    "ta-ut-bilder-fran-video",
+    "video-till-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

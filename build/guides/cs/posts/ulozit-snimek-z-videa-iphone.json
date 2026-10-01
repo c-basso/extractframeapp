@@ -1,0 +1,64 @@
+{
+  "slug": "ulozit-snimek-z-videa-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "uložit snímek z videa iPhone",
+  "secondary_keywords": [
+    "snímek z videa",
+    "uložit snímek z videa jako fotku",
+    "obrázek z videa iphone"
+  ],
+  "title": "Jak uložit snímek z videa jako fotku na iPhonu",
+  "description": "Jak uložit snímek z videa jako fotku na iPhonu: funkce iOS 27 a postup pro starší iOS nebo více snímků, jako JPG, PNG nebo HEIC.",
+  "h1": "Jak uložit snímek z videa na iPhonu",
+  "nav_title": "Uložit snímek z videa",
+  "card_title": "Snímek z videa jako fotka",
+  "excerpt": "Exportujte správný snímek do Fotek nebo Souborů, aniž byste měnili původní video.",
+  "lead": "Víte přesně, který snímek chcete. Chcete ho mít jako normální fotku vedle ostatních. Takhle to uděláte na iPhonu.",
+  "quick_answer": "iOS 27 a novější: otevřete video ve Fotkách, pozastavte ho a uložte snímek přes •••. Starší iOS nebo více snímků, PNG, ZIP či PDF: nasdílejte video do Video To Photo – Grab Frame, uložte snímky a vyexportujte je do Fotek nebo Souborů.",
+  "content_intro": "<h2>Způsob 1: vestavěná funkce iOS 27</h2><ol><li>Otevřete video ve Fotkách a pozastavte na požadovaném snímku (posouváním pásu se trefíte přesně).</li><li>Klepněte na <strong>•••</strong> vpravo nahoře.</li><li>Zvolte uložení snímku jako fotky (<em>Save Video Frame as Photo</em>).</li></ol><p>Dostanete fotku v rozlišení videa jako HEIF nebo JPG (podle nastavení fotoaparátu). Pozor: jde o <strong>jeden snímek najednou</strong> a fotka dostane <strong>datum videa</strong>. Hledejte ji vedle videa, ne nahoře v Nedávných.</p><h2>Způsob 2: více snímků nebo iOS 26 a starší</h2><p>Starší verze vestavěnou funkci nemají, jen snímek obrazovky (<a href=\"/cs/guides/screenshot-videa-iphone-bez-ztraty-kvality/\">proč ztrácí kvalitu</a>). I na iOS 27 je aplikace rychlejší, když chcete sérii snímků, PNG nebo ZIP/PDF.</p>",
+  "steps_title": "Jak uložit snímek ve Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Nasdílejte video z Fotek",
+      "text": "Otevřete video, klepněte na Sdílet a vyberte aplikaci. Obrazovka snímků se otevře hned.",
+      "shot": 0
+    },
+    {
+      "name": "Najděte snímek a uložte",
+      "text": "Posuňte se k okamžiku a klepněte na uložení. Počítadlo ukazuje, kolik snímků máte.",
+      "shot": 1
+    },
+    {
+      "name": "Zvolte formát",
+      "text": "Klepněte na Exportovat. JPEG na posílání, PNG bez ztrát, HEIC lehké a ostré.",
+      "shot": 3
+    },
+    {
+      "name": "Uložte do Fotek nebo Souborů",
+      "text": "Přes nabídku Sdílet uložte do knihovny nebo Souborů, nebo pošlete rovnou do chatu.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Kam se uložený snímek dostane?</h2><ul><li><strong>Knihovna fotek</strong>: upravujte, sdílejte a tiskněte jako každou fotku.</li><li><strong>Soubory</strong>: iCloud Drive nebo Na mém iPhonu, praktické pro pracovní dokumenty.</li><li><strong>Další aplikace</strong>: WhatsApp, Messenger, Instagram, e-mail přes nabídku Sdílet.</li></ul><h2>Více snímků najednou</h2><p>Před exportem uložte všechny potřebné snímky a vyexportujte je najednou jako samostatné soubory, <strong>ZIP</strong> nebo <strong>PDF</strong>. Viz také <a href=\"/cs/guides/snimky-z-videa/\">snímky z videa</a>.</p><h2>Pokračujte později</h2><p>Každé video se uloží jako projekt, takže druhý den pokračujete bez hledání videa.</p>",
+  "faq": [
+    {
+      "q": "Umí aplikace Fotky uložit snímek z videa?",
+      "a": "Od iOS 27 ano: pauza a uložení přes •••. Po jednom snímku, jako HEIF nebo JPG. Před iOS 27 existoval jen snímek obrazovky."
+    },
+    {
+      "q": "Změní se moje původní video?",
+      "a": "Ne. Aplikace video čte a vytváří nové obrázkové soubory. Video ve Fotkách zůstává stejné."
+    },
+    {
+      "q": "Funguje to offline?",
+      "a": "Ano. Snímky se z videa získávají na iPhonu, internet nepotřebujete a nic se nenahrává."
+    }
+  ],
+  "related": [
+    "jak-udelat-fotku-z-videa-iphone",
+    "snimky-z-videa",
+    "video-na-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

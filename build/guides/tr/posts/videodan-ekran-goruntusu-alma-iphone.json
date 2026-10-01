@@ -1,0 +1,69 @@
+{
+  "slug": "videodan-ekran-goruntusu-alma-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "videodan ekran görüntüsü alma iPhone",
+  "secondary_keywords": [
+    "videodan ekran görüntüsü alma iphone",
+    "iphone video ekran görüntüsü alma",
+    "videodan kaliteli ekran görüntüsü alma",
+    "iphone video ekran görüntüsü karanlık"
+  ],
+  "title": "iPhone'da Videodan Kaliteli Ekran Görüntüsü Alma",
+  "description": "iPhone'da videodan alınan ekran görüntüsü neden bulanık ya da karanlık çıkar ve gerçek kareyi tam kalitede kaydetmenin iki yolu.",
+  "h1": "iPhone'da videodan ekran görüntüsü: neden bulanık ve daha iyisi nasıl yapılır",
+  "nav_title": "Videodan ekran görüntüsü",
+  "card_title": "Videodan kaliteli ekran görüntüsü alma",
+  "excerpt": "Video ekran görüntüleri neden bulanık veya karanlık, net ve tam boyutlu kare nasıl kaydedilir.",
+  "lead": "Duraklat, yan düğme ve sesi açma, kırp… yine de videodan kötü görünüyor. Yanılmıyorsun: ekran görüntüsü videoyu değil, ekranı kaydeder.",
+  "quick_answer": "Ekran görüntüsü ekrandan daha net olamaz. iOS 27 ve sonrasında Fotoğraflar'da duraklat ve kareyi ••• ile kaydet. Eski iOS'ta ya da birden fazla kare ve PNG için videoyu Video To Photo – Grab Frame'de aç ve dışa aktar. İki durumda da oynat düğmesi ve siyah şerit olmadan gerçek kareyi alırsın.",
+  "content_intro": "<h2>Videodan ekran görüntüsü nasıl alınır (olağan yol)</h2><ol><li>Videoyu Fotoğraflar'da oynat ve duraklat.</li><li>Denetimleri gizlemek için ekrana dokun.</li><li><strong>Yan düğmeye</strong> ve <strong>sesi açma düğmesine</strong> aynı anda bas (Ana Ekran düğmeli modellerde: Ana Ekran + yan düğme).</li><li>Küçük resmi aç, siyah şeritleri kırp ve Bitti'ye dokun.</li></ol><h2>Kalite neden düşer</h2><ul><li><strong>Video değil, ekran çözünürlüğü.</strong> Yatay bir 4K video (3840×2160) dikey ekranda ince bir şerittir. Kırptıktan sonra piksellerin küçük bir kısmı kalır.</li><li><strong>Tam kareyi yakalamak zor.</strong> Parmakla duraklatmak çoğu zaman göz kırpma veya hareketli bir kareye denk gelir.</li><li><strong>Fazlalıklar ve yeniden sıkıştırma.</strong> Oynat düğmesi, altyazı, zaman çubuğu ve kırparken yeniden kaydetme.</li></ul><h3>Ekran görüntüsü neden daha karanlık</h3><p>iPhone varsayılan olarak <strong>HDR</strong> video çeker ve HDR videolar ekranda daha parlak gösterilir. Ekran görüntüsü normal bir görüntü olarak kaydedildiği için oynatılan videodan daha karanlık veya soluk görünebilir. Yeni videolarda bu farkı istemiyorsan Ayarlar → Kamera → Video Kaydı'ndan HDR Video'yu kapatabilirsin.</p><blockquote><p>Çözüm daha iyi bir ekran görüntüsü değil, hiç ekran görüntüsü almamak.</p></blockquote><h2>Yöntem 1: iOS 27'de Fotoğraflar</h2><p>Duraklat: videoyu Fotoğraflar'da aç, doğru anda duraklat, <strong>•••</strong> simgesine dokun ve kareyi fotoğraf olarak kaydetme seçeneğini seç (<em>Save Video Frame as Photo</em>). Videonun çözünürlüğünde, tek tek ve videonun tarihiyle HEIF veya JPG alırsın.</p><h2>Yöntem 2: bir uygulama (her iOS, çok kare)</h2><p>iOS 26 veya daha eskisi mi var, yoksa birden fazla kare, PNG, ZIP veya PDF mi istiyorsun? Kare uygulaması kareleri doğrudan video dosyasından okur ve birlikte dışa aktarır.</p>",
+  "steps_title": "iPhone'da ekran görüntüsü almadan videodan kare kaydetme",
+  "steps": [
+    {
+      "name": "Videoyu uygulamada aç",
+      "text": "Fotoğraflar'da Paylaş'a dokunup uygulamayı seç ya da Video To Photo – Grab Frame'i açıp videoyu seç.",
+      "shot": 0
+    },
+    {
+      "name": "Doğru karede dur",
+      "text": "Kare şeridinde yavaşça kaydır ve an büyük önizlemede göründüğünde dur. Duraklat düğmesiyle uğraşmak yok.",
+      "shot": 1
+    },
+    {
+      "name": "Kareyi kaydet",
+      "text": "Alttaki tepsiye eklenir. Önceki ve sonraki kareleri de kaydet ve karşılaştır.",
+      "shot": 2
+    },
+    {
+      "name": "PNG veya HEIC olarak dışa aktar",
+      "text": "PNG kayıpsızdır, HEIC net ve hafiftir. Fotoğraflar'a veya Dosyalar'a kaydet.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Ekran görüntüsü ve dışa aktarılan kare</h2><table><thead><tr><th></th><th>Ekran görüntüsü</th><th>Dosyadan kare</th></tr></thead><tbody><tr><td>Çözünürlük</td><td>En fazla ekran</td><td>Videoyla aynı</td></tr><tr><td>Tam an</td><td>Şans işi</td><td>Kare şeridiyle seçilir</td></tr><tr><td>Oynat düğmesi, şeritler</td><td>Sık, kırpmak gerekir</td><td>Asla</td></tr><tr><td>Çok kare</td><td>Tek tek</td><td>Birlikte, ZIP, PDF</td></tr><tr><td>Format</td><td>PNG ekran görüntüsü</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>En net sonucu almak için</h2><p>Bir kare hiçbir zaman videodan daha net olmaz. Sakin anlar, iyi ışık ve yüksek çözünürlük en iyi sonucu verir. Ayrıntılar <a href=\"/tr/guides/videodan-kaliteli-fotograf-alma/\">videodan kaliteli fotoğraf alma</a> rehberinde.</p>",
+  "faq": [
+    {
+      "q": "Videodan alınan ekran görüntüsü neden bulanık?",
+      "a": "Çünkü ekranı kaydeder: video görüntüleme boyutuna küçültülür ve duraklatma çoğu zaman hareketli bir kareye denk gelir. Dosyadan kare almak iki sorunu da çözer."
+    },
+    {
+      "q": "iPhone'da videonun ekran görüntüsü neden karanlık çıkıyor?",
+      "a": "HDR video ekranda daha parlak gösterilir, ama ekran görüntüsü normal görüntü olarak kaydedilir. Yeni videolarda Ayarlar → Kamera → Video Kaydı'ndan HDR Video'yu kapatabilirsin."
+    },
+    {
+      "q": "Ekran görüntüsü almadan videodan fotoğraf kaydedebilir miyim?",
+      "a": "Evet. iOS 27'den itibaren Fotoğraflar'daki ••• menüsüyle. Her sürümde Video To Photo – Grab Frame kareyi doğrudan video dosyasından çıkarır."
+    },
+    {
+      "q": "Kaliteyi en iyi hangi format korur?",
+      "a": "PNG kayıpsızdır ve her pikseli korur. HEIC daha küçük dosyalarla çok yakındır. JPG en hafifidir ve her yerde açılır."
+    }
+  ],
+  "related": [
+    "videodan-fotograf-alma-iphone",
+    "videodan-kaliteli-fotograf-alma",
+    "video-jpg-cevirme"
+  ],
+  "datePublished": "2026-10-01"
+}

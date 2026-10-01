@@ -1,0 +1,69 @@
+{
+  "slug": "paano-kumuha-ng-picture-sa-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "paano kumuha ng picture sa video iPhone",
+  "secondary_keywords": [
+    "how to get picture from video iphone",
+    "video to picture iphone",
+    "picture sa video",
+    "how to take picture from video iphone"
+  ],
+  "title": "Paano Kumuha ng Picture sa Video sa iPhone: 3 Paraan",
+  "description": "Paano kumuha ng picture sa video sa iPhone: feature ng iOS 27, screenshot, pag-lift ng subject at maraming picture nang sabay bilang JPG, PNG o HEIC.",
+  "h1": "Paano kumuha ng picture sa video sa iPhone",
+  "nav_title": "Picture sa video (iPhone)",
+  "card_title": "Picture mula sa video sa iPhone",
+  "excerpt": "Lahat ng paraan para makakuha ng picture sa video sa iPhone, at kailan gagamitin ang bawat isa.",
+  "lead": "Na-video mo ang sandali sa halip na kunan ng picture? Ayos lang: ang video ay dose-dosenang picture bawat segundo. Ganito mo makukuha ang mismong picture na gusto mo sa iPhone.",
+  "quick_answer": "Simula iOS 27, i-pause ang video sa Photos at i-save ang frame sa ••• bilang photo (kapareho ng resolution ng video, isa-isa). Sa mas lumang iOS, o kung gusto mo ng maraming picture, PNG, ZIP o PDF, buksan ang video sa Video To Photo – Grab Frame, i-save ang mga frame at i-export nang sabay-sabay.",
+  "content_intro": "<h2>Puwede bang kumuha ng picture sa video sa iPhone?</h2><p>Oo. Ang video ay binubuo ng 24–60 still image bawat segundo, at kahit anong frame ay puwedeng maging picture. Ang pinakamagandang paraan ay depende sa iOS version mo at kung ilang picture ang kailangan mo.</p><h2>Paghahambing ng mga paraan</h2><table><thead><tr><th>Paraan</th><th>Kalidad</th><th>Limitasyon</th><th>Pinakamainam para sa</th></tr></thead><tbody><tr><td><strong>Photos → i-save ang frame bilang photo</strong> (iOS 27+)</td><td>Resolution ng video, HEIF o JPG</td><td>Isang frame bawat beses. Kinukuha ng picture ang petsa ng video kaya hindi ito lalabas sa itaas ng Recents</td><td>Mabilis na isang picture</td></tr><tr><td><strong>Screenshot</strong> (pause at screenshot)</td><td>Resolution ng screen, madalas may play button o itim na gilid</td><td>Mahirap tumapat sa eksaktong frame</td><td>Mabilis na tala sa lumang iOS</td></tr><tr><td><strong>Pag-lift ng subject</strong> (iOS 17+, long press)</td><td>Subject lang, walang background</td><td>Hindi buong frame</td><td>Sticker ng tao o alaga</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Mula sa video file</td><td>Kailangan ng app (iOS 18.6+)</td><td>Maraming picture, PNG, ZIP, PDF, lumang iOS</td></tr></tbody></table><h3>Gamit ang built-in na feature ng iOS 27</h3><ol><li>I-pause: buksan ang video sa Photos, i-pause sa tamang sandali, i-tap ang <strong>•••</strong> at piliin ang pag-save ng frame bilang photo (<em>Save Video Frame as Photo</em>).</li><li>Mase-save ang frame sa library bilang photo sa resolution ng video.</li><li>Kinukuha ng photo ang petsa at lokasyon ng video, kaya hanapin ito sa tabi ng video, hindi sa itaas.</li></ol><p>Sapat na ito para sa isang picture. Pero kung gusto mo ng sampung frame mula sa iisang video, PNG para i-edit, o ipadala lahat bilang ZIP o PDF, nagiging abala ito.</p><h3>Bakit hindi pareho ang screenshot</h3><p>Hanggang iOS 26, screenshot ang karaniwang paraan, pero screen ang nase-save nito, hindi ang frame. Ang pahigang 4K video sa patayong screen ay manipis na guhit lang, at kailangan mo pang i-crop ang play button at tamaan ang pause.</p>",
+  "steps_title": "Paano kumuha ng maraming picture sa video gamit ang Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "I-share ang video sa app",
+      "text": "Buksan ang video sa Photos, i-tap ang Share at piliin ang app. O buksan ang Video To Photo – Grab Frame at pumili ng video sa library.",
+      "shot": 0
+    },
+    {
+      "name": "Hanapin ang sandali at i-save",
+      "text": "I-drag ang frame strip hanggang lumabas ang sandali sa preview, tapos i-tap ang save button. Kung may galaw, i-save din ang mga frame bago at pagkatapos.",
+      "shot": 1
+    },
+    {
+      "name": "Suriin ang mga frame",
+      "text": "Buksan ang preview, i-zoom ang mukha o text at burahin ang malalabong frame. Itira lang ang pinakamalinaw.",
+      "shot": 2
+    },
+    {
+      "name": "I-export bilang picture",
+      "text": "Piliin ang JPEG, PNG o HEIC at i-tap ang Export. I-save sa Photos o Files, o ipadala agad sa Messenger, Viber, Instagram o email.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Mga tip para sa malinaw na picture</h2><ul><li><strong>Hulihin ang sandaling tumitigil ang galaw.</strong> Ang tuktok ng talon, bago ngumiti: doon pinakamalinaw ang mga frame.</li><li><strong>Mag-save ng tatlo, magtira ng isa.</strong> Magkakamukha ang magkakatabing frame hangga't hindi mo zino-zoom.</li><li><strong>Mag-record sa 4K o 60 fps.</strong> Basahin ang <a href=\"/fil/guides/malinaw-na-picture-mula-sa-video/\">malinaw na picture mula sa video</a>.</li><li><strong>Piliin ang format.</strong> JPG para sa pag-share, PNG para sa pag-edit, HEIC para makatipid ng space. Tingnan din ang <a href=\"/fil/guides/video-to-jpg-png/\">video to JPG o PNG</a>.</li></ul><h2>Binabago o ina-upload ba ng app ang video ko?</h2><p>Hindi. Gumagamit ang Video To Photo – Grab Frame ng kopya sa loob ng app at ginagawa ang lahat sa iPhone. Hindi nagagalaw ang original sa Photos at walang ipinapadala sa server.</p>",
+  "faq": [
+    {
+      "q": "Kaya ba ng iPhone mismo na mag-save ng picture mula sa video?",
+      "a": "Oo, simula iOS 27. I-pause ang video sa Photos, i-tap ang ••• at i-save ang frame bilang photo. Isa-isa, bilang HEIF o JPG. Hanggang iOS 26, screenshot lang ang built-in na paraan."
+    },
+    {
+      "q": "Saan ko makikita ang frame na na-save ko sa iOS 27?",
+      "a": "Sa photo library, pero may petsa at lokasyon ng video. Kaya nasa tabi ito ng original na video, hindi sa itaas ng Recents."
+    },
+    {
+      "q": "Pareho ba ang kalidad sa video?",
+      "a": "Oo, kung frame ang ise-save mo at hindi screenshot. Parehong binabasa ng iOS 27 at Video To Photo – Grab Frame ang frame mula sa video file. Puwedeng malabo ang mabilis na galaw, kaya pumili ng kalmadong sandali."
+    },
+    {
+      "q": "Puwede ba akong kumuha ng maraming picture sa iisang video?",
+      "a": "Oo. I-save ang bawat sandali sa Video To Photo – Grab Frame at i-export lahat nang sabay bilang hiwalay na file, ZIP o PDF."
+    }
+  ],
+  "related": [
+    "paano-mag-screenshot-ng-video-sa-iphone",
+    "i-save-ang-frame-ng-video-iphone",
+    "malinaw-na-picture-mula-sa-video"
+  ],
+  "datePublished": "2026-10-01"
+}

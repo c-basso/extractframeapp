@@ -1,0 +1,65 @@
+{
+  "slug": "video-to-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg converter",
+  "secondary_keywords": [
+    "video to jpg",
+    "video to png",
+    "video to heic",
+    "ভিডিও থেকে JPG"
+  ],
+  "title": "Video to JPG, PNG বা HEIC: iPhone-এ ফ্রেম কনভার্ট",
+  "description": "iPhone-এ ভিডিওর ফ্রেম JPG, PNG বা HEIC-এ সেভ করুন। কখন কোন ফরম্যাট বাছবেন আর কীভাবে ফাইল, ZIP বা PDF-এ এক্সপোর্ট করবেন।",
+  "h1": "iPhone-এ ভিডিওকে JPG, PNG বা HEIC-এ কনভার্ট করুন",
+  "nav_title": "Video to JPG/PNG",
+  "card_title": "Video to JPG, PNG বা HEIC",
+  "excerpt": "কোন ফরম্যাট কীসের জন্য আর কীভাবে ফ্রেম এক্সপোর্ট করবেন।",
+  "lead": "ভিডিওকে সরাসরি একটা JPG বানানো যায় না: ছবি সবসময় বাছাই করা একটা ফ্রেম থেকে আসে। প্রশ্ন হলো কোন ফরম্যাটে সেভ করবেন: JPG, PNG নাকি HEIC। প্রতিটির নিজস্ব জায়গা আছে।",
+  "quick_answer": "Video To Photo – Grab Frame-এ ফ্রেম বেছে JPG (সব জায়গায় খোলে), PNG (লসলেস, এডিটিংয়ের জন্য) বা HEIC (ছোট ফাইল, Apple ডিভাইসের জন্য)-এ এক্সপোর্ট করুন। অনেক ফ্রেম একসাথে ফাইল, ZIP বা PDF-এ সেভ করা যায়।",
+  "content_intro": "<h2>কোন ফরম্যাট বাছবেন?</h2><table><thead><tr><th>ফরম্যাট</th><th>সুবিধা</th><th>কখন</th></tr></thead><tbody><tr><td>JPG</td><td>সব জায়গায় চলে</td><td>শেয়ার, ইমেইল, ওয়েব</td></tr><tr><td>PNG</td><td>লসলেস</td><td>এডিটিং, থাম্বনেইল, ছবিতে লেখা</td></tr><tr><td>HEIC</td><td>ছোট ফাইল</td><td>ফটো লাইব্রেরি, Apple ডিভাইস</td></tr></tbody></table><h2>বিল্ট-ইন উপায় (iOS 27)</h2><p>iOS 27 থেকে ফটো অ্যাপ নিজেই একটি ফ্রেম সেভ করতে পারে: ভিডিও খুলুন, ঠিক মুহূর্তে পজ করুন, <strong>•••</strong> ট্যাপ করুন এবং <em>Save Video Frame as Photo</em> বেছে নিন। ছবিটি HEIF বা JPG ফরম্যাটে, ভিডিওর তারিখসহ সেভ হয়। একবারে একটি ফ্রেম।</p><p>ফটো অ্যাপে PNG বা ব্যাচ সেভ নেই। এর জন্য অ্যাপ লাগবে।</p>",
+  "steps_title": "ফ্রেম JPG/PNG/HEIC-এ এক্সপোর্ট",
+  "steps": [
+    {
+      "name": "ভিডিও খুলুন",
+      "text": "ফটো অ্যাপে শেয়ার ট্যাপ করে Video To Photo – Grab Frame বেছে নিন।",
+      "shot": 0
+    },
+    {
+      "name": "ফ্রেম বাছুন",
+      "text": "স্ট্রিপ টেনে পছন্দের ফ্রেম সেভ করুন। একটা বা কয়েক ডজন।",
+      "shot": 1
+    },
+    {
+      "name": "ফরম্যাট বাছুন",
+      "text": "এক্সপোর্টে JPG, PNG বা HEIC বেছে নিন।",
+      "shot": 3
+    },
+    {
+      "name": "সেভ করুন",
+      "text": "ফটো, ফাইল, ZIP বা PDF-এ, অথবা সরাসরি শেয়ার করুন।",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Windows-এ HEIC খোলা</h2><p>পুরনো Windows আর কিছু ওয়েবসাইট HEIC সাপোর্ট করে না। ছবি Apple ডিভাইসে না পাঠালে JPG বাছুন।</p><h2>মেটাডেটা কি থাকে?</h2><p>ছবি ভিডিওর রেজোলিউশন পায়। তারিখ আর লোকেশন মূল ভিডিও আর এক্সপোর্টের পদ্ধতির ওপর নির্ভর করে। জরুরি হলে ফটো অ্যাপে ছবির তথ্য দেখে নিন।</p>",
+  "faq": [
+    {
+      "q": "iPhone-এ ভিডিওকে JPG কীভাবে বানাব?",
+      "a": "Video To Photo – Grab Frame-এ ফ্রেম বেছে JPG হিসেবে এক্সপোর্ট করুন। iOS 27-এ ফটো অ্যাপও HEIF বা JPG-তে ফ্রেম সেভ করে।"
+    },
+    {
+      "q": "PNG নাকি JPG?",
+      "a": "এডিটিং আর লেখাওয়ালা ছবির জন্য PNG, শেয়ারের জন্য JPG। PNG ফাইল বড়, কিন্তু কোয়ালিটি কমে না।"
+    },
+    {
+      "q": "একসাথে অনেক ফ্রেম সেভ করা যায়?",
+      "a": "হ্যাঁ, Grab Frame-এর ব্যাচ মোডে, তারপর ZIP বা PDF-এ এক্সপোর্ট করুন।"
+    }
+  ],
+  "related": [
+    "video-theke-chobi-tolar-niyom",
+    "video-theke-onek-chobi",
+    "video-to-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

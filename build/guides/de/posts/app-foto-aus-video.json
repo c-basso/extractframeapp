@@ -1,0 +1,64 @@
+{
+  "slug": "app-foto-aus-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "App Foto aus Video",
+  "secondary_keywords": [
+    "bilder aus video extrahieren app",
+    "app foto aus video iphone",
+    "beste app foto aus video"
+  ],
+  "title": "App für Fotos aus Videos auf dem iPhone: richtig wählen",
+  "description": "So wählst du eine App für Fotos aus Videos auf dem iPhone: Präzision, Auflösung, Datenschutz, Stapelexport, Formate und Preis – plus ein 2-Minuten-Test.",
+  "h1": "App für Fotos aus Videos: so findest du die richtige",
+  "nav_title": "App Foto aus Video",
+  "card_title": "Die richtige App für Fotos aus Videos",
+  "excerpt": "Sechs Kriterien, die eine gute Frame-App ausmachen – und eine Checkliste, um jede App in zwei Minuten zu testen.",
+  "lead": "Such im App Store nach „Video zu Foto“ und du findest Dutzende ähnliche Apps. Die Grundlagen können fast alle. Der Unterschied steckt im Detail: wie genau du das Bild wählst, wie groß das Ergebnis ist und ob dein Video hochgeladen wird.",
+  "quick_answer": "Eine gute App lässt dich das exakte Bild wählen, speichert es aus der Datei (nicht vom Bildschirm), arbeitet auf dem Gerät, nimmt viele Bilder auf einmal auf und exportiert in mehreren Formaten. Video To Photo – Grab Frame kann das alles, plus ZIP- und PDF-Export und Projekte zum Weitermachen.",
+  "content_intro": "<h2>Wozu eine App, wenn iOS 27 das schon kann?</h2><p>Seit iOS 27 kann Fotos ein pausiertes Bild speichern. Eine App bleibt sinnvoll auf älteren iOS-Versionen und wenn du viele Bilder, PNG oder ZIP/PDF brauchst.</p><h2>6 Kriterien einer guten App</h2><ol><li><strong>Präzise Auswahl.</strong> Bildstreifen oder Regler, um den exakten Moment zu treffen.</li><li><strong>Echte Extraktion.</strong> Das Bild kommt aus der Datei, nicht vom Bildschirm. Teste es mit einem 4K-Querformat-Video und prüfe die Größe.</li><li><strong>Verarbeitung auf dem Gerät.</strong> Familienvideos gehören nicht auf fremde Server. Prüfe den Datenschutz im App Store und teste im Flugmodus.</li><li><strong>Stapelaufnahme.</strong> Storyboards, Sport und Tutorials brauchen viele Bilder in einem Durchgang.</li><li><strong>Formate und Export.</strong> JPG, PNG und HEIC decken alles ab; ZIP und PDF sind selten, aber sehr praktisch.</li><li><strong>Fairer Preis.</strong> Was gratis ist, was Abo ist und ob es einen Einmalkauf gibt.</li></ol>",
+  "steps_title": "Eine App für Fotos aus Videos in 2 Minuten testen",
+  "steps": [
+    {
+      "name": "Echtes Video öffnen",
+      "text": "Nimm ein Querformat-Video mit Bewegung. Teile es aus Fotos mit Video To Photo – Grab Frame – der Aufnahmemodus öffnet sich.",
+      "shot": 0
+    },
+    {
+      "name": "Ein exaktes Bild treffen",
+      "text": "Such ein Blinzeln oder einen Ball in der Luft. Mit Streifen und großer Vorschau ist das leicht – tippe auf Aufnehmen.",
+      "shot": 1
+    },
+    {
+      "name": "Mehrere aufnehmen und vergleichen",
+      "text": "Nimm 4–5 Bilder auf, öffne die Vorschau und zoome. Misslungene sollten sich vor dem Export löschen lassen.",
+      "shot": 2
+    },
+    {
+      "name": "Exportieren und Datei prüfen",
+      "text": "Exportiere als PNG und schau dir die Fotoinfos an: Die Maße sollten dem Video entsprechen, nicht dem Display.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Video To Photo – Grab Frame im Überblick</h2><table><thead><tr><th>Funktion</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Öffnen über Teilen in Fotos</td><td>Ja, direkt im Aufnahmemodus</td></tr><tr><td>Bildquelle</td><td>Videodatei</td></tr><tr><td>Stapelaufnahme</td><td>Viele Bilder pro Sitzung</td></tr><tr><td>Formate</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export</td><td>Dateien, ZIP oder PDF</td></tr><tr><td>Projekte</td><td>Gespeichert, fortsetzbar</td></tr><tr><td>Datenschutz</td><td>100 % auf dem Gerät, kein Konto</td></tr><tr><td>Preis</td><td>Gratis laden; Pro per In-App-Kauf (Gratistest, jährlich oder lebenslang)</td></tr></tbody></table><h2>Wann du keine App brauchst</h2><p>Mit iOS 27 und für ein einzelnes Bild reicht Fotos: Pause, „•••“, Einzelbild als Foto sichern. Auf älterem iOS genügt für eine schnelle Notiz ein Screenshot.</p>",
+  "faq": [
+    {
+      "q": "Gibt es eine kostenlose App für Fotos aus Videos?",
+      "a": "Video To Photo – Grab Frame ist gratis zu laden. Einige Funktionen gehören zu Pro, per In-App-Kauf: Gratistest, Jahresabo oder Einmalkauf. Aktuelle Preise siehst du im App Store."
+    },
+    {
+      "q": "Laden solche Apps meine Videos hoch?",
+      "a": "Online-Dienste schon. Video To Photo – Grab Frame verarbeitet alles auf dem iPhone und funktioniert offline."
+    },
+    {
+      "q": "Funktioniert es mit 4K- und Zeitlupen-Videos?",
+      "a": "Ja, mit Videos aus deiner Mediathek, auch 4K, 60 fps und Zeitlupe. Je besser die Aufnahme, desto schärfer die Bilder."
+    }
+  ],
+  "related": [
+    "foto-aus-video-iphone",
+    "bilder-aus-video-extrahieren",
+    "video-in-pdf-umwandeln"
+  ],
+  "datePublished": "2026-09-30"
+}

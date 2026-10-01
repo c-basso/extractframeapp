@@ -1,0 +1,64 @@
+{
+  "slug": "video-ke-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video to pdf converter",
+    "video ke pdf",
+    "papan cerita dari video"
+  ],
+  "title": "Video ke PDF di iPhone: Papan Cerita, Panduan, Nota",
+  "description": "Simpan bingkai daripada video ke dalam satu PDF di iPhone: untuk papan cerita, panduan langkah demi langkah, nota kuliah atau laporan. Tanpa komputer.",
+  "h1": "Bingkai video ke dalam satu PDF di iPhone",
+  "nav_title": "Video ke PDF",
+  "card_title": "Bingkai video ke dalam satu PDF",
+  "excerpt": "Papan cerita, panduan atau nota dalam satu PDF, terus daripada video.",
+  "lead": "Kadangkala yang diperlukan bukan gambar, tetapi dokumen: langkah resipi, panduan pemasangan, slaid kuliah atau papan cerita. Paling praktikal jika bingkai dimasukkan ke dalam satu PDF mengikut urutan.",
+  "quick_answer": "Buka video dalam Video To Photo – Grab Frame, simpan bingkai penting dan eksport ke PDF. Bingkai tersusun mengikut masa dalam satu fail yang boleh dihantar atau dicetak.",
+  "content_intro": "<h2>Untuk apa PDF daripada video?</h2><table><thead><tr><th>Kegunaan</th><th>Contoh</th></tr></thead><tbody><tr><td>Panduan</td><td>Resipi, pemasangan perabot, tutorial perisian</td></tr><tr><td>Papan cerita</td><td>Filem, iklan, video media sosial</td></tr><tr><td>Nota</td><td>Slaid kuliah atau webinar</td></tr><tr><td>Laporan</td><td>Dokumentasi kerosakan, pepijat atau kerja</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p><p>Apl Foto menyimpan satu demi satu dan tidak membuat PDF.</p>",
+  "steps_title": "Eksport bingkai ke PDF",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Simpan bingkai penting",
+      "text": "Lalui video dan simpan langkah atau babaknya. Sebagai projek, boleh disambung kemudian.",
+      "shot": 1
+    },
+    {
+      "name": "Semak urutan",
+      "text": "Semak bingkai dan padam yang tidak perlu.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport ke PDF",
+      "text": "Pilih eksport PDF dan simpan ke Fail atau kongsi.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tip</h2><ul><li>Satu langkah, satu bingkai: jangan simpan gambar yang hampir sama.</li><li>Untuk tutorial daripada rakaman skrin, teks mesti boleh dibaca: elakkan bingkai yang sedang bergerak.</li><li>Jika PDF terlalu besar, hantar ZIP atau kurangkan bingkai.</li></ul>",
+  "faq": [
+    {
+      "q": "Bolehkah video ditukar ke PDF?",
+      "a": "Videonya tidak, tetapi bingkainya boleh. Video To Photo – Grab Frame membuat satu PDF daripada bingkai yang dipilih."
+    },
+    {
+      "q": "Perlukan komputer?",
+      "a": "Tidak. Semuanya di iPhone, tanpa internet."
+    },
+    {
+      "q": "Berapa bingkai muat dalam satu PDF?",
+      "a": "Seberapa banyak yang anda pilih. Dengan banyak bingkai, fail boleh menjadi besar, jadi lebih baik ditapis."
+    }
+  ],
+  "related": [
+    "tukar-video-ke-gambar",
+    "video-ke-jpg-png",
+    "aplikasi-ambil-gambar-dari-video"
+  ],
+  "datePublished": "2026-10-01"
+}

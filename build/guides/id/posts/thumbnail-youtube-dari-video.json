@@ -1,0 +1,64 @@
+{
+  "slug": "thumbnail-youtube-dari-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "thumbnail youtube ukuran berapa",
+  "secondary_keywords": [
+    "thumbnail youtube",
+    "thumbnail youtube size",
+    "cara membuat thumbnail dari video"
+  ],
+  "title": "Thumbnail YouTube dari Video di iPhone: Ukuran & Cara",
+  "description": "Buat thumbnail YouTube, Instagram, atau TikTok dari frame terbaik video Anda di iPhone: memilih frame, ekspor PNG, ukuran yang tepat, dan tips agar diklik.",
+  "h1": "Cara membuat thumbnail YouTube dari video di iPhone",
+  "nav_title": "Thumbnail YouTube",
+  "card_title": "Thumbnail YouTube dari video sendiri",
+  "excerpt": "Memilih dan mengekspor frame terbaik untuk thumbnail.",
+  "lead": "Thumbnail menentukan apakah orang mengklik video Anda. Bahan terbaiknya sering ada di video itu sendiri: wajah ekspresif, klimaks, momen yang jelas. Tinggal ditemukan dan disimpan dengan tajam.",
+  "quick_answer": "Buka video di Video To Photo – Grab Frame, cari frame yang tajam dan ekspresif, lalu ekspor ke PNG. Tambahkan teks dan potong (1280×720, 16:9) di editor favorit Anda, lalu unggah ke YouTube.",
+  "content_intro": "<h2>Ukuran yang disarankan</h2><table><thead><tr><th>Platform</th><th>Ukuran</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Postingan Instagram</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p>",
+  "steps_title": "Thumbnail langkah demi langkah",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Cari klimaksnya",
+      "text": "Geser frame demi frame dan cari wajah ekspresif atau momen kuat, tanpa blur.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan beberapa kandidat",
+      "text": "Simpan tiga atau empat frame agar ada pilihan.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor ke PNG",
+      "text": "PNG menjaga kualitas sebelum diberi teks dan dipotong.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips thumbnail yang bagus</h2><ul><li>Teks besar dan mudah dibaca: maksimal 3–5 kata.</li><li>Wajah dengan emosi: menonjol di daftar.</li><li>Kontras kuat, sedikit detail.</li><li>Cek juga dalam ukuran kecil, seperti tampil di HP.</li></ul><p>Gunakan video milik sendiri. Jangan unggah frame konten orang lain tanpa izin.</p>",
+  "faq": [
+    {
+      "q": "Thumbnail YouTube ukuran berapa?",
+      "a": "1280×720 piksel, rasio 16:9, maksimal 2 MB (JPG atau PNG)."
+    },
+    {
+      "q": "Bisakah membuat thumbnail dari frame video?",
+      "a": "Bisa. Simpan frame dengan Video To Photo – Grab Frame dalam PNG, lalu tambahkan teks di editor."
+    },
+    {
+      "q": "Kenapa thumbnail buram?",
+      "a": "Frame yang dipilih sedang bergerak atau videonya beresolusi rendah. Pilih frame sebelahnya dan rekam dalam 4K."
+    }
+  ],
+  "related": [
+    "foto-hd-dari-video",
+    "video-ke-jpg-png",
+    "cara-mengambil-foto-dari-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

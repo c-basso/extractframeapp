@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hr",
-    "title": "Konverter videa u foto app iPhone | Video To Photo",
-    "description": "Konverter videa u foto na iPhonu: spremite jedan kadar ili izvezite više u JPG, PNG ili HEIC u nekoliko sekundi — privatna obrada na uređaju, bez učitavanja.",
-    "keywords": "video u foto, video u sliku, kadar iz videa, ekstraktor kadrova, iPhone kadar videa, spremi kadar, jpg iz videa, png iz videa, heic iz videa, grupni izvoz, podijeli iz fotografija",
+    "title": "Slika iz videa na iPhoneu – oštar kadar | Grab Frame",
+    "description": "Izvucite sliku iz videa na iPhoneu u punoj kvaliteti. Ne screenshot, nego točan kadar u JPG, PNG ili HEIC formatu, u ZIP-u ili PDF-u. Radi bez interneta.",
+    "keywords": "slika iz videa, kako iz videa izvući sliku iphone, kako od videa napraviti sliku, screenshot videa, video u slike, video to jpg, video to pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/hr/",
-    "og_title": "Video u foto za iPhone",
-    "og_description": "Video u foto na iPhonu. Odaberite točan trenutak i izvezite kadrove kao JPG, PNG ili HEIC — obrada na uređaju, bez učitavanja.",
+    "og_title": "Slika iz videa na iPhoneu — točan kadar, oštro",
+    "og_description": "Pronađite trenutak i spremite jedan ili desetke kadrova u JPG, PNG ili HEIC formatu, ili u ZIP i PDF. Sve na uređaju.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "hr_HR",
     "twitter_url": "https://extractframeapp.com/hr/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video u foto na iPhonu. Točni kadrovi, obrada na uređaju, grupni izvoz i JPG, PNG, HEIC formati.",
+    "twitter_title": "Slika iz videa — Grab Frame",
+    "twitter_description": "HD fotografije iz vaših iPhone videa. JPG, PNG, HEIC, ZIP, PDF. Offline, bez prijenosa.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/hr/",
@@ -21,18 +21,25 @@
     "geo_placename": "Hrvatska"
   },
   "hero": {
-    "logo_alt": "Logo Video To Photo - Grab Frame",
-    "title": "Izvucite kadrove iz videa na iPhonu",
-    "subtitle": "Video u foto i sliku—spremite točne kadrove iz klipova u sekundama",
-    "entity_definition": "Video To Photo - Grab Frame je iOS aplikacija koja na iPhonu pretvara videozapise u fotografije. Odaberite točan trenutak i izvezite kadrove kao JPG, PNG ili HEIC.",
-    "subheadline": "Otvorite iz Fotografija, pomaknite se na pravi trenutak i spremite jedan ili više kadrova. Bez računa, učitavanja i vremenske crte za montažu.",
-    "download_alt": "Preuzmite u App Storeu",
-    "phone_text": "Dodirnite za spremanje kadra iz videa",
-    "qr_alt": "QR kod za preuzimanje aplikacije",
-    "qr_text": "Skenirajte iPhoneom za preuzimanje"
+    "logo_alt": "Ikona aplikacije Video To Photo – Grab Frame",
+    "title": "Slika iz videa na iPhoneu — točan kadar, oštro",
+    "title_html": "Izvucite <span class=\"grad-text\">sliku iz videa</span>. Točno onaj kadar koji želite, oštro.",
+    "subtitle": "Povucite do trenutka i spremite jedan ili desetke kadrova. Izvezite u JPG, PNG ili HEIC. Sve se odvija na iPhoneu: bez prijenosa i bez računa.",
+    "entity_definition": "Video To Photo – Grab Frame je aplikacija za iPhone koja izvlači kadrove iz videa i sprema ih kao fotografije visoke rezolucije. Sva se obrada odvija na uređaju.",
+    "subheadline": "Podijelite iz aplikacije Foto, pronađite trenutak, spremite. Gotovo.",
+    "download_alt": "Preuzmite Video To Photo – Grab Frame na App Storeu",
+    "phone_text": "Dodirnite i izvucite sliku iz videa",
+    "qr_alt": "QR kod za preuzimanje aplikacije Video To Photo – Grab Frame",
+    "qr_text": "Skenirajte kamerom iPhonea za instalaciju",
+    "bullets": [
+      "Radi offline",
+      "JPG, PNG, HEIC",
+      "Izvoz u ZIP i PDF",
+      "Bez računa"
+    ]
   },
   "last_updated": {
-    "text": "Zadnje ažuriranje: 16. lipnja 2026."
+    "text": "Zadnje ažuriranje: 1. listopada 2026."
   },
   "features": {
     "title": "Zašto biraju video u foto",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Kako izvući kadar iz videa na iPhonu",
-    "subtitle": "Jednostavni koraci za spremanje savršenih fotografija iz klipova",
-    "placeholder_line1": "📱 Demo video uskoro",
-    "placeholder_line2": "Korak 1: Otvori iz Fotografija > Korak 2: Pomakni na trenutak > Korak 3: Uhvati kadar(e) > Korak 4: Izvezi JPG/PNG/HEIC"
+    "title": "Kako izvući sliku iz videa na iPhoneu",
+    "subtitle": "Četiri koraka, oko minutu. Ništa za učenje."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Otvori iz Fotografija",
-        "text": "Podijelite video iz Fotografija u {{app_info.name}}, ili prvo otvorite aplikaciju i odaberite klip."
+        "name": "Podijelite video iz aplikacije Foto",
+        "text": "Otvorite video u aplikaciji Foto, dodirnite Podijeli i odaberite aplikaciju. Ili otvorite aplikaciju i odaberite video. Prikaz kadrova odmah se otvara."
       },
       {
-        "name": "Pronađi točan trenutak",
-        "text": "Koristite klizač za pomicanje kadar po kadar i zaustavite se na željenoj slici."
+        "name": "Pronađite trenutak i spremite",
+        "text": "Povucite traku kadrova do željenog kadra i dodirnite spremanje. Ponovite za svaki kadar koji želite."
       },
       {
-        "name": "Uhvati jedan ili više kadrova",
-        "text": "Uhvatite jedan kadar ili označite više trenutaka za grupni izvoz."
+        "name": "Zadržite samo najbolje",
+        "text": "Otvorite kadrove preko cijelog zaslona, uvećajte za provjeru oštrine i izbrišite mutne."
       },
       {
-        "name": "Izvezi i spremi",
-        "text": "Spremite kadrove kao JPG, PNG ili HEIC, ili izvezite kao ZIP ili PDF."
+        "name": "Izvezite i podijelite",
+        "text": "Odaberite JPEG, PNG ili HEIC i spremite kao zasebne datoteke, ZIP ili PDF."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "FAQ: video u foto na iPhonu",
+    "eyebrow": "Česta pitanja",
+    "title": "Slika iz videa na iPhoneu: česta pitanja",
+    "learn_more": "Saznajte više",
     "items": [
       {
-        "question": "Kako izvući kadar iz videa na iPhonu?",
-        "answer": "Otvorite klip u Video To Photo - Grab Frame, pomaknite se na točan trenutak i uhvatite kadar. Zatim ga izvezite kao JPG, PNG ili HEIC."
+        "question": "Kako iz videa izvući sliku na iPhoneu?",
+        "answer": "Od iOS-a 27 otvorite video u aplikaciji Foto, zaustavite ga i spremite kadar kao fotografiju iz izbornika ••• (jedan po jedan). Na starijem iOS-u, ili ako želite mnogo slika u JPG, PNG, HEIC, ZIP ili PDF formatu, koristite Video To Photo – Grab Frame.",
+        "url": "/hr/guides/kako-izvuci-sliku-iz-videa-iphone/"
       },
       {
-        "question": "Mogu li izvesti više kadrova odjednom?",
-        "answer": "Da. Možete odabrati više trenutaka i izvesti nekoliko kadrova u jednoj seriji."
+        "question": "Zašto je screenshot videa tako loš?",
+        "answer": "Screenshot sprema zaslon: 4K kadar smanjuje se na veličinu zaslona, ostaju kontrole reprodukcije ili crni rubovi, a HDR video postaje taman. Spremite kadar iz datoteke aplikacijom Foto na iOS-u 27 ili aplikacijom Video To Photo – Grab Frame i izvezite u PNG ili HEIC.",
+        "url": "/hr/guides/snimka-zaslona-videa-iphone/"
       },
       {
-        "question": "Koje formate mogu izvesti?",
-        "answer": "Aplikacija podržava JPG, PNG i HEIC. Možete izvesti i kao ZIP ili PDF."
+        "question": "Kako od videa napraviti sliku i spremiti je?",
+        "answer": "Podijelite video iz aplikacije Foto s aplikacijom Video To Photo – Grab Frame, pronađite kadar, spremite ga i dodirnite Izvezi. Slika ide u Foto ili Datoteke. Izvorni video ostaje isti.",
+        "url": "/hr/guides/spremiti-sliku-iz-videa-iphone/"
       },
       {
-        "question": "Učitava li aplikacija moje videozapise?",
-        "answer": "Ne. Izvlačenje se odvija na uređaju — videozapisi i slike ostaju na vašem iPhonu."
+        "question": "Na što paziti kod aplikacije za slike iz videa?",
+        "answer": "Na četiri stvari: precizan odabir kadra, izvoz u rezoluciji videa, obrada na uređaju i skupni izvoz. Video To Photo – Grab Frame sve to radi i izvozi u JPG, PNG, HEIC, ZIP ili PDF.",
+        "url": "/hr/guides/aplikacija-slika-iz-videa/"
       },
       {
-        "question": "Mogu li nastaviti kasnije?",
-        "answer": "Da. Sesije možete spremiti kao projekte i ponovno otvoriti."
+        "question": "Mogu li izvući više slika iz videa odjednom?",
+        "answer": "Da. Iz jednog videa spremite koliko god kadrova želite i izvezite ih zajedno kao datoteke, ZIP ili PDF. Odabir samo potrebnih kadrova brži je od pregledavanja stotina sličnih slika.",
+        "url": "/hr/guides/video-u-slike/"
       },
       {
-        "question": "Je li Video To Photo - Grab Frame besplatan?",
-        "answer": "Aplikacija je besplatna za preuzimanje; napredne značajke dostupne su putem kupnji u aplikaciji."
+        "question": "Kako pregledati video kadar po kadar na iPhoneu?",
+        "answer": "Zaustavite video u aplikaciji Foto i polako povucite traku kadrova. U aplikaciji Video To Photo – Grab Frame povlačite uz velik pregled i odmah spremate pravi kadar.",
+        "url": "/hr/guides/video-frame-po-frame-iphone/"
       },
       {
-        "question": "Za koga je aplikacija?",
-        "answer": "Za kreatore sadržaja, edukatore i sve koji žele uhvatiti određeni trenutak iz videa kao fotografiju."
+        "question": "Kako dobiti oštru sliku iz videa?",
+        "answer": "Odaberite kadar s malo pokreta, po mogućnosti snimajte u 4K ili pri 60 fps i izvezite iz datoteke umjesto screenshota. Izvezite u PNG ili HEIC i usporedite susjedne kadrove kako biste zadržali najoštriji.",
+        "url": "/hr/guides/kvalitetna-slika-iz-videa/"
       },
       {
-        "question": "Postoji li aplikacija video u foto za iPhone?",
-        "answer": "Da. Video To Photo - Grab Frame pretvara video u foto: otvorite klip, pomaknite se na trenutak i spremite kadrove kao JPG, PNG ili HEIC — sve na vašem iPhonu."
+        "question": "Kako pretvoriti video u JPG ili PNG na iPhoneu?",
+        "answer": "S aplikacijom Video To Photo – Grab Frame spremate odabrane kadrove u JPG, PNG ili HEIC formatu. JPG za dijeljenje, PNG za uređivanje bez gubitaka, HEIC za male i oštre datoteke.",
+        "url": "/hr/guides/video-u-jpg-png/"
+      },
+      {
+        "question": "Kako napraviti PDF iz videa?",
+        "answer": "Spremite važne kadrove u aplikaciji Video To Photo – Grab Frame i pri izvozu odaberite PDF. Dobivate jedan PDF s kadrovima, idealan za storyboard, bilješke i izvještaje.",
+        "url": "/hr/guides/video-u-pdf/"
+      },
+      {
+        "question": "Kako napraviti YouTube thumbnail iz videa na iPhoneu?",
+        "answer": "Spremite oštar i izražajan kadar kao PNG i dodajte tekst u omiljenom uređivaču. Zatim ga učitajte kao YouTube thumbnail ili naslovnicu za TikTok i Instagram.",
+        "url": "/hr/guides/youtube-thumbnail-iz-videa/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video u foto",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Slika iz videa — aplikacija za kadrove za iPhone",
     "application_category": "PhotoApplication",
-    "application_sub_category": "Fotografije i video"
+    "application_sub_category": "Foto i video"
   },
   "footer": {
     "cta_text": "📱 Preuzmite Video To Photo - Grab Frame",
-    "privacy_text": "Pravila o privatnosti",
+    "privacy_text": "Pravila privatnosti",
     "terms_text": "Uvjeti korištenja",
     "support_text": "Podrška",
-    "developer_info": "Razvio Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Sva prava pridržana."
+    "developer_info": "Programer: Vladimir Ivakhnenko (c-basso). Kadrovi se obrađuju na uređaju i nikad se ne šalju na poslužitelj.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Vodiči",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Uhvatite savršene kadrove iz videa na iPhonu"
+    "text": "📱 Savršen kadar iz bilo kojeg videa"
   },
   "seo_chapter": {
     "title": "Kako pretvoriti video u fotografije na iPhonu",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Preskoči na sadržaj",
+    "ratings": "ocjena"
+  },
+  "nav": {
+    "how": "Kako radi",
+    "screenshots": "Snimke zaslona",
+    "guides": "Vodiči",
+    "faq": "Česta pitanja"
+  },
+  "download": {
+    "title": "Jedna aplikacija, jedan zadatak: slike iz videa",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Točno željeni trenutak",
+        "description": "Povucite traku kadrova i stanite gdje želite. Osmijeh, vrh skoka, slika bez zatvorenih očiju."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Pravi kadrovi, ne screenshotovi",
+        "description": "Izravno iz datoteke videa: bez gumba za reprodukciju, crnih rubova i ograničenja veličine zaslona."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Koliko god želite",
+        "description": "Spremite sve kadrove koji vam se sviđaju odjednom, usporedite ih i zadržite najbolje."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Odaberite format i način: zasebne datoteke, ZIP arhiva ili PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% na uređaju",
+        "description": "Vaši videi ne napuštaju iPhone. Bez prijenosa i računa, radi i u zrakoplovnom načinu."
+      },
+      {
+        "icon": "💾",
+        "title": "Projekti",
+        "description": "Svaki video sprema se kao projekt. Možete ga kasnije otvoriti i nastaviti."
+      }
+    ],
+    "meta_labels": {
+      "version": "Verzija",
+      "size": "Veličina",
+      "requires": "Zahtijeva",
+      "price": "Cijena",
+      "price_value": "Besplatno · kupnje unutar aplikacije",
+      "category": "Kategorija",
+      "category_value": "Foto i video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Snimke zaslona",
+    "title": "Od videa do fotografije na šest zaslona",
+    "subtitle": "Točno kao u App Storeu. Ovo je prava aplikacija.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: najbolji trenutak iz bilo kojeg videa",
+        "title": "Najbolji trenutak",
+        "caption": "Iz bilo kojeg videa u knjižnici."
+      },
+      {
+        "alt": "Gumb za spremanje kadra i traka s 4 spremljena kadra",
+        "title": "Spremite sve što vam se sviđa",
+        "caption": "Dodirnite Grab This Frame koliko god puta želite."
+      },
+      {
+        "alt": "Pregled koji uvećava spremljeni kadar",
+        "title": "Zadržite samo najbolje",
+        "caption": "Uvećajte prije izvoza."
+      },
+      {
+        "alt": "Prikaz izvoza s JPEG, PNG, HEIC i Datoteke, ZIP ili PDF",
+        "title": "Odaberite format",
+        "caption": "JPEG, PNG ili HEIC. Datoteke, ZIP ili PDF."
+      },
+      {
+        "alt": "iOS izbornik Podijeli sa ZIP datotekom kadrova",
+        "title": "Spremite i podijelite",
+        "caption": "U Datoteke ili putem izbornika Podijeli."
+      },
+      {
+        "alt": "Popis projekata s trajanjem, brojem kadrova i fps",
+        "title": "Više projekata",
+        "caption": "Vratite se kasnije i nastavite."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Kako radi",
+    "cta": "Preuzmite besplatno"
+  },
+  "guides_section": {
+    "eyebrow": "Vodiči",
+    "title": "Vodiči: slika iz videa na iPhoneu",
+    "subtitle": "Odgovori na najčešća pitanja i najbrži način na iPhoneu.",
+    "read_more": "Pročitajte vodič",
+    "all_text": "Svi vodiči"
+  },
+  "cta": {
+    "title": "Vaša najbolja fotografija je u videu.",
+    "text": "Spremite je u nekoliko sekundi, u punoj kvaliteti, samo iPhoneom. Bez prijenosa."
+  },
+  "sticky": {
+    "text": "HD fotografije iz bilo kojeg videa"
   }
 }

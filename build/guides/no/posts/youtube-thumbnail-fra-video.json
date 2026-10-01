@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-fra-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail size",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "thumbnail fra video",
+    "miniatyrbilde youtube"
+  ],
+  "title": "YouTube-thumbnail fra video på iPhone",
+  "description": "Lag en thumbnail til YouTube, Instagram eller TikTok fra det beste bildet i din egen video på iPhone: PNG-eksport, riktig størrelse og tips for flere klikk.",
+  "h1": "Slik lager du YouTube-thumbnail fra video på iPhone",
+  "nav_title": "YouTube-thumbnail",
+  "card_title": "YouTube-thumbnail fra din egen video",
+  "excerpt": "Velg og eksporter det beste bildet til thumbnail.",
+  "lead": "Thumbnailen avgjør om noen klikker på videoen. Det beste utgangspunktet ligger ofte i selve videoen: et uttrykksfullt ansikt, høydepunktet, et tydelig øyeblikk. Du må bare finne det og lagre det skarpt.",
+  "quick_answer": "Åpne videoen i Video To Photo – Grab Frame, finn et skarpt og uttrykksfullt bilde og eksporter som PNG. Legg til tekst og beskjær (1280×720, 16:9) i favorittredigeringsappen din, og last opp til YouTube.",
+  "content_intro": "<h2>Anbefalte størrelser</h2><table><thead><tr><th>Plattform</th><th>Størrelse</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Instagram-innlegg</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p>",
+  "steps_title": "Thumbnail steg for steg",
+  "steps": [
+    {
+      "name": "Åpne videoen",
+      "text": "Trykk på Del i Bilder og velg Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Finn høydepunktet",
+      "text": "Gå bilde for bilde og se etter et uttrykksfullt ansikt eller et sterkt øyeblikk, uten uskarphet.",
+      "shot": 1
+    },
+    {
+      "name": "Lagre flere kandidater",
+      "text": "Lagre tre–fire bilder så du har noe å velge mellom.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter som PNG",
+      "text": "PNG bevarer kvaliteten før tekst og beskjæring.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips for en god thumbnail</h2><ul><li>Stor, lesbar tekst: maks 3–5 ord.</li><li>Ansikt med følelser: skiller seg ut i listen.</li><li>Sterk kontrast, få detaljer.</li><li>Sjekk den også i liten størrelse, slik den vises på mobil.</li></ul><p>Bruk dine egne videoer. Ikke legg ut bilder fra andres innhold uten tillatelse.</p>",
+  "faq": [
+    {
+      "q": "Hvilken størrelse skal en YouTube-thumbnail ha?",
+      "a": "1280×720 piksler, 16:9, maks 2 MB (JPG eller PNG)."
+    },
+    {
+      "q": "Kan jeg lage thumbnail fra et bilde i videoen?",
+      "a": "Ja. Lagre bildet med Video To Photo – Grab Frame som PNG, og legg til tekst i en redigeringsapp."
+    },
+    {
+      "q": "Hvorfor er thumbnailen uskarp?",
+      "a": "Du valgte et bilde i bevegelse, eller videoen har lav oppløsning. Velg nabobildet og film i 4K."
+    }
+  ],
+  "related": [
+    "skarpt-bilde-fra-video",
+    "video-til-jpg-png",
+    "ta-bilde-fra-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

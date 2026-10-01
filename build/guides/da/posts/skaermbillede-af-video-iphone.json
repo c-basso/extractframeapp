@@ -1,0 +1,68 @@
+{
+  "slug": "skaermbillede-af-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "skærmbillede af video iPhone",
+  "secondary_keywords": [
+    "skærmbillede af video iphone",
+    "skærmbillede af video sløret",
+    "iphone video skærmbillede mørkt"
+  ],
+  "title": "Skærmbillede af video på iPhone uden kvalitetstab",
+  "description": "Hvorfor et skærmbillede af en video på iPhone bliver sløret eller mørkt, og to måder at gemme det rigtige billede i fuld kvalitet.",
+  "h1": "Skærmbillede af video på iPhone: hvorfor det er sløret, og hvordan du gør det bedre",
+  "nav_title": "Skærmbillede af video",
+  "card_title": "Skærmbillede af video uden kvalitetstab",
+  "excerpt": "Hvorfor skærmbilleder af video er slørede eller mørke, og hvordan du gemmer et skarpt billede i fuld størrelse.",
+  "lead": "Pause, sideknap og lydstyrke op, beskæring… og det ser stadig værre ud end videoen. Du bilder dig det ikke ind: et skærmbillede gemmer skærmen, ikke videoen.",
+  "quick_answer": "Et skærmbillede kan aldrig blive skarpere end skærmen. På iOS 27 og nyere sætter du videoen på pause i Fotos og gemmer billedet via •••. På ældre iOS, eller til flere billeder og PNG, åbner du videoen i Video To Photo – Grab Frame og eksporterer. Begge veje giver det rigtige billede uden afspilningsknap og sorte kanter.",
+  "content_intro": "<h2>Sådan tager du et skærmbillede af en video (den almindelige måde)</h2><ol><li>Afspil videoen i Fotos, og sæt den på pause.</li><li>Tryk på skærmen for at skjule betjeningsknapperne.</li><li>Tryk samtidig på <strong>sideknappen</strong> og <strong>lydstyrke op</strong> (modeller med hjemknap: hjemknap + sideknap).</li><li>Åbn miniaturen, beskær de sorte kanter, og tryk på OK.</li></ol><h2>Hvorfor kvaliteten falder</h2><ul><li><strong>Skærmens opløsning, ikke videoens.</strong> En vandret 4K-video (3840×2160) på en lodret skærm er en smal stribe. Efter beskæring er der kun en brøkdel af pixelene tilbage.</li><li><strong>Svært at ramme billedet.</strong> Pause med fingeren lander ofte på et blink eller et rystet billede.</li><li><strong>Ekstra elementer og ny komprimering.</strong> Afspilningsknap, undertekster, tidslinje og endnu en gemning ved beskæring.</li></ul><h3>Hvorfor skærmbilledet bliver mørkere</h3><p>iPhone optager som standard i <strong>HDR</strong>, og HDR-video vises lysere på skærmen. Skærmbilledet gemmes som et almindeligt billede og kan derfor se mørkere eller mere mat ud end videoen, der afspilles. Vil du undgå forskellen i nye videoer, kan du slå HDR-video fra under Indstillinger → Kamera → Optag video.</p><blockquote><p>Løsningen er ikke et bedre skærmbillede, men slet intet skærmbillede.</p></blockquote><h2>Metode 1: Fotos i iOS 27</h2><p>Pause: åbn videoen i Fotos, sæt den på pause på det rigtige tidspunkt, tryk på <strong>•••</strong>, og vælg at gemme billedet som foto (<em>Save Video Frame as Photo</em>). Du får HEIF eller JPG i videoens opløsning, ét billede ad gangen, med videoens dato.</p><h2>Metode 2: en app (enhver iOS, mange billeder)</h2><p>Har du iOS 26 eller ældre, eller vil du have flere billeder, PNG, ZIP eller PDF? En billede-app læser billederne direkte fra videofilen og eksporterer dem samlet.</p>",
+  "steps_title": "Sådan gemmer du et billede fra en video på iPhone uden skærmbillede",
+  "steps": [
+    {
+      "name": "Åbn videoen i appen",
+      "text": "I Fotos trykker du på Del og vælger appen, eller åbn Video To Photo – Grab Frame, og vælg videoen.",
+      "shot": 0
+    },
+    {
+      "name": "Stop på det rigtige billede",
+      "text": "Træk langsomt i billedbåndet, og stop, når øjeblikket er i den store forhåndsvisning. Ingen kamp med pauseknappen.",
+      "shot": 1
+    },
+    {
+      "name": "Gem billedet",
+      "text": "Det havner i bakken nederst. Gem også billederne før og efter, og sammenlign.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér som PNG eller HEIC",
+      "text": "PNG er tabsfri, HEIC er skarp og let. Gem i Fotos eller Arkiver.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Skærmbillede vs. eksporteret billede</h2><table><thead><tr><th></th><th>Skærmbillede</th><th>Billede fra filen</th></tr></thead><tbody><tr><td>Opløsning</td><td>Højst skærmen</td><td>Som videoen</td></tr><tr><td>Præcist øjeblik</td><td>Held</td><td>Vælges med billedbåndet</td></tr><tr><td>Afspilningsknap, kanter</td><td>Ofte, skal beskæres</td><td>Aldrig</td></tr><tr><td>Flere billeder</td><td>Ét ad gangen</td><td>Samlet, ZIP, PDF</td></tr><tr><td>Format</td><td>PNG-skærmbillede</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Sådan får du det skarpeste resultat</h2><p>Et billede bliver aldrig skarpere end videoen. Rolige øjeblikke, godt lys og høj opløsning giver det bedste resultat. Læs mere i <a href=\"/da/guides/skarpt-billede-fra-video/\">skarpt billede fra video</a>.</p>",
+  "faq": [
+    {
+      "q": "Hvorfor er et skærmbillede af en video sløret?",
+      "a": "Fordi det gemmer skærmen: videoen er skaleret ned til visningsstørrelsen, og pausen rammer ofte et billede i bevægelse. Et billede fra filen løser begge problemer."
+    },
+    {
+      "q": "Hvorfor er mit skærmbillede af en video mørkt på iPhone?",
+      "a": "HDR-video vises lysere på skærmen, men skærmbilledet gemmes som et almindeligt billede. I nye videoer kan du slå HDR-video fra under Indstillinger → Kamera → Optag video."
+    },
+    {
+      "q": "Kan jeg gemme et billede fra en video uden skærmbillede?",
+      "a": "Ja. Fra iOS 27 via menuen ••• i Fotos. På alle versioner henter Video To Photo – Grab Frame billedet direkte fra videofilen."
+    },
+    {
+      "q": "Hvilket format bevarer kvaliteten bedst?",
+      "a": "PNG er tabsfri og bevarer hver pixel. HEIC er meget tæt på med mindre filer. JPG er lettest og virker overalt."
+    }
+  ],
+  "related": [
+    "billede-fra-video-iphone",
+    "skarpt-billede-fra-video",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

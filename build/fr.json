@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "fr",
-    "title": "Convertisseur vidéo en photo iPhone | Video To Photo",
-    "description": "Convertisseur vidéo en photo pour iPhone : capturez un cadre ou exportez plusieurs images en JPG, PNG ou HEIC en secondes, traitement privé sur l'appareil.",
-    "keywords": "vidéo en photo, convertisseur vidéo en photo, extraire image vidéo, vidéo en photo / image, extracteur d'images vidéo, iPhone capture image, enregistrer image vidéo, vidéo en image, jpg vidéo, png vidéo, heic vidéo, export par lot, partage depuis photos",
+    "title": "Extraire une photo d'une vidéo sur iPhone en HD | Grab Frame",
+    "description": "Extrayez une photo d'une vidéo sur iPhone sans perte de qualité : choisissez l'image exacte, gardez-en une ou plusieurs en JPG, PNG ou HEIC. Hors ligne, gratuit.",
+    "keywords": "extraire une photo d'une vidéo, extraire une photo d'une vidéo iphone, capture d'écran vidéo iphone, vidéo en photo, extraire image vidéo, application pour extraire photo d'une vidéo",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/fr/",
-    "og_title": "Convertisseur vidéo en photo pour iPhone",
-    "og_description": "Convertisseur vidéo en photo pour votre iPhone. Choisissez l'instant exact et exportez des images en JPG, PNG ou HEIC.",
+    "og_title": "Une photo à partir d'une vidéo sur iPhone — l'image exacte en HD",
+    "og_description": "Trouvez le moment parfait, gardez une image ou des dizaines et exportez en JPG, PNG, HEIC, ZIP ou PDF. Tout sur l'appareil.",
     "og_image": "https://extractframeapp.com/site_preview.png",
-    "site_name": "Video To Photo - Grab Frame",
+    "site_name": "Video To Photo – Grab Frame",
     "og_locale": "fr_FR",
     "twitter_url": "https://extractframeapp.com/fr/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Convertisseur vidéo en photo pour iPhone. Extrayez des images précises avec traitement sur l'appareil, export par lot et formats flexibles.",
+    "twitter_title": "Photo à partir d'une vidéo sur iPhone — Grab Frame",
+    "twitter_description": "Extrayez des images HD de n'importe quelle vidéo sur iPhone. JPG, PNG, HEIC, ZIP ou PDF. Hors ligne, sans envoi.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/fr/",
@@ -21,15 +21,22 @@
     "geo_placename": "France"
   },
   "hero": {
-    "logo_alt": "Logo Video To Photo - Grab Frame",
-    "title": "Extrayez des images d'une vidéo sur iPhone",
-    "subtitle": "Vidéo en photo / image—obtenez des photos exactes de vos clips en secondes",
-    "entity_definition": "Video To Photo - Grab Frame est une app iOS qui transforme des vidéos en photos sur votre iPhone. Choisissez l'instant exact et exportez des images en JPG, PNG ou HEIC.",
-    "subheadline": "Ouvrez depuis Photos, avancez jusqu'au bon moment et enregistrez une image ou plusieurs. Sans compte, sans envoi et sans timeline de montage.",
-    "download_alt": "Télécharger sur l'App Store",
+    "logo_alt": "Icône de l'application Video To Photo – Grab Frame",
+    "title": "Une photo à partir d'une vidéo sur iPhone — l'image exacte en HD",
+    "subtitle": "Trouvez le moment parfait, gardez une image ou des dizaines et exportez-les en JPG, PNG ou HEIC, directement sur votre iPhone. Sans envoi, sans compte.",
+    "entity_definition": "Video To Photo – Grab Frame est une application iPhone qui extrait les images de vos vidéos et les enregistre comme photos haute résolution. Tout est traité sur l'appareil.",
+    "subheadline": "Partagez la vidéo depuis Photos, trouvez le moment, enregistrez l'image. C'est tout.",
+    "download_alt": "Télécharger Video To Photo – Grab Frame dans l'App Store",
     "phone_text": "Touchez pour capturer une image de la vidéo",
-    "qr_alt": "Code QR pour télécharger l'app",
-    "qr_text": "Scannez avec votre iPhone pour télécharger"
+    "qr_alt": "QR code pour télécharger Video To Photo – Grab Frame",
+    "qr_text": "Scannez avec l'appareil photo de l'iPhone pour installer",
+    "title_html": "<span class=\"grad-text\">Vidéo en photo</span> sur iPhone. L'image exacte en&nbsp;HD.",
+    "bullets": [
+      "Fonctionne hors ligne",
+      "JPG · PNG · HEIC",
+      "Export ZIP et PDF",
+      "Sans compte"
+    ]
   },
   "last_updated": {
     "text": "Dernière mise à jour : 16 juin 2026"
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Comment extraire une image d'une vidéo sur iPhone",
-    "subtitle": "Des étapes simples pour enregistrer des photos parfaites depuis vos clips",
-    "placeholder_line1": "📱 Vidéo de démonstration bientôt disponible",
-    "placeholder_line2": "Étape 1 : Ouvrir depuis Photos > Étape 2 : Aller au moment > Étape 3 : Capturer > Étape 4 : Exporter JPG/PNG/HEIC"
+    "title": "Comment extraire une photo d'une vidéo sur iPhone",
+    "subtitle": "Quatre étapes, une minute, rien à apprendre."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Ouvrir depuis Photos",
-        "text": "Partagez une vidéo depuis Photos vers {{app_info.name}}, ou ouvrez l'app d'abord et sélectionnez votre clip."
+        "name": "Partagez la vidéo depuis Photos",
+        "text": "Ouvrez la vidéo dans Photos, touchez Partager et choisissez l'application — ou ouvrez l'app et sélectionnez la vidéo. Elle s'ouvre directement en mode capture d'image."
       },
       {
-        "name": "Trouver l'instant exact",
-        "text": "Utilisez le curseur pour avancer image par image et vous arrêter sur l'image souhaitée."
+        "name": "Trouvez le moment et capturez-le",
+        "text": "Faites glisser la bande d'images jusqu'au moment exact et touchez le bouton de capture. Recommencez pour chaque moment."
       },
       {
-        "name": "Capturer une ou plusieurs images",
-        "text": "Capturez une seule image ou marquez plusieurs instants pour un export par lot."
+        "name": "Gardez les meilleures",
+        "text": "Affichez les images en plein écran, zoomez pour vérifier la netteté et supprimez les ratées."
       },
       {
-        "name": "Exporter et enregistrer",
-        "text": "Enregistrez vos images en JPG, PNG ou HEIC, ou exportez en ZIP ou PDF."
+        "name": "Exportez et partagez",
+        "text": "Choisissez JPEG, PNG ou HEIC et enregistrez en fichiers séparés, en archive ZIP ou en PDF."
       }
     ]
   },
@@ -151,45 +156,65 @@
     ]
   },
   "faq": {
-    "title": "FAQ vidéo vers photo sur iPhone",
+    "eyebrow": "FAQ",
+    "title": "Une photo à partir d'une vidéo sur iPhone : FAQ",
+    "learn_more": "En savoir plus",
     "items": [
       {
-        "question": "Comment extraire une image d'une vidéo sur iPhone ?",
-        "answer": "Ouvrez un clip dans Video To Photo - Grab Frame, avancez jusqu'à l'instant exact et capturez l'image. Exportez-la ensuite en JPG, PNG ou HEIC."
+        "question": "Comment extraire une photo d'une vidéo sur iPhone ?",
+        "answer": "Sous iOS 27 ou plus récent, ouvrez la vidéo dans Photos, mettez en pause, touchez « ••• » et choisissez d'enregistrer l'image comme photo : une image est enregistrée. Sur les versions plus anciennes, ou pour en garder plusieurs en JPG, PNG, HEIC, ZIP ou PDF, utilisez Video To Photo – Grab Frame.",
+        "url": "/fr/guides/extraire-une-photo-d-une-video-iphone/"
       },
       {
-        "question": "Puis-je exporter plusieurs images à la fois ?",
-        "answer": "Oui. Vous pouvez sélectionner plusieurs instants et exporter plusieurs images en un seul lot."
+        "question": "Comment faire une capture d'écran d'une vidéo iPhone sans perte de qualité ?",
+        "answer": "Une capture d'écran enregistre l'écran : une image 4K est réduite à la taille de l'écran, avec commandes et bandes noires. Enregistrez plutôt l'image du fichier lui-même, dans Photos sous iOS 27 ou dans Video To Photo – Grab Frame, et exportez en PNG ou HEIC.",
+        "url": "/fr/guides/capture-ecran-video-iphone-sans-perte/"
       },
       {
-        "question": "Quels formats puis-je exporter ?",
-        "answer": "L'app prend en charge JPG, PNG et HEIC. Vous pouvez aussi exporter en ZIP ou PDF."
+        "question": "Comment enregistrer une image d'une vidéo comme photo ?",
+        "answer": "Partagez la vidéo depuis Photos vers Video To Photo – Grab Frame, trouvez l'image, capturez-la et touchez Exporter. Enregistrez-la dans Photos ou Fichiers. La vidéo d'origine n'est pas modifiée.",
+        "url": "/fr/guides/enregistrer-une-image-d-une-video-iphone/"
       },
       {
-        "question": "L'app envoie-t-elle mes vidéos ?",
-        "answer": "Non. L'extraction se fait sur l'appareil : vos vidéos et images restent sur votre iPhone."
+        "question": "Quelle application pour extraire une photo d'une vidéo ?",
+        "answer": "Vérifiez quatre points : sélection précise de l'image, export à la résolution de la vidéo, traitement sur l'appareil et export par lots. Video To Photo – Grab Frame coche les quatre et ajoute JPG, PNG, HEIC, ZIP et PDF.",
+        "url": "/fr/guides/application-extraire-photo-video/"
       },
       {
-        "question": "Puis-je reprendre plus tard ?",
-        "answer": "Oui. Vous pouvez enregistrer des sessions en projets et les rouvrir ensuite."
+        "question": "Peut-on extraire plusieurs images d'une vidéo à la fois ?",
+        "answer": "Oui. Capturez autant de moments que vous voulez en un seul passage et exportez-les ensemble en fichiers, en ZIP ou en PDF. Choisir les images utiles est souvent plus rapide que trier des centaines d'images identiques.",
+        "url": "/fr/guides/extraire-toutes-les-images-d-une-video/"
       },
       {
-        "question": "Video To Photo - Grab Frame est-elle gratuite ?",
-        "answer": "L'app est gratuite au téléchargement et propose des achats intégrés pour un usage avancé."
+        "question": "Comment voir une vidéo image par image sur iPhone ?",
+        "answer": "Dans Photos, mettez la vidéo en pause et faites glisser lentement la bande d'images. Dans Video To Photo – Grab Frame, faites glisser la bande en regardant le grand aperçu et enregistrez le moment exact.",
+        "url": "/fr/guides/video-image-par-image-iphone/"
       },
       {
-        "question": "Pour qui est cette app ?",
-        "answer": "Pour les créateurs de contenu, les enseignants et toute personne qui souhaite capturer un moment précis d'une vidéo en photo."
+        "question": "Comment obtenir une photo de bonne qualité à partir d'une vidéo ?",
+        "answer": "Choisissez une image avec peu de mouvement, filmez en 4K ou à 60 i/s si possible et extrayez l'image du fichier au lieu d'une capture. Exportez en PNG ou HEIC et comparez plusieurs images voisines.",
+        "url": "/fr/guides/photo-de-qualite-depuis-une-video/"
       },
       {
-        "question": "Existe-t-il un convertisseur vidéo en photo pour iPhone ?",
-        "answer": "Oui. Video To Photo - Grab Frame fonctionne comme convertisseur vidéo en photo : ouvrez un clip, avancez jusqu'à l'instant exact et enregistrez des images en JPG, PNG ou HEIC, le tout sur votre iPhone."
+        "question": "Comment convertir une vidéo en JPG ou PNG sur iPhone ?",
+        "answer": "Video To Photo – Grab Frame enregistre n'importe quelle image en JPG, PNG ou HEIC. JPG pour partager, PNG pour retoucher sans perte, HEIC pour des fichiers légers de haute qualité.",
+        "url": "/fr/guides/convertir-video-en-jpg-png/"
+      },
+      {
+        "question": "Comment transformer une vidéo en PDF ?",
+        "answer": "Capturez les images clés dans Video To Photo – Grab Frame, choisissez PDF comme format d'enregistrement et exportez. Vous obtenez un seul PDF de vos images, idéal pour un storyboard, des notes de cours ou un compte rendu.",
+        "url": "/fr/guides/video-en-pdf/"
+      },
+      {
+        "question": "Comment faire une miniature YouTube à partir d'une vidéo sur iPhone ?",
+        "answer": "Trouvez un moment expressif et net, enregistrez l'image en PNG et ajoutez du texte dans n'importe quel éditeur. Importez-la ensuite comme miniature sur YouTube ou comme couverture sur TikTok et Instagram.",
+        "url": "/fr/guides/miniature-video-youtube-iphone/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Convertisseur vidéo en photo",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Vidéo en photo : capture d'images pour iPhone",
     "application_category": "PhotoApplication",
     "application_sub_category": "Photo et vidéo"
   },
@@ -198,8 +223,10 @@
     "privacy_text": "Politique de confidentialité",
     "terms_text": "Conditions d'utilisation",
     "support_text": "Assistance",
-    "developer_info": "Développé par Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Tous droits réservés."
+    "developer_info": "Développée par Vladimir Ivakhnenko (c-basso). Les images sont traitées sur votre appareil : rien n'est envoyé.",
+    "copyright": "© {year} c-basso. Tous droits réservés.",
+    "guides_text": "Guides",
+    "blog_text": "Blog"
   },
   "floating_cta": {
     "text": "📱 Capturez des images parfaites depuis une vidéo sur iPhone"
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Aller au contenu",
+    "ratings": "notes"
+  },
+  "nav": {
+    "how": "Fonctionnement",
+    "screenshots": "Captures",
+    "guides": "Guides",
+    "faq": "FAQ"
+  },
+  "download": {
+    "title": "Faite pour une seule chose : sortir des photos de vos vidéos",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Le moment exact",
+        "description": "Faites glisser le doigt sur la bande d'images et arrêtez-vous sur la bonne : le sourire, le saut, la photo sans yeux fermés."
+      },
+      {
+        "icon": "🖼️",
+        "title": "De vraies images, pas des captures",
+        "description": "L'image vient du fichier vidéo : sans commandes du lecteur, sans bandes noires, sans la limite de taille de l'écran."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Autant que vous voulez",
+        "description": "Gardez chaque bon moment en un seul passage, comparez-les et conservez les meilleurs."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP ou PDF",
+        "description": "Choisissez le format et la forme : fichiers séparés, une archive ZIP ou un PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100 % sur l'appareil",
+        "description": "Vos vidéos ne quittent pas l'iPhone. Aucun envoi, aucun compte, fonctionne en mode Avion."
+      },
+      {
+        "icon": "💾",
+        "title": "Projets",
+        "description": "Chaque vidéo est enregistrée comme projet : revenez plus tard pour extraire d'autres images."
+      }
+    ],
+    "meta_labels": {
+      "version": "Version",
+      "size": "Taille",
+      "requires": "Nécessite",
+      "price": "Prix",
+      "price_value": "Gratuit · achats intégrés",
+      "category": "Catégorie",
+      "category_value": "Photo et vidéo"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Captures",
+    "title": "De la vidéo à la photo en six écrans",
+    "subtitle": "Directement depuis la fiche App Store : voici l'application.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame : les meilleurs moments de n'importe quelle vidéo",
+        "title": "Les meilleurs moments",
+        "caption": "De n'importe quelle vidéo de votre photothèque."
+      },
+      {
+        "alt": "Bouton de capture d'image et bandeau de quatre images enregistrées",
+        "title": "Gardez chaque image qui vous plaît",
+        "caption": "Touchez « Grab This Frame » autant de fois que vous voulez."
+      },
+      {
+        "alt": "Écran d'aperçu de l'image avec zoom",
+        "title": "Ne gardez que les meilleures",
+        "caption": "Aperçu et zoom avant l'export."
+      },
+      {
+        "alt": "Écran d'export avec JPEG, PNG, HEIC et les options Fichiers, ZIP, PDF",
+        "title": "Choisissez le format",
+        "caption": "JPEG, PNG ou HEIC — en fichiers, ZIP ou PDF."
+      },
+      {
+        "alt": "Menu de partage iOS exportant une archive ZIP d'images",
+        "title": "Enregistrez et partagez",
+        "caption": "Dans Fichiers ou via le menu de partage."
+      },
+      {
+        "alt": "Liste des projets avec durée, nombre d'images et fps",
+        "title": "Plusieurs projets",
+        "caption": "Reprenez n'importe quelle vidéo plus tard."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Fonctionnement",
+    "cta": "Télécharger l'app — c'est gratuit"
+  },
+  "guides_section": {
+    "eyebrow": "Guides",
+    "title": "Guides : une photo à partir d'une vidéo sur iPhone",
+    "subtitle": "Les réponses aux questions les plus recherchées, et la façon la plus rapide de faire chaque chose sur iPhone.",
+    "read_more": "Lire le guide",
+    "all_text": "Tous les guides"
+  },
+  "cta": {
+    "title": "Votre plus belle photo se cache dans une vidéo.",
+    "text": "Sortez-la en quelques secondes, en pleine qualité, sur votre iPhone, sans rien envoyer."
+  },
+  "sticky": {
+    "text": "Des photos HD à partir de vos vidéos"
   }
 }

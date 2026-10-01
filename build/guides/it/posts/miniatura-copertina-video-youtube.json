@@ -1,0 +1,65 @@
+{
+  "slug": "miniatura-copertina-video-youtube",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "miniatura video YouTube da iPhone",
+  "secondary_keywords": [
+    "miniatura video youtube",
+    "copertina video youtube",
+    "copertina video instagram",
+    "miniatura video tiktok"
+  ],
+  "title": "Miniatura YouTube da un video su iPhone: come crearla",
+  "description": "Come creare una miniatura o copertina dal tuo video su iPhone: scegli il fotogramma migliore, salvalo in HD, aggiungi il testo e caricalo su YouTube o TikTok.",
+  "h1": "Come creare una miniatura da un video su iPhone",
+  "nav_title": "Miniatura da un video",
+  "card_title": "Miniatura e copertina dal tuo video",
+  "excerpt": "Trova il fotogramma che fa cliccare, salvalo nitido e trasformalo in copertina per YouTube, TikTok o Reels.",
+  "lead": "La miniatura migliore di solito è già nel tuo video: un'emozione vera, un momento vero. Il trucco è trovare quel fotogramma e tirarlo fuori abbastanza nitido da reggere testo, ritaglio e compressione.",
+  "quick_answer": "Apri il tuo video in Video To Photo – Grab Frame, trova un momento nitido ed espressivo, cattura due o tre opzioni ed esporta la migliore in PNG. Aggiungi un testo grande in qualsiasi editor (1280 × 720 per YouTube, 9:16 per Shorts, TikTok e Reels) e caricala come miniatura o copertina.",
+  "content_intro": "<h2>Com'è il fotogramma giusto per la miniatura</h2><ul><li><strong>Volto o soggetto chiaro</strong>: vicino, nitido, meglio se guarda in camera.</li><li><strong>Emozione</strong>: sorpresa, risata o concentrazione funzionano meglio di un volto neutro.</li><li><strong>Spazio per il testo</strong>: una zona tranquilla dove far stare qualche parola.</li><li><strong>Nitidezza</strong>: le miniature sono piccole, qualsiasi sfocatura si nota.</li></ul><h2>Dimensioni delle miniature</h2><table><thead><tr><th>Piattaforma</th><th>Formato</th><th>Dimensioni</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080 × 1920</td></tr><tr><td>Griglia Instagram</td><td>Ritagliata a 1:1 / 4:5</td><td>Soggetto al centro</td></tr></tbody></table><p>Un fotogramma da un video 1080p o 4K supera già queste dimensioni: l'importante è estrarlo dal file e non fare uno screenshot.</p>",
+  "steps_title": "Come creare una miniatura dal tuo video su iPhone",
+  "steps": [
+    {
+      "name": "Apri il video finito",
+      "text": "Condividilo da Foto con Video To Photo – Grab Frame o sceglilo nell'app.",
+      "shot": 0
+    },
+    {
+      "name": "Cattura 3 opzioni",
+      "text": "Cerca momenti forti e catturali. Le espressioni cambiano in fretta: salva anche i fotogrammi vicini.",
+      "shot": 1
+    },
+    {
+      "name": "Scegli il più nitido",
+      "text": "Ingrandisci i volti nell'anteprima ed elimina quelli mossi o con gli occhi chiusi.",
+      "shot": 2
+    },
+    {
+      "name": "Esporta in PNG e aggiungi il testo",
+      "text": "Esporta in PNG per mantenere la qualità in modifica, aggiungi un titolo breve e caricala come miniatura.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Come caricare la miniatura</h2><ul><li><strong>YouTube:</strong> in YouTube o YouTube Studio modifica i dettagli del video e scegli una miniatura personalizzata dalle tue foto (serve un account verificato).</li><li><strong>TikTok:</strong> prima di pubblicare tocca «Modifica copertina» e scegli l'immagine.</li><li><strong>Instagram Reels:</strong> tocca «Modifica copertina» e aggiungila dal rullino.</li></ul><h2>Trucchi per più clic</h2><ul><li>Da tre a cinque parole di testo, non di più.</li><li>Forte contrasto tra soggetto, testo e sfondo.</li><li>Uno stile coerente su tutto il canale.</li><li>Prova due fotogrammi: cambia la miniatura dopo qualche giorno e confronta.</li></ul>",
+  "faq": [
+    {
+      "q": "Posso usare un fotogramma del mio video come miniatura YouTube?",
+      "a": "Sì. Salva il fotogramma, aggiungi il testo se vuoi e caricalo come miniatura personalizzata. L'ideale è un'immagine 1280 × 720 in JPG o PNG."
+    },
+    {
+      "q": "Esporto la miniatura in JPG o PNG?",
+      "a": "Esporta il fotogramma in PNG mentre lo modifichi, così il testo resta nitido. La miniatura finale puoi salvarla in JPG se ti serve un file più leggero."
+    },
+    {
+      "q": "Perché la mia miniatura è sfocata?",
+      "a": "Di solito è uno screenshot o un fotogramma con movimento. Estrai il fotogramma dal file e scegli un momento in cui il soggetto è fermo."
+    }
+  ],
+  "related": [
+    "foto-da-video-alta-qualita",
+    "convertire-video-in-jpg",
+    "estrarre-foto-da-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Guide: come estrarre foto da un video su iPhone",
+    "description": "Guide passo passo per iPhone: foto da video senza perdere qualità, salvare fotogrammi, video in PDF, miniature YouTube e conversione in JPG o PNG.",
+    "eyebrow": "Guide",
+    "h1": "Foto da video su iPhone: tutte le guide",
+    "intro": "Ogni guida risponde a una domanda precisa: cosa sa fare l'iPhone da solo (e cosa no) e come farlo più velocemente con Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Home",
+    "guides": "Guide",
+    "guide_eyebrow": "Guida iPhone",
+    "quick_answer": "Risposta rapida",
+    "by": "Di",
+    "updated": "aggiornato il",
+    "min_read": "min di lettura",
+    "faq_title": "Domande frequenti",
+    "related": "Guide correlate",
+    "read_guide": "Leggi la guida",
+    "inline_cta": "Provalo con un tuo video: ci vuole un minuto.",
+    "app_card_cta": "Scarica dall'App Store",
+    "app_card_fine": "Gratis · acquisti in-app · iOS 18.6+",
+    "app_card_bullets": ["Selezione precisa del fotogramma", "JPG, PNG o HEIC", "Esportazione in blocco in ZIP o PDF", "Offline, senza caricamenti né account"],
+    "final_cta_title": "La tua foto migliore è nascosta in un video.",
+    "final_cta_text": "Salvala a piena qualità sul tuo iPhone. Senza caricamenti, senza account, senza saper montare."
+  }
+}

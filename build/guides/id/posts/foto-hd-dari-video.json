@@ -1,0 +1,64 @@
+{
+  "slug": "foto-hd-dari-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "mengubah video menjadi foto hd",
+  "secondary_keywords": [
+    "foto hd dari video",
+    "foto dari video jernih",
+    "foto dari video buram"
+  ],
+  "title": "Foto HD dari Video di iPhone: Kenapa Buram & Solusinya",
+  "description": "Kenapa foto dari video buram atau gelap, dan cara mendapatkan foto tajam beresolusi penuh di iPhone: shutter, fps, HDR, dan memilih frame yang tepat.",
+  "h1": "Foto HD yang jernih dari video di iPhone",
+  "nav_title": "Foto HD",
+  "card_title": "Foto HD dari video: kenapa buram",
+  "excerpt": "Penyebab dan solusi foto buram, gelap, dan beresolusi rendah.",
+  "lead": "Foto yang diambil dari video sering kurang tajam dibanding foto biasa. Ada alasannya: video dibuat untuk gerakan berkelanjutan, bukan untuk frame tunggal. Dengan beberapa pengaturan dan frame yang tepat, hasilnya bisa jauh lebih tajam.",
+  "quick_answer": "Pilih frame dengan gerakan paling sedikit, simpan dari file video (bukan screenshot), dan rekam dalam 4K 60 fps dengan cahaya cukup. Jika foto gelap atau pudar, penyebabnya video HDR. Video To Photo – Grab Frame menyimpan frame dari file dalam resolusi penuh.",
+  "content_intro": "<h2>Kenapa fotonya buram?</h2><table><thead><tr><th>Penyebab</th><th>Gejala</th><th>Solusi</th></tr></thead><tbody><tr><td>Blur gerakan</td><td>Tangan, bola tampak kabur</td><td>Frame sebelahnya, lebih banyak cahaya, 60 fps</td></tr><tr><td>Screenshot</td><td>Resolusi layar, kontrol</td><td>Simpan dari file</td></tr><tr><td>Kompresi</td><td>Area kotak-kotak</td><td>Video asli, bukan dari WhatsApp</td></tr><tr><td>Video HDR</td><td>Foto gelap atau pudar</td><td>Lihat di bawah</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p>",
+  "steps_title": "Foto tajam langkah demi langkah",
+  "steps": [
+    {
+      "name": "Buka video asli",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame. Gunakan file asli.",
+      "shot": 0
+    },
+    {
+      "name": "Cari frame paling tajam",
+      "text": "Geser frame demi frame di sekitar momennya. Frame sebelum atau sesudahnya sering jauh lebih tajam.",
+      "shot": 1
+    },
+    {
+      "name": "Bandingkan dengan zoom",
+      "text": "Simpan dua atau tiga kandidat dan perbesar mata atau tepiannya. Simpan yang terbaik.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor resolusi penuh",
+      "text": "PNG untuk kualitas maksimal, HEIC/JPG untuk ukuran lebih kecil.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Kenapa foto dari video HDR gelap?</h2><p>iPhone merekam dalam HDR (Dolby Vision) secara default. Saat frame disimpan sebagai foto standar, kecerahan dan warna bisa berbeda. Jika mengganggu, matikan: <strong>Pengaturan → Kamera → Rekam Video → Video HDR</strong>.</p><h2>Tips merekam</h2><ul><li>4K, 60 fps: lebih banyak frame yang tajam.</li><li>Banyak cahaya: rana lebih cepat, blur berkurang.</li><li>Slow motion untuk gerakan cepat.</li><li>Tangan stabil atau tripod.</li></ul><p>Resolusi foto tidak bisa melebihi video: dari 4K sekitar 8 MP, dari 1080p sekitar 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Bisakah mendapatkan foto HD dari video?",
+      "a": "Bisa, jika videonya tajam dan frame disimpan dari file. Dari 4K Anda mendapat sekitar 8 MP, cukup untuk cetak ukuran kecil."
+    },
+    {
+      "q": "Kenapa foto dari video buram?",
+      "a": "Umumnya karena blur gerakan atau screenshot. Pilih frame sebelahnya dan simpan dari file."
+    },
+    {
+      "q": "Kenapa fotonya gelap?",
+      "a": "Kemungkinan dari video HDR. Matikan Video HDR di Pengaturan → Kamera → Rekam Video untuk rekaman berikutnya."
+    }
+  ],
+  "related": [
+    "cara-mengambil-foto-dari-video-iphone",
+    "video-frame-by-frame-iphone",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

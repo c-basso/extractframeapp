@@ -1,0 +1,64 @@
+{
+  "slug": "kako-izvuci-sliku-iz-videa-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "kako iz videa izvući sliku iphone",
+  "secondary_keywords": [
+    "kako izvući sliku iz videa",
+    "slika iz videa",
+    "kako od videa napraviti sliku"
+  ],
+  "title": "Kako iz videa izvući sliku na iPhoneu (3 načina)",
+  "description": "Kako iz videa izvući sliku na iPhoneu u punoj kvaliteti: ugrađena funkcija iOS-a 27, snimka zaslona i aplikacija za oštre kadrove u JPG, PNG ili HEIC formatu.",
+  "h1": "Kako iz videa izvući sliku na iPhoneu",
+  "nav_title": "Slika iz videa",
+  "card_title": "Kako iz videa izvući sliku na iPhoneu",
+  "excerpt": "Tri načina, od najbržeg do najkvalitetnijeg, i kada koji odabrati.",
+  "lead": "Najbolji trenutak često postoji samo u videu: osmijeh, skok, puhanje svjećica. Na iPhoneu ga možete spremiti kao fotografiju na tri načina. Razlika je u kvaliteti, brzini i tome koliko slika trebate.",
+  "quick_answer": "Na iOS-u 27 zaustavite video u aplikaciji Foto, dodirnite ••• i spremite kadar kao fotografiju. Na starijem iOS-u, ili za više slika u formatu JPG, PNG ili HEIC, otvorite video u aplikaciji Video To Photo – Grab Frame, pronađite kadar i spremite ga u punoj rezoluciji.",
+  "content_intro": "<h2>Usporedba načina</h2><table><thead><tr><th>Način</th><th>Kvaliteta</th><th>Više kadrova</th><th>Formati</th></tr></thead><tbody><tr><td>Snimka zaslona</td><td>Rezolucija zaslona</td><td>Ne</td><td>PNG</td></tr><tr><td>Foto (iOS 27)</td><td>Puna</td><td>Jedan po jedan</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Puna</td><td>Da, odjednom</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p>",
+  "steps_title": "Izvlačenje slike iz videa s aplikacijom Grab Frame",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "U aplikaciji Foto otvorite video, dodirnite Podijeli i odaberite Video To Photo – Grab Frame. Prikaz kadrova odmah se otvara.",
+      "shot": 0
+    },
+    {
+      "name": "Pronađite trenutak",
+      "text": "Povucite traku s kadrovima do željenog trenutka i dodirnite gumb za spremanje.",
+      "shot": 1
+    },
+    {
+      "name": "Provjerite oštrinu",
+      "text": "Otvorite kadar preko cijelog zaslona i uvećajte ga. Mutne kadrove izbrišite.",
+      "shot": 2
+    },
+    {
+      "name": "Izvezite",
+      "text": "Odaberite JPG, PNG ili HEIC i spremite u Foto, Datoteke, ZIP ili PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Zašto ne samo snimka zaslona?</h2><p>Snimka zaslona sprema ono što je na zaslonu, a ne sam video. 4K kadar smanjuje se na veličinu zaslona, a na slici mogu ostati kontrole reprodukcije ili crni rubovi. Za brzu bilješku je dovoljna, za uspomenu ili ispis nije.</p><h2>Savjeti</h2><ul><li>Snimajte u 4K i pri 60 fps za oštrije kadrove.</li><li>Usporedite susjedne kadrove i zadržite najoštriji.</li><li>Radite s izvornim videom, a ne s kopijom primljenom preko WhatsAppa ili Vibera.</li></ul>",
+  "faq": [
+    {
+      "q": "Može li iPhone sam izvući sliku iz videa?",
+      "a": "Da, od iOS-a 27 aplikacija Foto sprema zaustavljeni kadar kao fotografiju, jedan po jedan. Na starijim verzijama trebate snimku zaslona ili aplikaciju."
+    },
+    {
+      "q": "Gubi li se kvaliteta?",
+      "a": "Ako spremate iz datoteke videa, ne. Slika ima rezoluciju videa: oko 8 MP iz 4K, oko 2 MP iz 1080p."
+    },
+    {
+      "q": "Mijenja li se izvorni video?",
+      "a": "Ne. Video ostaje netaknut, a kadrovi se spremaju kao nove fotografije."
+    }
+  ],
+  "related": [
+    "snimka-zaslona-videa-iphone",
+    "spremiti-sliku-iz-videa-iphone",
+    "kvalitetna-slika-iz-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

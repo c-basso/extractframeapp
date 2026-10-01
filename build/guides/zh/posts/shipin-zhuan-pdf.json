@@ -1,0 +1,64 @@
+{
+  "slug": "shipin-zhuan-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "视频转 PDF",
+  "secondary_keywords": [
+    "视频转pdf",
+    "视频截图做成 pdf",
+    "视频分镜 pdf"
+  ],
+  "title": "iPhone 视频转 PDF：关键帧合成一个文件",
+  "description": "在 iPhone 上把视频转成 PDF：挑出关键帧合成一个 PDF，用作分镜、课堂笔记或审阅材料。离线处理，无需上传。",
+  "h1": "如何在 iPhone 上把视频转成 PDF",
+  "nav_title": "视频转 PDF",
+  "card_title": "把视频关键帧合成 PDF",
+  "excerpt": "视频的关键瞬间汇成一个 PDF：分镜、笔记、审阅。",
+  "lead": "一份包含关键帧的 PDF，是向不打算看视频的人说明视频内容的最快方式。审片的客户、复习课程的学生、确认分镜的团队都用得上。",
+  "quick_answer": "用 Video To Photo – Grab Frame 打开视频，在每个重要瞬间保存一帧。轻点“导出”，选择图片格式，再选 PDF。你会得到一份包含所有帧的 PDF，可通过隔空投送、微信、邮件或“文件”分享。",
+  "content_intro": "<h2>“视频转 PDF”是什么意思？</h2><p>PDF 不能播放视频。把视频转成 PDF，就是保存<strong>静态画面</strong>并合成一份文档。关键在于<em>选哪些帧</em>：900 张相似帧的 PDF 毫无用处，12 张关键帧的 PDF 才有价值。</p><h2>适用场景</h2><ul><li><strong>分镜或镜头表</strong>：每个场景一帧，用于提案和演示。</li><li><strong>课堂笔记</strong>：录播课程中的幻灯片和板书。</li><li><strong>客户审阅</strong>：在 PDF 上批注比找时间点方便。</li><li><strong>运动分析</strong>：按顺序排列动作的各个阶段。</li><li><strong>操作手册</strong>：把录屏变成分步说明。</li></ul>",
+  "steps_title": "在 iPhone 上把视频帧合成 PDF",
+  "steps": [
+    {
+      "name": "打开视频",
+      "text": "从“照片”共享到 Video To Photo – Grab Frame，或在 App 中选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "保存关键帧",
+      "text": "浏览视频，在每个场景、幻灯片或步骤处轻点保存。",
+      "shot": 1
+    },
+    {
+      "name": "导出时选择 PDF",
+      "text": "轻点“导出”，选择 JPEG、PNG 或 HEIC，然后选 PDF。",
+      "shot": 3
+    },
+    {
+      "name": "分享或保存 PDF",
+      "text": "存到“文件”，或通过共享菜单用隔空投送、微信或邮件发送。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>做出整洁 PDF 的技巧</h2><ul><li>按从头到尾的顺序保存帧。</li><li>选文字完整可见、不在转场中间的帧。</li><li>幻灯片和小字用 PNG。</li><li>项目会被保存，之后可以补帧再重新导出。</li></ul><h2>PDF 还是 ZIP？</h2><p>按顺序阅读和批注用 <strong>PDF</strong>；需要单独文件（比如做设计）用 <strong>ZIP</strong>。两者都在<a href=\"/zh/guides/shipin-tiqu-zhen/\">视频提取帧</a>中有介绍。</p>",
+  "faq": [
+    {
+      "q": "不上传视频也能转成 PDF 吗？",
+      "a": "可以。Video To Photo – Grab Frame 在 iPhone 上用你保存的帧生成 PDF，视频不会离开设备。"
+    },
+    {
+      "q": "PDF 里的帧是什么顺序？",
+      "a": "PDF 包含你保存的帧。从头到尾依次保存，文档顺序就和视频一致。"
+    },
+    {
+      "q": "怎么用手机把视频做成分镜？",
+      "a": "每个镜头或场景保存一帧，导出为 PDF，就是一份简单的分镜。可以用“标记”或 PDF App 添加备注。"
+    }
+  ],
+  "related": [
+    "shipin-tiqu-zhen",
+    "shipin-zhuan-tupian",
+    "shipin-tiqu-tupian-app"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "skarpt-billede-fra-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "skarpt billede fra video",
+  "secondary_keywords": [
+    "billede fra video sløret",
+    "billede fra video i god kvalitet",
+    "skarpt billede fra video iphone"
+  ],
+  "title": "Skarpt billede fra video: derfor er det sløret",
+  "description": "Derfor bliver et billede fra en video sløret, og sådan løser du det: roligt billede, 4K og 60 fps, eksport i stedet for skærmbillede, PNG eller HEIC.",
+  "h1": "Sådan får du et skarpt billede fra en video",
+  "nav_title": "Skarpt billede fra video",
+  "card_title": "Skarpt billede fra video",
+  "excerpt": "Hvorfor billeder er slørede, hvad du kan gøre bagefter, og hvad du skal ændre før optagelsen.",
+  "lead": "Du fandt det perfekte øjeblik, gemte det, og det er sløret. Videobilleder er lavet til bevægelse, ikke til at blive set stille. Men med det rigtige billede og den rigtige metode kan de ligne et rigtigt foto.",
+  "quick_answer": "Vælg et billede, hvor motivet næsten står stille, gem fra videofilen i stedet for et skærmbillede, og eksportér som PNG eller HEIC uden ekstra komprimering. Gem 3–5 nabobilleder, og behold det skarpeste. Film fremover i godt lys i 4K og 60 fps.",
+  "content_intro": "<h2>Hvorfor et billede fra en video er sløret</h2><ul><li><strong>Bevægelse.</strong> Hvert billede eksponeres en brøkdel af et sekund. Bevæger motivet sig, bliver det sløret.</li><li><strong>Skærmbillede.</strong> Videoen skaleres ned til skærmen og gemmes igen. Se <a href=\"/da/guides/skaermbillede-af-video-iphone/\">hvorfor skærmbilledet mister kvalitet</a>.</li><li><strong>Videokomprimering.</strong> Video er kraftigt komprimeret; nogle billeder har færre detaljer.</li><li><strong>Dårligt lys.</strong> Længere eksponering og kraftig støjreduktion sletter detaljer.</li></ul><h2>Det kan du gøre bagefter</h2><table><thead><tr><th>Problem</th><th>Løsning</th></tr></thead><tbody><tr><td>Motivet er rystet</td><td>Gem flere nabobilleder, og vælg det skarpeste</td></tr><tr><td>Billedet er lille eller beskåret</td><td>Eksportér fra filen, ikke med skærmbillede</td></tr><tr><td>Komprimeringsblokke</td><td>Eksportér PNG eller HEIC, og gem ikke igen</td></tr><tr><td>Lukkede øjne</td><td>Træk langsomt; det gode billede er ofte 1–2 billeder væk</td></tr></tbody></table>",
+  "steps_title": "Sådan får du det skarpeste billede ud af en video",
+  "steps": [
+    {
+      "name": "Åbn videoen",
+      "text": "Del den fra Fotos til Video To Photo – Grab Frame. Billederne kommer fra filen, ikke fra skærmen.",
+      "shot": 0
+    },
+    {
+      "name": "Find roen",
+      "text": "Træk rundt om bevægelsen, og led efter „pausen“: toppen af et hop, lige før et smil.",
+      "shot": 1
+    },
+    {
+      "name": "Gem en serie, og sammenlign",
+      "text": "Gem 3–5 billeder omkring øjeblikket, og zoom ind på øjne, kanter eller tekst. Slet de bløde billeder.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér uden ekstra komprimering",
+      "text": "Eksportér det bedste som PNG (tabsfrit) eller HEIC (skarpt og let). JPG til hurtig deling.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Sådan filmer du for skarpe billeder</h2><ul><li><strong>4K.</strong> Flere pixels, flere detaljer og plads til beskæring (Indstillinger → Kamera → Optag video).</li><li><strong>60 fps ved bevægelse.</strong> Flere billeder at vælge imellem og mindre sløring pr. billede.</li><li><strong>Lys.</strong> Dagslys eller et lyst rum betyder mest for skarpheden.</li><li><strong>Stabilitet.</strong> Støt albuerne, eller brug et stativ; rysten slører hvert billede.</li></ul><h2>Hvad med AI-forbedring?</h2><p>AI-opskalering gør billedet større, men „opfinder“ detaljer. Få først det bedste ægte billede i videoens opløsning, og gem opskaleringen til store print. Om formater, se <a href=\"/da/guides/video-til-jpg-png/\">video til JPG eller PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan et billede fra en video være lige så godt som et foto?",
+      "a": "En skarp 4K-video i godt lys giver billeder, der på sociale medier er svære at skelne fra et foto. Et rigtigt foto har dog fordele som kortere lukkertid og fotobehandling."
+    },
+    {
+      "q": "Hvilken opløsning har et billede fra en 4K-video?",
+      "a": "3840×2160 pixels, cirka 8,3 megapixel. Ved 1080p er det 1920×1080, cirka 2 megapixel."
+    },
+    {
+      "q": "Hvilket format bevarer flest detaljer?",
+      "a": "PNG er tabsfri. HEIC er meget tæt på med langt mindre filer. JPG komprimerer lidt, men åbner overalt."
+    }
+  ],
+  "related": [
+    "skaermbillede-af-video-iphone",
+    "video-billede-for-billede-iphone",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

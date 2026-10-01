@@ -1,0 +1,69 @@
+{
+  "slug": "screenshot-video-iphone-fara-pierderea-calitatii",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot video iPhone",
+  "secondary_keywords": [
+    "screenshot video iphone",
+    "captura video iphone",
+    "captura de ecran video iphone",
+    "screenshot video iphone dark"
+  ],
+  "title": "Screenshot la video pe iPhone fără pierderea calității",
+  "description": "De ce captura de ecran dintr-un video pe iPhone iese neclară sau întunecată și două metode de a salva cadrul real la calitate maximă.",
+  "h1": "Screenshot la video pe iPhone: de ce iese neclar și cum faci mai bine",
+  "nav_title": "Screenshot la video",
+  "card_title": "Screenshot la video fără pierderea calității",
+  "excerpt": "De ce capturile din video sunt neclare sau întunecate și cum salvezi un cadru clar la dimensiunea reală.",
+  "lead": "Pauză, butonul lateral și volum sus, decupare… și tot arată mai prost decât clipul. Nu ți se pare: captura de ecran salvează ecranul, nu video-ul.",
+  "quick_answer": "O captură de ecran nu poate fi mai clară decât ecranul. Pe iOS 27 sau mai nou, pune pauză în Poze și salvează cadrul prin •••. Pe iOS mai vechi, sau pentru mai multe cadre și PNG, deschide clipul în Video To Photo – Grab Frame și exportă. În ambele cazuri primești cadrul real, fără buton de redare și benzi negre.",
+  "content_intro": "<h2>Cum faci captură de ecran la un video (metoda obișnuită)</h2><ol><li>Redă clipul în Poze și pune pauză.</li><li>Atinge ecranul ca să ascunzi comenzile.</li><li>Apasă simultan <strong>butonul lateral</strong> și <strong>volum sus</strong> (cu buton Principal: Principal + lateral).</li><li>Deschide miniatura, taie benzile negre și atinge OK.</li></ol><h2>De ce scade calitatea</h2><ul><li><strong>Rezoluția ecranului, nu a video-ului.</strong> Un clip 4K orizontal (3840×2160) pe ecranul vertical e o bandă îngustă. După decupare rămâne o fracțiune din pixeli.</li><li><strong>Greu de nimerit cadrul.</strong> Pauza cu degetul cade des pe o clipire sau pe un cadru mișcat.</li><li><strong>Elemente în plus și recomprimare.</strong> Butonul de redare, subtitrările, bara de timp și încă o salvare la decupare.</li></ul><h3>De ce captura e mai întunecată</h3><p>iPhone-ul filmează implicit în <strong>HDR</strong>, iar clipurile HDR sunt afișate mai luminos. Captura de ecran se salvează ca imagine obișnuită și poate părea mai întunecată sau mai ștearsă decât clipul redat. Dacă nu vrei diferența la clipurile noi, dezactivează Video HDR în Configurări → Cameră → Înregistrare video.</p><blockquote><p>Soluția nu e o captură mai bună, ci deloc captură.</p></blockquote><h2>Metoda 1: Poze în iOS 27</h2><p>Pune pauză: deschide clipul în Poze, pune pauză la momentul potrivit, atinge <strong>•••</strong> și alege opțiunea de salvare a cadrului ca poză (<em>Save Video Frame as Photo</em>). Primești HEIF sau JPG la rezoluția video-ului, câte un cadru, cu data clipului.</p><h2>Metoda 2: o aplicație (orice iOS, mai multe cadre)</h2><p>Ai iOS 26 sau mai vechi, ori vrei mai multe cadre, PNG, ZIP sau PDF? O aplicație pentru cadre le citește direct din fișierul video și le exportă deodată.</p>",
+  "steps_title": "Cum salvezi un cadru din video pe iPhone fără captură de ecran",
+  "steps": [
+    {
+      "name": "Deschide clipul în aplicație",
+      "text": "În Poze atinge Partajează și alege aplicația sau deschide Video To Photo – Grab Frame și alege clipul.",
+      "shot": 0
+    },
+    {
+      "name": "Oprește-te pe cadrul potrivit",
+      "text": "Glisează încet pe banda de cadre și oprește-te când momentul e în previzualizarea mare. Fără luptă cu butonul de pauză.",
+      "shot": 1
+    },
+    {
+      "name": "Salvează cadrul",
+      "text": "Ajunge în tava de jos. Salvează și cadrele de dinainte și de după și compară-le.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă ca PNG sau HEIC",
+      "text": "PNG e fără pierderi, HEIC e clar și ușor. Salvează în Poze sau Fișiere.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Captură de ecran vs. cadru exportat</h2><table><thead><tr><th></th><th>Captură de ecran</th><th>Cadru din fișier</th></tr></thead><tbody><tr><td>Rezoluție</td><td>Cel mult ecranul</td><td>Ca a video-ului</td></tr><tr><td>Momentul exact</td><td>Noroc</td><td>Ales cu banda de cadre</td></tr><tr><td>Buton de redare, benzi</td><td>Des, trebuie decupat</td><td>Niciodată</td></tr><tr><td>Mai multe cadre</td><td>Câte unul</td><td>Împreună, ZIP, PDF</td></tr><tr><td>Format</td><td>Captură PNG</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Cum obții cel mai clar rezultat</h2><p>Un cadru nu va fi niciodată mai clar decât video-ul. Momentele calme, lumina bună și rezoluția mare dau cel mai bun rezultat. Mai multe în ghidul <a href=\"/ro/guides/poza-clara-din-video/\">poză clară dintr-un video</a>.</p>",
+  "faq": [
+    {
+      "q": "De ce captura de ecran dintr-un video e neclară?",
+      "a": "Pentru că salvează ecranul: clipul e micșorat la dimensiunea de afișare, iar pauza cade des pe un cadru mișcat. Un cadru din fișier rezolvă ambele probleme."
+    },
+    {
+      "q": "De ce captura de ecran dintr-un video pe iPhone e întunecată?",
+      "a": "Clipul HDR e afișat mai luminos, dar captura se salvează ca imagine obișnuită. La clipurile noi poți dezactiva Video HDR în Configurări → Cameră → Înregistrare video."
+    },
+    {
+      "q": "Pot salva o poză dintr-un video fără captură de ecran?",
+      "a": "Da. Din iOS 27 prin meniul ••• din Poze. Pe orice versiune, Video To Photo – Grab Frame scoate cadrul direct din fișierul video."
+    },
+    {
+      "q": "Ce format păstrează cea mai bună calitate?",
+      "a": "PNG e fără pierderi și păstrează fiecare pixel. HEIC e foarte aproape, cu fișiere mai mici. JPG e cel mai ușor și merge peste tot."
+    }
+  ],
+  "related": [
+    "poza-din-video-iphone",
+    "poza-clara-din-video",
+    "video-in-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "video-v-slike",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "video v slike",
+  "secondary_keywords": [
+    "več slik iz videa",
+    "video slike",
+    "razdeliti video na slike"
+  ],
+  "title": "Video v slike na iPhonu: več sličic naenkrat",
+  "description": "Iz videa dobite več slik naenkrat na iPhonu, brez računalnika in ffmpeg. Shranite le potrebne sličice kot fotografije, ZIP ali PDF.",
+  "h1": "Video v slike na iPhonu",
+  "nav_title": "Video v slike",
+  "card_title": "Video v slike: več sličic naenkrat",
+  "excerpt": "Veliko sličic naenkrat, le tiste, ki jih potrebujete.",
+  "lead": "Včasih ena slika ni dovolj: cel skok, vsak korak recepta, vsi prizori za snemalno knjigo. Pretvorba celotnega videa v stotine slik naredi le zmešnjavo. Bolje je izbrati, kar potrebujete.",
+  "quick_answer": "Odprite video v Video To Photo – Grab Frame, shranite toliko sličic, kolikor želite, in jih izvozite skupaj: kot datoteke, ZIP ali PDF. Fotografije v iOS 27 shranijo le eno sličico naenkrat.",
+  "content_intro": "<h2>Načini za več slik</h2><table><thead><tr><th>Način</th><th>Prednost</th><th>Slabost</th></tr></thead><tbody><tr><td>Posnetek zaslona za posnetkom</td><td>Brez aplikacije</td><td>Počasno, nizka ločljivost</td></tr><tr><td>Fotografije (iOS 27)</td><td>Vgrajeno</td><td>Ena sličica naenkrat</td></tr><tr><td>ffmpeg na računalniku</td><td>Vse sličice</td><td>Tisoče slik, potreben računalnik</td></tr><tr><td>Grab Frame</td><td>Le izbrane, skupinski izvoz</td><td>Nekatere funkcije so Pro</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p>",
+  "steps_title": "Več slik iz enega videa",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Shranjujte sličice po vrsti",
+      "text": "Povlecite do vsakega trenutka in tapnite shrani. Sličice se zbirajo v pladnju.",
+      "shot": 1
+    },
+    {
+      "name": "Preglejte in počistite",
+      "text": "Izbrišite podobne ali zamegljene sličice.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite vse naenkrat",
+      "text": "Kot ločene datoteke, arhiv ZIP ali PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Uporabno za</h2><ul><li>Šport: faze gibanja.</li><li>Recepte in navodila: vsak korak.</li><li>Snemalno knjigo: glavne prizore.</li><li>Družino: najlepše trenutke z rojstnega dne.</li></ul><p>Projekti se shranijo, zato lahko nadaljujete pozneje.</p>",
+  "faq": [
+    {
+      "q": "Lahko iz videa dobim vse sličice?",
+      "a": "Na računalniku z ffmpeg. Na iPhonu je priročneje izbrati le potrebne sličice v Grab Frame."
+    },
+    {
+      "q": "Koliko sličic lahko shranim?",
+      "a": "Kolikor želite. Za veliko slik izvozite kot ZIP ali PDF."
+    },
+    {
+      "q": "Lahko nadaljujem pozneje?",
+      "a": "Da. Vsak video se shrani kot projekt."
+    }
+  ],
+  "related": [
+    "aplikacija-slika-iz-videa",
+    "video-slicica-za-slicico-iphone",
+    "video-v-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "kep-kivagasa-videobol-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "kép kivágása videóból iPhone",
+  "secondary_keywords": [
+    "kép kivágása videóból iphone",
+    "videóból kép iphone",
+    "videóból fotó kivágás iphone",
+    "videóból kép készítése"
+  ],
+  "title": "Kép kivágása videóból iPhone-on: 3 módszer (élesen)",
+  "description": "Így vághat ki képet videóból iPhone-on jó minőségben: az iOS 27 funkciója, a képernyőkép, a téma kiemelése és több kép egyszerre JPG, PNG vagy HEIC formátumban.",
+  "h1": "Hogyan lehet képet kivágni videóból iPhone-on",
+  "nav_title": "Kép videóból (iPhone)",
+  "card_title": "Kép kivágása videóból iPhone-on",
+  "excerpt": "Minden módszer, amivel képet nyerhet ki egy videóból iPhone-on, és hogy melyiket mikor érdemes használni.",
+  "lead": "Videót vett fel a pillanatról fotó helyett? Semmi gond: egy videó másodpercenként több tucat kép. Így szedheti ki iPhone-on pontosan azt az egyet.",
+  "quick_answer": "iOS 27-től a Fotókban megállítja a videót, és a ••• menüben fotóként menti a képkockát (a videó felbontásában, egyesével). Régebbi iOS-en, vagy ha több képre, PNG-re, ZIP-re vagy PDF-re van szüksége, nyissa meg a videót a Video To Photo – Grab Frame-ben, mentse a kockákat, és exportálja egyszerre.",
+  "content_intro": "<h2>Lehet képet kivágni videóból iPhone-on?</h2><p>Igen. A videó másodpercenként 24–60 állóképből áll, és bármelyik képkockából lehet fotó. A legjobb módszer az iOS-verziótól és attól függ, hány képre van szüksége.</p><h2>A módszerek összehasonlítása</h2><table><thead><tr><th>Módszer</th><th>Minőség</th><th>Korlát</th><th>Mire jó</th></tr></thead><tbody><tr><td><strong>Fotók → képkocka mentése fotóként</strong> (iOS 27+)</td><td>A videó felbontása, HEIF vagy JPG</td><td>Egyszerre egy kocka. A fotó a videó dátumát kapja, ezért nem a Legutóbbiak tetején jelenik meg</td><td>Egy kép gyorsan</td></tr><tr><td><strong>Képernyőkép</strong> (megállítás és képernyőkép)</td><td>A kijelző felbontása, gyakran lejátszás gombbal vagy fekete sávokkal</td><td>Nehéz pontosan eltalálni a kockát</td><td>Gyors jegyzet régi iOS-en</td></tr><tr><td><strong>Téma kiemelése</strong> (iOS 17+, hosszú nyomás)</td><td>Csak a téma, háttér nélkül</td><td>Nem a teljes kocka</td><td>Matrica emberről vagy háziállatról</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>A videófájlból</td><td>App szükséges (iOS 18.6+)</td><td>Sok kép, PNG, ZIP, PDF, régi iOS</td></tr></tbody></table><h3>Az iOS 27 beépített funkciójával</h3><ol><li>Megállítás: nyissa meg a videót a Fotókban, állítsa meg a megfelelő pillanatban, koppintson a <strong>•••</strong> gombra, és válassza a képkocka mentését fotóként (<em>Save Video Frame as Photo</em>).</li><li>A kocka fotóként kerül a könyvtárba a videó felbontásában.</li><li>A fotó megkapja a videó dátumát és helyét, ezért a videó mellett keresse, ne a lista tetején.</li></ol><p>Egy képhez ez elég. De ha ugyanabból a videóból tíz kocka kell, PNG szerkesztéshez, vagy mindent ZIP-ben vagy PDF-ben küldene, körülményessé válik.</p><h3>Miért nem ugyanaz a képernyőkép</h3><p>iOS 26-ig a képernyőkép a szokásos módszer, de a kijelzőt menti, nem a kockát. Egy fekvő 4K-videó álló kijelzőn csak keskeny sáv, ki kell vágni a lejátszás gombot, és el kell találni a megállítást.</p>",
+  "steps_title": "Több kép kivágása videóból a Video To Photo – Grab Frame-mel",
+  "steps": [
+    {
+      "name": "Ossza meg a videót az appal",
+      "text": "Nyissa meg a videót a Fotókban, koppintson a Megosztásra, és válassza az appot. Vagy nyissa meg a Video To Photo – Grab Frame-et, és válasszon videót a könyvtárból.",
+      "shot": 0
+    },
+    {
+      "name": "Keresse meg a pillanatot, és mentse",
+      "text": "Húzza a képkockasávot, amíg a pillanat megjelenik az előnézetben, és koppintson a mentés gombra. Ha mozgás van, mentse az előtte és utána lévő kockákat is.",
+      "shot": 1
+    },
+    {
+      "name": "Ellenőrizze a kockákat",
+      "text": "Nyissa meg az előnézetet, nagyítson rá az arcokra vagy a szövegre, és törölje az elmosódott kockákat. Csak a legélesebbet tartsa meg.",
+      "shot": 2
+    },
+    {
+      "name": "Exportálás képként",
+      "text": "Válassza a JPEG, PNG vagy HEIC formátumot, és koppintson az Exportálásra. Mentse a Fotókba vagy a Fájlokba, vagy küldje el azonnal Messengeren, Viberen, Instagramon vagy e-mailben.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tippek az éles képhez</h2><ul><li><strong>Kapja el a pillanatot, amikor a mozgás megáll.</strong> Az ugrás csúcsa, a mosoly előtti pillanat: ott a legélesebbek a kockák.</li><li><strong>Mentsen hármat, tartson meg egyet.</strong> A szomszédos kockák nagyításig egyformának tűnnek.</li><li><strong>Vegyen fel 4K-ban vagy 60 fps-sel.</strong> Bővebben: <a href=\"/hu/guides/eles-kep-videobol/\">éles kép videóból</a>.</li><li><strong>Válasszon formátumot.</strong> JPG megosztáshoz, PNG szerkesztéshez, HEIC a helytakarékossághoz. Lásd még: <a href=\"/hu/guides/video-jpg-png/\">videó JPG-be vagy PNG-be</a>.</li></ul><h2>Az app módosítja vagy feltölti a videómat?</h2><p>Nem. A Video To Photo – Grab Frame egy másolattal dolgozik az appon belül, és mindent az iPhone-on végez. Az eredeti a Fotókban változatlan marad, és semmi sem kerül szerverre.</p>",
+  "faq": [
+    {
+      "q": "Az iPhone magától is tud képet menteni videóból?",
+      "a": "iOS 27-től igen. Állítsa meg a videót a Fotókban, koppintson a ••• gombra, és mentse a kockát fotóként. Egyesével, HEIF vagy JPG formátumban. iOS 26-ig az egyetlen beépített lehetőség a képernyőkép."
+    },
+    {
+      "q": "Hol találom az iOS 27-ben mentett kockát?",
+      "a": "A fotókönyvtárban, de a videó dátumával és helyével. Ezért az eredeti videó mellett van, nem a Legutóbbiak tetején."
+    },
+    {
+      "q": "Ugyanolyan a minőség, mint a videóé?",
+      "a": "Igen, ha a kockát menti, nem képernyőképet. Az iOS 27 és a Video To Photo – Grab Frame is a videófájlból olvassa ki a kockát. A gyors mozgás elmosódhat, ezért válasszon nyugodt pillanatot."
+    },
+    {
+      "q": "Kivághatok több képet ugyanabból a videóból?",
+      "a": "Igen. Mentse a Video To Photo – Grab Frame-ben az összes pillanatot, és exportálja őket együtt külön fájlokként, ZIP-ben vagy PDF-ben."
+    }
+  ],
+  "related": [
+    "kepernyokep-videorol-iphone",
+    "kep-mentese-videobol-iphone",
+    "eles-kep-videobol"
+  ],
+  "datePublished": "2026-10-01"
+}

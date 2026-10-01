@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-iz-videa",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail",
+  "secondary_keywords": [
+    "youtube thumbnail size",
+    "thumbnail iz videa",
+    "naslovna slika videa"
+  ],
+  "title": "YouTube thumbnail iz videa na iPhoneu",
+  "description": "Napravite thumbnail za YouTube, Instagram ili TikTok od najboljeg kadra vlastitog videa na iPhoneu: odabir, izvoz u PNG i savjeti za više klikova.",
+  "h1": "Kako napraviti YouTube thumbnail iz videa na iPhoneu",
+  "nav_title": "YouTube thumbnail",
+  "card_title": "YouTube thumbnail iz vlastitog videa",
+  "excerpt": "Odabir i izvoz najboljeg kadra za thumbnail.",
+  "lead": "Thumbnail odlučuje hoće li netko kliknuti na video. Najbolja osnova često je u samom videu: izražajno lice, vrhunac, jasan trenutak. Samo ga treba pronaći i oštro spremiti.",
+  "quick_answer": "Otvorite video u aplikaciji Video To Photo – Grab Frame, pronađite oštar i izražajan kadar i izvezite ga u PNG. Tekst i obrezivanje (1280×720, 16:9) dodajte u omiljenom uređivaču, pa ga učitajte na YouTube.",
+  "content_intro": "<h2>Preporučene veličine</h2><table><thead><tr><th>Platforma</th><th>Veličina</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Instagram objava</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p>",
+  "steps_title": "Thumbnail korak po korak",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Pronađite vrhunac",
+      "text": "Pomičite se kadar po kadar i tražite izražajno lice ili snažan trenutak, bez zamućenja.",
+      "shot": 1
+    },
+    {
+      "name": "Spremite više kandidata",
+      "text": "Spremite tri ili četiri kadra kako biste imali izbor.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite u PNG",
+      "text": "PNG čuva kvalitetu prije dodavanja teksta i obrezivanja.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Savjeti za dobar thumbnail</h2><ul><li>Velik, čitljiv tekst: najviše 3–5 riječi.</li><li>Lice s emocijom: ističe se na popisu.</li><li>Jak kontrast, malo detalja.</li><li>Provjerite i u malom formatu, kako izgleda na mobitelu.</li></ul><p>Koristite vlastite videozapise. Kadrove tuđeg sadržaja ne objavljujte bez dopuštenja.</p>",
+  "faq": [
+    {
+      "q": "Koja je veličina YouTube thumbnaila?",
+      "a": "1280×720 piksela, omjer 16:9, najviše 2 MB (JPG ili PNG)."
+    },
+    {
+      "q": "Može li se thumbnail napraviti od kadra videa?",
+      "a": "Da. Spremite kadar aplikacijom Video To Photo – Grab Frame u PNG, a zatim dodajte tekst u uređivaču."
+    },
+    {
+      "q": "Zašto je thumbnail mutan?",
+      "a": "Odabrali ste kadar u pokretu ili je video niske rezolucije. Odaberite susjedni kadar i snimajte u 4K."
+    }
+  ],
+  "related": [
+    "kvalitetna-slika-iz-videa",
+    "video-u-jpg-png",
+    "kako-izvuci-sliku-iz-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -24,6 +24,509 @@
 - [How to turn video frames into a PDF on iPhone](https://extractframeapp.com/guides/video-frames-to-pdf/): Pick the key moments of a video and export them as one clean PDF — for storyboards, lessons and reviews.
 - [How to make a thumbnail from a video on iPhone](https://extractframeapp.com/guides/make-thumbnail-from-video-iphone/): Find the frame that earns the click, export it sharp, and turn it into a YouTube, TikTok or Reels cover.
 
+## Guides (Telugu)
+
+- [iPhone లో వీడియో నుండి ఫోటో: 3 మార్గాలు](https://extractframeapp.com/te/guides/iphone-video-to-photo/): వేగవంతమైనది నుండి ఉత్తమ నాణ్యత వరకు మూడు మార్గాలు, ఏది ఎప్పుడు ఎంచుకోవాలి.
+- [iPhone లో నాణ్యత తగ్గకుండా వీడియో స్క్రీన్‌షాట్](https://extractframeapp.com/te/guides/video-screenshot-iphone/): స్క్రీన్‌షాట్ అసలు ఫ్రేమ్ కంటే ఎందుకు చెడ్డది, దాన్ని ఎలా నివారించాలి.
+- [Video frame to photo: iPhone లో ఫ్రేమ్‌ను ఫోటోగా సేవ్](https://extractframeapp.com/te/guides/video-frame-to-photo-iphone/): ఒక ఫ్రేమ్, పూర్తి రిజల్యూషన్, ఫోటోలు లేదా ఫైల్స్‌లో సేవ్.
+- [iPhone video to photo app: ఎలా ఎంచుకోవాలి](https://extractframeapp.com/te/guides/video-to-photo-app/): మంచి యాప్ యొక్క ఆరు లక్షణాలు, 2 నిమిషాల చెక్‌లిస్ట్.
+- [Video to photo frame capture: ఒకేసారి అనేక ఫోటోలు](https://extractframeapp.com/te/guides/video-to-photo-frame-capture/): ఒకేసారి అనేక ఫ్రేమ్‌లు, అవసరమైనవి మాత్రమే.
+- [iPhone లో ఫ్రేమ్ బై ఫ్రేమ్ వీడియో: కచ్చితమైన క్షణం](https://extractframeapp.com/te/guides/frame-by-frame-video-iphone/): సరైన ఫ్రేమ్‌కు కచ్చితంగా చేరి దాన్ని సేవ్ చేయడం ఎలా.
+- [Video to photo HD: iPhone లో ఫోటో ఎందుకు మసకబారుతుంది](https://extractframeapp.com/te/guides/video-to-photo-hd/): మసక, చీకటి, తక్కువ రిజల్యూషన్ ఫోటోలకు కారణాలు, పరిష్కారాలు.
+- [Video to JPG, PNG, HEIC: iPhone లో ఫ్రేమ్ మార్పిడి](https://extractframeapp.com/te/guides/video-to-jpg-png/): ప్రతి ఫార్మాట్ దేనికి, ఫ్రేమ్‌లను ఎలా ఎక్స్‌పోర్ట్ చేయాలి.
+- [Video to PDF: iPhone లో ఫ్రేమ్‌ల నుండి నోట్స్](https://extractframeapp.com/te/guides/video-to-pdf/): స్టోరీబోర్డ్, గైడ్ లేదా నోట్స్ ఒక PDF లో, నేరుగా వీడియో నుండి.
+- [iPhone లో వీడియో నుండి YouTube థంబ్‌నెయిల్](https://extractframeapp.com/te/guides/youtube-thumbnail-from-video/): థంబ్‌నెయిల్ కోసం ఉత్తమ ఫ్రేమ్ ఎంచుకుని ఎక్స్‌పోర్ట్ చేయడం.
+
+## Guides (Tamil)
+
+- [iPhone-ல் வீடியோவிலிருந்து போட்டோ: 3 வழிகள்](https://extractframeapp.com/ta/guides/iphone-video-to-photo/): வேகமானது முதல் சிறந்த தரம் வரை மூன்று வழிகள், எப்போது எதைத் தேர்வது.
+- [iPhone-ல் தரம் குறையாமல் வீடியோ ஸ்கிரீன்ஷாட்](https://extractframeapp.com/ta/guides/video-screenshot-iphone/): ஸ்கிரீன்ஷாட் ஏன் உண்மையான ஃப்ரேமை விட மோசம், அதைத் தவிர்ப்பது எப்படி.
+- [Video frame to photo: iPhone-ல் ஃப்ரேமை போட்டோவாகச் சேமி](https://extractframeapp.com/ta/guides/video-frame-to-photo-iphone/): ஒரு ஃப்ரேம், முழு ரெசல்யூஷன், புகைப்படங்கள் அல்லது கோப்புகளில்.
+- [iPhone video to photo app: எப்படித் தேர்ந்தெடுப்பது](https://extractframeapp.com/ta/guides/video-to-photo-app/): நல்ல ஆப்பின் ஆறு அடையாளங்கள், 2 நிமிட சரிபார்ப்புப் பட்டியல்.
+- [Video to photo frame capture: ஒரே நேரத்தில் பல போட்டோ](https://extractframeapp.com/ta/guides/video-to-photo-frame-capture/): ஒரே நேரத்தில் பல ஃப்ரேம்கள், தேவையானவை மட்டும்.
+- [iPhone-ல் ஃப்ரேம் பை ஃப்ரேம் வீடியோ: சரியான தருணம்](https://extractframeapp.com/ta/guides/frame-by-frame-video-iphone/): சரியான ஃப்ரேமைத் துல்லியமாக அடைந்து சேமிப்பது எப்படி.
+- [Video to photo HD: iPhone-ல் போட்டோ ஏன் மங்குகிறது](https://extractframeapp.com/ta/guides/video-to-photo-hd/): மங்கலான, இருட்டான, குறைந்த ரெசல்யூஷன் போட்டோக்களின் காரணங்களும் தீர்வுகளும்.
+- [Video to JPG, PNG, HEIC: iPhone-ல் ஃப்ரேம் மாற்றம்](https://extractframeapp.com/ta/guides/video-to-jpg-png/): ஒவ்வொரு ஃபார்மேட்டும் எதற்கு, ஃப்ரேம்களை எப்படி எக்ஸ்போர்ட் செய்வது.
+- [Video to PDF: iPhone-ல் ஃப்ரேம்களிலிருந்து குறிப்புகள்](https://extractframeapp.com/ta/guides/video-to-pdf/): ஸ்டோரிபோர்டு, வழிகாட்டி அல்லது குறிப்புகள் ஒரு PDF-ல், நேரடியாக வீடியோவிலிருந்து.
+- [iPhone-ல் வீடியோவிலிருந்து YouTube தம்ப்நெயில்](https://extractframeapp.com/ta/guides/youtube-thumbnail-from-video/): தம்ப்நெயிலுக்குச் சிறந்த ஃப்ரேமைத் தேர்ந்தெடுத்து எக்ஸ்போர்ட் செய்தல்.
+
+## Guides (Malayalam)
+
+- [iPhone-ൽ വീഡിയോയിൽ നിന്ന് ഫോട്ടോ: 3 വഴികൾ](https://extractframeapp.com/ml/guides/iphone-video-to-photo/): ഏറ്റവും വേഗമേറിയതു മുതൽ മികച്ച ക്വാളിറ്റി വരെ മൂന്ന് വഴികൾ, ഏത് എപ്പോൾ എന്നും.
+- [iPhone-ൽ ക്വാളിറ്റി കുറയാതെ വീഡിയോ സ്ക്രീൻഷോട്ട്](https://extractframeapp.com/ml/guides/video-screenshot-iphone/): സ്ക്രീൻഷോട്ട് യഥാർത്ഥ ഫ്രെയിമിനേക്കാൾ മോശമാകുന്നതിന്റെ കാരണവും പരിഹാരവും.
+- [Video frame to photo: iPhone-ൽ ഫ്രെയിം ഫോട്ടോ ആയി സേവ്](https://extractframeapp.com/ml/guides/video-frame-to-photo-iphone/): ഒരു ഫ്രെയിം, ഫുൾ റെസല്യൂഷൻ, ഫോട്ടോകളിലോ ഫയലുകളിലോ സേവ്.
+- [iPhone video to photo app: എങ്ങനെ തിരഞ്ഞെടുക്കാം](https://extractframeapp.com/ml/guides/video-to-photo-app/): നല്ല ആപ്പിന്റെ ആറ് ലക്ഷണങ്ങളും 2 മിനിറ്റ് ചെക്ക്‌ലിസ്റ്റും.
+- [Video to photo frame capture: ഒരുമിച്ച് ഒരുപാട് ഫോട്ടോ](https://extractframeapp.com/ml/guides/video-to-photo-frame-capture/): ഒരുമിച്ച് ഒരുപാട് ഫ്രെയിമുകൾ, ആവശ്യമുള്ളവ മാത്രം.
+- [iPhone-ൽ ഫ്രെയിം ബൈ ഫ്രെയിം വീഡിയോ: കൃത്യ നിമിഷം](https://extractframeapp.com/ml/guides/frame-by-frame-video-iphone/): ശരിയായ ഫ്രെയിമിൽ കൃത്യമായി എത്തി സേവ് ചെയ്യുന്നത് എങ്ങനെ.
+- [Video to photo HD: iPhone-ൽ ഫോട്ടോ മങ്ങുന്നത് എന്തുകൊണ്ട്](https://extractframeapp.com/ml/guides/video-to-photo-hd/): മങ്ങിയ, ഇരുണ്ട, കുറഞ്ഞ റെസല്യൂഷൻ ഫോട്ടോകളുടെ കാരണങ്ങളും പരിഹാരങ്ങളും.
+- [Video to JPG, PNG, HEIC: iPhone-ൽ ഫ്രെയിം കൺവേർട്ട്](https://extractframeapp.com/ml/guides/video-to-jpg-png/): ഓരോ ഫോർമാറ്റും എന്തിന്, ഫ്രെയിമുകൾ എങ്ങനെ എക്സ്പോർട്ട് ചെയ്യാം.
+- [Video to PDF: iPhone-ൽ ഫ്രെയിമുകളിൽ നിന്ന് നോട്ടുകൾ](https://extractframeapp.com/ml/guides/video-to-pdf/): സ്റ്റോറിബോർഡ്, ഗൈഡ് അല്ലെങ്കിൽ നോട്ടുകൾ ഒരു PDF-ൽ, നേരിട്ട് വീഡിയോയിൽ നിന്ന്.
+- [iPhone-ൽ വീഡിയോയിൽ നിന്ന് YouTube തംബ്നെയിൽ](https://extractframeapp.com/ml/guides/youtube-thumbnail-from-video/): തംബ്നെയിലിനായി മികച്ച ഫ്രെയിം തിരഞ്ഞെടുത്ത് എക്സ്പോർട്ട് ചെയ്യൽ.
+
+## Guides (Bengali)
+
+- [iPhone-এ ভিডিও থেকে ছবি বের করার ৩টি উপায়](https://extractframeapp.com/bn/guides/video-theke-chobi-iphone/): তিনটি উপায়, সবচেয়ে দ্রুত থেকে সেরা কোয়ালিটি পর্যন্ত, আর কখন কোনটা বেছে নেবেন।
+- [iPhone-এ কোয়ালিটি না হারিয়ে ভিডিও স্ক্রিনশট](https://extractframeapp.com/bn/guides/video-screenshot-iphone/): স্ক্রিনশট কেন আসল ফ্রেমের চেয়ে খারাপ, আর কীভাবে এড়াবেন।
+- [ভিডিও থেকে ছবি তোলার নিয়ম: iPhone-এ সেভ করুন](https://extractframeapp.com/bn/guides/video-theke-chobi-tolar-niyom/): একটি ফ্রেম, পুরো রেজোলিউশন, ফটো বা ফাইলে সেভ।
+- [ভিডিও থেকে ছবি তোলার অ্যাপ: iPhone-এর জন্য কীভাবে বাছবেন](https://extractframeapp.com/bn/guides/video-theke-chobi-app/): ভালো অ্যাপের ছয়টি বৈশিষ্ট্য আর ২ মিনিটের চেকলিস্ট।
+- [iPhone-এ একটি ভিডিও থেকে একসাথে অনেক ছবি](https://extractframeapp.com/bn/guides/video-theke-onek-chobi/): একসাথে অনেক ফ্রেম, শুধু যেগুলো দরকার।
+- [iPhone-এ ফ্রেম বাই ফ্রেম ভিডিও: সঠিক মুহূর্ত খুঁজুন](https://extractframeapp.com/bn/guides/frame-by-frame-video-iphone/): কীভাবে ঠিক ফ্রেমে পৌঁছে সেটা সেভ করবেন।
+- [iPhone-এ ভিডিও থেকে HD ছবি: কেন ঝাপসা হয়](https://extractframeapp.com/bn/guides/video-theke-hd-chobi/): ঝাপসা, অন্ধকার আর কম রেজোলিউশনের ছবির কারণ ও সমাধান।
+- [Video to JPG, PNG বা HEIC: iPhone-এ ফ্রেম কনভার্ট](https://extractframeapp.com/bn/guides/video-to-jpg-png/): কোন ফরম্যাট কীসের জন্য আর কীভাবে ফ্রেম এক্সপোর্ট করবেন।
+- [Video to PDF: iPhone-এ ফ্রেম দিয়ে নোট ও স্টোরিবোর্ড](https://extractframeapp.com/bn/guides/video-to-pdf/): স্টোরিবোর্ড, গাইড বা নোট একটি PDF-এ, সরাসরি ভিডিও থেকে।
+- [iPhone-এ ভিডিও থেকে YouTube থাম্বনেইল তৈরি](https://extractframeapp.com/bn/guides/youtube-thumbnail-video-theke/): থাম্বনেইলের জন্য সেরা ফ্রেম বাছাই আর এক্সপোর্ট।
+
+## Guides (Catalan)
+
+- [Com treure una foto d’un vídeo a l’iPhone (3 maneres)](https://extractframeapp.com/ca/guides/treure-foto-dun-video-iphone/): Tres maneres, de la més ràpida a la de més qualitat, i quan triar cadascuna.
+- [Captura d’un vídeo a l’iPhone sense perdre qualitat](https://extractframeapp.com/ca/guides/captura-pantalla-video-iphone/): Per què la captura és pitjor que un fotograma real i com evitar-ho.
+- [Com desar una foto d’un vídeo a l’iPhone](https://extractframeapp.com/ca/guides/desar-foto-dun-video/): Un fotograma, resolució completa, desat a Fotos o Fitxers.
+- [App per treure fotos d’un vídeo a l’iPhone: com triar-la](https://extractframeapp.com/ca/guides/app-foto-dun-video/): Sis trets d’una bona app i una llista de comprovació de 2 minuts.
+- [Vídeo a fotogrames a l’iPhone: diverses fotos alhora](https://extractframeapp.com/ca/guides/video-a-fotogrames/): Molts fotogrames alhora, només els que necessites.
+- [Vídeo fotograma a fotograma a l’iPhone: el moment exacte](https://extractframeapp.com/ca/guides/video-fotograma-a-fotograma-iphone/): Com arribar just al fotograma bo i desar-lo.
+- [Foto nítida d’un vídeo a l’iPhone: per què surt borrosa](https://extractframeapp.com/ca/guides/foto-nitida-dun-video/): Causes i solucions de les fotos borroses, fosques i de baixa resolució.
+- [Vídeo a JPG, PNG o HEIC a l’iPhone](https://extractframeapp.com/ca/guides/video-a-jpg-png/): Per a què serveix cada format i com exportar els fotogrames.
+- [Vídeo a PDF a l’iPhone: storyboard, guia, apunts](https://extractframeapp.com/ca/guides/video-a-pdf/): Storyboard, guia o apunts en un PDF, directament del vídeo.
+- [Miniatura de YouTube d’un vídeo a l’iPhone](https://extractframeapp.com/ca/guides/miniatura-youtube-dun-video/): Tria i exporta el millor fotograma per a la miniatura.
+
+## Guides (Slovenian)
+
+- [Slika iz videa na iPhonu: 3 načini](https://extractframeapp.com/sl/guides/slika-iz-videa-iphone/): Trije načini, od najhitrejšega do najboljše kakovosti, in kdaj izbrati katerega.
+- [Posnetek zaslona videa na iPhonu brez izgube kakovosti](https://extractframeapp.com/sl/guides/posnetek-zaslona-videa-iphone/): Zakaj je posnetek zaslona slabši od prave sličice in kako se temu izogniti.
+- [Kako shraniti sliko iz videa na iPhonu](https://extractframeapp.com/sl/guides/shraniti-sliko-iz-videa/): Ena sličica, polna ločljivost, shranjena v Fotografije ali Datoteke.
+- [Aplikacija za slike iz videa za iPhone: kako izbrati](https://extractframeapp.com/sl/guides/aplikacija-slika-iz-videa/): Šest znakov dobre aplikacije in 2-minutni kontrolni seznam.
+- [Video v slike na iPhonu: več sličic naenkrat](https://extractframeapp.com/sl/guides/video-v-slike/): Veliko sličic naenkrat, le tiste, ki jih potrebujete.
+- [Video sličica za sličico na iPhonu: točen trenutek](https://extractframeapp.com/sl/guides/video-slicica-za-slicico-iphone/): Kako natančno priti do prave sličice in jo shraniti.
+- [Ostra slika iz videa na iPhonu: zakaj je zamegljena](https://extractframeapp.com/sl/guides/ostra-slika-iz-videa/): Vzroki za zameglitev, temne slike in nizko ločljivost ter rešitve.
+- [Video v JPG, PNG ali HEIC na iPhonu](https://extractframeapp.com/sl/guides/video-v-jpg-png/): Za kaj je kateri format in kako izvoziti sličice.
+- [Video v PDF na iPhonu: snemalna knjiga, navodila](https://extractframeapp.com/sl/guides/video-v-pdf/): Snemalna knjiga, navodila ali zapiski v enem PDF, neposredno iz videa.
+- [YouTube thumbnail iz videa na iPhonu](https://extractframeapp.com/sl/guides/youtube-thumbnail-iz-videa/): Izbira in izvoz najboljše sličice za thumbnail.
+
+## Guides (Bulgarian)
+
+- [Как да направя снимка от видео на iPhone: 3 начина](https://extractframeapp.com/bg/guides/snimka-ot-video-iphone/): Три начина, от най-бързия до най-качествения, и кога кой да изберете.
+- [Скрийншот на видео на iPhone без загуба на качество](https://extractframeapp.com/bg/guides/skrijnshot-na-video-iphone/): Защо скрийншотът е по-лош от истинския кадър и как да го избегнете.
+- [Как се прави снимка от клип и се запазва на iPhone](https://extractframeapp.com/bg/guides/zapazvane-na-snimka-ot-video/): Един кадър, пълна резолюция, запазен в Снимки или Файлове.
+- [Приложение за снимки от видео за iPhone: как да изберете](https://extractframeapp.com/bg/guides/prilozhenie-snimka-ot-video/): Шест белега на доброто приложение и проверка за 2 минути.
+- [Снимки от клип на iPhone: много кадри наведнъж](https://extractframeapp.com/bg/guides/video-v-snimki/): Много кадри наведнъж, само тези, които ви трябват.
+- [Видео кадър по кадър на iPhone: точният момент](https://extractframeapp.com/bg/guides/video-kadar-po-kadar-iphone/): Как да стигнете точно до правилния кадър и да го запазите.
+- [Качествена снимка от видео на iPhone: защо е размазана](https://extractframeapp.com/bg/guides/kachestvena-snimka-ot-video/): Причини за размазване, тъмни снимки и ниска резолюция и как да ги решите.
+- [Видео в JPG, PNG или HEIC на iPhone](https://extractframeapp.com/bg/guides/video-v-jpg-png/): За какво е всеки формат и как да експортирате кадрите.
+- [Видео в PDF на iPhone: сториборд, инструкции, бележки](https://extractframeapp.com/bg/guides/video-v-pdf/): Сториборд, инструкции или бележки в един PDF, направо от видеото.
+- [YouTube thumbnail от видео на iPhone](https://extractframeapp.com/bg/guides/youtube-thumbnail-ot-video/): Избор и експорт на най-добрия кадър за thumbnail.
+
+## Guides (Swedish)
+
+- [Ta bild från video på iPhone: 3 sätt](https://extractframeapp.com/sv/guides/ta-bild-fran-video-iphone/): Tre sätt, från snabbast till bäst kvalitet, och när du ska välja vilket.
+- [Skärmdump av video på iPhone utan kvalitetsförlust](https://extractframeapp.com/sv/guides/skarmdump-video-iphone/): Varför skärmdumpen är sämre än en riktig bildruta, och hur du undviker det.
+- [Spara bild från video på iPhone](https://extractframeapp.com/sv/guides/spara-bild-fran-video-iphone/): En bildruta, full upplösning, sparad i Bilder eller Filer.
+- [App för bild från video på iPhone: så väljer du](https://extractframeapp.com/sv/guides/app-bild-fran-video/): Sex kännetecken på en bra app och en checklista på 2 minuter.
+- [Ta ut bilder från video på iPhone: flera samtidigt](https://extractframeapp.com/sv/guides/ta-ut-bilder-fran-video/): Många bildrutor samtidigt, bara de du behöver.
+- [Video bildruta för bildruta på iPhone: hitta ögonblicket](https://extractframeapp.com/sv/guides/video-bildruta-for-bildruta-iphone/): Så kommer du exakt till rätt bildruta och sparar den.
+- [Skarp bild från video på iPhone: varför den blir suddig](https://extractframeapp.com/sv/guides/skarp-bild-fran-video/): Orsaker till suddighet, mörka bilder och låg upplösning, och lösningarna.
+- [Video till JPG, PNG eller HEIC på iPhone](https://extractframeapp.com/sv/guides/video-till-jpg-png/): Vad varje format passar till, och hur du exporterar bildrutorna.
+- [Video till PDF på iPhone: storyboard, guide, anteckningar](https://extractframeapp.com/sv/guides/video-till-pdf/): Storyboard, guide eller anteckningar i en PDF, direkt från videon.
+- [YouTube-thumbnail från video på iPhone](https://extractframeapp.com/sv/guides/youtube-thumbnail-fran-video/): Välj och exportera den bästa bildrutan till thumbnail.
+
+## Guides (Slovak)
+
+- [Fotka z videa na iPhone: 3 spôsoby](https://extractframeapp.com/sk/guides/fotka-z-videa-iphone/): Tri spôsoby, od najrýchlejšieho po najvyššiu kvalitu, a kedy ktorý použiť.
+- [Screenshot z videa na iPhone bez straty kvality](https://extractframeapp.com/sk/guides/screenshot-z-videa-iphone/): Prečo je screenshot horší ako skutočná snímka a ako sa tomu vyhnúť.
+- [Ako spraviť a uložiť fotku z videa na iPhone](https://extractframeapp.com/sk/guides/ako-ulozit-fotku-z-videa/): Jedna snímka, plné rozlíšenie, uložená vo Fotkách alebo Súboroch.
+- [Aplikácia na fotky z videa pre iPhone: ako vybrať](https://extractframeapp.com/sk/guides/aplikacia-fotka-z-videa/): Šesť znakov dobrej aplikácie a 2-minútový kontrolný zoznam.
+- [Video na fotky na iPhone: viac snímok naraz](https://extractframeapp.com/sk/guides/video-na-fotky/): Veľa snímok naraz, len tie, ktoré potrebujete.
+- [Video snímku po snímke na iPhone: presný okamih](https://extractframeapp.com/sk/guides/video-snimku-po-snimke-iphone/): Ako sa presne dostať k správnej snímke a uložiť ju.
+- [Ostrá fotka z videa na iPhone: prečo je rozmazaná](https://extractframeapp.com/sk/guides/ostra-fotka-z-videa/): Príčiny rozmazania, tmavých fotiek a nízkeho rozlíšenia a ich riešenia.
+- [Video do JPG, PNG alebo HEIC na iPhone](https://extractframeapp.com/sk/guides/video-do-jpg-png/): Na čo je ktorý formát a ako exportovať snímky.
+- [Video do PDF na iPhone: storyboard, návod, poznámky](https://extractframeapp.com/sk/guides/video-do-pdf/): Storyboard, návod alebo poznámky v jednom PDF, priamo z videa.
+- [YouTube thumbnail z videa na iPhone](https://extractframeapp.com/sk/guides/youtube-thumbnail-z-videa/): Výber a export najlepšej snímky na thumbnail.
+
+## Guides (Norwegian)
+
+- [Ta bilde fra video på iPhone: 3 måter](https://extractframeapp.com/no/guides/ta-bilde-fra-video-iphone/): Tre måter, fra raskest til best kvalitet, og når du bør bruke hvilken.
+- [Skjermbilde av video på iPhone uten kvalitetstap](https://extractframeapp.com/no/guides/skjermbilde-video-iphone/): Hvorfor skjermbildet er dårligere enn et ekte bilde, og hvordan du unngår det.
+- [Lagre bilde fra video på iPhone](https://extractframeapp.com/no/guides/lagre-bilde-fra-video-iphone/): Ett bilde, full oppløsning, lagret i Bilder eller Filer.
+- [App for bilde fra video på iPhone: slik velger du](https://extractframeapp.com/no/guides/app-bilde-fra-video/): Seks kjennetegn på en god app og en sjekkliste på 2 minutter.
+- [Video til bilder på iPhone: flere bilder samtidig](https://extractframeapp.com/no/guides/video-til-bilder/): Mange bilder samtidig, bare de du trenger.
+- [Video bilde for bilde på iPhone: finn riktig øyeblikk](https://extractframeapp.com/no/guides/video-bilde-for-bilde-iphone/): Slik kommer du presist til riktig bilde og lagrer det.
+- [Skarpt bilde fra video på iPhone: hvorfor det blir uskarpt](https://extractframeapp.com/no/guides/skarpt-bilde-fra-video/): Årsaker til uskarphet, mørke bilder og lav oppløsning, og løsningene.
+- [Video til JPG, PNG eller HEIC på iPhone](https://extractframeapp.com/no/guides/video-til-jpg-png/): Hva hvert format passer til, og hvordan du eksporterer bildene.
+- [Video til PDF på iPhone: storyboard, veiledning, notater](https://extractframeapp.com/no/guides/video-til-pdf/): Storyboard, veiledning eller notater i én PDF, rett fra videoen.
+- [YouTube-thumbnail fra video på iPhone](https://extractframeapp.com/no/guides/youtube-thumbnail-fra-video/): Velg og eksporter det beste bildet til thumbnail.
+
+## Guides (Malay)
+
+- [Cara Ambil Gambar dari Video di iPhone (3 Cara)](https://extractframeapp.com/ms/guides/cara-ambil-gambar-dari-video-iphone/): Tiga cara, dari yang terpantas hingga kualiti terbaik, dan bila guna setiap satu.
+- [Cara Screenshot Video di iPhone Tanpa Hilang Kualiti](https://extractframeapp.com/ms/guides/cara-screenshot-video-iphone/): Kenapa screenshot lebih teruk daripada bingkai sebenar dan cara mengelaknya.
+- [Cara Simpan Gambar dari Video di iPhone](https://extractframeapp.com/ms/guides/cara-simpan-gambar-dari-video-iphone/): Satu bingkai, resolusi penuh, disimpan dalam Foto atau Fail.
+- [Aplikasi Ambil Gambar dari Video di iPhone: Cara Memilih](https://extractframeapp.com/ms/guides/aplikasi-ambil-gambar-dari-video/): Enam ciri aplikasi yang baik dan senarai semak 2 minit.
+- [Cara Tukar Video ke Gambar di iPhone](https://extractframeapp.com/ms/guides/tukar-video-ke-gambar/): Banyak bingkai serentak, hanya yang anda perlukan.
+- [Video Frame demi Frame di iPhone: Cari Detik Tepat](https://extractframeapp.com/ms/guides/video-frame-demi-frame-iphone/): Cara sampai ke bingkai yang tepat dan menyimpannya.
+- [Gambar HD dari Video di iPhone: Kenapa Kabur & Solusinya](https://extractframeapp.com/ms/guides/gambar-hd-dari-video/): Punca dan penyelesaian gambar kabur, gelap dan beresolusi rendah.
+- [Video ke JPG, PNG atau HEIC di iPhone](https://extractframeapp.com/ms/guides/video-ke-jpg-png/): Kegunaan setiap format dan cara mengeksport bingkai.
+- [Video ke PDF di iPhone: Papan Cerita, Panduan, Nota](https://extractframeapp.com/ms/guides/video-ke-pdf/): Papan cerita, panduan atau nota dalam satu PDF, terus daripada video.
+- [Cara Buat Thumbnail YouTube dari Video di iPhone](https://extractframeapp.com/ms/guides/thumbnail-youtube-dari-video/): Memilih dan mengeksport bingkai terbaik untuk thumbnail.
+
+## Guides (Indonesian)
+
+- [Cara Mengambil Foto dari Video di iPhone (3 Cara)](https://extractframeapp.com/id/guides/cara-mengambil-foto-dari-video-iphone/): Tiga cara, dari yang tercepat hingga kualitas terbaik, dan kapan memakai masing-masing.
+- [Cara Screenshot Video di iPhone Tanpa Turun Kualitas](https://extractframeapp.com/id/guides/cara-screenshot-video-iphone/): Kenapa screenshot lebih buruk dari frame asli dan cara menghindarinya.
+- [Cara Menyimpan Foto dari Video di iPhone](https://extractframeapp.com/id/guides/cara-menyimpan-foto-dari-video-iphone/): Satu frame, resolusi penuh, tersimpan di Foto atau File.
+- [Aplikasi Mengambil Foto dari Video di iPhone: Cara Memilih](https://extractframeapp.com/id/guides/aplikasi-mengambil-foto-dari-video/): Enam ciri aplikasi yang bagus dan daftar periksa 2 menit.
+- [Cara Mengubah Video Menjadi Foto di iPhone](https://extractframeapp.com/id/guides/mengubah-video-menjadi-foto/): Banyak frame sekaligus, hanya yang Anda butuhkan.
+- [Video Frame by Frame di iPhone: Temukan Momen Tepat](https://extractframeapp.com/id/guides/video-frame-by-frame-iphone/): Cara mencapai frame yang tepat dan menyimpannya.
+- [Foto HD dari Video di iPhone: Kenapa Buram & Solusinya](https://extractframeapp.com/id/guides/foto-hd-dari-video/): Penyebab dan solusi foto buram, gelap, dan beresolusi rendah.
+- [Video ke JPG, PNG, atau HEIC di iPhone](https://extractframeapp.com/id/guides/video-ke-jpg-png/): Kegunaan setiap format dan cara mengekspor frame.
+- [Video ke PDF di iPhone: Storyboard, Panduan, Catatan](https://extractframeapp.com/id/guides/video-ke-pdf/): Storyboard, panduan, atau catatan dalam satu PDF, langsung dari video.
+- [Thumbnail YouTube dari Video di iPhone: Ukuran & Cara](https://extractframeapp.com/id/guides/thumbnail-youtube-dari-video/): Memilih dan mengekspor frame terbaik untuk thumbnail.
+
+## Guides (Hindi)
+
+- [वीडियो से फोटो कैसे निकालें iPhone में (3 तरीके)](https://extractframeapp.com/hi/guides/video-se-photo-kaise-nikale-iphone/): तीन तरीके, सबसे तेज़ से सबसे अच्छी क्वालिटी तक, और कब कौन सा चुनें।
+- [वीडियो का स्क्रीनशॉट iPhone में, बिना क्वालिटी खोए](https://extractframeapp.com/hi/guides/video-ka-screenshot-iphone/): स्क्रीनशॉट फ्रेम से खराब क्यों होता है और इससे कैसे बचें।
+- [वीडियो से फोटो कैसे बनाएं और iPhone में सेव करें](https://extractframeapp.com/hi/guides/video-se-photo-save-kare/): एक फ्रेम, पूरा रेज़ोल्यूशन, तस्वीरें या फ़ाइल्स में सेव।
+- [वीडियो से फोटो निकालने वाला ऐप: iPhone के लिए कैसे चुनें](https://extractframeapp.com/hi/guides/video-se-photo-nikalne-wala-app/): अच्छे ऐप की छह खूबियाँ और 2 मिनट की चेकलिस्ट।
+- [वीडियो से कई इमेज कैसे निकालें iPhone में](https://extractframeapp.com/hi/guides/video-se-image-frames/): एक साथ कई फ्रेम, सिर्फ वही जो आपको चाहिए।
+- [iPhone में फ्रेम बाय फ्रेम वीडियो: सटीक पल ढूँढें](https://extractframeapp.com/hi/guides/frame-by-frame-video-iphone/): सही फ्रेम तक सटीकता से पहुँचें और उसे सेव करें।
+- [वीडियो से HD फोटो iPhone में: धुंधली क्यों आती है](https://extractframeapp.com/hi/guides/video-se-hd-photo/): धुंधलापन, डार्क फोटो और कम रेज़ोल्यूशन के कारण और समाधान।
+- [Video to JPG, PNG या HEIC: iPhone में फ्रेम कन्वर्ट करें](https://extractframeapp.com/hi/guides/video-to-jpg-png/): कौन सा फॉर्मेट किसके लिए है और फ्रेम कैसे एक्सपोर्ट करें।
+- [Video to PDF: iPhone में फ्रेम से नोट्स और स्टोरीबोर्ड](https://extractframeapp.com/hi/guides/video-to-pdf/): स्टोरीबोर्ड, गाइड या नोट्स एक PDF में, सीधे वीडियो से।
+- [YouTube थंबनेल वीडियो से iPhone में कैसे बनाएं](https://extractframeapp.com/hi/guides/youtube-thumbnail-video-se/): थंबनेल के लिए सबसे अच्छा फ्रेम चुनना और एक्सपोर्ट करना।
+
+## Guides (Croatian)
+
+- [Kako iz videa izvući sliku na iPhoneu (3 načina)](https://extractframeapp.com/hr/guides/kako-izvuci-sliku-iz-videa-iphone/): Tri načina, od najbržeg do najkvalitetnijeg, i kada koji odabrati.
+- [Screenshot videa na iPhoneu bez gubitka kvalitete](https://extractframeapp.com/hr/guides/snimka-zaslona-videa-iphone/): Zašto je snimka zaslona lošija od kadra i kako to izbjeći.
+- [Kako od videa napraviti sliku i spremiti je na iPhone](https://extractframeapp.com/hr/guides/spremiti-sliku-iz-videa-iphone/): Jedan kadar, puna rezolucija, spremljen u Foto ili Datoteke.
+- [Aplikacija za slike iz videa na iPhoneu: kako odabrati](https://extractframeapp.com/hr/guides/aplikacija-slika-iz-videa/): Šest obilježja dobre aplikacije i kontrolni popis od 2 minute.
+- [Kako video pretvoriti u slike na iPhoneu](https://extractframeapp.com/hr/guides/video-u-slike/): Mnogo kadrova odjednom, samo oni koji vam trebaju.
+- [Video frame po frame na iPhoneu: točan trenutak](https://extractframeapp.com/hr/guides/video-frame-po-frame-iphone/): Kako precizno doći do pravog kadra i spremiti ga.
+- [Kvalitetna slika iz videa na iPhoneu: zašto je mutna](https://extractframeapp.com/hr/guides/kvalitetna-slika-iz-videa/): Uzroci zamućenja, tamnih slika i niske rezolucije te rješenja.
+- [Video u JPG, PNG ili HEIC na iPhoneu](https://extractframeapp.com/hr/guides/video-u-jpg-png/): Za što je koji format i kako izvesti kadrove.
+- [Kadrovi iz videa u PDF na iPhoneu: storyboard, upute](https://extractframeapp.com/hr/guides/video-u-pdf/): Storyboard, upute ili bilješke u jednom PDF-u, izravno iz videa.
+- [YouTube thumbnail iz videa na iPhoneu](https://extractframeapp.com/hr/guides/youtube-thumbnail-iz-videa/): Odabir i izvoz najboljeg kadra za thumbnail.
+
+## Guides (Hungarian)
+
+- [Kép kivágása videóból iPhone-on: 3 módszer (élesen)](https://extractframeapp.com/hu/guides/kep-kivagasa-videobol-iphone/): Minden módszer, amivel képet nyerhet ki egy videóból iPhone-on, és hogy melyiket mikor érdemes használni.
+- [Képernyőkép videóról iPhone-on minőségromlás nélkül](https://extractframeapp.com/hu/guides/kepernyokep-videorol-iphone/): Miért homályosak vagy sötétek a videós képernyőképek, és hogyan menthet éles, teljes méretű kockát.
+- [Kép mentése videóból iPhone-on fotóként (iOS 27)](https://extractframeapp.com/hu/guides/kep-mentese-videobol-iphone/): Exportálja a megfelelő kockát a Fotókba vagy a Fájlokba az eredeti videó módosítása nélkül.
+- [App képek kivágásához videóból iPhone-on: hogyan válasszon](https://extractframeapp.com/hu/guides/alkalmazas-kep-videobol/): Egy jó képkocka-app hat ismérve és egy 2 perces ellenőrzőlista.
+- [Képkockák videóból iPhone-on: több egyszerre](https://extractframeapp.com/hu/guides/kepkockak-videobol/): Kockasorozat egy videóból, képként, ZIP-ben vagy PDF-ben exportálva.
+- [Videó képkockánként iPhone-on és a kocka mentése](https://extractframeapp.com/hu/guides/video-kepkockankent-iphone/): Találja meg a pontos pillanatot a videóban, és mentse fotóként.
+- [Éles kép videóból iPhone-on: miért homályos és mit tegyen](https://extractframeapp.com/hu/guides/eles-kep-videobol/): Az elmosódás, a sötét képek és az alacsony felbontás okai és megoldásai.
+- [Videó JPG-be, PNG-be vagy HEIC-be iPhone-on](https://extractframeapp.com/hu/guides/video-jpg-png/): Melyik formátum mire jó, és hogyan exportálja a kockákat.
+- [Videó kockái PDF-be iPhone-on: storyboard, útmutató](https://extractframeapp.com/hu/guides/video-pdf/): Storyboard, útmutató vagy jegyzet egy PDF-ben, közvetlenül a videóból.
+- [YouTube bélyegkép videóból iPhone-on](https://extractframeapp.com/hu/guides/youtube-belyegkep-videobol/): A legjobb kocka kiválasztása és exportálása bélyegképhez.
+
+## Guides (Hebrew)
+
+- [מדריכים](https://extractframeapp.com/he/guides/): Hebrew hub
+- [איך להוציא תמונה מסרטון באייפון](https://extractframeapp.com/he/guides/eich-lehotzi-tmuna-mesirton-iphone/)
+- [צילום מסך מסרטון באייפון: למה הוא מטושטש ואיך עושים את זה טוב יותר](https://extractframeapp.com/he/guides/tzilum-masach-mesirton-iphone/)
+- [איך לשמור פריים מסרטון באייפון](https://extractframeapp.com/he/guides/shmirat-frame-mesirton-iphone/)
+- [איך לבחור אפליקציה להוצאת תמונה מסרטון באייפון](https://extractframeapp.com/he/guides/aplikatzia-tmuna-mesirton/)
+- [איך לפרק סרטון לתמונות באייפון](https://extractframeapp.com/he/guides/pirok-sirton-letmunot/)
+- [איך לצפות בסרטון פריים אחר פריים באייפון](https://extractframeapp.com/he/guides/sirton-frame-frame-iphone/)
+- [איך לקבל תמונה חדה מסרטון](https://extractframeapp.com/he/guides/tmuna-chada-mesirton/)
+- [המרת וידאו ל-JPG,‏ PNG או HEIC באייפון](https://extractframeapp.com/he/guides/hamarat-video-le-jpg/)
+- [איך להמיר וידאו ל-PDF באייפון](https://extractframeapp.com/he/guides/hamarat-video-le-pdf/)
+- [איך ליצור תמונה ממוזערת מסרטון באייפון](https://extractframeapp.com/he/guides/thumbnail-youtube-mesirton/)
+
+## Guides (Filipino)
+
+- [Mga gabay](https://extractframeapp.com/fil/guides/): Filipino hub
+- [Paano kumuha ng picture sa video sa iPhone](https://extractframeapp.com/fil/guides/paano-kumuha-ng-picture-sa-video-iphone/)
+- [Screenshot ng video sa iPhone: bakit malabo at paano mas mapapaganda](https://extractframeapp.com/fil/guides/paano-mag-screenshot-ng-video-sa-iphone/)
+- [Paano i-save ang frame ng video sa iPhone](https://extractframeapp.com/fil/guides/i-save-ang-frame-ng-video-iphone/)
+- [Paano pumili ng app para kumuha ng picture sa video sa iPhone](https://extractframeapp.com/fil/guides/app-para-kumuha-ng-picture-sa-video/)
+- [Paano kumuha ng maraming frame mula sa video sa iPhone](https://extractframeapp.com/fil/guides/maraming-frame-mula-sa-video/)
+- [Paano manood ng video frame by frame sa iPhone](https://extractframeapp.com/fil/guides/video-frame-by-frame-iphone/)
+- [Paano makakuha ng malinaw na picture mula sa video](https://extractframeapp.com/fil/guides/malinaw-na-picture-mula-sa-video/)
+- [Video to JPG, PNG o HEIC sa iPhone](https://extractframeapp.com/fil/guides/video-to-jpg-png/)
+- [Paano i-convert ang video sa PDF sa iPhone](https://extractframeapp.com/fil/guides/video-to-pdf/)
+- [Paano gumawa ng thumbnail mula sa video sa iPhone](https://extractframeapp.com/fil/guides/youtube-thumbnail-mula-sa-video/)
+
+## Guides (Finnish)
+
+- [Oppaat](https://extractframeapp.com/fi/guides/): Finnish hub
+- [Näin otat kuvan videosta iPhonella](https://extractframeapp.com/fi/guides/kuva-videosta-iphone/)
+- [Näyttökuva videosta iPhonella: miksi se on epätarkka ja miten saat paremman](https://extractframeapp.com/fi/guides/nayttokuva-videosta-iphone/)
+- [Näin tallennat still-kuvan videosta iPhonella](https://extractframeapp.com/fi/guides/still-kuva-videosta-iphone/)
+- [Näin valitset sovelluksen kuvien ottamiseen videosta iPhonella](https://extractframeapp.com/fi/guides/sovellus-kuva-videosta/)
+- [Näin otat videosta monta kuvaa iPhonella](https://extractframeapp.com/fi/guides/kuvia-videosta/)
+- [Näin katsot videota ruutu ruudulta iPhonella](https://extractframeapp.com/fi/guides/video-kuva-kuvalta-iphone/)
+- [Näin saat tarkan kuvan videosta](https://extractframeapp.com/fi/guides/tarkka-kuva-videosta/)
+- [Video JPG-, PNG- tai HEIC-kuviksi iPhonella](https://extractframeapp.com/fi/guides/video-jpg-png/)
+- [Näin muunnat videon PDF:ksi iPhonella](https://extractframeapp.com/fi/guides/video-pdf/)
+- [Näin teet pikkukuvan videosta iPhonella](https://extractframeapp.com/fi/guides/youtube-thumbnail-videosta/)
+
+## Guides (Greek)
+
+- [Οδηγοί](https://extractframeapp.com/el/guides/): Greek hub
+- [Πώς βγάζω φωτογραφία από βίντεο στο iPhone](https://extractframeapp.com/el/guides/fotografia-apo-video-iphone/)
+- [Screenshot βίντεο στο iPhone: γιατί είναι θολό και πώς να το κάνετε καλύτερα](https://extractframeapp.com/el/guides/screenshot-video-iphone-xoris-apoleia-poiotitas/)
+- [Πώς αποθηκεύετε καρέ από βίντεο στο iPhone](https://extractframeapp.com/el/guides/apothikeusi-kare-apo-video-iphone/)
+- [Πώς διαλέγετε εφαρμογή για φωτογραφίες από βίντεο στο iPhone](https://extractframeapp.com/el/guides/efarmogi-fotografia-apo-video/)
+- [Πώς βγάζετε πολλά καρέ από βίντεο στο iPhone](https://extractframeapp.com/el/guides/kare-apo-video/)
+- [Πώς βλέπετε ένα βίντεο καρέ-καρέ στο iPhone](https://extractframeapp.com/el/guides/video-kare-kare-iphone/)
+- [Πώς παίρνετε καθαρή φωτογραφία από βίντεο](https://extractframeapp.com/el/guides/kathari-fotografia-apo-video/)
+- [Μετατροπή βίντεο σε JPG, PNG ή HEIC στο iPhone](https://extractframeapp.com/el/guides/metatropi-video-se-jpg/)
+- [Πώς μετατρέπετε βίντεο σε PDF στο iPhone](https://extractframeapp.com/el/guides/video-se-pdf/)
+- [Πώς φτιάχνετε thumbnail από βίντεο στο iPhone](https://extractframeapp.com/el/guides/youtube-thumbnail-apo-video/)
+
+## Guides (Danish)
+
+- [Guides](https://extractframeapp.com/da/guides/): Danish hub
+- [Sådan tager du et billede fra en video på iPhone](https://extractframeapp.com/da/guides/billede-fra-video-iphone/)
+- [Skærmbillede af video på iPhone: hvorfor det er sløret, og hvordan du gør det bedre](https://extractframeapp.com/da/guides/skaermbillede-af-video-iphone/)
+- [Sådan gemmer du et billede fra en video på iPhone](https://extractframeapp.com/da/guides/gem-billede-fra-video-iphone/)
+- [Sådan vælger du en app til billeder fra video på iPhone](https://extractframeapp.com/da/guides/app-billede-fra-video/)
+- [Sådan tager du flere billeder fra en video på iPhone](https://extractframeapp.com/da/guides/billeder-fra-video/)
+- [Sådan ser du en video billede for billede på iPhone](https://extractframeapp.com/da/guides/video-billede-for-billede-iphone/)
+- [Sådan får du et skarpt billede fra en video](https://extractframeapp.com/da/guides/skarpt-billede-fra-video/)
+- [Video til JPG, PNG eller HEIC på iPhone](https://extractframeapp.com/da/guides/video-til-jpg-png/)
+- [Sådan laver du en video om til PDF på iPhone](https://extractframeapp.com/da/guides/video-til-pdf/)
+- [Sådan laver du en thumbnail fra en video på iPhone](https://extractframeapp.com/da/guides/youtube-thumbnail-fra-video/)
+
+## Guides (Chinese, Simplified)
+
+- [指南](https://extractframeapp.com/zh/guides/): Chinese hub
+- [iPhone 如何从视频中截取照片](https://extractframeapp.com/zh/guides/iphone-shipin-jiequ-zhaopian/)
+- [iPhone 视频截图为什么模糊，以及更好的办法](https://extractframeapp.com/zh/guides/iphone-shipin-jietu/)
+- [iPhone 如何把视频的某一帧保存为照片](https://extractframeapp.com/zh/guides/shipin-baocun-zhen-iphone/)
+- [iPhone 视频提取图片 App 怎么选](https://extractframeapp.com/zh/guides/shipin-tiqu-tupian-app/)
+- [在 iPhone 上从视频提取多帧](https://extractframeapp.com/zh/guides/shipin-tiqu-zhen/)
+- [如何在 iPhone 上逐帧查看视频](https://extractframeapp.com/zh/guides/shipin-zhuzhen-iphone/)
+- [如何从视频提取高清图片](https://extractframeapp.com/zh/guides/shipin-tiqu-gaoqing-tupian/)
+- [在 iPhone 上把视频转成 JPG、PNG 或 HEIC](https://extractframeapp.com/zh/guides/shipin-zhuan-tupian/)
+- [如何在 iPhone 上把视频转成 PDF](https://extractframeapp.com/zh/guides/shipin-zhuan-pdf/)
+- [如何用 iPhone 从视频制作封面](https://extractframeapp.com/zh/guides/shipin-fengmian-zhizuo/)
+
+## Guides (Czech)
+
+- [Návody](https://extractframeapp.com/cs/guides/): Czech hub
+- [Jak udělat fotku z videa na iPhonu](https://extractframeapp.com/cs/guides/jak-udelat-fotku-z-videa-iphone/)
+- [Screenshot videa na iPhonu: proč je rozmazaný a jak to udělat lépe](https://extractframeapp.com/cs/guides/screenshot-videa-iphone-bez-ztraty-kvality/)
+- [Jak uložit snímek z videa na iPhonu](https://extractframeapp.com/cs/guides/ulozit-snimek-z-videa-iphone/)
+- [Jak vybrat aplikaci na fotky z videa pro iPhone](https://extractframeapp.com/cs/guides/aplikace-fotka-z-videa/)
+- [Jak vytáhnout více snímků z videa na iPhonu](https://extractframeapp.com/cs/guides/snimky-z-videa/)
+- [Jak procházet video snímek po snímku na iPhonu](https://extractframeapp.com/cs/guides/video-snimek-po-snimku-iphone/)
+- [Jak získat kvalitní a ostrou fotku z videa](https://extractframeapp.com/cs/guides/kvalitni-fotka-z-videa/)
+- [Video na JPG, PNG nebo HEIC na iPhonu](https://extractframeapp.com/cs/guides/video-na-jpg-png/)
+- [Jak převést video do PDF na iPhonu](https://extractframeapp.com/cs/guides/video-do-pdf/)
+- [Jak udělat náhledový obrázek z videa na iPhonu](https://extractframeapp.com/cs/guides/nahledovy-obrazek-youtube/)
+
+## Guides (Vietnamese)
+
+- [Hướng dẫn](https://extractframeapp.com/vi/guides/): Vietnamese hub
+- [Cách cắt ảnh từ video trên iPhone](https://extractframeapp.com/vi/guides/cat-anh-tu-video-tren-iphone/)
+- [Chụp màn hình video trên iPhone: vì sao bị mờ và cách làm tốt hơn](https://extractframeapp.com/vi/guides/chup-man-hinh-video-iphone/)
+- [Cách chụp ảnh từ video và lưu thành ảnh trên iPhone](https://extractframeapp.com/vi/guides/chup-anh-tu-video-iphone/)
+- [Cách chọn app cắt ảnh từ video trên iPhone](https://extractframeapp.com/vi/guides/app-cat-anh-tu-video/)
+- [Tách ảnh từ video trên iPhone](https://extractframeapp.com/vi/guides/tach-anh-tu-video/)
+- [Cách xem video từng khung hình trên iPhone](https://extractframeapp.com/vi/guides/xem-video-tung-khung-hinh-iphone/)
+- [Cách cắt ảnh từ video thật nét](https://extractframeapp.com/vi/guides/cat-anh-tu-video-net/)
+- [Chuyển video sang JPG, PNG hoặc HEIC trên iPhone](https://extractframeapp.com/vi/guides/chuyen-video-sang-jpg/)
+- [Cách chuyển video sang PDF trên iPhone](https://extractframeapp.com/vi/guides/chuyen-video-sang-pdf/)
+- [Cách làm thumbnail từ video bằng iPhone](https://extractframeapp.com/vi/guides/lam-thumbnail-youtube/)
+
+## Guides (Ukrainian)
+
+- [Гайди](https://extractframeapp.com/uk/guides/): Ukrainian hub
+- [Як зробити фото з відео на айфоні](https://extractframeapp.com/uk/guides/yak-zrobyty-foto-z-video-na-aifoni/)
+- [Скріншот відео на iPhone: чому він розмитий і як зробити краще](https://extractframeapp.com/uk/guides/skrinshot-video-iphone-bez-vtraty-yakosti/)
+- [Як зберегти кадр з відео на айфоні](https://extractframeapp.com/uk/guides/zberehty-kadr-z-video-iphone/)
+- [Як обрати застосунок для фото з відео на iPhone](https://extractframeapp.com/uk/guides/prohrama-foto-z-video/)
+- [Розкадровка відео на фото на iPhone](https://extractframeapp.com/uk/guides/rozkadrovka-video-na-foto/)
+- [Як дивитися відео покадрово на iPhone](https://extractframeapp.com/uk/guides/video-pokadrovo-iphone/)
+- [Як отримати якісне і чітке фото з відео](https://extractframeapp.com/uk/guides/yakisne-foto-z-video/)
+- [Відео в JPG, PNG або HEIC на iPhone](https://extractframeapp.com/uk/guides/video-v-jpg-png/)
+- [Як перетворити відео на PDF на iPhone](https://extractframeapp.com/uk/guides/video-v-pdf/)
+- [Як зробити обкладинку з відео на iPhone](https://extractframeapp.com/uk/guides/obkladynka-youtube-z-video/)
+
+## Guides (Turkish)
+
+- [Rehberler](https://extractframeapp.com/tr/guides/): Turkish hub
+- [iPhone'da videodan fotoğraf nasıl alınır](https://extractframeapp.com/tr/guides/videodan-fotograf-alma-iphone/)
+- [iPhone'da videodan ekran görüntüsü: neden bulanık ve daha iyisi nasıl yapılır](https://extractframeapp.com/tr/guides/videodan-ekran-goruntusu-alma-iphone/)
+- [iPhone'da videodan kare alıp fotoğraf olarak kaydetme](https://extractframeapp.com/tr/guides/videodan-kare-alma-iphone/)
+- [iPhone için videodan fotoğraf alma uygulaması nasıl seçilir](https://extractframeapp.com/tr/guides/videodan-fotograf-alma-uygulamasi/)
+- [iPhone'da videodan fotoğraf çıkarma](https://extractframeapp.com/tr/guides/videodan-fotograf-cikarma/)
+- [iPhone'da video kare kare nasıl izlenir](https://extractframeapp.com/tr/guides/video-kare-kare-izleme-iphone/)
+- [Videodan kaliteli ve net fotoğraf alma](https://extractframeapp.com/tr/guides/videodan-kaliteli-fotograf-alma/)
+- [iPhone'da videoyu JPG, PNG veya HEIC'e çevirme](https://extractframeapp.com/tr/guides/video-jpg-cevirme/)
+- [iPhone'da videoyu PDF'e dönüştürme](https://extractframeapp.com/tr/guides/video-pdf-donusturme/)
+- [iPhone'da videodan kapak fotoğrafı nasıl yapılır](https://extractframeapp.com/tr/guides/youtube-kapak-fotografi-yapma/)
+
+## Guides (Thai)
+
+- [คู่มือ](https://extractframeapp.com/th/guides/): Thai hub
+- [วิธีแคปรูปจากวิดีโอบน iPhone](https://extractframeapp.com/th/guides/cap-roop-jak-video-iphone/)
+- [แคปหน้าจอวิดีโอบน iPhone: ทำไมถึงเบลอ และทำยังไงให้ดีกว่า](https://extractframeapp.com/th/guides/cap-na-jor-video-iphone/)
+- [วิธีเซฟภาพจากวิดีโอเป็นรูปบน iPhone](https://extractframeapp.com/th/guides/save-phap-jak-video-iphone/)
+- [วิธีเลือกแอพแคปรูปจากวิดีโอบน iPhone](https://extractframeapp.com/th/guides/app-cap-roop-jak-video/)
+- [ดึงภาพหลายเฟรมจากวิดีโอบน iPhone](https://extractframeapp.com/th/guides/dueng-frame-jak-video/)
+- [วิธีดูวิดีโอทีละเฟรมบน iPhone](https://extractframeapp.com/th/guides/video-tee-la-frame-iphone/)
+- [วิธีแคปรูปจากวิดีโอให้ชัด](https://extractframeapp.com/th/guides/cap-roop-jak-video-hai-chad/)
+- [แปลงวิดีโอเป็น JPG, PNG หรือ HEIC บน iPhone](https://extractframeapp.com/th/guides/plaeng-video-pen-jpg/)
+- [วิธีแปลงวิดีโอเป็น PDF บน iPhone](https://extractframeapp.com/th/guides/plaeng-video-pen-pdf/)
+- [วิธีทำปกยูทูปจากวิดีโอบน iPhone](https://extractframeapp.com/th/guides/tham-pok-youtube-jak-video/)
+
+## Guides (Romanian)
+
+- [Ghiduri](https://extractframeapp.com/ro/guides/): Romanian hub
+- [Cum faci o poză dintr-un video pe iPhone](https://extractframeapp.com/ro/guides/poza-din-video-iphone/)
+- [Screenshot la video pe iPhone: de ce iese neclar și cum faci mai bine](https://extractframeapp.com/ro/guides/screenshot-video-iphone-fara-pierderea-calitatii/)
+- [Cum salvezi un cadru dintr-un video ca poză pe iPhone](https://extractframeapp.com/ro/guides/salvare-cadru-din-video-iphone/)
+- [Cum alegi o aplicație pentru poze din video pe iPhone](https://extractframeapp.com/ro/guides/aplicatie-poza-din-video/)
+- [Extragerea cadrelor dintr-un video pe iPhone](https://extractframeapp.com/ro/guides/extragere-cadre-din-video/)
+- [Cum vezi un video cadru cu cadru pe iPhone](https://extractframeapp.com/ro/guides/video-cadru-cu-cadru-iphone/)
+- [Cum obții o poză clară dintr-un video](https://extractframeapp.com/ro/guides/poza-clara-din-video/)
+- [Video în JPG, PNG sau HEIC pe iPhone](https://extractframeapp.com/ro/guides/video-in-jpg-png/)
+- [Cum transformi un video în PDF pe iPhone](https://extractframeapp.com/ro/guides/video-in-pdf/)
+- [Cum faci un thumbnail dintr-un video pe iPhone](https://extractframeapp.com/ro/guides/thumbnail-youtube-din-video/)
+
+## Guides (Polish)
+
+- [Poradniki](https://extractframeapp.com/pl/guides/): Polish hub
+- [Jak zrobić zdjęcie z filmu na iPhonie](https://extractframeapp.com/pl/guides/jak-zrobic-zdjecie-z-filmu-iphone/)
+- [Zrzut ekranu z filmu na iPhonie: dlaczego jest rozmazany i jak zrobić to lepiej](https://extractframeapp.com/pl/guides/zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci/)
+- [Jak zapisać klatkę z filmu jako zdjęcie na iPhonie](https://extractframeapp.com/pl/guides/zapisac-klatke-z-filmu-iphone/)
+- [Jak wybrać aplikację do zdjęć z filmu na iPhone](https://extractframeapp.com/pl/guides/aplikacja-zdjecie-z-filmu/)
+- [Wycinanie klatek z filmu na iPhonie](https://extractframeapp.com/pl/guides/wycinanie-klatek-z-filmu/)
+- [Jak oglądać film klatka po klatce na iPhonie](https://extractframeapp.com/pl/guides/film-klatka-po-klatce-iphone/)
+- [Jak uzyskać ostre zdjęcie z filmu](https://extractframeapp.com/pl/guides/ostre-zdjecie-z-filmu/)
+- [Film na JPG, PNG lub HEIC na iPhonie](https://extractframeapp.com/pl/guides/film-na-jpg-png/)
+- [Jak zamienić film na PDF na iPhonie](https://extractframeapp.com/pl/guides/film-do-pdf/)
+- [Jak zrobić miniaturę z filmu na iPhonie](https://extractframeapp.com/pl/guides/miniatura-youtube-z-filmu/)
+
+## Guides (Dutch)
+
+- [Gidsen](https://extractframeapp.com/nl/guides/): Dutch hub
+- [Een foto uit een video halen op je iPhone](https://extractframeapp.com/nl/guides/foto-uit-video-halen-iphone/)
+- [Screenshot van een video op iPhone: waarom hij wazig is en hoe het beter kan](https://extractframeapp.com/nl/guides/screenshot-video-iphone-zonder-kwaliteitsverlies/)
+- [Een still uit een video opslaan op je iPhone](https://extractframeapp.com/nl/guides/still-uit-video-opslaan-iphone/)
+- [De juiste app kiezen om een foto uit een video te halen](https://extractframeapp.com/nl/guides/app-foto-uit-video-halen/)
+- [Frames uit een video halen op je iPhone](https://extractframeapp.com/nl/guides/frames-uit-video-halen/)
+- [Een video frame voor frame bekijken op iPhone](https://extractframeapp.com/nl/guides/video-frame-voor-frame-iphone/)
+- [Een scherpe foto uit een video halen](https://extractframeapp.com/nl/guides/scherpe-foto-uit-video/)
+- [Video naar JPG, PNG of HEIC op je iPhone](https://extractframeapp.com/nl/guides/video-naar-jpg-png/)
+- [Een video omzetten naar PDF op iPhone](https://extractframeapp.com/nl/guides/video-naar-pdf/)
+- [Een thumbnail maken van een video op iPhone](https://extractframeapp.com/nl/guides/thumbnail-maken-van-video/)
+
+## Guides (Korean)
+
+- [가이드](https://extractframeapp.com/ko/guides/): Korean hub
+- [아이폰 동영상에서 사진 추출하는 방법](https://extractframeapp.com/ko/guides/iphone-dongyeongsang-sajin-chuchul/)
+- [동영상 캡쳐 화질이 나쁜 이유와 캡쳐 없이 고화질로 저장하는 법](https://extractframeapp.com/ko/guides/dongyeongsang-kaepcheo-hwajil/)
+- [아이폰 동영상 장면을 사진으로 저장하는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-sajin-jeojang-iphone/)
+- [아이폰 동영상 사진 추출 앱 고르는 법](https://extractframeapp.com/ko/guides/dongyeongsang-sajin-chuchul-app/)
+- [아이폰에서 동영상 프레임 추출하는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-frame-chuchul/)
+- [아이폰에서 동영상을 한 프레임씩 넘기는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-han-frame-ssik-iphone/)
+- [동영상에서 고화질 사진 추출하는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-sajin-gohwajil/)
+- [아이폰에서 동영상을 JPG·PNG·HEIC로 변환하는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-jpg-byeonhwan/)
+- [아이폰에서 동영상을 PDF로 변환하는 방법](https://extractframeapp.com/ko/guides/dongyeongsang-pdf-byeonhwan/)
+- [아이폰 동영상으로 썸네일 만드는 방법](https://extractframeapp.com/ko/guides/youtube-thumbnail-mandeulgi/)
+
+## Guides (Japanese)
+
+- [ガイド](https://extractframeapp.com/ja/guides/): Japanese hub
+- [iPhoneで動画から写真を切り出す方法](https://extractframeapp.com/ja/guides/iphone-douga-kara-shashin/)
+- [動画のスクショ画質が悪い理由と、スクショ以外で高画質に保存する方法](https://extractframeapp.com/ja/guides/douga-sukusho-kougashitsu/)
+- [iPhoneで動画の静止画を保存する方法](https://extractframeapp.com/ja/guides/douga-seishiga-hozon-iphone/)
+- [動画から写真を切り出すiPhoneアプリの選び方](https://extractframeapp.com/ja/guides/douga-kara-shashin-app/)
+- [iPhoneで動画からフレームを抽出する方法](https://extractframeapp.com/ja/guides/douga-frame-chushutsu/)
+- [iPhoneで動画をコマ送りする方法](https://extractframeapp.com/ja/guides/douga-komaokuri-iphone/)
+- [動画から写真を高画質で切り出すコツ](https://extractframeapp.com/ja/guides/douga-kara-shashin-kougashitsu/)
+- [iPhoneで動画をJPG・PNG・HEICに変換する方法](https://extractframeapp.com/ja/guides/douga-jpg-henkan/)
+- [iPhoneで動画をPDFに変換する方法](https://extractframeapp.com/ja/guides/douga-pdf-henkan/)
+- [iPhoneで動画からサムネイルを作る方法](https://extractframeapp.com/ja/guides/youtube-thumbnail-douga-kara/)
+
+## Guides (Portuguese)
+
+- [Guias](https://extractframeapp.com/pt/guides/): Portuguese hub
+- [Como tirar foto de um vídeo no iPhone](https://extractframeapp.com/pt/guides/como-tirar-foto-de-video-no-iphone/)
+- [Como tirar print de vídeo no iPhone sem perder qualidade](https://extractframeapp.com/pt/guides/print-de-video-iphone-sem-perder-qualidade/)
+- [Como salvar um frame de vídeo no iPhone](https://extractframeapp.com/pt/guides/salvar-frame-de-video-iphone/)
+- [App para tirar foto de vídeo no iPhone: como escolher](https://extractframeapp.com/pt/guides/app-para-tirar-foto-de-video/)
+- [Como extrair frames de um vídeo no iPhone](https://extractframeapp.com/pt/guides/extrair-frames-de-video/)
+- [Como ver um vídeo frame a frame no iPhone](https://extractframeapp.com/pt/guides/video-frame-a-frame-iphone/)
+- [Como tirar foto de vídeo com qualidade](https://extractframeapp.com/pt/guides/tirar-foto-de-video-com-qualidade/)
+- [Converter vídeo para JPG, PNG ou HEIC no iPhone](https://extractframeapp.com/pt/guides/converter-video-para-jpg/)
+- [Como passar um vídeo para PDF no iPhone](https://extractframeapp.com/pt/guides/video-para-pdf/)
+- [Como fazer uma capa ou thumbnail de vídeo no iPhone](https://extractframeapp.com/pt/guides/capa-thumbnail-de-video-youtube/)
+
+## Guides (Italian)
+
+- [Guide](https://extractframeapp.com/it/guides/): Italian hub
+- [Come estrarre una foto da un video su iPhone](https://extractframeapp.com/it/guides/estrarre-foto-da-video-iphone/)
+- [Screenshot di un video su iPhone senza perdere qualità](https://extractframeapp.com/it/guides/screenshot-video-iphone-senza-perdere-qualita/)
+- [Come salvare un fotogramma di un video su iPhone](https://extractframeapp.com/it/guides/salvare-fotogramma-video-iphone/)
+- [App per estrarre foto da video su iPhone: come scegliere](https://extractframeapp.com/it/guides/app-per-estrarre-foto-da-video/)
+- [Come estrarre fotogrammi da un video su iPhone](https://extractframeapp.com/it/guides/estrarre-fotogrammi-da-video/)
+- [Come vedere un video fotogramma per fotogramma su iPhone](https://extractframeapp.com/it/guides/video-fotogramma-per-fotogramma-iphone/)
+- [Come ottenere una foto da video in alta qualità](https://extractframeapp.com/it/guides/foto-da-video-alta-qualita/)
+- [Convertire un video in JPG, PNG o HEIC su iPhone](https://extractframeapp.com/it/guides/convertire-video-in-jpg/)
+- [Come trasformare un video in PDF su iPhone](https://extractframeapp.com/it/guides/video-in-pdf/)
+- [Come creare una miniatura da un video su iPhone](https://extractframeapp.com/it/guides/miniatura-copertina-video-youtube/)
+
+## Guides (German)
+
+- [Anleitungen](https://extractframeapp.com/de/guides/): German hub
+- [Foto aus Video auf dem iPhone machen](https://extractframeapp.com/de/guides/foto-aus-video-iphone/)
+- [Screenshot von einem Video auf dem iPhone ohne Qualitätsverlust](https://extractframeapp.com/de/guides/screenshot-video-iphone-ohne-qualitaetsverlust/)
+- [Standbild aus einem Video auf dem iPhone speichern](https://extractframeapp.com/de/guides/standbild-aus-video-speichern-iphone/)
+- [App für Fotos aus Videos: so findest du die richtige](https://extractframeapp.com/de/guides/app-foto-aus-video/)
+- [Bilder aus einem Video auf dem iPhone extrahieren](https://extractframeapp.com/de/guides/bilder-aus-video-extrahieren/)
+- [Video auf dem iPhone Bild für Bild ansehen](https://extractframeapp.com/de/guides/video-bild-fuer-bild-iphone/)
+- [Foto aus Video in guter Qualität](https://extractframeapp.com/de/guides/foto-aus-video-gute-qualitaet/)
+- [Video in JPG, PNG oder HEIC umwandeln auf dem iPhone](https://extractframeapp.com/de/guides/video-in-jpg-umwandeln/)
+- [Video in PDF umwandeln auf dem iPhone](https://extractframeapp.com/de/guides/video-in-pdf-umwandeln/)
+- [Thumbnail aus einem Video auf dem iPhone erstellen](https://extractframeapp.com/de/guides/thumbnail-aus-video-erstellen/)
+
+## Guides (French)
+
+- [Guides](https://extractframeapp.com/fr/guides/): French hub
+- [Comment extraire une photo d'une vidéo sur iPhone](https://extractframeapp.com/fr/guides/extraire-une-photo-d-une-video-iphone/)
+- [Capture d'écran d'une vidéo sur iPhone sans perte de qualité](https://extractframeapp.com/fr/guides/capture-ecran-video-iphone-sans-perte/)
+- [Comment enregistrer une image d'une vidéo sur iPhone](https://extractframeapp.com/fr/guides/enregistrer-une-image-d-une-video-iphone/)
+- [Application pour extraire une photo d'une vidéo : comment choisir](https://extractframeapp.com/fr/guides/application-extraire-photo-video/)
+- [Comment extraire les images d'une vidéo sur iPhone](https://extractframeapp.com/fr/guides/extraire-toutes-les-images-d-une-video/)
+- [Comment lire une vidéo image par image sur iPhone](https://extractframeapp.com/fr/guides/video-image-par-image-iphone/)
+- [Comment obtenir une photo de bonne qualité à partir d'une vidéo](https://extractframeapp.com/fr/guides/photo-de-qualite-depuis-une-video/)
+- [Convertir une vidéo en JPG, PNG ou HEIC sur iPhone](https://extractframeapp.com/fr/guides/convertir-video-en-jpg-png/)
+- [Comment transformer une vidéo en PDF sur iPhone](https://extractframeapp.com/fr/guides/video-en-pdf/)
+- [Créer une miniature à partir d'une vidéo sur iPhone](https://extractframeapp.com/fr/guides/miniature-video-youtube-iphone/)
+
+## Guides (Spanish)
+
+- [Guías](https://extractframeapp.com/es/guides/): Spanish hub
+- [Cómo sacar una foto de un video en iPhone](https://extractframeapp.com/es/guides/como-sacar-una-foto-de-un-video-en-iphone/)
+- [Cómo hacer una captura de un video en iPhone sin perder calidad](https://extractframeapp.com/es/guides/captura-de-video-iphone-sin-perder-calidad/)
+- [Cómo guardar un fotograma de un video en iPhone](https://extractframeapp.com/es/guides/guardar-fotograma-de-un-video-iphone/)
+- [App para sacar fotos de videos en iPhone: cómo elegir](https://extractframeapp.com/es/guides/app-para-sacar-fotos-de-videos/)
+- [Cómo extraer fotogramas de un video en iPhone](https://extractframeapp.com/es/guides/extraer-fotogramas-de-un-video/)
+- [Cómo ver un video fotograma a fotograma en iPhone](https://extractframeapp.com/es/guides/video-fotograma-a-fotograma-iphone/)
+- [Cómo sacar una foto de buena calidad de un video](https://extractframeapp.com/es/guides/foto-de-un-video-en-buena-calidad/)
+- [Convertir video a JPG, PNG o HEIC en iPhone](https://extractframeapp.com/es/guides/convertir-video-a-jpg-png/)
+- [Cómo convertir un video a PDF en iPhone](https://extractframeapp.com/es/guides/video-a-pdf/)
+- [Cómo hacer una portada o miniatura de un video en iPhone](https://extractframeapp.com/es/guides/portada-miniatura-de-un-video-iphone/)
+
+## Guides (Russian)
+
+- [Инструкции](https://extractframeapp.com/ru/guides/): Russian hub
+- [Как сделать фото из видео на айфоне](https://extractframeapp.com/ru/guides/kak-sdelat-foto-iz-video-na-iphone/)
+- [Как сделать скриншот видео на айфоне без потери качества](https://extractframeapp.com/ru/guides/skrinshot-video-iphone-bez-poteri-kachestva/)
+- [Как сохранить кадр из видео на айфоне](https://extractframeapp.com/ru/guides/sohranit-kadr-iz-video-iphone/)
+- [Приложение для фото из видео на iPhone: как выбрать](https://extractframeapp.com/ru/guides/prilozhenie-foto-iz-video/)
+- [Как извлечь несколько или все кадры из видео на iPhone](https://extractframeapp.com/ru/guides/vse-kadry-iz-video/)
+- [Как посмотреть видео покадрово на айфоне](https://extractframeapp.com/ru/guides/pokadrovo-video-iphone/)
+- [Как сделать фото из видео в хорошем качестве](https://extractframeapp.com/ru/guides/foto-iz-video-v-horoshem-kachestve/)
+- [Видео в JPG, PNG или HEIC на iPhone](https://extractframeapp.com/ru/guides/video-v-jpg-png-heic/)
+- [Как сделать раскадровку видео в PDF на iPhone](https://extractframeapp.com/ru/guides/raskadrovka-video-v-pdf/)
+- [Как сделать обложку из видео на айфоне](https://extractframeapp.com/ru/guides/oblozhka-iz-video-iphone/)
+
 ## Entity Definition
 
 Video To Photo – Grab Frame is an iPhone frame grabber that turns video clips into high-resolution still photos entirely on the device. Users share a video from Photos, scrub to the exact moment, grab one or many frames and export them as JPG, PNG or HEIC — as separate files, a ZIP archive or a PDF. Sessions are saved as projects.

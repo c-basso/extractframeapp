@@ -1,0 +1,64 @@
+{
+  "slug": "scherpe-foto-uit-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "scherpe foto uit video",
+  "secondary_keywords": [
+    "foto uit video wazig",
+    "foto uit video hoge kwaliteit",
+    "goede kwaliteit foto uit video iphone"
+  ],
+  "title": "Scherpe foto uit een video halen (niet meer wazig)",
+  "description": "Waarom een foto uit een video wazig is en hoe je dat oplost: een stil frame kiezen, filmen in 4K en 60 fps, exporteren in plaats van screenshot, PNG of HEIC.",
+  "h1": "Een scherpe foto uit een video halen",
+  "nav_title": "Scherpe foto uit video",
+  "card_title": "Een scherpe foto uit een video halen",
+  "excerpt": "Waarom frames wazig zijn, wat je achteraf kunt doen en wat je vóór het filmen verandert.",
+  "lead": "Je vond het perfecte moment, bewaarde het, en het is wazig. Videoframes zijn gemaakt voor beweging, niet om stil te bekijken. Met het juiste frame en de juiste methode lijken ze toch op een echte foto.",
+  "quick_answer": "Kies een frame waarin het onderwerp bijna stilstaat, bewaar uit het videobestand in plaats van een screenshot, en exporteer als PNG of HEIC zonder extra compressie. Bewaar 3–5 naburige frames en houd de scherpste. Film voortaan in goed licht in 4K en 60 fps.",
+  "content_intro": "<h2>Waarom een foto uit een video wazig is</h2><ul><li><strong>Bewegingsonscherpte.</strong> Elk frame wordt een fractie van een seconde belicht. Beweegt het onderwerp, dan vervaagt het.</li><li><strong>Screenshot.</strong> De video wordt verkleind tot schermformaat en opnieuw opgeslagen. Zie <a href=\"/nl/guides/screenshot-video-iphone-zonder-kwaliteitsverlies/\">waarom een screenshot kwaliteit verliest</a>.</li><li><strong>Videocompressie.</strong> Video is sterk gecomprimeerd; sommige frames hebben minder detail.</li><li><strong>Weinig licht.</strong> Langere belichting en sterke ruisonderdrukking wissen detail.</li></ul><h2>Wat je achteraf kunt doen</h2><table><thead><tr><th>Probleem</th><th>Oplossing</th></tr></thead><tbody><tr><td>Onderwerp bewogen</td><td>Bewaar meerdere naburige frames en kies de scherpste</td></tr><tr><td>Foto klein of afgesneden</td><td>Exporteer uit het bestand, geen screenshot</td></tr><tr><td>Compressieblokjes</td><td>Exporteer PNG of HEIC en sla niet opnieuw op</td></tr><tr><td>Ogen dicht</td><td>Schuif langzaam; het goede frame ligt vaak 1–2 frames verder</td></tr></tbody></table>",
+  "steps_title": "Het scherpste frame uit een video halen",
+  "steps": [
+    {
+      "name": "Open de video",
+      "text": "Deel hem vanuit Foto's met Video To Photo – Grab Frame. De frames komen uit het bestand, niet van het scherm.",
+      "shot": 0
+    },
+    {
+      "name": "Zoek de stilte",
+      "text": "Schuif rond de beweging en zoek de 'pauze': het hoogste punt van een sprong, vlak voor een lach.",
+      "shot": 1
+    },
+    {
+      "name": "Bewaar een reeks en vergelijk",
+      "text": "Bewaar 3–5 frames rond het moment en zoom in op ogen, randen of tekst. Verwijder de zachte frames.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer zonder extra compressie",
+      "text": "Exporteer de beste als PNG (verliesvrij) of HEIC (scherp en compact). JPG voor snel delen.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Zo film je voor scherpe frames</h2><ul><li><strong>4K.</strong> Meer pixels, meer detail en ruimte om bij te snijden (Instellingen → Camera → Video-opname).</li><li><strong>60 fps bij beweging.</strong> Meer frames om uit te kiezen en minder onscherpte per frame.</li><li><strong>Licht.</strong> Daglicht of een goed verlichte kamer doet het meest voor scherpte.</li><li><strong>Stabiliteit.</strong> Steun je ellebogen of gebruik een statief; trillen maakt elk frame wazig.</li></ul><h2>En AI-verbetering?</h2><p>AI-upscalers maken een beeld groter, maar 'verzinnen' detail. Zorg eerst voor het beste echte frame op de resolutie van de video en gebruik upscaling alleen voor grote afdrukken. Voor formaten zie <a href=\"/nl/guides/video-naar-jpg-png/\">video naar JPG of PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan een frame uit een video zo goed zijn als een foto?",
+      "a": "Een scherpe 4K-video in goed licht geeft frames die voor social media nauwelijks van een foto te onderscheiden zijn. Een echte foto heeft wel voordelen, zoals een kortere sluitertijd en fotobewerking."
+    },
+    {
+      "q": "Welke resolutie heeft een frame uit een 4K-video?",
+      "a": "3840×2160 pixels, ongeveer 8,3 megapixel. Bij 1080p is dat 1920×1080, ongeveer 2 megapixel."
+    },
+    {
+      "q": "Welk formaat behoudt het meeste detail?",
+      "a": "PNG is verliesvrij. HEIC komt dicht in de buurt met veel kleinere bestanden. JPG comprimeert iets, maar opent overal."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-zonder-kwaliteitsverlies",
+    "video-frame-voor-frame-iphone",
+    "video-naar-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

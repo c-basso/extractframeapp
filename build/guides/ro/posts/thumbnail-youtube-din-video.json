@@ -1,0 +1,65 @@
+{
+  "slug": "thumbnail-youtube-din-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "thumbnail YouTube din video",
+  "secondary_keywords": [
+    "thumbnail youtube",
+    "thumbnail youtube size",
+    "miniatura youtube",
+    "copertă reels din video"
+  ],
+  "title": "Thumbnail YouTube din video pe iPhone: cum îl faci",
+  "description": "Fă un thumbnail sau o copertă din propriul video pe iPhone: alegi cel mai bun cadru, îl salvezi clar, adaugi text și îl urci pe YouTube, TikTok sau Reels.",
+  "h1": "Cum faci un thumbnail dintr-un video pe iPhone",
+  "nav_title": "Thumbnail YouTube din video",
+  "card_title": "Thumbnail sau copertă dintr-un video",
+  "excerpt": "Găsește cadrul care aduce click-uri, salvează-l clar și folosește-l drept copertă pe YouTube, TikTok sau Reels.",
+  "lead": "Cel mai bun thumbnail e de obicei deja în clipul tău: o expresie reală, un moment real. Arta e să găsești cadrul și să-l scoți destul de clar încât să reziste la text, decupare și compresie.",
+  "quick_answer": "Deschide clipul în Video To Photo – Grab Frame, salvează 2–3 momente clare și expresive și exportă-l pe cel mai bun ca PNG. În editorul preferat adaugă text mare (1280×720 pentru YouTube, 9:16 pentru Shorts, TikTok și Reels) și urcă-l ca thumbnail sau copertă.",
+  "content_intro": "<h2>Ce face un cadru bun pentru thumbnail?</h2><ul><li><strong>O față sau un subiect clar</strong>: aproape, clar, ideal privind în cameră.</li><li><strong>Emoție</strong>: surpriza, zâmbetul sau concentrarea merg mai bine decât o față neutră.</li><li><strong>Loc pentru text</strong>: o zonă liniștită pentru câteva cuvinte.</li><li><strong>Claritate</strong>: thumbnail-urile sunt mici, orice neclaritate se vede.</li></ul><h2>Dimensiunile thumbnail-urilor</h2><table><thead><tr><th>Platformă</th><th>Proporții</th><th>Dimensiune</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Grila Instagram</td><td>decupat la 1:1 / 4:5</td><td>Subiectul în centru</td></tr></tbody></table><p>Un cadru dintr-un clip 1080p sau 4K e deja mai mare. Important e să exporți din fișier, nu să faci captură de ecran.</p>",
+  "steps_title": "Cum faci un thumbnail dintr-un video pe iPhone",
+  "steps": [
+    {
+      "name": "Deschide clipul final",
+      "text": "Partajează-l din Poze cu Video To Photo – Grab Frame sau alege-l în aplicație.",
+      "shot": 0
+    },
+    {
+      "name": "Salvează trei candidați",
+      "text": "Găsește cele mai puternice momente și salvează-le. Expresiile se schimbă repede, deci salvează și cadrele vecine.",
+      "shot": 1
+    },
+    {
+      "name": "Alege-l pe cel mai clar",
+      "text": "Mărește fața în previzualizare și șterge cadrele neclare sau cu ochii închiși.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă PNG și adaugă text",
+      "text": "Exportă ca PNG ca editarea să nu scadă calitatea, adaugă un titlu scurt și urcă-l ca thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Cum urci thumbnail-ul</h2><ul><li><strong>YouTube:</strong> editează detaliile clipului în aplicația YouTube sau YouTube Studio și alege un thumbnail personalizat din poze (cont verificat necesar).</li><li><strong>TikTok:</strong> înainte de postare atinge Editează coperta și alege o imagine.</li><li><strong>Instagram Reels:</strong> din Editează coperta adaugă o imagine din galerie.</li></ul><h2>Sfaturi pentru mai multe click-uri</h2><ul><li>Puțin text, cel mult câteva cuvinte.</li><li>Contrast puternic între subiect, text și fundal.</li><li>Un stil recognoscibil pe tot canalul.</li><li>Testează două cadre: după câteva zile schimbă thumbnail-ul și compară.</li></ul>",
+  "faq": [
+    {
+      "q": "Pot folosi un cadru din propriul video ca thumbnail YouTube?",
+      "a": "Da. Salvează cadrul, adaugă eventual text și urcă-l ca thumbnail personalizat. Cel mai bine 1280×720, ca JPG sau PNG."
+    },
+    {
+      "q": "Ce dimensiune are un thumbnail YouTube?",
+      "a": "1280×720 pixeli (16:9), ca JPG sau PNG. Pentru Shorts, TikTok și Reels coperta are proporția 9:16, adică 1080×1920."
+    },
+    {
+      "q": "De ce îmi iese thumbnail-ul neclar?",
+      "a": "Cel mai des din cauza unei capturi de ecran sau a unui cadru în mișcare. Exportă cadrul din fișier și alege un moment în care subiectul stă nemișcat."
+    }
+  ],
+  "related": [
+    "poza-clara-din-video",
+    "video-in-jpg-png",
+    "poza-din-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

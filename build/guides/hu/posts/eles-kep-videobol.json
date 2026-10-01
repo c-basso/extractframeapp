@@ -1,0 +1,64 @@
+{
+  "slug": "eles-kep-videobol",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "éles kép videóból",
+  "secondary_keywords": [
+    "jó minőségű kép videóból",
+    "kép videóból elmosódott",
+    "hdr videó sötét kép"
+  ],
+  "title": "Éles kép videóból iPhone-on: miért homályos és mit tegyen",
+  "description": "Miért elmosódott vagy sötét a videóból kivágott kép, és hogyan kaphat éles, teljes felbontású fotót iPhone-on: záridő, fps, HDR és a megfelelő kocka.",
+  "h1": "Éles, jó minőségű kép videóból iPhone-on",
+  "nav_title": "Éles kép videóból",
+  "card_title": "Éles kép videóból: miért homályos és mit tegyen",
+  "excerpt": "Az elmosódás, a sötét képek és az alacsony felbontás okai és megoldásai.",
+  "lead": "A videóból kivágott kép gyakran homályosabb, mint egy fotó. Ennek oka van: a videó a folyamatos mozgásra készül, nem az egyes kockákra. Néhány beállítással és a megfelelő kocka kiválasztásával mégis sokkal élesebb képet kaphat.",
+  "quick_answer": "Válasszon olyan kockát, amelyben a mozgás a legkisebb, mentse a videófájlból (ne képernyőképpel), és vegyen fel 4K-ban, 60 fps-sel, jó fényben. Ha a kép sötét vagy fakó, a HDR-videó az oka: a Video To Photo – Grab Frame a fájlból menti a kockát, teljes felbontásban.",
+  "content_intro": "<h2>Miért homályos a kép?</h2><table><thead><tr><th>Ok</th><th>Tünet</th><th>Megoldás</th></tr></thead><tbody><tr><td>Mozgási elmosódás</td><td>Elkenődött kéz, labda</td><td>Szomszédos kocka, több fény, 60 fps</td></tr><tr><td>Képernyőkép</td><td>Kijelzőfelbontás, vezérlők</td><td>Mentés a videófájlból</td></tr><tr><td>Tömörítés</td><td>Kockás foltok</td><td>Az eredeti videó, nem a Messengeren vagy Viberen kapott</td></tr><tr><td>HDR-videó</td><td>Sötét vagy fakó kép</td><td>Lásd lent</td></tr></tbody></table><h2>A beépített mód (iOS 27)</h2><p>iOS 27-től a Fotók app maga is el tud menteni egy kockát: nyissa meg a videót, állítsa meg a kívánt pillanatnál, koppintson a <strong>•••</strong> gombra, és válassza a <em>Save Video Frame as Photo</em> lehetőséget. A kép HEIF vagy JPG formátumban, a videó dátumával kerül a könyvtárba. Egyszerre egy kockát ment.</p>",
+  "steps_title": "Éles kép kivágása lépésről lépésre",
+  "steps": [
+    {
+      "name": "Nyissa meg az eredeti videót",
+      "text": "A Fotókban koppintson a Megosztás gombra, és válassza a Video To Photo – Grab Frame-et. Az eredeti fájllal dolgozzon, ne egy üzenetben kapott másolattal.",
+      "shot": 0
+    },
+    {
+      "name": "Keresse meg a legélesebb kockát",
+      "text": "Léptessen kockánként a pillanat körül. Gyakran az előtte vagy utána lévő kocka sokkal élesebb.",
+      "shot": 1
+    },
+    {
+      "name": "Hasonlítsa össze nagyítva",
+      "text": "Mentsen két-három jelöltet, és nagyítson rá a szemekre vagy a szélekre. Tartsa meg a legjobbat.",
+      "shot": 3
+    },
+    {
+      "name": "Exportáljon teljes felbontásban",
+      "text": "Mentse PNG-be a maximális minőségért, vagy HEIC/JPG-be a kisebb méretért.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Miért sötét a kép HDR-videóból?</h2><p>Az iPhone alapból HDR-ben (Dolby Vision) rögzít. Ha egy kockát szabványos fotóként ment, a fényesség és a színek eltérhetnek. Ha ez zavarja, kapcsolja ki: <strong>Beállítások → Kamera → Videorögzítés → HDR-videó</strong>.</p><h2>Tippek a felvételhez</h2><ul><li>4K, 60 fps: több és élesebb kocka.</li><li>Sok fény: rövidebb záridő, kevesebb elmosódás.</li><li>Lassított felvétel gyors mozgáshoz.</li><li>Stabil kéz vagy állvány.</li></ul><p>A kivágott kép felbontása nem lehet nagyobb a videóénál: 4K-ból kb. 8 MP, 1080p-ből kb. 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Lehet jó minőségű képet kivágni videóból?",
+      "a": "Igen, ha a videó éles, és a kockát a fájlból menti. 4K-ból kb. 8 megapixeles kép készül, ami nyomtatásra is elég kisebb méretben."
+    },
+    {
+      "q": "Miért elmosódott a kivágott kép?",
+      "a": "Leggyakrabban mozgási elmosódás vagy képernyőkép okozza. Válasszon szomszédos kockát, és mentse a videófájlból."
+    },
+    {
+      "q": "Miért sötét a kép?",
+      "a": "Valószínűleg HDR-videóból származik. Kapcsolja ki a HDR-videót a Beállítások → Kamera → Videorögzítés menüben a következő felvételekhez."
+    }
+  ],
+  "related": [
+    "kep-kivagasa-videobol-iphone",
+    "video-kepkockankent-iphone",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

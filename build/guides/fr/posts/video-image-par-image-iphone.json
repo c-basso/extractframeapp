@@ -1,0 +1,64 @@
+{
+  "slug": "video-image-par-image-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "vidéo image par image sur iPhone",
+  "secondary_keywords": [
+    "arrêt sur image vidéo iphone",
+    "lire une vidéo image par image iphone",
+    "avancer image par image iphone"
+  ],
+  "title": "Lire une vidéo image par image sur iPhone et garder l'image",
+  "description": "Comment lire une vidéo image par image sur iPhone pour trouver le moment exact (un swing, un clignement, un but) et enregistrer cette image comme photo.",
+  "h1": "Comment lire une vidéo image par image sur iPhone",
+  "nav_title": "Vidéo image par image",
+  "card_title": "Vidéo image par image sur iPhone",
+  "excerpt": "Trouvez le moment exact dans une vidéo et gardez-le en photo.",
+  "lead": "Analyser un swing, une arrivée, une figure ou un clignement ne se fait pas avec lecture et pause. Il faut parcourir la vidéo presque image par image. Voici comment faire sur iPhone, et comment garder l'image trouvée.",
+  "quick_answer": "Dans Photos, mettez la vidéo en pause et faites glisser lentement la bande d'images ; sous iOS 27+, enregistrez ensuite l'image via « ••• ». Pour réunir plusieurs moments en un passage, ouvrez la vidéo dans Video To Photo – Grab Frame, faites glisser la bande en regardant le grand aperçu et capturez chaque moment.",
+  "content_intro": "<h2>Image par image dans Photos</h2><ol><li>Ouvrez la vidéo et mettez en pause.</li><li>Touchez la bande d'images en bas et faites glisser lentement à gauche ou à droite.</li><li>Maintenez le doigt sur la bande un instant pour l'agrandir et gagner en précision.</li></ol><p>Une fois le moment trouvé sous iOS 27 ou plus récent, touchez <strong>« ••• »</strong> et enregistrez l'image comme photo. Sur un iOS plus ancien, il ne reste que la <a href=\"/fr/guides/capture-ecran-video-iphone-sans-perte/\">capture d'écran, qui perd en qualité</a> — et une app permet de garder plusieurs moments sur toutes les versions.</p><h2>Pourquoi aller lentement</h2><p>À 30 i/s, chaque image dure 33 ms ; à 60 i/s, 17 ms. Un clignement, le contact avec le ballon ou une expression changent en deux images : entre une superbe photo et un raté, il n'y a souvent qu'une image.</p>",
+  "steps_title": "Parcourir une vidéo et garder l'image voulue",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo dans l'app",
+      "text": "Partagez-la depuis Photos vers Video To Photo – Grab Frame. Un grand aperçu et la bande d'images s'affichent.",
+      "shot": 0
+    },
+    {
+      "name": "Faites glisser lentement la bande",
+      "text": "Avancez par petits mouvements en regardant l'aperçu. Faites des allers-retours autour de l'action.",
+      "shot": 1
+    },
+    {
+      "name": "Capturez l'image et ses voisines",
+      "text": "Touchez capturer, décalez un peu et capturez encore. Comparez dans l'aperçu et gardez la meilleure.",
+      "shot": 2
+    },
+    {
+      "name": "Exportez la meilleure",
+      "text": "Exportez en PNG ou HEIC pour garder les détails : analyse, notes d'entraînement ou réseaux sociaux.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>À quoi sert l'image par image</h2><ul><li><strong>Sport</strong> : swing de golf ou de tennis, foulée, sauts. Gardez les phases clés et faites un PDF pour l'analyse.</li><li><strong>Enfants et animaux</strong> : l'image où tout le monde regarde l'objectif.</li><li><strong>Tutos et enregistrements d'écran</strong> : figez l'étape exacte en image de référence.</li><li><strong>Revoir une action</strong> : ce qui s'est vraiment passé à l'arrivée.</li></ul><h2>Filmer en pensant à l'après</h2><p>Filmer à <strong>60 i/s</strong> (Réglages → Appareil photo → Enregistrement vidéo) donne deux fois plus de moments et moins de flou par image. Le ralenti, encore plus. Voir <a href=\"/fr/guides/photo-de-qualite-depuis-une-video/\">une photo de bonne qualité à partir d'une vidéo</a>.</p>",
+  "faq": [
+    {
+      "q": "L'app Photos permet-elle de lire une vidéo image par image ?",
+      "a": "Il n'y a pas de boutons image par image, mais la pause et un glissement lent sur la bande s'en approchent. Sous iOS 27 ou plus récent, vous pouvez ensuite enregistrer l'image via « ••• »."
+    },
+    {
+      "q": "Comment garder l'image trouvée ?",
+      "a": "Sous iOS 27, via « ••• » dans Photos. Sur toutes les versions, ouvrez la vidéo dans Video To Photo – Grab Frame, retrouvez le moment, capturez-le et exportez en JPG, PNG ou HEIC."
+    },
+    {
+      "q": "Faut-il filmer à 60 i/s ?",
+      "a": "Oui : deux fois plus d'images qu'à 30 i/s, chacune moins floue, donc un moment net plus facile à trouver."
+    }
+  ],
+  "related": [
+    "photo-de-qualite-depuis-une-video",
+    "extraire-toutes-les-images-d-une-video",
+    "extraire-une-photo-d-une-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

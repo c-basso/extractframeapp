@@ -1,0 +1,65 @@
+{
+  "slug": "video-para-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "vídeo para PDF",
+  "secondary_keywords": [
+    "converter video para pdf",
+    "passar video para pdf",
+    "video para pdf gratis",
+    "storyboard de video"
+  ],
+  "title": "Como passar um vídeo para PDF no iPhone, sem upload",
+  "description": "Como passar um vídeo para PDF no iPhone: escolha os frames principais e junte num único PDF para storyboard, resumo de aula ou aprovação. Offline.",
+  "h1": "Como passar um vídeo para PDF no iPhone",
+  "nav_title": "Vídeo para PDF",
+  "card_title": "Passar os frames de um vídeo para PDF",
+  "excerpt": "Os momentos principais de um vídeo num único PDF: storyboard, aulas e aprovações.",
+  "lead": "Um PDF com os frames principais é o jeito mais rápido de mostrar o que acontece num vídeo para quem não vai assistir: um cliente aprovando uma edição, um aluno revisando uma aula, um time aprovando um storyboard.",
+  "quick_answer": "Abra o vídeo no Video To Photo – Grab Frame, capture cada momento principal, toque em Exportar, escolha um formato de imagem e PDF como formato de salvamento. Você recebe um PDF com esses frames, pronto para AirDrop, WhatsApp, e-mail ou Arquivos.",
+  "content_intro": "<h2>O que significa «vídeo para PDF»</h2><p>PDF não toca vídeo: passar um vídeo para PDF é salvar <strong>imagens paradas</strong> e juntar num documento. O segredo é escolher <em>quais</em>: um PDF com 900 frames iguais não serve para nada; um com os 12 momentos principais vale ouro.</p><h2>Para que serve</h2><ul><li><strong>Storyboards e decupagem</strong>: um frame por cena para planejar ou apresentar.</li><li><strong>Resumo de aulas</strong>: slides e quadro de uma aula gravada.</li><li><strong>Aprovação com cliente</strong>: comentar um PDF é mais fácil do que caçar no vídeo.</li><li><strong>Análise de esporte</strong>: as fases principais de um movimento em ordem.</li><li><strong>Tutoriais</strong>: uma gravação de tela virando passo a passo.</li></ul>",
+  "steps_title": "Como passar os frames de um vídeo para PDF no iPhone",
+  "steps": [
+    {
+      "name": "Abra o vídeo",
+      "text": "Compartilhe pelo Fotos com o Video To Photo – Grab Frame ou escolha no app.",
+      "shot": 0
+    },
+    {
+      "name": "Capture os momentos principais",
+      "text": "Percorra o vídeo e toque em capturar em cada cena, slide ou passo que quer no documento.",
+      "shot": 1
+    },
+    {
+      "name": "Escolha PDF na exportação",
+      "text": "Toque em Exportar, escolha JPEG, PNG ou HEIC para as imagens e PDF como formato de salvamento.",
+      "shot": 3
+    },
+    {
+      "name": "Compartilhe ou salve o PDF",
+      "text": "Salve no Arquivos ou mande por AirDrop, WhatsApp ou e-mail pelo menu Compartilhar.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Dicas para um PDF caprichado</h2><ul><li>Capture os frames em ordem, do começo ao fim.</li><li>Escolha momentos em que o texto na tela aparece inteiro e sem transição.</li><li>Para slides ou texto pequeno, escolha PNG.</li><li>O projeto fica salvo: adicione frames e exporte de novo quando quiser.</li></ul><h2>PDF ou ZIP?</h2><p><strong>PDF</strong> quando os frames precisam ser lidos e comentados em ordem. <strong>ZIP</strong> quando precisam dos arquivos separados, por exemplo para design. Os dois em <a href=\"/pt/guides/extrair-frames-de-video/\">extrair frames de vídeo</a>.</p>",
+  "faq": [
+    {
+      "q": "Dá para passar um vídeo para PDF sem subir na internet?",
+      "a": "Dá. O Video To Photo – Grab Frame cria o PDF no iPhone a partir dos frames capturados; o vídeo não sai do aparelho."
+    },
+    {
+      "q": "Em que ordem os frames aparecem no PDF?",
+      "a": "O PDF traz os frames que você capturou, então capture do começo ao fim para o documento seguir a ordem do vídeo."
+    },
+    {
+      "q": "Como fazer storyboard de um vídeo no celular?",
+      "a": "Capture um frame por plano ou cena e exporte em PDF. Você terá um storyboard simples para anotar com a Marcação ou qualquer app de PDF."
+    }
+  ],
+  "related": [
+    "extrair-frames-de-video",
+    "converter-video-para-jpg",
+    "app-para-tirar-foto-de-video"
+  ],
+  "datePublished": "2026-09-30"
+}

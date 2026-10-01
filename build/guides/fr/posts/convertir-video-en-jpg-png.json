@@ -1,0 +1,65 @@
+{
+  "slug": "convertir-video-en-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "convertir une vidéo en JPG",
+  "secondary_keywords": [
+    "vidéo en jpg",
+    "convertir vidéo en image",
+    "convertisseur vidéo en image",
+    "vidéo en png"
+  ],
+  "title": "Convertir une vidéo en JPG, PNG ou HEIC sur iPhone",
+  "description": "Comment convertir les images d'une vidéo en JPG, PNG ou HEIC sur iPhone, hors ligne et en haute qualité. Quel format choisir pour partager, retoucher ou stocker.",
+  "h1": "Convertir une vidéo en JPG, PNG ou HEIC sur iPhone",
+  "nav_title": "Vidéo en JPG, PNG ou HEIC",
+  "card_title": "Convertir les images d'une vidéo en JPG, PNG ou HEIC",
+  "excerpt": "Quel format choisir pour vos images de vidéo, et comment les exporter sur iPhone sans convertisseur en ligne.",
+  "lead": "Les convertisseurs « vidéo en JPG » en ligne demandent d'envoyer tout le fichier, d'attendre, puis de télécharger une montagne d'images. Sur iPhone, tout se fait en local : vous choisissez seulement les images voulues et le bon format.",
+  "quick_answer": "Ouvrez la vidéo dans Video To Photo – Grab Frame, capturez les images voulues, touchez Exporter et choisissez JPEG, PNG ou HEIC. JPG pour partager, PNG pour retoucher sans perte, HEIC pour des fichiers légers de haute qualité. Tout est converti sur l'iPhone, sans envoi.",
+  "content_intro": "<h2>JPG, PNG ou HEIC pour vos images</h2><table><thead><tr><th>Format</th><th>Qualité</th><th>Taille</th><th>Idéal pour</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Très bonne (avec perte)</td><td>Petite</td><td>Messageries, réseaux, e-mail, web : s'ouvre partout</td></tr><tr><td><strong>PNG</strong></td><td>Sans perte</td><td>La plus grande</td><td>Retouche, miniatures avec texte, collages</td></tr><tr><td><strong>HEIC</strong></td><td>Excellente</td><td>La plus petite à qualité égale</td><td>Photothèque Apple, iPhone ↔ Mac</td></tr></tbody></table><p>Un doute ? <strong>JPG</strong> pour envoyer, <strong>PNG</strong> pour retoucher.</p><h2>Pourquoi pas un convertisseur en ligne ?</h2><ul><li>Il faut envoyer toute la vidéo : lent en 4G et peu souhaitable pour des vidéos privées.</li><li>Beaucoup découpent à intervalles fixes : des centaines d'images, mais peut-être pas le bon moment.</li><li>Les versions gratuites limitent souvent la taille ou ajoutent un filigrane.</li></ul>",
+  "steps_title": "Convertir les images d'une vidéo en JPG, PNG ou HEIC sur iPhone",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo",
+      "text": "Partagez-la depuis Photos vers Video To Photo – Grab Frame, ou choisissez-la dans l'app.",
+      "shot": 0
+    },
+    {
+      "name": "Capturez les images",
+      "text": "Allez à chaque moment et touchez capturer. Seules les images choisies sont converties.",
+      "shot": 1
+    },
+    {
+      "name": "Choisissez JPEG, PNG ou HEIC",
+      "text": "Touchez Exporter et sélectionnez le format d'image en haut de l'écran d'export.",
+      "shot": 3
+    },
+    {
+      "name": "Fichiers, ZIP ou PDF, puis enregistrez",
+      "text": "Exportez en images séparées, en ZIP ou en PDF, puis enregistrez dans Photos ou Fichiers, ou partagez.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Quel format pour quel usage</h2><ul><li><strong>Miniature YouTube ou couverture TikTok</strong> → PNG, puis ajout du texte. Voir <a href=\"/fr/guides/miniature-video-youtube-iphone/\">miniature à partir d'une vidéo</a>.</li><li><strong>Envoi vers Windows ou Android</strong> → JPG (le HEIC ne s'ouvre pas partout).</li><li><strong>Impression</strong> → PNG ou JPG haute qualité d'une vidéo 4K.</li><li><strong>Archiver beaucoup d'images</strong> → HEIC dans un ZIP.</li><li><strong>Un document d'images</strong> → PDF. Voir <a href=\"/fr/guides/video-en-pdf/\">vidéo en PDF</a>.</li></ul><h2>La conversion fait-elle perdre en qualité ?</h2><p>Le PNG garde chaque pixel de l'image. JPG et HEIC compressent, mais aux niveaux de qualité utilisés pour les photos, la différence se voit à peine. Extraire l'image du fichier compte bien plus que le format.</p>",
+  "faq": [
+    {
+      "q": "Peut-on convertir une vidéo en JPG gratuitement sur iPhone ?",
+      "a": "Video To Photo – Grab Frame se télécharge gratuitement, avec des fonctions Pro optionnelles en achat intégré. Les images sont converties sur l'iPhone sans envoyer la vidéo."
+    },
+    {
+      "q": "Peut-on extraire les images d'une vidéo en PNG ?",
+      "a": "Oui. Capturez les images et choisissez PNG à l'export, en fichiers séparés ou dans un ZIP."
+    },
+    {
+      "q": "Windows ouvre-t-il les fichiers HEIC ?",
+      "a": "Les versions récentes de Windows le peuvent avec la bonne extension, mais pas toujours. Si les images vont vers des appareils non Apple, exportez en JPG."
+    }
+  ],
+  "related": [
+    "photo-de-qualite-depuis-une-video",
+    "video-en-pdf",
+    "miniature-video-youtube-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

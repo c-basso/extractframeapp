@@ -1,0 +1,65 @@
+{
+  "slug": "thumbnail-aus-video-erstellen",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "Thumbnail aus Video erstellen",
+  "secondary_keywords": [
+    "thumbnail aus video erstellen",
+    "thumbnail video iphone",
+    "youtube thumbnail aus video",
+    "titelbild aus video"
+  ],
+  "title": "Thumbnail aus Video erstellen auf dem iPhone (YouTube & Co.)",
+  "description": "So erstellst du ein Thumbnail oder Titelbild aus deinem Video auf dem iPhone: bestes Bild wählen, in voller Qualität speichern, Text hinzufügen und hochladen.",
+  "h1": "Thumbnail aus einem Video auf dem iPhone erstellen",
+  "nav_title": "Thumbnail aus Video",
+  "card_title": "Thumbnail und Titelbild aus deinem Video",
+  "excerpt": "Finde das Bild, das Klicks bringt, speichere es scharf und mach daraus ein Titelbild für YouTube, TikTok oder Reels.",
+  "lead": "Das beste Thumbnail steckt meist schon in deinem Video: eine echte Emotion, ein echter Moment. Der Trick ist, dieses Bild zu finden und scharf genug herauszuholen, damit es Text, Zuschnitt und Kompression übersteht.",
+  "quick_answer": "Öffne dein Video in Video To Photo – Grab Frame, finde einen scharfen, ausdrucksstarken Moment, nimm zwei, drei Varianten auf und exportiere die beste als PNG. Füge in einem beliebigen Editor großen Text hinzu (1280 × 720 für YouTube, 9:16 für Shorts, TikTok und Reels) und lade es als Thumbnail oder Titelbild hoch.",
+  "content_intro": "<h2>Wie das Thumbnail-Bild sein sollte</h2><ul><li><strong>Klares Gesicht oder Motiv</strong>: nah, scharf, am besten in die Kamera.</li><li><strong>Emotion</strong>: Überraschung, Lachen oder Konzentration wirken besser als ein neutrales Gesicht.</li><li><strong>Platz für Text</strong>: eine ruhige Fläche für ein paar Wörter.</li><li><strong>Schärfe</strong>: Thumbnails sind klein, jede Unschärfe fällt auf.</li></ul><h2>Thumbnail-Größen</h2><table><thead><tr><th>Plattform</th><th>Format</th><th>Größe</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080 × 1920</td></tr><tr><td>Instagram-Raster</td><td>Zuschnitt auf 1:1 / 4:5</td><td>Motiv mittig halten</td></tr></tbody></table><p>Ein Bild aus einem 1080p- oder 4K-Video ist schon größer – wichtig ist, es aus der Datei zu extrahieren statt einen Screenshot zu machen.</p>",
+  "steps_title": "Thumbnail aus deinem Video auf dem iPhone erstellen",
+  "steps": [
+    {
+      "name": "Fertiges Video öffnen",
+      "text": "Teile es aus Fotos mit Video To Photo – Grab Frame oder wähle es in der App.",
+      "shot": 0
+    },
+    {
+      "name": "3 Varianten aufnehmen",
+      "text": "Such starke Momente und nimm sie auf. Ausdrücke wechseln schnell – nimm auch Nachbarbilder mit.",
+      "shot": 1
+    },
+    {
+      "name": "Das schärfste wählen",
+      "text": "Zoome in der Vorschau auf Gesichter und lösche verwackelte Bilder oder solche mit geschlossenen Augen.",
+      "shot": 2
+    },
+    {
+      "name": "Als PNG exportieren und Text ergänzen",
+      "text": "Exportiere als PNG, damit die Qualität beim Bearbeiten erhalten bleibt, füge eine kurze Überschrift hinzu und lade es hoch.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>So lädst du das Thumbnail hoch</h2><ul><li><strong>YouTube:</strong> In YouTube oder YouTube Studio die Videodetails bearbeiten und ein eigenes Thumbnail aus deinen Fotos wählen (bestätigtes Konto nötig).</li><li><strong>TikTok:</strong> Vor dem Posten auf „Titelbild bearbeiten“ tippen und das Bild wählen.</li><li><strong>Instagram Reels:</strong> Auf „Titelbild bearbeiten“ tippen und aus der Mediathek hinzufügen.</li></ul><h2>Tipps für mehr Klicks</h2><ul><li>Drei bis fünf Wörter Text, nicht mehr.</li><li>Starker Kontrast zwischen Motiv, Text und Hintergrund.</li><li>Einheitlicher Stil auf dem ganzen Kanal.</li><li>Zwei Bilder testen: Thumbnail nach ein paar Tagen tauschen und vergleichen.</li></ul>",
+  "faq": [
+    {
+      "q": "Kann ich ein Bild aus meinem Video als YouTube-Thumbnail nutzen?",
+      "a": "Ja. Speichere das Bild, füge bei Bedarf Text hinzu und lade es als eigenes Thumbnail hoch. Ideal ist 1280 × 720 als JPG oder PNG."
+    },
+    {
+      "q": "Thumbnail als JPG oder PNG exportieren?",
+      "a": "Beim Bearbeiten das Bild als PNG exportieren, damit Text scharf bleibt. Das fertige Thumbnail kannst du als JPG speichern, wenn du eine kleinere Datei brauchst."
+    },
+    {
+      "q": "Warum ist mein Thumbnail unscharf?",
+      "a": "Meist ist es ein Screenshot oder ein Bild mit Bewegung. Extrahiere das Bild aus der Datei und wähle einen Moment, in dem das Motiv stillhält."
+    }
+  ],
+  "related": [
+    "foto-aus-video-gute-qualitaet",
+    "video-in-jpg-umwandeln",
+    "foto-aus-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

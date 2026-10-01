@@ -1,0 +1,64 @@
+{
+  "slug": "video-u-slike",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "kako video pretvoriti u slike",
+  "secondary_keywords": [
+    "kako izvući slike iz videa",
+    "video u slike",
+    "više slika iz videa"
+  ],
+  "title": "Kako video pretvoriti u slike na iPhoneu",
+  "description": "Izvucite više slika iz videa odjednom na iPhoneu, bez računala i ffmpega. Spremite samo potrebne kadrove kao fotografije, u ZIP ili PDF.",
+  "h1": "Kako video pretvoriti u slike na iPhoneu",
+  "nav_title": "Video u slike",
+  "card_title": "Kako video pretvoriti u slike",
+  "excerpt": "Mnogo kadrova odjednom, samo oni koji vam trebaju.",
+  "lead": "Ponekad jedna slika nije dovoljna: cijeli skok, svaki korak recepta, svi kadrovi za storyboard. Pretvaranje cijelog videa u stotine slika stvara nered. Bolje je odabrati samo ono što trebate.",
+  "quick_answer": "Otvorite video u aplikaciji Video To Photo – Grab Frame, spremite onoliko kadrova koliko želite i izvezite ih zajedno: kao datoteke, ZIP ili PDF. Foto na iOS-u 27 sprema samo jedan kadar odjednom.",
+  "content_intro": "<h2>Načini za više slika</h2><table><thead><tr><th>Način</th><th>Prednost</th><th>Nedostatak</th></tr></thead><tbody><tr><td>Screenshot za screenshotom</td><td>Bez aplikacije</td><td>Spor, niska rezolucija</td></tr><tr><td>Foto (iOS 27)</td><td>Ugrađeno</td><td>Jedan kadar odjednom</td></tr><tr><td>ffmpeg na računalu</td><td>Svi kadrovi</td><td>Tisuće slika, treba računalo</td></tr><tr><td>Grab Frame</td><td>Samo odabrani, skupni izvoz</td><td>Pro za neke funkcije</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p>",
+  "steps_title": "Više slika iz jednog videa",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Spremajte kadrove redom",
+      "text": "Povucite do svakog trenutka i dodirnite spremanje. Kadrovi se skupljaju na traci.",
+      "shot": 1
+    },
+    {
+      "name": "Pregledajte i očistite",
+      "text": "Izbrišite slične ili mutne kadrove.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite sve odjednom",
+      "text": "Kao zasebne datoteke, ZIP arhivu ili PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Za što se koristi</h2><ul><li>Sport: faze pokreta.</li><li>Recepti i upute: svaki korak.</li><li>Storyboard: ključne scene.</li><li>Obitelj: najbolji trenuci s rođendana.</li></ul><p>Projekti se spremaju, pa možete nastaviti kasnije.</p>",
+  "faq": [
+    {
+      "q": "Mogu li izvući sve kadrove iz videa?",
+      "a": "Na računalu, s ffmpegom. Na iPhoneu je praktičnije odabrati samo potrebne kadrove u aplikaciji Grab Frame."
+    },
+    {
+      "q": "Koliko kadrova mogu spremiti?",
+      "a": "Koliko želite. Za izvoz mnogo slika koristite ZIP ili PDF."
+    },
+    {
+      "q": "Mogu li nastaviti kasnije?",
+      "a": "Da. Svaki video sprema se kao projekt."
+    }
+  ],
+  "related": [
+    "aplikacija-slika-iz-videa",
+    "video-frame-po-frame-iphone",
+    "video-u-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

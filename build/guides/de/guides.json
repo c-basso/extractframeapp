@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Anleitungen: Foto aus Video auf dem iPhone machen",
+    "description": "Schritt-für-Schritt-Anleitungen fürs iPhone: Foto aus Video ohne Qualitätsverlust, Standbilder speichern, Video in PDF, Thumbnails und Umwandlung in JPG oder PNG.",
+    "eyebrow": "Anleitungen",
+    "h1": "Foto aus Video auf dem iPhone: alle Anleitungen",
+    "intro": "Jede Anleitung beantwortet eine konkrete Frage: was das iPhone selbst kann (und was nicht) – und wie es mit Video To Photo – Grab Frame am schnellsten geht."
+  },
+  "labels": {
+    "home": "Startseite",
+    "guides": "Anleitungen",
+    "guide_eyebrow": "iPhone-Anleitung",
+    "quick_answer": "Kurze Antwort",
+    "by": "Von",
+    "updated": "aktualisiert am",
+    "min_read": "Min. Lesezeit",
+    "faq_title": "Häufige Fragen",
+    "related": "Ähnliche Anleitungen",
+    "read_guide": "Anleitung lesen",
+    "inline_cta": "Probier es mit deinem eigenen Video – dauert etwa eine Minute.",
+    "app_card_cta": "Im App Store laden",
+    "app_card_fine": "Gratis · In-App-Käufe · iOS 18.6+",
+    "app_card_bullets": ["Präzise Bildauswahl", "JPG, PNG oder HEIC", "Stapelexport als ZIP oder PDF", "Offline – ohne Upload und Konto"],
+    "final_cta_title": "Dein bestes Foto steckt in einem Video.",
+    "final_cta_text": "Speichere es in voller Qualität auf deinem iPhone. Ohne Upload, ohne Konto, ohne Schnittkenntnisse."
+  }
+}

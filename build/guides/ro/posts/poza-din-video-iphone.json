@@ -1,0 +1,69 @@
+{
+  "slug": "poza-din-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "poză din video iPhone",
+  "secondary_keywords": [
+    "poza din video iphone",
+    "cum faci o poză dintr-un video pe iPhone",
+    "captura foto de video iphone",
+    "poza din video"
+  ],
+  "title": "Cum faci o poză dintr-un video pe iPhone: 3 metode",
+  "description": "Cum scoți o poză dintr-un video pe iPhone: funcția din iOS 27, captura de ecran, decuparea subiectului și mai multe poze deodată în JPG, PNG sau HEIC.",
+  "h1": "Cum faci o poză dintr-un video pe iPhone",
+  "nav_title": "Poză din video (iPhone)",
+  "card_title": "Poză dintr-un video pe iPhone",
+  "excerpt": "Toate metodele de a scoate o poză dintr-un video pe iPhone și când o folosești pe fiecare.",
+  "lead": "Ai filmat momentul în loc să faci o poză. Nicio problemă: un video înseamnă zeci de poze pe secundă. Iată cum scoți exact poza aceea pe iPhone.",
+  "quick_answer": "Din iOS 27 pui pauză clipului în Poze și salvezi cadrul prin ••• ca poză (la rezoluția video-ului, câte una). Pe iOS mai vechi sau când vrei mai multe poze, PNG, ZIP ori PDF, deschide clipul în Video To Photo – Grab Frame, salvează cadrele și exportă-le deodată.",
+  "content_intro": "<h2>Se poate face o poză dintr-un video pe iPhone?</h2><p>Da. Un video e format din 24–60 de imagini fixe pe secundă și oricare cadru poate deveni poză. Cea mai bună metodă depinde de versiunea iOS și de câte poze îți trebuie.</p><h2>Metodele comparate</h2><table><thead><tr><th>Metodă</th><th>Calitate</th><th>Limită</th><th>Ideală pentru</th></tr></thead><tbody><tr><td><strong>Poze → salvare cadru ca poză</strong> (iOS 27+)</td><td>Rezoluția video-ului, HEIF sau JPG</td><td>Un cadru o dată. Poza primește data clipului, deci nu apare sus în Recente</td><td>O singură poză, rapid</td></tr><tr><td><strong>Captură de ecran</strong> (pauză și screenshot)</td><td>Rezoluția ecranului, adesea cu butonul de redare sau benzi negre</td><td>Greu de oprit exact pe cadru</td><td>Notiță rapidă pe iOS mai vechi</td></tr><tr><td><strong>Decuparea subiectului</strong> (iOS 17+, apăsare lungă)</td><td>Doar subiectul, fără fundal</td><td>Nu e cadrul întreg</td><td>Autocolant cu o persoană sau un animal</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Din fișierul video</td><td>Necesită aplicația (iOS 18.6+)</td><td>Mai multe poze, PNG, ZIP, PDF, iOS mai vechi</td></tr></tbody></table><h3>Cu funcția integrată din iOS 27</h3><ol><li>Pune pauză: deschide clipul în Poze, pune pauză la momentul potrivit, atinge <strong>•••</strong> și alege opțiunea de salvare a cadrului ca poză (<em>Save Video Frame as Photo</em>).</li><li>Cadrul ajunge în bibliotecă ca poză la rezoluția video-ului.</li><li>Poza preia data și locul clipului, așa că o găsești lângă video, nu sus.</li></ol><p>Pentru o poză e suficient. Când vrei zece cadre din același clip, un PNG pentru editare sau să trimiți totul ca ZIP ori PDF, devine greoi.</p><h3>De ce o captură de ecran nu e același lucru</h3><p>Până la iOS 26, captura de ecran e metoda obișnuită, dar salvează ecranul, nu cadrul. Un clip 4K orizontal pe ecranul vertical e doar o bandă îngustă, trebuie să tai butonul de redare și să nimerești pauza.</p>",
+  "steps_title": "Cum scoți mai multe poze dintr-un video cu Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Partajează clipul cu aplicația",
+      "text": "Deschide clipul în Poze, atinge Partajează și alege aplicația. Sau deschide Video To Photo – Grab Frame și alege un clip din bibliotecă.",
+      "shot": 0
+    },
+    {
+      "name": "Găsește momentul și salvează",
+      "text": "Glisează pe banda de cadre până când momentul apare în previzualizare și atinge butonul de salvare. Dacă e mișcare, salvează și cadrele de dinainte și de după.",
+      "shot": 1
+    },
+    {
+      "name": "Verifică cadrele",
+      "text": "Deschide previzualizarea, mărește fețele sau textul și șterge cadrele mișcate. Păstrează doar cel mai clar.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă ca poză",
+      "text": "Alege JPEG, PNG sau HEIC și atinge Exportă. Salvează în Poze sau Fișiere ori trimite direct pe WhatsApp, Instagram sau e-mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Sfaturi pentru o poză clară</h2><ul><li><strong>Prinde momentul în care mișcarea se oprește.</strong> Punctul cel mai înalt al unei sărituri, clipa dinaintea zâmbetului: acolo cadrele sunt cele mai clare.</li><li><strong>Salvează trei, păstrează una.</strong> Cadrele vecine arată la fel până le mărești.</li><li><strong>Filmează în 4K sau 60 fps.</strong> Mai multe în ghidul <a href=\"/ro/guides/poza-clara-din-video/\">poză clară dintr-un video</a>.</li><li><strong>Alege formatul.</strong> JPG pentru trimis, PNG pentru editat, HEIC pentru spațiu. Vezi și <a href=\"/ro/guides/video-in-jpg-png/\">video în JPG sau PNG</a>.</li></ul><h2>Aplicația îmi modifică sau îmi încarcă clipul?</h2><p>Nu. Video To Photo – Grab Frame lucrează cu o copie în aplicație și face totul pe iPhone. Originalul din Poze rămâne neschimbat și nimic nu ajunge pe un server.</p>",
+  "faq": [
+    {
+      "q": "Poate iPhone-ul singur să salveze o poză dintr-un video?",
+      "a": "Din iOS 27, da. Pune pauză în Poze, atinge ••• și salvează cadrul ca poză. Câte una, ca HEIF sau JPG. Până la iOS 26, singura opțiune integrată e captura de ecran."
+    },
+    {
+      "q": "Unde găsesc cadrul salvat în iOS 27?",
+      "a": "În biblioteca de poze, dar cu data și locul clipului. E deci lângă video-ul original, nu sus în Recente."
+    },
+    {
+      "q": "Calitatea e aceeași ca a video-ului?",
+      "a": "Da, dacă salvezi cadrul în loc să faci captură de ecran. Atât iOS 27, cât și Video To Photo – Grab Frame citesc cadrul din fișierul video. Mișcarea rapidă poate fi neclară, așa că alege un moment calm."
+    },
+    {
+      "q": "Pot scoate mai multe poze din același video?",
+      "a": "Da. Salvează în Video To Photo – Grab Frame fiecare moment și exportă-le împreună ca fișiere separate, ZIP sau PDF."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-fara-pierderea-calitatii",
+    "salvare-cadru-din-video-iphone",
+    "poza-clara-din-video"
+  ],
+  "datePublished": "2026-10-01"
+}

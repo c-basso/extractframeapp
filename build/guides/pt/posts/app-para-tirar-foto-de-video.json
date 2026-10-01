@@ -1,0 +1,64 @@
+{
+  "slug": "app-para-tirar-foto-de-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "app para tirar foto de vídeo",
+  "secondary_keywords": [
+    "app para tirar foto de video iphone",
+    "aplicativo para tirar foto de video",
+    "melhor app para extrair foto de video"
+  ],
+  "title": "App para tirar foto de vídeo no iPhone: como escolher",
+  "description": "Como escolher um app para tirar foto de vídeo no iPhone: precisão, resolução, privacidade, exportação em lote, formatos e preço. E um teste de 2 minutos.",
+  "h1": "App para tirar foto de vídeo no iPhone: como escolher",
+  "nav_title": "App para tirar foto de vídeo",
+  "card_title": "Como escolher um app para tirar foto de vídeo",
+  "excerpt": "Seis critérios que separam um bom app de frames e um checklist para testar qualquer um em dois minutos.",
+  "lead": "Pesquise «vídeo para foto» na App Store e você vai achar dezenas de apps parecidos. Quase todos fazem o básico. A diferença está nos detalhes: a precisão na hora de escolher o frame, o tamanho do resultado e se o seu vídeo vai para a internet.",
+  "quick_answer": "Um bom app deixa você escolher o frame exato, salva a partir do arquivo (não da tela), processa no aparelho, captura vários de uma vez e exporta em vários formatos. O Video To Photo – Grab Frame faz tudo isso e ainda exporta em ZIP e PDF, com projetos que você retoma depois.",
+  "content_intro": "<h2>Para que um app se o iOS 27 já faz?</h2><p>Desde o iOS 27, o Fotos consegue salvar um frame pausado. Um app continua útil em versões anteriores e quando você precisa de muitos frames, PNG ou ZIP/PDF.</p><h2>6 critérios de um bom app</h2><ol><li><strong>Seleção precisa.</strong> Faixa de frames ou controle deslizante para acertar o momento exato.</li><li><strong>Extração de verdade.</strong> A imagem vem do arquivo, não da tela. Teste com um vídeo 4K na horizontal e veja o tamanho.</li><li><strong>Processamento no aparelho.</strong> Vídeos de família não deveriam ir para servidor. Confira a privacidade na App Store e teste no modo avião.</li><li><strong>Captura em lote.</strong> Storyboards, esporte e tutoriais pedem muitos frames de uma vez.</li><li><strong>Formatos e exportação.</strong> JPG, PNG e HEIC resolvem tudo; ZIP e PDF são raros, mas muito úteis.</li><li><strong>Preço justo.</strong> O que é grátis, o que é assinatura e se existe compra única.</li></ol>",
+  "steps_title": "Como testar um app de foto de vídeo em 2 minutos",
+  "steps": [
+    {
+      "name": "Abra um vídeo de verdade",
+      "text": "Use um vídeo na horizontal com movimento. Compartilhe pelo Fotos com o Video To Photo – Grab Frame: o modo de captura abre.",
+      "shot": 0
+    },
+    {
+      "name": "Tente acertar um frame",
+      "text": "Procure uma piscada ou uma bola no ar. Com a faixa e a pré-visualização grande fica fácil: toque em capturar.",
+      "shot": 1
+    },
+    {
+      "name": "Capture vários e compare",
+      "text": "Salve 4 ou 5, abra a pré-visualização e dê zoom. Você deve conseguir apagar os ruins antes de exportar.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte e confira o arquivo",
+      "text": "Exporte em PNG e veja as informações da foto: as dimensões devem ser as do vídeo, não as da tela.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Video To Photo – Grab Frame em resumo</h2><table><thead><tr><th>Recurso</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Abrir pelo Compartilhar do Fotos</td><td>Sim, direto no modo de captura</td></tr><tr><td>Origem do frame</td><td>Arquivo de vídeo</td></tr><tr><td>Captura em lote</td><td>Muitos frames por sessão</td></tr><tr><td>Formatos</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Exportação</td><td>Arquivos, ZIP ou PDF</td></tr><tr><td>Projetos</td><td>Salvos e retomáveis</td></tr><tr><td>Privacidade</td><td>100% no aparelho, sem conta</td></tr><tr><td>Preço</td><td>Download grátis; Pro por compra dentro do app (teste grátis, anual ou vitalício)</td></tr></tbody></table><h2>Quando você não precisa de app</h2><p>No iOS 27, para um único frame, use o Fotos: pause, «•••», salvar frame como foto. Em iOS antigos, para uma referência rápida, um print resolve.</p>",
+  "faq": [
+    {
+      "q": "Existe app grátis para tirar foto de vídeo?",
+      "a": "O Video To Photo – Grab Frame tem download grátis. Alguns recursos fazem parte do Pro, por compra dentro do app: teste grátis, assinatura anual ou compra vitalícia. Veja os preços atuais na App Store."
+    },
+    {
+      "q": "Esses apps enviam meus vídeos?",
+      "a": "Serviços online, sim. O Video To Photo – Grab Frame processa tudo no iPhone e funciona offline."
+    },
+    {
+      "q": "Funciona com vídeos 4K e em câmera lenta?",
+      "a": "Funciona com vídeos da fototeca, incluindo 4K, 60 fps e câmera lenta. Quanto melhor a gravação, mais nítidos os frames."
+    }
+  ],
+  "related": [
+    "como-tirar-foto-de-video-no-iphone",
+    "extrair-frames-de-video",
+    "video-para-pdf"
+  ],
+  "datePublished": "2026-09-30"
+}

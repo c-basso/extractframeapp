@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-belyegkep-videobol",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube bélyegkép",
+  "secondary_keywords": [
+    "bélyegkép videóból",
+    "borítókép videóból",
+    "youtube thumbnail iphone"
+  ],
+  "title": "YouTube bélyegkép videóból iPhone-on",
+  "description": "Készítsen YouTube-, Instagram- vagy TikTok-bélyegképet a saját videója legjobb kockájából iPhone-on: kiválasztás, PNG-export és tippek az átkattintáshoz.",
+  "h1": "YouTube bélyegkép készítése videóból iPhone-on",
+  "nav_title": "YouTube bélyegkép",
+  "card_title": "YouTube bélyegkép a saját videójából",
+  "excerpt": "A legjobb kocka kiválasztása és exportálása bélyegképhez.",
+  "lead": "A bélyegkép dönti el, rákattintanak-e a videóra. A legjobb alap gyakran magában a videóban van: egy kifejező arc, egy csúcspont, egy tiszta pillanat. Csak meg kell találni és élesen kimenteni.",
+  "quick_answer": "Nyissa meg a videót a Video To Photo – Grab Frame-ben, keressen egy éles, kifejező kockát, és exportálja PNG-be. A szöveget és a vágást (1280×720, 16:9) a kedvenc szerkesztőjében adja hozzá, majd töltse fel a YouTube-ra.",
+  "content_intro": "<h2>Ajánlott méretek</h2><table><thead><tr><th>Platform</th><th>Méret</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Instagram-bejegyzés</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>A beépített mód (iOS 27)</h2><p>iOS 27-től a Fotók app maga is el tud menteni egy kockát: nyissa meg a videót, állítsa meg a kívánt pillanatnál, koppintson a <strong>•••</strong> gombra, és válassza a <em>Save Video Frame as Photo</em> lehetőséget. A kép HEIF vagy JPG formátumban, a videó dátumával kerül a könyvtárba. Egyszerre egy kockát ment.</p>",
+  "steps_title": "Bélyegkép készítése lépésről lépésre",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót",
+      "text": "A Fotókban koppintson a Megosztás gombra, és válassza a Video To Photo – Grab Frame-et.",
+      "shot": 0
+    },
+    {
+      "name": "Keresse meg a csúcspontot",
+      "text": "Léptessen kockánként, és keressen kifejező arcot vagy erős pillanatot, elmosódás nélkül.",
+      "shot": 1
+    },
+    {
+      "name": "Mentsen több jelöltet",
+      "text": "Mentsen három-négy kockát, hogy legyen miből választani.",
+      "shot": 3
+    },
+    {
+      "name": "Exportáljon PNG-be",
+      "text": "A PNG megőrzi a minőséget szövegezés és vágás előtt.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tippek a jó bélyegképhez</h2><ul><li>Nagy, olvasható szöveg: legfeljebb 3–5 szó.</li><li>Arc érzelemmel: kiemelkedik a listában.</li><li>Erős kontraszt, kevés részlet.</li><li>Ellenőrizze kis méretben is, ahogy a telefonon megjelenik.</li></ul><p>Saját videóit használja. Más tartalmának kockáit ne töltse fel engedély nélkül.</p>",
+  "faq": [
+    {
+      "q": "Mekkora legyen a YouTube bélyegkép?",
+      "a": "1280×720 képpont, 16:9 arány, legfeljebb 2 MB (JPG vagy PNG)."
+    },
+    {
+      "q": "Lehet bélyegképet készíteni a videó egy kockájából?",
+      "a": "Igen. Mentse a kockát a Video To Photo – Grab Frame-mel PNG-be, majd adjon hozzá szöveget egy szerkesztőben."
+    },
+    {
+      "q": "Miért homályos a bélyegkép?",
+      "a": "Mozgás közbeni kockát választott, vagy a videó alacsony felbontású. Válasszon szomszédos kockát, és rögzítsen 4K-ban."
+    }
+  ],
+  "related": [
+    "eles-kep-videobol",
+    "video-jpg-png",
+    "kep-kivagasa-videobol-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

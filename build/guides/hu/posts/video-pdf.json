@@ -1,0 +1,64 @@
+{
+  "slug": "video-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "videó pdf-be",
+    "képkockák pdf-be",
+    "storyboard videóból"
+  ],
+  "title": "Videó kockái PDF-be iPhone-on: storyboard, útmutató",
+  "description": "Mentsen kockákat videóból egyetlen PDF-be iPhone-on: storyboardhoz, lépésenkénti útmutatóhoz, előadás jegyzetéhez vagy jelentéshez. Számítógép nélkül.",
+  "h1": "Videó kockái egy PDF-be iPhone-on",
+  "nav_title": "Videó PDF-be",
+  "card_title": "Videó kockái egy PDF-be",
+  "excerpt": "Storyboard, útmutató vagy jegyzet egy PDF-ben, közvetlenül a videóból.",
+  "lead": "Néha nem egy kép kell, hanem egy dokumentum: egy recept lépései, egy szerelési útmutató, egy előadás diái vagy egy storyboard. Ilyenkor a legkényelmesebb, ha a kockák egy PDF-be kerülnek, sorrendben.",
+  "quick_answer": "Nyissa meg a videót a Video To Photo – Grab Frame-ben, mentse a fontos kockákat, majd exportáljon PDF-be. A kockák időrendben, egy fájlban lesznek, amelyet elküldhet vagy kinyomtathat.",
+  "content_intro": "<h2>Mire jó a PDF videóból?</h2><table><thead><tr><th>Felhasználás</th><th>Példa</th></tr></thead><tbody><tr><td>Útmutató</td><td>Recept, bútorszerelés, szoftver-oktatóanyag</td></tr><tr><td>Storyboard</td><td>Film, reklám, közösségi videó</td></tr><tr><td>Jegyzet</td><td>Előadás, webinárium diái</td></tr><tr><td>Jelentés</td><td>Kár, hiba vagy munka dokumentálása</td></tr></tbody></table><h2>A beépített mód (iOS 27)</h2><p>iOS 27-től a Fotók app maga is el tud menteni egy kockát: nyissa meg a videót, állítsa meg a kívánt pillanatnál, koppintson a <strong>•••</strong> gombra, és válassza a <em>Save Video Frame as Photo</em> lehetőséget. A kép HEIF vagy JPG formátumban, a videó dátumával kerül a könyvtárba. Egyszerre egy kockát ment.</p><p>A Fotók egyesével ment, és nem készít PDF-et.</p>",
+  "steps_title": "Kockák exportálása PDF-be",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót",
+      "text": "A Fotókban koppintson a Megosztás gombra, és válassza a Video To Photo – Grab Frame-et.",
+      "shot": 0
+    },
+    {
+      "name": "Mentse a fontos kockákat",
+      "text": "Haladjon végig a videón, és mentse a lépéseket vagy jeleneteket. Projektként később folytathatja.",
+      "shot": 1
+    },
+    {
+      "name": "Ellenőrizze a sorrendet",
+      "text": "Nézze át a kockákat, és törölje a feleslegeseket.",
+      "shot": 3
+    },
+    {
+      "name": "Exportáljon PDF-be",
+      "text": "Válassza a PDF-exportot, és mentse a Fájlokba vagy ossza meg.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tippek</h2><ul><li>Egy lépés, egy kocka: ne mentsen közel azonos képeket.</li><li>Képernyőfelvételből készült oktatóanyagnál a szöveg legyen olvasható: kerülje a mozgás közbeni kockákat.</li><li>Nagy PDF esetén inkább ZIP-et küldjön, vagy kevesebb kockát.</li></ul>",
+  "faq": [
+    {
+      "q": "Átalakíthatok videót PDF-be?",
+      "a": "A videót magát nem, de a kockáit igen. A Video To Photo – Grab Frame a kiválasztott kockákból egy PDF-et készít."
+    },
+    {
+      "q": "Kell hozzá számítógép?",
+      "a": "Nem. Minden az iPhone-on történik, internet nélkül."
+    },
+    {
+      "q": "Hány kocka fér egy PDF-be?",
+      "a": "Annyi, amennyit kiválaszt. Sok kockánál a fájl nagy lehet, ekkor érdemes válogatni."
+    }
+  ],
+  "related": [
+    "kepkockak-videobol",
+    "video-jpg-png",
+    "alkalmazas-kep-videobol"
+  ],
+  "datePublished": "2026-10-01"
+}

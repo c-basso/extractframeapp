@@ -1,0 +1,65 @@
+{
+  "slug": "video-ke-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "video to jpg hd",
+    "video ke jpg",
+    "video to png",
+    "video to heic"
+  ],
+  "title": "Video ke JPG, PNG, atau HEIC di iPhone",
+  "description": "Simpan frame dari video dalam JPG, PNG, atau HEIC di iPhone. Kapan memilih format mana, dan cara ekspor ke File, ZIP, atau PDF.",
+  "h1": "Mengubah video ke JPG, PNG, atau HEIC di iPhone",
+  "nav_title": "Video ke JPG/PNG",
+  "card_title": "Video ke JPG, PNG, atau HEIC",
+  "excerpt": "Kegunaan setiap format dan cara mengekspor frame.",
+  "lead": "Video tidak bisa langsung diubah menjadi satu JPG: foto selalu berasal dari frame yang dipilih. Pertanyaannya, simpan dalam format apa: JPG, PNG, atau HEIC. Masing-masing punya tempatnya.",
+  "quick_answer": "Pilih frame di Video To Photo – Grab Frame lalu ekspor ke JPG (terbuka di mana saja), PNG (lossless, untuk edit), atau HEIC (file kecil, untuk perangkat Apple). Banyak frame bisa disimpan sekaligus ke File, ZIP, atau PDF.",
+  "content_intro": "<h2>Format mana yang dipilih?</h2><table><thead><tr><th>Format</th><th>Kelebihan</th><th>Kapan</th></tr></thead><tbody><tr><td>JPG</td><td>Didukung di mana saja</td><td>Berbagi, email, web</td></tr><tr><td>PNG</td><td>Lossless</td><td>Edit, thumbnail, teks di gambar</td></tr><tr><td>HEIC</td><td>File kecil</td><td>Galeri Foto, perangkat Apple</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p><p>App Foto tidak menyediakan PNG maupun simpan massal. Untuk itu perlu aplikasi.</p>",
+  "steps_title": "Ekspor frame ke JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Pilih frame",
+      "text": "Geser strip dan simpan frame yang diinginkan. Satu atau puluhan.",
+      "shot": 1
+    },
+    {
+      "name": "Pilih format",
+      "text": "Saat ekspor, pilih JPG, PNG, atau HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Simpan",
+      "text": "Ke Foto, File, ZIP, atau PDF, atau langsung bagikan.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Membuka HEIC di Windows</h2><p>Windows lama dan beberapa situs web tidak mendukung HEIC. Jika foto tidak dikirim ke perangkat Apple, pilih JPG.</p><h2>Apakah metadata ikut?</h2><p>Foto mendapat resolusi video. Tanggal dan lokasi bergantung pada video sumber dan cara ekspor. Jika penting, periksa info foto di app Foto.</p>",
+  "faq": [
+    {
+      "q": "Bagaimana mengubah video ke JPG di iPhone?",
+      "a": "Pilih frame di Video To Photo – Grab Frame dan ekspor sebagai JPG. Di iOS 27, app Foto juga menyimpan frame dalam HEIF atau JPG."
+    },
+    {
+      "q": "PNG atau JPG?",
+      "a": "PNG untuk edit dan gambar berisi teks, JPG untuk berbagi. File PNG lebih besar, tapi tanpa penurunan kualitas."
+    },
+    {
+      "q": "Bisakah menyimpan banyak frame sekaligus?",
+      "a": "Bisa, di mode massal Grab Frame, lalu ekspor ke ZIP atau PDF."
+    }
+  ],
+  "related": [
+    "cara-menyimpan-foto-dari-video-iphone",
+    "mengubah-video-menjadi-foto",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "videodan-fotograf-alma-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "videodan fotoğraf alma iPhone",
+  "secondary_keywords": [
+    "videodan fotoğraf alma iphone",
+    "iphone videodan fotoğraf çıkarma",
+    "videodan fotoğraf nasıl alınır",
+    "iphone videodan fotoğraf karesi alma"
+  ],
+  "title": "iPhone'da Videodan Fotoğraf Alma: 3 Yöntem (Net)",
+  "description": "iPhone'da videodan fotoğraf nasıl alınır? iOS 27 özelliği, ekran görüntüsü, özneyi ayırma ve JPG, PNG veya HEIC olarak çok sayıda fotoğrafı birlikte kaydetme.",
+  "h1": "iPhone'da videodan fotoğraf nasıl alınır",
+  "nav_title": "Videodan fotoğraf (iPhone)",
+  "card_title": "iPhone'da videodan fotoğraf alma",
+  "excerpt": "iPhone'da videodan fotoğraf almanın tüm yolları ve hangisini ne zaman kullanmalı.",
+  "lead": "O anı fotoğraf yerine videoya çektin. Sorun değil: video, saniyede onlarca fotoğraftan oluşur. iPhone'da tam o kareyi nasıl alacağını anlatıyoruz.",
+  "quick_answer": "iOS 27 ve sonrasında videoyu Fotoğraflar'da duraklatıp ••• üzerinden kareyi fotoğraf olarak kaydedebilirsin (videonun çözünürlüğünde, tek tek). Eski iOS'ta ya da birden fazla fotoğraf, PNG, ZIP veya PDF gerekiyorsa videoyu Video To Photo – Grab Frame'de aç, kareleri kaydet ve hepsini birlikte dışa aktar.",
+  "content_intro": "<h2>iPhone'da videodan fotoğraf alınabilir mi?</h2><p>Evet. Bir video saniyede 24–60 durağan görüntüden oluşur ve her kare fotoğraf olabilir. En iyi yöntem iOS sürümüne ve kaç fotoğraf istediğine bağlı.</p><h2>Yöntemlerin karşılaştırması</h2><table><thead><tr><th>Yöntem</th><th>Kalite</th><th>Sınır</th><th>En uygun</th></tr></thead><tbody><tr><td><strong>Fotoğraflar → kareyi fotoğraf olarak kaydet</strong> (iOS 27+)</td><td>Video çözünürlüğü, HEIF veya JPG</td><td>Tek seferde bir kare. Fotoğraf videonun tarihini alır, en üstte görünmez</td><td>Hızlıca tek fotoğraf</td></tr><tr><td><strong>Ekran görüntüsü</strong> (duraklat ve çek)</td><td>Ekran çözünürlüğü, çoğu zaman oynat düğmesi veya siyah şeritlerle</td><td>Tam kareye denk getirmek zor</td><td>Eski iOS'ta hızlı not</td></tr><tr><td><strong>Özneyi ayırma</strong> (iOS 17+, uzun basma)</td><td>Sadece özne, arka plansız</td><td>Karenin tamamı değil</td><td>Kişi veya evcil hayvan çıkartması</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Video dosyasından</td><td>Uygulama gerekir (iOS 18.6+)</td><td>Çok sayıda fotoğraf, PNG, ZIP, PDF, eski iOS</td></tr></tbody></table><h3>iOS 27'nin yerleşik özelliğiyle</h3><ol><li>Duraklat: videoyu Fotoğraflar'da aç, doğru anda duraklat, <strong>•••</strong> simgesine dokun ve kareyi fotoğraf olarak kaydetme seçeneğini seç (<em>Save Video Frame as Photo</em>).</li><li>Kare, video çözünürlüğünde fotoğraf olarak arşive eklenir.</li><li>Fotoğraf videonun tarihini ve konumunu alır; onu en üstte değil, videonun yanında ara.</li></ol><p>Tek fotoğraf için bu yeterli. Aynı videodan on kare, düzenlemek için PNG ya da her şeyi ZIP veya PDF olarak göndermek istediğinde zahmetli olur.</p><h3>Ekran görüntüsü neden aynı şey değil</h3><p>iOS 26'ya kadar ekran görüntüsü olağan yöntemdir ama kareyi değil ekranı kaydeder. Yatay 4K video dikey ekranda ince bir şerittir; oynat düğmesini kırpman ve duraklatmayı tam denk getirmen gerekir.</p>",
+  "steps_title": "Video To Photo – Grab Frame ile videodan birden fazla fotoğraf alma",
+  "steps": [
+    {
+      "name": "Videoyu uygulamayla paylaş",
+      "text": "Videoyu Fotoğraflar'da aç, Paylaş'a dokun ve uygulamayı seç. Ya da Video To Photo – Grab Frame'i açıp arşivden bir video seç.",
+      "shot": 0
+    },
+    {
+      "name": "Anı bul ve kaydet",
+      "text": "An önizlemede görünene kadar kare şeridinde kaydır ve kaydet düğmesine dokun. Hareket varsa önceki ve sonraki kareleri de kaydet.",
+      "shot": 1
+    },
+    {
+      "name": "Kareleri kontrol et",
+      "text": "Önizlemeyi aç, yüzlere veya yazılara yakınlaştır ve bulanık kareleri sil. Sadece en net olanı tut.",
+      "shot": 2
+    },
+    {
+      "name": "Fotoğraf olarak dışa aktar",
+      "text": "JPEG, PNG veya HEIC seç ve Dışa Aktar'a dokun. Fotoğraflar'a veya Dosyalar'a kaydet ya da doğrudan WhatsApp, Instagram veya e-postayla gönder.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Net bir fotoğraf için ipuçları</h2><ul><li><strong>Hareketin durduğu anı yakala.</strong> Zıplamanın en üst noktası, gülümsemeden hemen önce: kareler orada en nettir.</li><li><strong>Üç kaydet, birini tut.</strong> Komşu kareler yakınlaştırana kadar aynı görünür.</li><li><strong>4K veya 60 fps çek.</strong> Ayrıntılar <a href=\"/tr/guides/videodan-kaliteli-fotograf-alma/\">videodan kaliteli fotoğraf alma</a> rehberinde.</li><li><strong>Formatı seç.</strong> Göndermek için JPG, düzenlemek için PNG, yer kazanmak için HEIC. Ayrıca bkz. <a href=\"/tr/guides/video-jpg-cevirme/\">videoyu JPG veya PNG'ye çevirme</a>.</li></ul><h2>Uygulama videomu değiştirir ya da yükler mi?</h2><p>Hayır. Video To Photo – Grab Frame uygulama içindeki bir kopyayla çalışır ve her şeyi iPhone'da yapar. Fotoğraflar'daki orijinal değişmez ve hiçbir şey sunucuya gitmez.</p>",
+  "faq": [
+    {
+      "q": "iPhone videodan kendi başına fotoğraf kaydedebilir mi?",
+      "a": "iOS 27'den itibaren evet. Videoyu Fotoğraflar'da duraklat, •••'e dokun ve kareyi fotoğraf olarak kaydet. Tek tek, HEIF veya JPG olarak. iOS 26'ya kadar tek yerleşik seçenek ekran görüntüsüdür."
+    },
+    {
+      "q": "iOS 27'de kaydettiğim kare nerede?",
+      "a": "Fotoğraf arşivinde, ama videonun tarihi ve konumuyla. Yani en üstte değil, orijinal videonun yanında durur."
+    },
+    {
+      "q": "Kalite videoyla aynı mı?",
+      "a": "Ekran görüntüsü yerine kareyi kaydedersen evet. Hem iOS 27 hem Video To Photo – Grab Frame kareyi video dosyasından okur. Hızlı hareket bulanık olabilir, sakin bir an seç."
+    },
+    {
+      "q": "Aynı videodan birden fazla fotoğraf alabilir miyim?",
+      "a": "Evet. Video To Photo – Grab Frame'de her anı kaydet ve hepsini ayrı dosya, ZIP veya PDF olarak birlikte dışa aktar."
+    }
+  ],
+  "related": [
+    "videodan-ekran-goruntusu-alma-iphone",
+    "videodan-kare-alma-iphone",
+    "videodan-kaliteli-fotograf-alma"
+  ],
+  "datePublished": "2026-10-01"
+}

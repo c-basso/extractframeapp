@@ -1,0 +1,64 @@
+{
+  "slug": "video-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video PDF:ksi",
+  "secondary_keywords": [
+    "video pdf converter",
+    "video pdf",
+    "kuvakäsikirjoitus videosta"
+  ],
+  "title": "Video PDF:ksi iPhonella: ruudut yhteen tiedostoon",
+  "description": "Muunna video PDF:ksi iPhonella: valitse avainruudut ja kokoa ne yhteen PDF:ään kuvakäsikirjoitukseksi, muistiinpanoiksi tai hyväksyttäväksi. Ilman latausta.",
+  "h1": "Näin muunnat videon PDF:ksi iPhonella",
+  "nav_title": "Video PDF:ksi",
+  "card_title": "Videon ruudut yhteen PDF:ään",
+  "excerpt": "Videon tärkeät hetket yhdessä PDF:ssä: kuvakäsikirjoitus, muistiinpanot, hyväksyntä.",
+  "lead": "PDF avainruuduista on nopein tapa näyttää videon sisältö jollekulle, joka ei aio katsoa sitä. Asiakkaalle, joka hyväksyy leikkauksen, opiskelijalle, joka kertaa luentoa, tiimille, joka hyväksyy kuvakäsikirjoituksen.",
+  "quick_answer": "Avaa video Video To Photo – Grab Framessa ja tallenna ruutu jokaisesta tärkeästä hetkestä. Napauta Vie, valitse kuvamuoto ja sitten PDF. Saat yhden PDF:n ruuduista valmiina lähetettäväksi AirDropilla, WhatsAppilla, sähköpostilla tai Tiedostoihin.",
+  "content_intro": "<h2>Mitä ”video PDF:ksi” tarkoittaa?</h2><p>PDF ei toista videota. Videon muuntaminen PDF:ksi tarkoittaa <strong>still-kuvien</strong> tallentamista ja kokoamista yhdeksi asiakirjaksi. Ratkaisevaa on, <em>mitkä ruudut valitset</em>: 900 samanlaisen ruudun PDF on hyödytön, 12 avainruudun PDF on kullanarvoinen.</p><h2>Hyödyllinen</h2><ul><li><strong>Kuvakäsikirjoitukseen tai kuvalistaan</strong>: yksi ruutu kohtausta kohden esityksiin.</li><li><strong>Luentomuistiinpanoihin</strong>: diat ja taulu tallennetusta luennosta.</li><li><strong>Asiakkaan hyväksyntään</strong>: kommentointi PDF:ään on helpompaa kuin aikakoodien etsiminen.</li><li><strong>Urheiluanalyysiin</strong>: liikkeen vaiheet järjestyksessä.</li><li><strong>Ohjeisiin</strong>: näytön tallenne vaiheittaiseksi ohjeeksi.</li></ul>",
+  "steps_title": "Näin kokoat videon ruudut PDF:ään iPhonella",
+  "steps": [
+    {
+      "name": "Avaa video",
+      "text": "Jaa se Kuvista Video To Photo – Grab Frameen tai valitse se sovelluksessa.",
+      "shot": 0
+    },
+    {
+      "name": "Tallenna avainruudut",
+      "text": "Käy video läpi ja napauta tallenna jokaisen kohtauksen, dian tai vaiheen kohdalla.",
+      "shot": 1
+    },
+    {
+      "name": "Valitse viennissä PDF",
+      "text": "Napauta Vie, valitse JPEG, PNG tai HEIC ja sitten PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Jaa tai tallenna PDF",
+      "text": "Tallenna Tiedostoihin tai lähetä AirDropilla, WhatsAppilla tai sähköpostilla Jaa-valikosta.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Vinkkejä siistiin PDF:ään</h2><ul><li>Tallenna ruudut järjestyksessä alusta loppuun.</li><li>Valitse ruudut, joissa kaikki teksti näkyy ja jotka eivät ole siirtymän keskellä.</li><li>Käytä PNG:tä dioihin ja pieneen tekstiin.</li><li>Projekti pysyy tallessa, joten voit lisätä ruutuja myöhemmin ja viedä uudelleen.</li></ul><h2>PDF vai ZIP?</h2><p><strong>PDF</strong> järjestyksessä lukemiseen ja kommentointiin, <strong>ZIP</strong>, kun tarvitset erilliset tiedostot vaikkapa suunnitteluun. Molemmat on kuvattu oppaassa <a href=\"/fi/guides/kuvia-videosta/\">kuvia videosta</a>.</p>",
+  "faq": [
+    {
+      "q": "Voinko muuntaa videon PDF:ksi lataamatta sitä verkkoon?",
+      "a": "Voit. Video To Photo – Grab Frame tekee PDF:n iPhonella tallennetuista ruuduista; video ei poistu laitteelta."
+    },
+    {
+      "q": "Missä järjestyksessä ruudut ovat PDF:ssä?",
+      "a": "PDF sisältää tallentamasi ruudut. Tallenna ne alusta loppuun, niin asiakirja seuraa videota."
+    },
+    {
+      "q": "Miten teen videosta kuvakäsikirjoituksen puhelimella?",
+      "a": "Tallenna yksi ruutu kuvaa tai kohtausta kohden ja vie PDF:nä: se on yksinkertainen kuvakäsikirjoitus. Muistiinpanot lisäät Merkinnällä tai PDF-sovelluksella."
+    }
+  ],
+  "related": [
+    "kuvia-videosta",
+    "video-jpg-png",
+    "sovellus-kuva-videosta"
+  ],
+  "datePublished": "2026-10-01"
+}

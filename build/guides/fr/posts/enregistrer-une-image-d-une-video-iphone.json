@@ -1,0 +1,65 @@
+{
+  "slug": "enregistrer-une-image-d-une-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "enregistrer une image d'une vidéo iPhone",
+  "secondary_keywords": [
+    "enregistrer une image d une video iphone",
+    "capturer une image d'une vidéo iphone",
+    "arrêt sur image vidéo iphone",
+    "extraire image vidéo iphone"
+  ],
+  "title": "Enregistrer une image d'une vidéo sur iPhone en photo",
+  "description": "Enregistrez une image d'une vidéo sur iPhone comme photo : l'option d'iOS 27 et la méthode pour iOS anciens ou plusieurs images, en JPG, PNG ou HEIC.",
+  "h1": "Comment enregistrer une image d'une vidéo sur iPhone",
+  "nav_title": "Enregistrer une image de vidéo",
+  "card_title": "Enregistrer un arrêt sur image comme photo",
+  "excerpt": "Exportez une image précise dans Photos ou Fichiers sans toucher à la vidéo d'origine.",
+  "lead": "Vous savez exactement quelle image vous voulez. Il reste à l'enregistrer comme une photo normale, à côté des autres. Voici comment faire sur iPhone.",
+  "quick_answer": "Sous iOS 27 ou plus récent : ouvrez la vidéo dans Photos, mettez en pause, touchez « ••• » et enregistrez l'image comme photo. Sur un iOS plus ancien, ou pour plusieurs images, du PNG, un ZIP ou un PDF : partagez la vidéo vers Video To Photo – Grab Frame, capturez l'image, touchez Exporter et enregistrez dans Photos ou Fichiers.",
+  "content_intro": "<h2>Option 1 : la méthode intégrée d'iOS 27</h2><ol><li>Ouvrez la vidéo dans Photos et mettez en pause sur l'image (faites glisser la barre pour plus de précision).</li><li>Touchez <strong>« ••• »</strong> en haut à droite.</li><li>Choisissez d'enregistrer l'image comme photo (<em>Save Video Frame as Photo</em>).</li></ol><p>L'image est enregistrée à la résolution de la vidéo en HEIF ou JPG (selon le format de l'appareil photo). À savoir : <strong>une image à la fois</strong>, et la photo reprend la <strong>date de la vidéo</strong> — cherchez-la à côté de la vidéo, pas en haut des Récents.</p><h2>Option 2 : plusieurs images, ou iOS 26 et avant</h2><p>Sur les versions plus anciennes, impossible d'exporter une image nativement : il reste la capture d'écran, qui enregistre l'écran et non l'image (voir <a href=\"/fr/guides/capture-ecran-video-iphone-sans-perte/\">pourquoi la capture perd en qualité</a>). Et même sous iOS 27, une app est plus rapide pour une série, du PNG, un ZIP ou un PDF.</p>",
+  "steps_title": "Enregistrer une image de vidéo avec Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Partagez la vidéo depuis Photos",
+      "text": "Ouvrez la vidéo, touchez Partager et choisissez l'app. Elle s'ouvre directement en mode capture.",
+      "shot": 0
+    },
+    {
+      "name": "Trouvez l'image et capturez-la",
+      "text": "Faites glisser la bande jusqu'au moment exact et touchez le bouton de capture. Le compteur indique combien d'images vous avez.",
+      "shot": 1
+    },
+    {
+      "name": "Choisissez le format",
+      "text": "Touchez Exporter. JPEG pour partager, PNG sans perte, HEIC léger et de haute qualité.",
+      "shot": 3
+    },
+    {
+      "name": "Enregistrez dans Photos ou Fichiers",
+      "text": "Depuis le menu de partage, enregistrez dans la photothèque, dans Fichiers, ou envoyez directement dans une conversation.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Où va l'image enregistrée ?</h2><ul><li><strong>Photothèque</strong> : comme une photo normale, prête à retoucher, partager ou imprimer.</li><li><strong>Fichiers</strong> : iCloud Drive ou Sur mon iPhone, pratique pour le travail.</li><li><strong>N'importe quelle app</strong> : WhatsApp, Instagram, Messages ou e-mail via le menu de partage.</li></ul><h2>Plusieurs images d'un coup</h2><p>Capturez toutes les images voulues avant d'exporter : en fichiers séparés, en <strong>archive ZIP</strong> ou en <strong>PDF</strong>. Voir <a href=\"/fr/guides/extraire-toutes-les-images-d-une-video/\">extraire toutes les images d'une vidéo</a>.</p><h2>Revenir plus tard</h2><p>Chaque vidéo est enregistrée comme projet : revenez demain pour en extraire d'autres sans rechercher la vidéo.</p>",
+  "faq": [
+    {
+      "q": "L'app Photos peut-elle enregistrer une image d'une vidéo ?",
+      "a": "Oui, depuis iOS 27 : pause, « ••• » puis enregistrer l'image comme photo. Une image à la fois, en HEIF ou JPG. Avant iOS 27, seule la capture d'écran est possible."
+    },
+    {
+      "q": "La vidéo d'origine est-elle modifiée ?",
+      "a": "Non. L'app lit la vidéo et crée un nouveau fichier image. La vidéo reste intacte dans Photos."
+    },
+    {
+      "q": "Ça marche sans connexion ?",
+      "a": "Oui. Les images sont extraites sur l'iPhone : pas besoin d'internet et rien n'est envoyé."
+    }
+  ],
+  "related": [
+    "extraire-une-photo-d-une-video-iphone",
+    "extraire-toutes-les-images-d-une-video",
+    "convertir-video-en-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

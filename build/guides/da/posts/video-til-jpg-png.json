@@ -1,0 +1,65 @@
+{
+  "slug": "video-til-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video til JPG",
+  "secondary_keywords": [
+    "video til jpg",
+    "video til billeder",
+    "video jpg converter",
+    "video til png"
+  ],
+  "title": "Video til JPG, PNG eller HEIC på iPhone (offline)",
+  "description": "Lav billeder fra en video om til JPG, PNG eller HEIC på iPhone, offline og i fuld kvalitet. Plus hvilket format du skal vælge til deling, redigering og arkiv.",
+  "h1": "Video til JPG, PNG eller HEIC på iPhone",
+  "nav_title": "Video til JPG, PNG, HEIC",
+  "card_title": "Billeder fra video til JPG, PNG eller HEIC",
+  "excerpt": "Det rigtige format til dine billeder, og eksport uden online-konverter.",
+  "lead": "Online-konvertere til „video til JPG“ vil have dig til at uploade hele filen, vente og downloade en bunke billeder. På iPhone klarer du det på enheden, kun med de billeder, du vil have, og i det format, der passer.",
+  "quick_answer": "Åbn videoen i Video To Photo – Grab Frame, gem de ønskede billeder, tryk på Eksportér, og vælg JPEG, PNG eller HEIC. JPG til deling, PNG til tabsfri redigering, HEIC til små og skarpe filer. Konverteringen sker på din iPhone, uden upload.",
+  "content_intro": "<h2>JPG, PNG og HEIC: forskellen</h2><table><thead><tr><th>Format</th><th>Kvalitet</th><th>Størrelse</th><th>Bedst til</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Meget god (med tab)</td><td>Lille</td><td>Messenger, sociale medier, mail, web. Åbner overalt</td></tr><tr><td><strong>PNG</strong></td><td>Tabsfri</td><td>Størst</td><td>Redigering, thumbnails med tekst, collager</td></tr><tr><td><strong>HEIC</strong></td><td>Fremragende</td><td>Mindst ved samme kvalitet</td><td>Apples fotobibliotek, iPhone og Mac</td></tr></tbody></table><p>I tvivl? <strong>JPG</strong> til deling, <strong>PNG</strong> til redigering.</p><h2>Hvorfor ikke en online-konverter?</h2><ul><li>Du skal uploade hele videoen: langsomt på mobildata og ikke godt for private videoer.</li><li>Mange sider klipper med faste intervaller: hundredvis af billeder, men måske ikke dit øjeblik.</li><li>Gratis versioner har ofte en grænse eller et vandmærke.</li></ul>",
+  "steps_title": "Sådan laver du billeder fra en video om til JPG, PNG eller HEIC på iPhone",
+  "steps": [
+    {
+      "name": "Åbn videoen",
+      "text": "Del den fra Fotos til Video To Photo – Grab Frame, eller vælg den i appen.",
+      "shot": 0
+    },
+    {
+      "name": "Gem billederne",
+      "text": "Tryk på gem ved hvert øjeblik. Kun de valgte billeder konverteres.",
+      "shot": 1
+    },
+    {
+      "name": "Vælg JPEG, PNG eller HEIC",
+      "text": "Tryk på Eksportér, og vælg billedformatet øverst.",
+      "shot": 3
+    },
+    {
+      "name": "Gem som filer, ZIP eller PDF",
+      "text": "Eksportér separate billeder, ZIP eller PDF, og gem i Fotos eller Arkiver, eller del med det samme.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hvilket format til hvad?</h2><ul><li><strong>YouTube-thumbnail eller TikTok-cover</strong> → PNG, derefter tekst. Se <a href=\"/da/guides/youtube-thumbnail-fra-video/\">YouTube-thumbnail fra video</a>.</li><li><strong>Sende til Windows eller Android</strong> → JPG (HEIC åbner ikke overalt).</li><li><strong>Print</strong> → PNG eller JPG i høj kvalitet fra en 4K-video.</li><li><strong>Arkiv med mange billeder</strong> → HEIC i en ZIP.</li><li><strong>Billeder i et dokument</strong> → PDF, se <a href=\"/da/guides/video-til-pdf/\">video til PDF</a>.</li></ul><h2>Mister man kvalitet ved konverteringen?</h2><p>PNG bevarer hver pixel i billedet. JPG og HEIC komprimerer, men i fotokvalitet kan man næsten ikke se forskel. Langt vigtigere end formatet er, at du eksporterer fra filen og ikke tager et skærmbillede.</p>",
+  "faq": [
+    {
+      "q": "Kan jeg lave en video om til JPG gratis på iPhone?",
+      "a": "Video To Photo – Grab Frame er gratis at hente; Pro-funktioner er køb i appen. Billederne konverteres på din iPhone, og videoen uploades ikke."
+    },
+    {
+      "q": "Kan jeg gemme et billede fra en video som PNG?",
+      "a": "Ja. Gem billedet, vælg PNG ved eksport, og gem som separat fil eller ZIP."
+    },
+    {
+      "q": "Kan Windows åbne HEIC?",
+      "a": "Nyere Windows åbner HEIC med en udvidelse, men ikke alle systemer. Til enheder, der ikke er fra Apple, er JPG det sikre valg."
+    }
+  ],
+  "related": [
+    "skarpt-billede-fra-video",
+    "video-til-pdf",
+    "youtube-thumbnail-fra-video"
+  ],
+  "datePublished": "2026-10-01"
+}

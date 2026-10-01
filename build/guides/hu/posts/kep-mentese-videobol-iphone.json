@@ -1,0 +1,65 @@
+{
+  "slug": "kep-mentese-videobol-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "kép mentése videóból iPhone",
+  "secondary_keywords": [
+    "kép mentése videóból",
+    "videóból kép mentése",
+    "képkocka kivágása videóból",
+    "állókép videóból iphone"
+  ],
+  "title": "Kép mentése videóból iPhone-on fotóként (iOS 27)",
+  "description": "Így menthet egy képkockát videóból fotóként iPhone-on: az iOS 27 funkciója és megoldás régebbi iOS-hez vagy több kockához, JPG, PNG vagy HEIC formátumban.",
+  "h1": "Hogyan menthető kép videóból iPhone-on",
+  "nav_title": "Kép mentése videóból",
+  "card_title": "Képkocka mentése fotóként",
+  "excerpt": "Exportálja a megfelelő kockát a Fotókba vagy a Fájlokba az eredeti videó módosítása nélkül.",
+  "lead": "Pontosan tudja, melyik kocka kell. Csak szeretné normál fotóként a többi mellett. Így megy ez iPhone-on.",
+  "quick_answer": "iOS 27 vagy újabb: nyissa meg a videót a Fotókban, állítsa meg, és mentse a kockát a ••• menüben. Régebbi iOS vagy több kocka, PNG, ZIP vagy PDF: ossza meg a videót a Video To Photo – Grab Frame-mel, mentse a kockákat, és exportálja a Fotókba vagy a Fájlokba.",
+  "content_intro": "<h2>1. módszer: az iOS 27 beépített funkciója</h2><ol><li>Nyissa meg a videót a Fotókban, és állítsa meg a kívánt kockánál (a sávot húzva pontosan eltalálja).</li><li>Koppintson a jobb felső <strong>•••</strong> gombra.</li><li>Válassza a képkocka mentését fotóként (<em>Save Video Frame as Photo</em>).</li></ol><p>A videó felbontásában kap fotót, HEIF vagy JPG formátumban (a kamerabeállítástól függően). Fontos: <strong>egyszerre egy kocka</strong>, és a fotó a <strong>videó dátumát</strong> kapja. A videó mellett keresse, ne a Legutóbbiak tetején.</p><h2>2. módszer: több kocka vagy iOS 26 és korábbi</h2><p>A régebbi verziókban nincs beépített funkció, csak képernyőkép (<a href=\"/hu/guides/kepernyokep-videorol-iphone/\">miért romlik a minőség</a>). iOS 27-en is gyorsabb az app, ha kockasorozatra, PNG-re vagy ZIP/PDF-re van szüksége.</p>",
+  "steps_title": "Kép mentése a Video To Photo – Grab Frame-mel",
+  "steps": [
+    {
+      "name": "Ossza meg a videót a Fotókból",
+      "text": "Nyissa meg a videót, koppintson a Megosztásra, és válassza az appot. A képkocka-nézet azonnal megnyílik.",
+      "shot": 0
+    },
+    {
+      "name": "Keresse meg a kockát, és mentse",
+      "text": "Húzza a pillanathoz, és koppintson a mentésre. A számláló mutatja, hány kockája van.",
+      "shot": 1
+    },
+    {
+      "name": "Válasszon formátumot",
+      "text": "Koppintson az Exportálásra. JPEG megosztáshoz, PNG veszteségmentesen, HEIC kis méretben élesen.",
+      "shot": 3
+    },
+    {
+      "name": "Mentés a Fotókba vagy a Fájlokba",
+      "text": "A Megosztás menüből mentse a könyvtárba vagy a Fájlokba, vagy küldje közvetlenül egy beszélgetésbe.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hová kerül a mentett kocka?</h2><ul><li><strong>Fotókönyvtár</strong>: szerkesztheti, megoszthatja és kinyomtathatja, mint bármely fotót.</li><li><strong>Fájlok</strong>: iCloud Drive vagy Az iPhone-omon, praktikus munkadokumentumokhoz.</li><li><strong>Más appok</strong>: Messenger, Viber, Instagram, e-mail a Megosztás menüből.</li></ul><h2>Több kocka egyszerre</h2><p>Exportálás előtt mentse az összes szükséges kockát, és exportálja őket együtt külön fájlként, <strong>ZIP</strong>-ben vagy <strong>PDF</strong>-ben. Lásd még: <a href=\"/hu/guides/kepkockak-videobol/\">képkockák videóból</a>.</p><h2>Folytatás később</h2><p>Minden videó projektként mentődik, így másnap is folytathatja anélkül, hogy újra megkeresné a videót.</p>",
+  "faq": [
+    {
+      "q": "A Fotók app tud képkockát menteni videóból?",
+      "a": "iOS 27-től igen: megállítás és mentés a ••• menüben. Egyszerre egy kocka, HEIF vagy JPG formátumban. iOS 27 előtt csak képernyőkép volt."
+    },
+    {
+      "q": "Megváltozik az eredeti videóm?",
+      "a": "Nem. Az app beolvassa a videót, és új képfájlokat hoz létre. A videó a Fotókban változatlan marad."
+    },
+    {
+      "q": "Működik internet nélkül?",
+      "a": "Igen. A kockák kinyerése az iPhone-on történik, ezért nem kell internet, és semmi sem töltődik fel."
+    }
+  ],
+  "related": [
+    "kep-kivagasa-videobol-iphone",
+    "kepkockak-videobol",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

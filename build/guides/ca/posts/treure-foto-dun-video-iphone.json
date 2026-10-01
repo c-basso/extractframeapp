@@ -1,0 +1,64 @@
+{
+  "slug": "treure-foto-dun-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "com treure una foto d'un vídeo",
+  "secondary_keywords": [
+    "foto d'un vídeo iphone",
+    "treure foto d'un vídeo",
+    "com fer una foto d'un vídeo"
+  ],
+  "title": "Com treure una foto d’un vídeo a l’iPhone (3 maneres)",
+  "description": "Treure una foto d’un vídeo a l’iPhone amb qualitat completa: la funció d’iOS 27, la captura i una app per a fotogrames nítids en JPG, PNG o HEIC.",
+  "h1": "Com treure una foto d’un vídeo a l’iPhone",
+  "nav_title": "Foto d’un vídeo",
+  "card_title": "Com treure una foto d’un vídeo a l’iPhone",
+  "excerpt": "Tres maneres, de la més ràpida a la de més qualitat, i quan triar cadascuna.",
+  "lead": "El millor moment sovint només és al vídeo: un somriure, un salt, bufar les espelmes. A l’iPhone el pots convertir en foto de tres maneres. Canvien la qualitat, la rapidesa i quantes fotos necessites.",
+  "quick_answer": "A iOS 27, posa el vídeo en pausa a Fotos, toca ••• i desa el fotograma com a foto. En un iOS més antic, o per a moltes fotos en JPG, PNG o HEIC, obre el vídeo a Video To Photo – Grab Frame, troba el fotograma i desa’l a resolució completa.",
+  "content_intro": "<h2>Comparació</h2><table><thead><tr><th>Manera</th><th>Qualitat</th><th>Diversos fotogrames</th><th>Formats</th></tr></thead><tbody><tr><td>Captura de pantalla</td><td>Resolució de la pantalla</td><td>No</td><td>PNG</td></tr><tr><td>Fotos (iOS 27)</td><td>Completa</td><td>D’un en un</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Completa</td><td>Sí, alhora</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p>",
+  "steps_title": "Treure una foto d’un vídeo amb Grab Frame",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "A Fotos, obre el vídeo, toca Comparteix i tria Video To Photo – Grab Frame. La vista de fotogrames s’obre de seguida.",
+      "shot": 0
+    },
+    {
+      "name": "Troba el moment",
+      "text": "Arrossega la tira de fotogrames fins al moment exacte i toca el botó de desar.",
+      "shot": 1
+    },
+    {
+      "name": "Comprova la nitidesa",
+      "text": "Obre el fotograma a pantalla completa i amplia’l. Elimina els que estiguin borrosos.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta",
+      "text": "Tria JPG, PNG o HEIC i desa a Fotos, Fitxers, ZIP o PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Per què no n’hi ha prou amb una captura?</h2><p>La captura de pantalla desa el que es veu a la pantalla, no el vídeo. Un fotograma 4K s’encongeix a la mida de la pantalla i poden quedar-hi els controls o franges negres. Serveix per a una nota ràpida, però no per a records ni per imprimir.</p><h2>Consells</h2><ul><li>Grava en 4K i a 60 fps per tenir fotogrames més nítids.</li><li>Compara els fotogrames veïns i queda’t el més nítid.</li><li>Fes servir el vídeo original, no una còpia de WhatsApp o Telegram.</li></ul>",
+  "faq": [
+    {
+      "q": "L’iPhone pot treure una foto d’un vídeo sense app?",
+      "a": "Sí, des d’iOS 27 Fotos pot desar un fotograma en pausa com a foto, d’un en un. En versions anteriors necessites una captura de pantalla o una app."
+    },
+    {
+      "q": "Es perd qualitat?",
+      "a": "No, si deses des del fitxer del vídeo. La foto té la resolució del vídeo: uns 8 MP des de 4K, uns 2 MP des de 1080p."
+    },
+    {
+      "q": "Canvia el vídeo original?",
+      "a": "No. El vídeo queda intacte i els fotogrames es desen com a fotos noves."
+    }
+  ],
+  "related": [
+    "captura-pantalla-video-iphone",
+    "desar-foto-dun-video",
+    "foto-nitida-dun-video"
+  ],
+  "datePublished": "2026-10-01"
+}

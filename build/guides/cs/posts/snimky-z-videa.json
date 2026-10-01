@@ -1,0 +1,64 @@
+{
+  "slug": "snimky-z-videa",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "snímky z videa",
+  "secondary_keywords": [
+    "snímek z videa",
+    "obrázek z videa",
+    "jak vytáhnout fotku z videa"
+  ],
+  "title": "Snímky z videa na iPhonu: více najednou",
+  "description": "Vytáhněte z videa více snímků najednou na iPhonu, bez počítače či ffmpeg. Vyberte jen potřebné snímky a uložte je jako fotky, ZIP nebo PDF.",
+  "h1": "Jak vytáhnout více snímků z videa na iPhonu",
+  "nav_title": "Snímky z videa",
+  "card_title": "Jak vytáhnout více snímků z videa",
+  "excerpt": "Série snímků z jednoho videa exportovaná jako obrázky, ZIP nebo PDF.",
+  "lead": "Storyboard, sportovní sekvence, před a po, sestřih reakcí: někdy jedna fotka nestačí. Takhle z videa dostanete tolik snímků, kolik potřebujete, jen s iPhonem.",
+  "quick_answer": "Otevřete video ve Video To Photo – Grab Frame a v každém potřebném okamžiku klepněte na uložení. Zkontrolujte snímky, smažte nepovedené a vše vyexportujte najednou jako samostatné soubory JPG, PNG nebo HEIC, jako ZIP nebo jako PDF.",
+  "content_intro": "<h2>Všechny snímky, nebo jen ty dobré?</h2><p>30sekundové video při 30 fps má 900 snímků. Export všech, jako v ffmpeg nebo VLC na počítači, dá stovky téměř stejných souborů. Na telefonu je obvykle rychlejší <strong>vybrat jen potřebné snímky</strong>.</p><table><thead><tr><th>Cíl</th><th>Postup</th></tr></thead><tbody><tr><td>Storyboard, návod krok za krokem</td><td>Jeden snímek na scénu či krok</td></tr><tr><td>Sport, analýza pohybu</td><td>Snímky v pravidelných odstupech</td></tr><tr><td>Najít nejlepší fotku</td><td>Nejostřejší z 3–5 sousedních snímků</td></tr><tr><td>Všechny snímky pro animaci či analýzu</td><td>Program na počítači (ffmpeg)</td></tr></tbody></table><p>Vestavěná funkce iOS 27 ukládá jeden snímek najednou, takže na série není vhodná.</p>",
+  "steps_title": "Jak vytáhnout více snímků z videa na iPhonu",
+  "steps": [
+    {
+      "name": "Otevřete video",
+      "text": "Nasdílejte ho z Fotek do aplikace, nebo ho vyberte ve Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Uložte každý okamžik",
+      "text": "Posouvejte pás a v každém okamžiku klepněte na uložení. Počítadlo počítá za vás.",
+      "shot": 1
+    },
+    {
+      "name": "Zkontrolujte snímky",
+      "text": "Otevřete je na celou obrazovku, zkontrolujte ostrost a smažte duplicity či rozmazané snímky.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte vše",
+      "text": "Zvolte JPEG, PNG nebo HEIC. Jednotlivé obrázky do Souborů, ZIP jako jeden soubor, PDF jako dokument.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF, nebo samostatné soubory?</h2><ul><li><strong>Samostatné soubory</strong>: úpravy nebo publikace po jednom.</li><li><strong>ZIP</strong>: jeden soubor k odeslání přes AirDrop, e-mail, WhatsApp nebo cloud.</li><li><strong>PDF</strong>: storyboard, poznámky, dokument ke schválení. Viz <a href=\"/cs/guides/video-do-pdf/\">video do PDF</a>.</li></ul><h2>Tipy pro série</h2><ul><li>Vybírejte snímky ve stejných odstupech, aby byl pohyb čitelný.</li><li>Na koláž exportujte PNG a vyhnete se další kompresi JPEG.</li><li>Projekt zůstává uložený, chybějící snímky přidáte později.</li></ul>",
+  "faq": [
+    {
+      "q": "Kolik snímků můžu z jednoho videa dostat?",
+      "a": "Kolik potřebujete. V každém okamžiku klepněte na uložení a vyexportujte vše najednou. U mnoha snímků trvá export o něco déle."
+    },
+    {
+      "q": "Můžu automaticky exportovat všechny snímky?",
+      "a": "Video To Photo – Grab Frame je určená k výběru snímků. Pokud opravdu potřebujete každý snímek pro animaci nebo analýzu, hodí se spíš program na počítači, například ffmpeg."
+    },
+    {
+      "q": "Jak poslat mnoho snímků najednou?",
+      "a": "Exportujte jako ZIP a pošlete jeden soubor přes AirDrop, e-mail nebo WhatsApp. Nebo exportujte jako PDF."
+    }
+  ],
+  "related": [
+    "video-do-pdf",
+    "video-snimek-po-snimku-iphone",
+    "ulozit-snimek-z-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

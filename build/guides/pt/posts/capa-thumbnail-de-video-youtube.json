@@ -1,0 +1,65 @@
+{
+  "slug": "capa-thumbnail-de-video-youtube",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "capa de vídeo para YouTube no iPhone",
+  "secondary_keywords": [
+    "capa de video youtube",
+    "thumbnail de video",
+    "capa de video tiktok",
+    "capa de video instagram"
+  ],
+  "title": "Como fazer capa ou thumbnail de vídeo no iPhone (YouTube)",
+  "description": "Como fazer capa ou thumbnail a partir do seu vídeo no iPhone: escolha o melhor frame, salve em alta qualidade, coloque texto e envie para YouTube ou TikTok.",
+  "h1": "Como fazer uma capa ou thumbnail de vídeo no iPhone",
+  "nav_title": "Capa ou thumbnail de vídeo",
+  "card_title": "Capa e thumbnail a partir do seu vídeo",
+  "excerpt": "Ache o frame que dá clique, salve nítido e transforme em capa para YouTube, TikTok ou Reels.",
+  "lead": "A melhor capa quase sempre já está no seu vídeo: uma emoção real, um momento real. O truque é achar esse frame e tirar nítido o bastante para aguentar texto, corte e compressão.",
+  "quick_answer": "Abra seu vídeo no Video To Photo – Grab Frame, ache um momento nítido e expressivo, capture duas ou três opções e exporte a melhor em PNG. Coloque um texto grande em qualquer editor (1280 × 720 para YouTube, 9:16 para Shorts, TikTok e Reels) e envie como thumbnail ou capa.",
+  "content_intro": "<h2>Como deve ser o frame da capa</h2><ul><li><strong>Rosto ou assunto claro</strong>: de perto, nítido e de preferência olhando para a câmera.</li><li><strong>Emoção</strong>: surpresa, risada ou concentração funcionam melhor que cara neutra.</li><li><strong>Espaço para texto</strong>: uma área tranquila onde caibam algumas palavras.</li><li><strong>Nitidez</strong>: thumbnails são pequenas, qualquer desfoque aparece.</li></ul><h2>Tamanhos de capa</h2><table><thead><tr><th>Plataforma</th><th>Formato</th><th>Tamanho</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080 × 1920</td></tr><tr><td>Grade do Instagram</td><td>Corta para 1:1 / 4:5</td><td>Mantenha o assunto no centro</td></tr></tbody></table><p>Um frame de vídeo 1080p ou 4K já é maior que isso: o importante é extrair do arquivo e não tirar print.</p>",
+  "steps_title": "Como fazer uma capa a partir do seu vídeo no iPhone",
+  "steps": [
+    {
+      "name": "Abra o vídeo pronto",
+      "text": "Compartilhe pelo Fotos com o Video To Photo – Grab Frame ou escolha no app.",
+      "shot": 0
+    },
+    {
+      "name": "Capture 3 opções",
+      "text": "Procure momentos fortes e capture. Expressões mudam rápido: salve também os frames vizinhos.",
+      "shot": 1
+    },
+    {
+      "name": "Escolha o mais nítido",
+      "text": "Dê zoom nos rostos na pré-visualização e apague os tremidos ou de olho fechado.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte em PNG e coloque o texto",
+      "text": "Exporte em PNG para manter a qualidade na edição, adicione um título curto e envie como capa.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Como enviar a capa</h2><ul><li><strong>YouTube:</strong> no YouTube ou YouTube Studio, edite os detalhes do vídeo e escolha uma thumbnail personalizada das suas fotos (precisa de conta verificada).</li><li><strong>TikTok:</strong> antes de postar, toque em «Editar capa» e escolha a imagem.</li><li><strong>Instagram Reels:</strong> toque em «Editar capa» e adicione pelo rolo da câmera.</li></ul><h2>Dicas para ter mais cliques</h2><ul><li>De três a cinco palavras de texto, no máximo.</li><li>Muito contraste entre assunto, texto e fundo.</li><li>Um estilo consistente no canal todo.</li><li>Teste dois frames: troque a capa depois de alguns dias e compare.</li></ul>",
+  "faq": [
+    {
+      "q": "Posso usar um frame do meu vídeo como thumbnail no YouTube?",
+      "a": "Pode. Salve o frame, coloque texto se quiser e envie como thumbnail personalizada. O ideal é uma imagem 1280 × 720 em JPG ou PNG."
+    },
+    {
+      "q": "Exporto a capa em JPG ou PNG?",
+      "a": "Exporte o frame em PNG enquanto edita, para o texto ficar nítido. A capa final pode ser salva em JPG se você precisar de um arquivo mais leve."
+    },
+    {
+      "q": "Por que minha thumbnail fica borrada?",
+      "a": "Quase sempre é um print ou um frame com movimento. Extraia o frame do arquivo e escolha um momento em que o assunto esteja parado."
+    }
+  ],
+  "related": [
+    "tirar-foto-de-video-com-qualidade",
+    "converter-video-para-jpg",
+    "como-tirar-foto-de-video-no-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

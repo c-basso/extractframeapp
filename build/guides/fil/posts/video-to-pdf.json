@@ -1,0 +1,64 @@
+{
+  "slug": "video-to-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to PDF",
+  "secondary_keywords": [
+    "video to pdf converter",
+    "video to pdf converter free",
+    "storyboard mula sa video"
+  ],
+  "title": "Video to PDF sa iPhone: Mga Frame sa Iisang File",
+  "description": "I-convert ang video sa PDF sa iPhone: piliin ang mahahalagang frame at pagsamahin sa isang PDF para sa storyboard, notes o review. Offline, walang upload.",
+  "h1": "Paano i-convert ang video sa PDF sa iPhone",
+  "nav_title": "Video to PDF",
+  "card_title": "Mga frame ng video sa isang PDF",
+  "excerpt": "Ang mahahalagang sandali ng video sa iisang PDF: storyboard, notes, review.",
+  "lead": "Ang PDF ng mga key frame ang pinakamabilis na paraan para ipakita ang laman ng video sa taong hindi ito panonoorin. Sa client na nag-aapruba ng edit, sa estudyanteng nagre-review ng lecture, sa team na nag-aapruba ng storyboard.",
+  "quick_answer": "Buksan ang video sa Video To Photo – Grab Frame at mag-save ng frame sa bawat mahalagang sandali. I-tap ang Export, piliin ang image format, tapos PDF. Makakakuha ka ng isang PDF ng mga frame, handang ipadala sa AirDrop, Messenger, email o Files.",
+  "content_intro": "<h2>Ano ang ibig sabihin ng \"video to PDF\"?</h2><p>Hindi nagpe-play ng video ang PDF. Ang pag-convert ng video sa PDF ay pag-save ng mga <strong>still image</strong> at pagsasama-sama nito sa isang dokumento. Ang susi ay <em>kung aling frame ang pipiliin mo</em>: walang silbi ang PDF ng 900 magkakamukhang frame, pero ginto ang PDF ng 12 key frame.</p><h2>Kapaki-pakinabang para sa</h2><ul><li><strong>Storyboard o shot list</strong>: isang frame bawat eksena, para sa pitch at presentasyon.</li><li><strong>Lecture notes</strong>: slides at board mula sa na-record na klase.</li><li><strong>Review ng client</strong>: mas madaling mag-comment sa PDF kaysa maghanap ng timecode.</li><li><strong>Sports analysis</strong>: mga yugto ng galaw nang sunod-sunod.</li><li><strong>Manual</strong>: screen recording na ginawang step-by-step na gabay.</li></ul>",
+  "steps_title": "Paano pagsamahin ang mga frame ng video sa PDF sa iPhone",
+  "steps": [
+    {
+      "name": "Buksan ang video",
+      "text": "I-share mula sa Photos papunta sa Video To Photo – Grab Frame, o piliin ito sa app.",
+      "shot": 0
+    },
+    {
+      "name": "I-save ang key frame",
+      "text": "Daanan ang video at i-tap ang save sa bawat eksena, slide o hakbang.",
+      "shot": 1
+    },
+    {
+      "name": "Piliin ang PDF sa export",
+      "text": "I-tap ang Export, piliin ang JPEG, PNG o HEIC, tapos PDF.",
+      "shot": 3
+    },
+    {
+      "name": "I-share o i-save ang PDF",
+      "text": "I-save sa Files o ipadala sa AirDrop, Messenger o email mula sa Share menu.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Mga tip para sa maayos na PDF</h2><ul><li>I-save ang mga frame nang sunod-sunod, mula simula hanggang dulo.</li><li>Pumili ng frame kung saan kita ang lahat ng text at wala sa gitna ng transition.</li><li>Gumamit ng PNG para sa slides at maliliit na text.</li><li>Nakatago ang project, kaya puwede kang magdagdag ng frame mamaya at mag-export ulit.</li></ul><h2>PDF o ZIP?</h2><p><strong>PDF</strong> para basahin nang sunod-sunod at lagyan ng comment, <strong>ZIP</strong> kapag kailangan mo ng hiwalay na file, halimbawa para sa design. Parehong nakasulat sa <a href=\"/fil/guides/maraming-frame-mula-sa-video/\">maraming frame mula sa video</a>.</p>",
+  "faq": [
+    {
+      "q": "Puwede bang i-convert ang video sa PDF nang hindi ina-upload?",
+      "a": "Oo. Ginagawa ng Video To Photo – Grab Frame ang PDF sa iPhone mula sa mga na-save mong frame; hindi umaalis ang video sa device."
+    },
+    {
+      "q": "Anong pagkakasunod ng mga frame sa PDF?",
+      "a": "Nasa PDF ang mga frame na na-save mo. I-save ang mga ito mula simula hanggang dulo at susunod ang dokumento sa video."
+    },
+    {
+      "q": "Paano gumawa ng storyboard mula sa video sa phone?",
+      "a": "Mag-save ng isang frame bawat shot o eksena at i-export bilang PDF: iyan ay simpleng storyboard. Magdagdag ng notes gamit ang Markup o isang PDF app."
+    }
+  ],
+  "related": [
+    "maraming-frame-mula-sa-video",
+    "video-to-jpg-png",
+    "app-para-kumuha-ng-picture-sa-video"
+  ],
+  "datePublished": "2026-10-01"
+}

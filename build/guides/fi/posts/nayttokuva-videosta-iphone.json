@@ -1,0 +1,68 @@
+{
+  "slug": "nayttokuva-videosta-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "näyttökuva videosta iPhone",
+  "secondary_keywords": [
+    "näyttökuva videosta iphone",
+    "kuvakaappaus videosta epätarkka",
+    "iphone video näyttökuva tumma"
+  ],
+  "title": "Näyttökuva videosta iPhonella ilman laadun heikkenemistä",
+  "description": "Miksi näyttökuva videosta on iPhonella epätarkka tai tumma, ja kaksi tapaa tallentaa oikea ruutu täydellä laadulla.",
+  "h1": "Näyttökuva videosta iPhonella: miksi se on epätarkka ja miten saat paremman",
+  "nav_title": "Näyttökuva videosta",
+  "card_title": "Näyttökuva videosta ilman laatuhäviötä",
+  "excerpt": "Miksi videon näyttökuvat ovat epätarkkoja tai tummia ja miten tallennat tarkan, täysikokoisen ruudun.",
+  "lead": "Pysäytys, sivupainike ja äänenvoimakkuus ylös, rajaus… ja silti se näyttää huonommalta kuin video. Et kuvittele: näyttökuva tallentaa näytön, ei videota.",
+  "quick_answer": "Näyttökuva ei voi olla näyttöä tarkempi. iOS 27:ssä ja uudemmissa pysäytä video Kuvissa ja tallenna ruutu •••-valikosta. Vanhemmassa iOS:ssä tai kun tarvitset monta ruutua ja PNG:n, avaa video Video To Photo – Grab Framessa ja vie. Kummallakin tavalla saat oikean ruudun ilman toistopainiketta ja mustia reunoja.",
+  "content_intro": "<h2>Näin otat näyttökuvan videosta (tavallinen tapa)</h2><ol><li>Toista video Kuvissa ja pysäytä se.</li><li>Napauta näyttöä piilottaaksesi säätimet.</li><li>Paina yhtä aikaa <strong>sivupainiketta</strong> ja <strong>äänenvoimakkuuden lisäyspainiketta</strong> (kotipainikkeellisissa malleissa koti + sivupainike).</li><li>Avaa pienoiskuva, rajaa mustat reunat pois ja napauta Valmis.</li></ol><h2>Miksi laatu heikkenee</h2><ul><li><strong>Näytön tarkkuus, ei videon.</strong> Vaakasuuntainen 4K-video (3840×2160) on pystynäytöllä kapea kaistale. Rajauksen jälkeen pikseleistä on jäljellä murto-osa.</li><li><strong>Ruutuun on vaikea osua.</strong> Sormella pysäytys osuu usein räpäytykseen tai heilahtaneeseen ruutuun.</li><li><strong>Ylimääräistä ja uusi pakkaus.</strong> Toistopainike, tekstitykset, aikajana ja uusi tallennus rajatessa.</li></ul><h3>Miksi näyttökuva on tummempi</h3><p>iPhone kuvaa oletuksena <strong>HDR</strong>-videota, ja HDR-video näytetään näytöllä kirkkaampana. Näyttökuva tallentuu tavallisena kuvana ja voi siksi näyttää tummemmalta tai haaleammalta kuin toistettava video. Jos et halua eroa uusiin videoihin, poista HDR-video käytöstä kohdassa Asetukset → Kamera → Videon tallennus.</p><blockquote><p>Ratkaisu ei ole parempi näyttökuva, vaan ei näyttökuvaa lainkaan.</p></blockquote><h2>Tapa 1: Kuvat iOS 27:ssä</h2><p>Pysäytä: avaa video Kuvissa, pysäytä se oikealla hetkellä, napauta <strong>•••</strong> ja valitse ruudun tallennus kuvana (<em>Save Video Frame as Photo</em>). Saat HEIF- tai JPG-kuvan videon tarkkuudella, yhden ruudun kerrallaan, videon päivämäärällä.</p><h2>Tapa 2: sovellus (mikä tahansa iOS, monta ruutua)</h2><p>Onko sinulla iOS 26 tai vanhempi, tai haluatko monta ruutua, PNG:n, ZIPin tai PDF:n? Ruutusovellus lukee ruudut suoraan videotiedostosta ja vie ne kerralla.</p>",
+  "steps_title": "Näin tallennat ruudun videosta iPhonella ilman näyttökuvaa",
+  "steps": [
+    {
+      "name": "Avaa video sovelluksessa",
+      "text": "Napauta Kuvissa Jaa ja valitse sovellus, tai avaa Video To Photo – Grab Frame ja valitse video.",
+      "shot": 0
+    },
+    {
+      "name": "Pysähdy oikeaan ruutuun",
+      "text": "Vedä ruutunauhaa hitaasti ja pysähdy, kun hetki näkyy isossa esikatselussa. Ei taistelua pysäytyspainikkeen kanssa.",
+      "shot": 1
+    },
+    {
+      "name": "Tallenna ruutu",
+      "text": "Se siirtyy alareunan alustaan. Tallenna myös ruudut ennen ja jälkeen ja vertaa niitä.",
+      "shot": 2
+    },
+    {
+      "name": "Vie PNG- tai HEIC-muodossa",
+      "text": "PNG on häviötön, HEIC tarkka ja kevyt. Tallenna Kuviin tai Tiedostoihin.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Näyttökuva vai viety ruutu</h2><table><thead><tr><th></th><th>Näyttökuva</th><th>Ruutu tiedostosta</th></tr></thead><tbody><tr><td>Tarkkuus</td><td>Enintään näyttö</td><td>Sama kuin videossa</td></tr><tr><td>Tarkka hetki</td><td>Tuuria</td><td>Valitaan ruutunauhalla</td></tr><tr><td>Toistopainike, reunat</td><td>Usein, rajattava</td><td>Ei koskaan</td></tr><tr><td>Monta ruutua</td><td>Yksi kerrallaan</td><td>Kerralla, ZIP, PDF</td></tr><tr><td>Muoto</td><td>PNG-näyttökuva</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Näin saat tarkimman tuloksen</h2><p>Ruutu ei ole koskaan videota tarkempi. Rauhalliset hetket, hyvä valo ja korkea tarkkuus antavat parhaan tuloksen. Lisää oppaassa <a href=\"/fi/guides/tarkka-kuva-videosta/\">tarkka kuva videosta</a>.</p>",
+  "faq": [
+    {
+      "q": "Miksi näyttökuva videosta on epätarkka?",
+      "a": "Koska se tallentaa näytön: video on pienennetty näyttökokoon ja pysäytys osuu usein liikkuvaan ruutuun. Ruutu tiedostosta ratkaisee molemmat ongelmat."
+    },
+    {
+      "q": "Miksi videon näyttökuva on iPhonella tumma?",
+      "a": "HDR-video näytetään kirkkaampana, mutta näyttökuva tallentuu tavallisena kuvana. Uusissa videoissa voit poistaa HDR-videon käytöstä kohdassa Asetukset → Kamera → Videon tallennus."
+    },
+    {
+      "q": "Voinko tallentaa kuvan videosta ilman näyttökuvaa?",
+      "a": "Voit. iOS 27:stä alkaen Kuvien •••-valikosta. Kaikissa versioissa Video To Photo – Grab Frame ottaa ruudun suoraan videotiedostosta."
+    },
+    {
+      "q": "Mikä muoto säilyttää laadun parhaiten?",
+      "a": "PNG on häviötön ja säilyttää jokaisen pikselin. HEIC on hyvin lähellä pienemmillä tiedostoilla. JPG on kevyin ja toimii kaikkialla."
+    }
+  ],
+  "related": [
+    "kuva-videosta-iphone",
+    "tarkka-kuva-videosta",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

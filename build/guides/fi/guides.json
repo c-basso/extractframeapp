@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Oppaat: kuva videosta iPhonella",
+    "description": "Oppaat kuvien ottamiseen videosta iPhonella: näyttökuvaa tarkemmin, ruudun tallennus, monta kuvaa kerralla, video PDF:ksi, pikkukuvat ja JPG tai PNG.",
+    "eyebrow": "Oppaat",
+    "h1": "Kuva videosta iPhonella: kaikki oppaat",
+    "intro": "Jokainen opas vastaa yhteen kysymykseen: mitä iPhone osaa itse (ja mitä ei), ja miten se onnistuu nopeimmin Video To Photo – Grab Framella."
+  },
+  "labels": {
+    "home": "Etusivu",
+    "guides": "Oppaat",
+    "guide_eyebrow": "iPhone-opas",
+    "quick_answer": "Lyhyt vastaus",
+    "by": "Kirjoittanut",
+    "updated": "Päivitetty",
+    "min_read": "min lukuaika",
+    "faq_title": "Usein kysyttyä",
+    "related": "Aiheeseen liittyvät oppaat",
+    "read_guide": "Lue opas",
+    "inline_cta": "Kokeile omalla videollasi. Se vie minuutin.",
+    "app_card_cta": "Lataa App Storesta",
+    "app_card_fine": "Ilmainen · sovelluksen sisäisiä ostoja · iOS 18.6+",
+    "app_card_bullets": ["Tarkka ruudun valinta", "JPG, PNG, HEIC", "Joukkovienti ZIP- ja PDF-muotoon", "Offline, ei latausta eikä tiliä"],
+    "final_cta_title": "Paras kuvasi on videossa.",
+    "final_cta_text": "Tallenna se iPhoneen täydellä laadulla. Ei latausta, ei tiliä, ei editointitaitoja."
+  }
+}

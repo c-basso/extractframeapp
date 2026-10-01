@@ -1,0 +1,65 @@
+{
+  "slug": "douga-jpg-henkan",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "動画 JPG 変換",
+  "secondary_keywords": [
+    "iphone 動画 jpg 変換",
+    "動画 を 画像 に 変換 iphone",
+    "スマホ 動画 jpg 変換",
+    "動画 png 変換"
+  ],
+  "title": "iPhoneで動画をJPG・PNG・HEICに変換する方法（オフライン）",
+  "description": "iPhoneで動画のコマをJPG・PNG・HEICに変換する方法。オフラインで高画質に。共有・編集・保存など用途別にどの形式を選べばいいかも解説します。",
+  "h1": "iPhoneで動画をJPG・PNG・HEICに変換する方法",
+  "nav_title": "動画をJPG・PNG・HEICに",
+  "card_title": "動画のコマをJPG・PNG・HEICに変換",
+  "excerpt": "切り出したコマに合う形式と、オンライン変換サイトを使わずにiPhoneで書き出す方法。",
+  "lead": "「動画 JPG 変換」のオンラインサイトは、ファイル全体をアップロードして待ち、大量の画像をダウンロードさせます。iPhoneなら端末内で、欲しいコマだけを、目的に合った形式で保存できます。",
+  "quick_answer": "Video To Photo – Grab Frameで動画を開き、欲しいコマを保存して「書き出し」をタップし、JPEG・PNG・HEICを選びます。共有ならJPG、劣化なしで編集するならPNG、軽くて高画質ならHEIC。変換はすべてiPhone内で行われ、アップロードは不要です。",
+  "content_intro": "<h2>JPG・PNG・HEICの違い</h2><table><thead><tr><th>形式</th><th>画質</th><th>サイズ</th><th>向いている用途</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>とても良い（非可逆）</td><td>小さい</td><td>LINE、SNS、メール、Web。どこでも開ける</td></tr><tr><td><strong>PNG</strong></td><td>劣化なし</td><td>最大</td><td>編集、文字入りサムネイル、コラージュ</td></tr><tr><td><strong>HEIC</strong></td><td>非常に良い</td><td>同画質なら最小</td><td>Appleの写真ライブラリ、iPhoneとMac間</td></tr></tbody></table><p>迷ったら、送るなら<strong>JPG</strong>、編集するなら<strong>PNG</strong>。</p><h2>オンライン変換サイトを使わない理由</h2><ul><li>動画全体のアップロードが必要。モバイル回線では遅く、プライベートな動画には不向きです。</li><li>一定間隔で切り出すサイトが多く、何百枚もできても欲しい瞬間がないことも。</li><li>無料版はサイズ制限や透かしがあることが多いです。</li></ul>",
+  "steps_title": "iPhoneで動画のコマをJPG・PNG・HEICに変換する手順",
+  "steps": [
+    {
+      "name": "動画を開く",
+      "text": "「写真」からVideo To Photo – Grab Frameに共有するか、アプリで動画を選びます。",
+      "shot": 0
+    },
+    {
+      "name": "コマを保存",
+      "text": "瞬間ごとに保存ボタンをタップ。変換されるのは選んだコマだけです。",
+      "shot": 1
+    },
+    {
+      "name": "JPEG・PNG・HEICを選ぶ",
+      "text": "「書き出し」をタップし、画面上部で画像形式を選択します。",
+      "shot": 3
+    },
+    {
+      "name": "ファイル・ZIP・PDFで保存",
+      "text": "個別画像、ZIP、PDFのいずれかで書き出し、「写真」「ファイル」に保存または共有します。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>用途別のおすすめ形式</h2><ul><li><strong>YouTubeサムネイルやTikTokのカバー</strong> → PNGで保存して文字入れ。<a href=\"/ja/guides/youtube-thumbnail-douga-kara/\">動画からサムネイルを作る方法</a>も。</li><li><strong>WindowsやAndroidに送る</strong> → JPG（HEICは開けない環境もあります）。</li><li><strong>印刷</strong> → 4K動画からPNGか高品質JPG。</li><li><strong>大量のコマを保管</strong> → HEICをZIPにまとめて。</li><li><strong>コマを資料に</strong> → PDF。<a href=\"/ja/guides/douga-pdf-henkan/\">動画をPDFにする方法</a>へ。</li></ul><h2>変換で画質は落ちる？</h2><p>PNGはコマの全ピクセルを保持します。JPGとHEICは圧縮しますが、写真用の品質なら違いはほとんどわかりません。形式よりも、スクショではなくファイルから切り出すことのほうがはるかに重要です。</p>",
+  "faq": [
+    {
+      "q": "iPhoneで動画を無料でJPGに変換できる？",
+      "a": "Video To Photo – Grab Frameは無料でダウンロードでき、Pro機能はApp内課金です。コマの変換はiPhone内で行われ、動画はアップロードされません。"
+    },
+    {
+      "q": "動画のコマをPNGで保存できる？",
+      "a": "できます。コマを保存して書き出し時にPNGを選べば、個別ファイルまたはZIPで保存できます。"
+    },
+    {
+      "q": "WindowsでHEICは開ける？",
+      "a": "新しいWindowsなら拡張機能で開けますが、環境によっては開けません。Apple以外の端末に送るならJPGが無難です。"
+    }
+  ],
+  "related": [
+    "douga-kara-shashin-kougashitsu",
+    "douga-pdf-henkan",
+    "youtube-thumbnail-douga-kara"
+  ],
+  "datePublished": "2026-09-30"
+}

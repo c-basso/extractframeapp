@@ -1,0 +1,64 @@
+{
+  "slug": "skjermbilde-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "skjermbilde video iphone",
+  "secondary_keywords": [
+    "skjermbilde av video",
+    "skjermbilde video",
+    "skjermbilde video uskarpt"
+  ],
+  "title": "Skjermbilde av video på iPhone uten kvalitetstap",
+  "description": "Hvorfor skjermbilde av video blir uskarpt, lite eller mørkt, og hvordan du i stedet lagrer et ekte bilde fra videoen i full oppløsning på iPhone.",
+  "h1": "Skjermbilde av video på iPhone uten kvalitetstap",
+  "nav_title": "Skjermbilde av video",
+  "card_title": "Skjermbilde av video uten kvalitetstap",
+  "excerpt": "Hvorfor skjermbildet er dårligere enn et ekte bilde, og hvordan du unngår det.",
+  "lead": "Den raskeste måten å ta vare på et øyeblikk fra en video er et skjermbilde: sideknappen og volum opp samtidig. Men resultatet skuffer ofte. Her er hvorfor, og hva du kan gjøre i stedet.",
+  "quick_answer": "Et skjermbilde lagrer skjermen, ikke videoen: oppløsningen faller, kontrollene blir med og HDR-video blir mørk. For full kvalitet lagrer du bildet fra filen: på iOS 27 i Bilder (••• → lagre bilde), eller i Video To Photo – Grab Frame som PNG eller HEIC.",
+  "content_intro": "<h2>Skjermbilde eller ekte bilde?</h2><table><thead><tr><th></th><th>Skjermbilde</th><th>Bilde fra filen</th></tr></thead><tbody><tr><td>Oppløsning</td><td>Skjerm</td><td>Video (opptil 4K)</td></tr><tr><td>Kontroller, kanter</td><td>Ofte</td><td>Aldri</td></tr><tr><td>Presist øyeblikk</td><td>Vanskelig</td><td>Bilde for bilde</td></tr><tr><td>HDR-video</td><td>Mørkt eller blekt</td><td>Riktig konvertering</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p>",
+  "steps_title": "Ekte bilde i stedet for skjermbilde",
+  "steps": [
+    {
+      "name": "Del videoen",
+      "text": "Trykk på Del i Bilder og velg Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Stopp på bildet",
+      "text": "Dra bildestripen. Den store forhåndsvisningen viser nøyaktig hva som lagres.",
+      "shot": 1
+    },
+    {
+      "name": "Lagre",
+      "text": "Trykk på lagre-knappen. Du kan også lagre flere bilder.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter som PNG eller HEIC",
+      "text": "PNG for best kvalitet, HEIC for mindre filer.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hvis du likevel tar skjermbilde</h2><ul><li>Snu iPhone for liggende video.</li><li>Vent til kontrollene forsvinner.</li><li>Beskjær de svarte kantene i Bilder.</li></ul><p>Selv da har bildet bare skjermens oppløsning.</p>",
+  "faq": [
+    {
+      "q": "Hvordan tar jeg skjermbilde på iPhone?",
+      "a": "Trykk på sideknappen og volum opp samtidig. På iPhone med Hjem-knapp: sideknappen og Hjem-knappen."
+    },
+    {
+      "q": "Hvorfor blir skjermbilde av video uskarpt?",
+      "a": "Fordi det lagrer skjermen, ikke videoen. Bildet krymper, og bevegelsen i øyeblikket kan være uskarp."
+    },
+    {
+      "q": "Hvorfor blir skjermbilde av HDR-video mørkt?",
+      "a": "HDR-video vises med høyere lysstyrke enn et vanlig bilde kan holde på. Å lagre bildet fra filen gir bedre resultat."
+    }
+  ],
+  "related": [
+    "ta-bilde-fra-video-iphone",
+    "skarpt-bilde-fra-video",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

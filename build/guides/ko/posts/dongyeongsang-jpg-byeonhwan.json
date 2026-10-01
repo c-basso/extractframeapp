@@ -1,0 +1,65 @@
+{
+  "slug": "dongyeongsang-jpg-byeonhwan",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "동영상 jpg 변환",
+  "secondary_keywords": [
+    "아이폰 동영상 사진으로 변환",
+    "동영상 png 변환",
+    "동영상 이미지 변환 아이폰",
+    "동영상 heic 변환"
+  ],
+  "title": "아이폰 동영상 JPG·PNG·HEIC 변환 방법 (오프라인)",
+  "description": "아이폰에서 동영상 프레임을 JPG·PNG·HEIC로 변환하는 방법. 오프라인으로 고화질 그대로. 공유·편집·보관 등 용도별로 어떤 형식을 고를지도 정리했습니다.",
+  "h1": "아이폰에서 동영상을 JPG·PNG·HEIC로 변환하는 방법",
+  "nav_title": "동영상 JPG·PNG·HEIC 변환",
+  "card_title": "동영상 프레임을 JPG·PNG·HEIC로 변환",
+  "excerpt": "추출한 프레임에 맞는 형식과, 온라인 변환 사이트 없이 아이폰에서 내보내는 방법.",
+  "lead": "'동영상 jpg 변환' 사이트는 파일 전체를 업로드하고 기다리게 한 다음, 이미지를 잔뜩 다운로드하게 합니다. 아이폰에서는 기기 안에서, 원하는 프레임만, 목적에 맞는 형식으로 저장할 수 있습니다.",
+  "quick_answer": "Video To Photo – Grab Frame에서 동영상을 열고 원하는 프레임을 저장한 뒤 내보내기를 탭해 JPEG·PNG·HEIC를 고릅니다. 공유는 JPG, 무손실 편집은 PNG, 가볍고 고화질은 HEIC. 변환은 모두 아이폰에서 이루어지며 업로드가 필요 없습니다.",
+  "content_intro": "<h2>JPG·PNG·HEIC의 차이</h2><table><thead><tr><th>형식</th><th>화질</th><th>용량</th><th>추천 용도</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>매우 좋음(손실)</td><td>작음</td><td>카카오톡, SNS, 메일, 웹. 어디서나 열림</td></tr><tr><td><strong>PNG</strong></td><td>무손실</td><td>가장 큼</td><td>편집, 글자 넣은 썸네일, 콜라주</td></tr><tr><td><strong>HEIC</strong></td><td>매우 좋음</td><td>같은 화질에서 가장 작음</td><td>Apple 사진 보관함, 아이폰·Mac 간</td></tr></tbody></table><p>고민된다면 보낼 때는 <strong>JPG</strong>, 편집할 때는 <strong>PNG</strong>.</p><h2>온라인 변환 사이트를 쓰지 않는 이유</h2><ul><li>동영상 전체를 업로드해야 합니다. 모바일 데이터로는 느리고 사적인 동영상에는 맞지 않습니다.</li><li>일정 간격으로 잘라내는 사이트가 많아 수백 장이 생겨도 원하는 순간이 없을 수 있습니다.</li><li>무료 버전은 크기 제한이나 워터마크가 있는 경우가 많습니다.</li></ul>",
+  "steps_title": "아이폰에서 동영상 프레임을 JPG·PNG·HEIC로 변환하기",
+  "steps": [
+    {
+      "name": "동영상 열기",
+      "text": "사진 앱에서 Video To Photo – Grab Frame으로 공유하거나 앱에서 동영상을 고릅니다.",
+      "shot": 0
+    },
+    {
+      "name": "프레임 저장",
+      "text": "장면마다 저장 버튼을 탭합니다. 변환되는 것은 고른 프레임뿐입니다.",
+      "shot": 1
+    },
+    {
+      "name": "JPEG·PNG·HEIC 선택",
+      "text": "내보내기를 탭하고 화면 위쪽에서 이미지 형식을 고릅니다.",
+      "shot": 3
+    },
+    {
+      "name": "파일·ZIP·PDF로 저장",
+      "text": "개별 이미지, ZIP, PDF 중 하나로 내보내 사진 앱이나 파일 앱에 저장하거나 공유합니다.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>용도별 추천 형식</h2><ul><li><strong>유튜브 썸네일, 틱톡 커버</strong> → PNG로 저장해 글자 넣기. <a href=\"/ko/guides/youtube-thumbnail-mandeulgi/\">동영상으로 썸네일 만들기</a>도 참고하세요.</li><li><strong>Windows나 안드로이드로 보내기</strong> → JPG(HEIC가 안 열리는 환경도 있습니다).</li><li><strong>인화</strong> → 4K 동영상에서 PNG 또는 고품질 JPG.</li><li><strong>많은 프레임 보관</strong> → HEIC를 ZIP으로 묶어서.</li><li><strong>프레임을 문서로</strong> → PDF. <a href=\"/ko/guides/dongyeongsang-pdf-byeonhwan/\">동영상 PDF 변환 방법</a>으로.</li></ul><h2>변환하면 화질이 떨어지나요?</h2><p>PNG는 프레임의 모든 픽셀을 유지합니다. JPG와 HEIC는 압축하지만 사진용 품질이라면 차이는 거의 느껴지지 않습니다. 형식보다 캡쳐가 아니라 파일에서 추출하는 것이 훨씬 중요합니다.</p>",
+  "faq": [
+    {
+      "q": "아이폰에서 동영상을 무료로 JPG로 변환할 수 있나요?",
+      "a": "Video To Photo – Grab Frame은 무료로 다운로드할 수 있고 Pro 기능은 앱 내 구입입니다. 프레임 변환은 아이폰에서 이루어지며 동영상은 업로드되지 않습니다."
+    },
+    {
+      "q": "동영상 프레임을 PNG로 저장할 수 있나요?",
+      "a": "네. 프레임을 저장하고 내보낼 때 PNG를 고르면 개별 파일이나 ZIP으로 저장할 수 있습니다."
+    },
+    {
+      "q": "Windows에서 HEIC가 열리나요?",
+      "a": "최신 Windows는 확장 프로그램으로 열 수 있지만 환경에 따라 안 열리기도 합니다. Apple 외 기기로 보낼 때는 JPG가 무난합니다."
+    }
+  ],
+  "related": [
+    "dongyeongsang-sajin-gohwajil",
+    "dongyeongsang-pdf-byeonhwan",
+    "youtube-thumbnail-mandeulgi"
+  ],
+  "datePublished": "2026-09-30"
+}

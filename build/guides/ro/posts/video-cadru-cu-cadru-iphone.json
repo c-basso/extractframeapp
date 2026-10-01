@@ -1,0 +1,64 @@
+{
+  "slug": "video-cadru-cu-cadru-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video cadru cu cadru iPhone",
+  "secondary_keywords": [
+    "video frame by frame iphone",
+    "redare cadru cu cadru iphone",
+    "oprire pe cadru video iphone"
+  ],
+  "title": "Video cadru cu cadru pe iPhone și salvarea cadrului",
+  "description": "Cum parcurgi un video cadru cu cadru pe iPhone ca să găsești momentul exact (lovitura, clipirea, golul) și cum salvezi cadrul ca poză clară.",
+  "h1": "Cum vezi un video cadru cu cadru pe iPhone",
+  "nav_title": "Cadru cu cadru (iPhone)",
+  "card_title": "Video cadru cu cadru pe iPhone",
+  "excerpt": "Găsește momentul exact dintr-un video și salvează-l ca poză.",
+  "lead": "O lovitură, un gol, un truc, o clipire. Cu redare și pauză nu le vezi; trebuie să treci prin clip aproape cadru cu cadru. Iată cum faci pe iPhone și cum salvezi cadrul.",
+  "quick_answer": "Pune pauză în Poze și glisează încet pe banda de cadre. Pe iOS 27 salvezi apoi cadrul prin •••. Dacă vrei să aduni mai multe momente, glisează în Video To Photo – Grab Frame cu previzualizare mare și salvează fiecare moment.",
+  "content_intro": "<h2>Cadru cu cadru în aplicația Poze</h2><ol><li>Deschide clipul și pune pauză.</li><li>Atinge banda de cadre de jos și glisează încet la stânga sau la dreapta.</li><li>Ține puțin degetul pe bandă ca să se mărească și să glisezi mai precis.</li></ol><p>Pe iOS 27 sau mai nou atinge <strong>•••</strong> ca să salvezi cadrul găsit ca poză. Pe iOS mai vechi ai doar <a href=\"/ro/guides/screenshot-video-iphone-fara-pierderea-calitatii/\">o captură de ecran cu pierdere de calitate</a>; o aplicație salvează mai multe momente pe orice versiune.</p><h2>De ce încet?</h2><p>La 30 fps un cadru durează 33 de milisecunde, la 60 fps 17. O clipire, lovirea mingii sau o expresie se schimbă în două cadre. Diferența dintre cea mai bună poză și una ratată e adesea un singur cadru.</p>",
+  "steps_title": "Cum găsești și salvezi cadrul potrivit",
+  "steps": [
+    {
+      "name": "Deschide clipul în aplicație",
+      "text": "Partajează-l din Poze cu Video To Photo – Grab Frame. Vezi o previzualizare mare și banda de cadre.",
+      "shot": 0
+    },
+    {
+      "name": "Glisează încet",
+      "text": "Mișcă degetul în pași mici și urmărește previzualizarea. Du-te înainte și înapoi în jurul mișcării.",
+      "shot": 1
+    },
+    {
+      "name": "Salvează și vecinii",
+      "text": "Atinge salvarea, glisează puțin și salvează din nou. Compară și păstrează-l pe cel mai bun.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă-l pe cel mai bun",
+      "text": "Exportă ca PNG sau HEIC ca să păstrezi detaliile, pentru analiză, notițe de antrenament sau rețele sociale.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Când e util cadru cu cadru</h2><ul><li><strong>Sport</strong>: swing la golf și tenis, tehnică, sărituri. Salvează cadrele-cheie și revezi-le ca PDF.</li><li><strong>Copii și animale</strong>: acel singur cadru în care toată lumea se uită la cameră.</li><li><strong>Tutoriale și înregistrări de ecran</strong>: un pas ca imagine de referință.</li><li><strong>Faze disputate</strong>: ce s-a întâmplat de fapt la gol?</li></ul><h2>Filmează ca să-ți fie mai ușor</h2><p>Filmează la <strong>60 fps</strong> (Configurări → Cameră → Înregistrare video): de două ori mai multe momente și mai puțină neclaritate pe cadru. Încetinitorul dă și mai multe. Vezi și <a href=\"/ro/guides/poza-clara-din-video/\">poză clară dintr-un video</a>.</p>",
+  "faq": [
+    {
+      "q": "Pot parcurge un video cadru cu cadru în aplicația Poze?",
+      "a": "Nu există buton pentru un cadru, dar pauza și glisarea lentă pe bandă dau aproape același rezultat. Pe iOS 27 salvezi cadrul prin •••."
+    },
+    {
+      "q": "Cum salvez cadrul găsit?",
+      "a": "Pe iOS 27 prin ••• în Poze. Pe orice versiune găsești același moment în Video To Photo – Grab Frame, îl salvezi și îl exporți ca JPG, PNG sau HEIC."
+    },
+    {
+      "q": "Să filmez la 60 fps?",
+      "a": "Da. Ai de două ori mai multe cadre decât la 30 fps și fiecare e mai puțin neclar, deci găsești mai ușor un moment clar."
+    }
+  ],
+  "related": [
+    "poza-clara-din-video",
+    "extragere-cadre-din-video",
+    "poza-din-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

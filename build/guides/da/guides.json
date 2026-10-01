@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Guides: billede fra video på iPhone",
+    "description": "Guides til billeder fra video på iPhone: skarpere end skærmbillede, gem et billede, mange billeder på én gang, video til PDF, thumbnails og JPG eller PNG.",
+    "eyebrow": "Guides",
+    "h1": "Billede fra video på iPhone: alle guides",
+    "intro": "Hver guide besvarer ét spørgsmål: hvad din iPhone selv kan (og ikke kan), og hvordan du gør det hurtigst med Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Forside",
+    "guides": "Guides",
+    "guide_eyebrow": "iPhone-guide",
+    "quick_answer": "Kort svar",
+    "by": "Af",
+    "updated": "Opdateret",
+    "min_read": "min. læsning",
+    "faq_title": "Ofte stillede spørgsmål",
+    "related": "Relaterede guides",
+    "read_guide": "Læs guiden",
+    "inline_cta": "Prøv det med din egen video. Det tager et minut.",
+    "app_card_cta": "Hent i App Store",
+    "app_card_fine": "Gratis · køb i appen · iOS 18.6+",
+    "app_card_bullets": ["Præcist valg af billede", "JPG, PNG, HEIC", "Samlet eksport til ZIP og PDF", "Offline, ingen upload eller konto"],
+    "final_cta_title": "Dit bedste foto er i en video.",
+    "final_cta_text": "Gem det på din iPhone i fuld kvalitet. Ingen upload, ingen konto, ingen redigeringsevner."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "ta-ut-bilder-fran-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "ta ut bilder från video iphone",
+  "secondary_keywords": [
+    "ta stillbilder från video iphone",
+    "ta ut stillbilder från videoklipp",
+    "flera bilder från video"
+  ],
+  "title": "Ta ut bilder från video på iPhone: flera samtidigt",
+  "description": "Ta ut flera bilder från en video samtidigt på iPhone, utan dator och ffmpeg. Spara bara de bildrutor du behöver som foto, ZIP eller PDF.",
+  "h1": "Så tar du ut bilder från en video på iPhone",
+  "nav_title": "Ta ut bilder",
+  "card_title": "Ta ut bilder från video: flera samtidigt",
+  "excerpt": "Många bildrutor samtidigt, bara de du behöver.",
+  "lead": "Ibland räcker inte en bild: hela hoppet, varje steg i receptet, alla scener till ett storyboard. Att göra om hela videon till hundratals bilder skapar bara röra. Bättre att välja ut det du behöver.",
+  "quick_answer": "Öppna videon i Video To Photo – Grab Frame, spara så många bildrutor du vill och exportera dem tillsammans: som filer, ZIP eller PDF. Bilder i iOS 27 sparar bara en bildruta i taget.",
+  "content_intro": "<h2>Sätt att få många bilder</h2><table><thead><tr><th>Sätt</th><th>Fördel</th><th>Nackdel</th></tr></thead><tbody><tr><td>Skärmdump efter skärmdump</td><td>Ingen app</td><td>Långsamt, låg upplösning</td></tr><tr><td>Bilder (iOS 27)</td><td>Inbyggt</td><td>En bildruta i taget</td></tr><tr><td>ffmpeg på dator</td><td>Alla bildrutor</td><td>Tusentals bilder, kräver dator</td></tr><tr><td>Grab Frame</td><td>Bara de valda, massexport</td><td>Vissa funktioner är Pro</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p>",
+  "steps_title": "Flera bilder från en video",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Spara bildrutorna i ordning",
+      "text": "Dra till varje ögonblick och tryck på spara. Bildrutorna samlas i facket.",
+      "shot": 1
+    },
+    {
+      "name": "Gå igenom och rensa",
+      "text": "Radera liknande eller suddiga bildrutor.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera allt samtidigt",
+      "text": "Som separata filer, ZIP-arkiv eller PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Användbart för</h2><ul><li>Sport: rörelsens faser.</li><li>Recept och guider: varje steg.</li><li>Storyboard: huvudscenerna.</li><li>Familj: de bästa ögonblicken från kalaset.</li></ul><p>Projekten sparas, så du kan fortsätta senare.</p>",
+  "faq": [
+    {
+      "q": "Kan jag ta ut alla bildrutor från en video?",
+      "a": "På dator, med ffmpeg. På iPhone är det smidigare att välja bara de bildrutor du behöver i Grab Frame."
+    },
+    {
+      "q": "Hur många bildrutor kan jag spara?",
+      "a": "Så många du vill. För många bilder kan du exportera som ZIP eller PDF."
+    },
+    {
+      "q": "Kan jag fortsätta senare?",
+      "a": "Ja. Varje video sparas som ett projekt."
+    }
+  ],
+  "related": [
+    "app-bild-fran-video",
+    "video-bildruta-for-bildruta-iphone",
+    "video-till-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

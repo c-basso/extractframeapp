@@ -1,0 +1,64 @@
+{
+  "slug": "ostra-slika-iz-videa",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "ostra slika iz videa",
+  "secondary_keywords": [
+    "kakovostna slika iz videa",
+    "zamegljena slika iz videa",
+    "hdr-video temna slika"
+  ],
+  "title": "Ostra slika iz videa na iPhonu: zakaj je zamegljena",
+  "description": "Zakaj je slika iz videa zamegljena ali temna in kako dobiti ostro sliko v polni ločljivosti na iPhonu: zaklop, fps, HDR in prava sličica.",
+  "h1": "Ostra in kakovostna slika iz videa na iPhonu",
+  "nav_title": "Ostra slika",
+  "card_title": "Ostra slika iz videa: zakaj je zamegljena",
+  "excerpt": "Vzroki za zameglitev, temne slike in nizko ločljivost ter rešitve.",
+  "lead": "Slika iz videa je pogosto mehkejša od običajne fotografije. Za to obstaja razlog: video je narejen za neprekinjeno gibanje, ne za posamezne sličice. Z nekaj nastavitvami in pravo sličico pa lahko dobite precej ostrejši rezultat.",
+  "quick_answer": "Izberite sličico z najmanj gibanja, shranite jo iz datoteke videa (ne s posnetkom zaslona) in snemajte v 4K pri 60 fps ob dobri svetlobi. Če je slika temna ali bleda, je vzrok HDR-video. Video To Photo – Grab Frame shrani sličico iz datoteke v polni ločljivosti.",
+  "content_intro": "<h2>Zakaj je slika zamegljena?</h2><table><thead><tr><th>Vzrok</th><th>Znak</th><th>Rešitev</th></tr></thead><tbody><tr><td>Zameglitev zaradi gibanja</td><td>Razmazana roka, žoga</td><td>Sosednja sličica, več svetlobe, 60 fps</td></tr><tr><td>Posnetek zaslona</td><td>Ločljivost zaslona, kontrolniki</td><td>Shranjevanje iz datoteke</td></tr><tr><td>Stiskanje</td><td>Kockasta področja</td><td>Izvirni video, ne iz Vibra ali WhatsAppa</td></tr><tr><td>HDR-video</td><td>Temna ali bleda slika</td><td>Glejte spodaj</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p>",
+  "steps_title": "Ostra slika korak za korakom",
+  "steps": [
+    {
+      "name": "Odprite izvirni video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame. Uporabite izvirno datoteko.",
+      "shot": 0
+    },
+    {
+      "name": "Poiščite najostrejšo sličico",
+      "text": "Premikajte se sličico za sličico okoli trenutka. Prejšnja ali naslednja je pogosto precej ostrejša.",
+      "shot": 1
+    },
+    {
+      "name": "Primerjajte s povečavo",
+      "text": "Shranite dve ali tri kandidatke in povečajte oči ali robove. Obdržite najboljšo.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite v polni ločljivosti",
+      "text": "PNG za najvišjo kakovost, HEIC/JPG za manjšo velikost.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Zakaj je slika iz HDR-videa temna?</h2><p>iPhone privzeto snema v HDR (Dolby Vision). Ko sličico shranite kot običajno fotografijo, se svetlost in barve lahko razlikujejo. Če vas moti, to izklopite: <strong>Nastavitve → Kamera → Snemanje videoposnetkov → HDR-video</strong>.</p><h2>Nasveti za snemanje</h2><ul><li>4K, 60 fps: več in ostrejših sličic.</li><li>Veliko svetlobe: krajša osvetlitev, manj zameglitve.</li><li>Počasni posnetek za hitro gibanje.</li><li>Mirna roka ali stojalo.</li></ul><p>Slika ne more imeti višje ločljivosti od videa: iz 4K približno 8 MP, iz 1080p približno 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Ali lahko iz videa dobim kakovostno sliko?",
+      "a": "Da, če je video oster in se sličica shrani iz datoteke. Iz 4K dobite približno 8 MP, kar zadošča tudi za manjši tisk."
+    },
+    {
+      "q": "Zakaj je slika iz videa zamegljena?",
+      "a": "Najpogosteje zaradi gibanja ali posnetka zaslona. Izberite sosednjo sličico in shranite iz datoteke."
+    },
+    {
+      "q": "Zakaj je slika temna?",
+      "a": "Verjetno izvira iz HDR-videa. Za naslednje posnetke izklopite HDR-video v Nastavitve → Kamera → Snemanje videoposnetkov."
+    }
+  ],
+  "related": [
+    "slika-iz-videa-iphone",
+    "video-slicica-za-slicico-iphone",
+    "video-v-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

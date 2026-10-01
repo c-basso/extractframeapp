@@ -1,0 +1,64 @@
+{
+  "slug": "video-u-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video u pdf",
+    "kadrovi u pdf",
+    "storyboard iz videa"
+  ],
+  "title": "Kadrovi iz videa u PDF na iPhoneu: storyboard, upute",
+  "description": "Spremite kadrove iz videa u jedan PDF na iPhoneu: za storyboard, upute korak po korak, bilješke s predavanja ili izvještaj. Bez računala.",
+  "h1": "Kadrovi iz videa u jedan PDF na iPhoneu",
+  "nav_title": "Video u PDF",
+  "card_title": "Kadrovi iz videa u jedan PDF",
+  "excerpt": "Storyboard, upute ili bilješke u jednom PDF-u, izravno iz videa.",
+  "lead": "Ponekad ne trebate sliku, nego dokument: korake recepta, upute za sastavljanje, slajdove s predavanja ili storyboard. Tada je najpraktičnije da kadrovi završe u jednom PDF-u, redom.",
+  "quick_answer": "Otvorite video u aplikaciji Video To Photo – Grab Frame, spremite važne kadrove i izvezite u PDF. Kadrovi su kronološki, u jednoj datoteci koju možete poslati ili ispisati.",
+  "content_intro": "<h2>Za što služi PDF iz videa?</h2><table><thead><tr><th>Upotreba</th><th>Primjer</th></tr></thead><tbody><tr><td>Upute</td><td>Recept, sastavljanje namještaja, softverski tutorial</td></tr><tr><td>Storyboard</td><td>Film, reklama, video za društvene mreže</td></tr><tr><td>Bilješke</td><td>Slajdovi s predavanja ili webinara</td></tr><tr><td>Izvještaj</td><td>Dokumentiranje štete, greške ili rada</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p><p>Foto sprema jedan po jedan i ne izrađuje PDF.</p>",
+  "steps_title": "Izvoz kadrova u PDF",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Spremite važne kadrove",
+      "text": "Prođite kroz video i spremite korake ili scene. Kao projekt možete nastaviti kasnije.",
+      "shot": 1
+    },
+    {
+      "name": "Provjerite redoslijed",
+      "text": "Pregledajte kadrove i izbrišite suvišne.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite u PDF",
+      "text": "Odaberite izvoz u PDF i spremite u Datoteke ili podijelite.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Savjeti</h2><ul><li>Jedan korak, jedan kadar: ne spremajte gotovo iste slike.</li><li>Kod tutoriala sa snimke zaslona tekst mora biti čitljiv: izbjegavajte kadrove u pokretu.</li><li>Za velik PDF pošaljite ZIP ili manje kadrova.</li></ul>",
+  "faq": [
+    {
+      "q": "Mogu li pretvoriti video u PDF?",
+      "a": "Sam video ne, ali njegove kadrove da. Video To Photo – Grab Frame od odabranih kadrova izrađuje PDF."
+    },
+    {
+      "q": "Treba li računalo?",
+      "a": "Ne. Sve se odvija na iPhoneu, bez interneta."
+    },
+    {
+      "q": "Koliko kadrova stane u PDF?",
+      "a": "Koliko ih odaberete. Uz mnogo kadrova datoteka može biti velika, pa je dobro birati."
+    }
+  ],
+  "related": [
+    "video-u-slike",
+    "video-u-jpg-png",
+    "aplikacija-slika-iz-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "sovellus-kuva-videosta",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "sovellus kuva videosta",
+  "secondary_keywords": [
+    "sovellus kuvien ottamiseen videosta",
+    "ilmainen sovellus kuva videosta",
+    "frame grabber app"
+  ],
+  "title": "Sovellus kuviin videosta iPhonella: näin valitset",
+  "description": "Mitä katsoa sovelluksessa, joka ottaa kuvia videosta: tarkkuus, resoluutio, yksityisyys, joukkovienti, muodot ja hinta, sekä 2 minuutin testi.",
+  "h1": "Näin valitset sovelluksen kuvien ottamiseen videosta iPhonella",
+  "nav_title": "Sovellus kuva videosta",
+  "card_title": "Näin valitset sovelluksen kuviin videosta",
+  "excerpt": "Kuusi hyvän ruutusovelluksen kriteeriä ja 2 minuutin tarkistuslista.",
+  "lead": "Hae App Storesta ”kuva videosta”, niin saat pitkän listan samankaltaisia sovelluksia. Perustoiminto on sama; erot ovat yksityiskohdissa. Kuinka tarkasti valitset ruudun, kuinka suuri kuva on ja päätyykö video verkkoon.",
+  "quick_answer": "Hyvä sovellus antaa valita tarkan ruudun, tallentaa videotiedostosta eikä näytöltä, toimii laitteella, tallentaa monta ruutua kerralla ja vie useisiin muotoihin. Video To Photo – Grab Frame tekee kaiken tämän, lisäksi ZIP- ja PDF-viennin sekä projektit, joihin voit palata.",
+  "content_intro": "<h2>Tarvitaanko sovellusta, kun on iOS 27?</h2><p>iOS 27:stä alkaen Kuvat tallentaa yhden pysäytetyn ruudun. Vanhemmassa iOS:ssä tai kun tarvitset monta ruutua, PNG:n ja ZIP/PDF:n, sovellus on kätevämpi.</p><h2>Hyvän sovelluksen kuusi kriteeriä</h2><ol><li><strong>Tarkka ruudun valinta.</strong> Ruutunauha tai liukusäädin, joka osuu tarkalleen hetkeen.</li><li><strong>Aito vienti.</strong> Tiedostosta, ei näytöltä. Testaa vaakasuuntaisella 4K-videolla ja tarkista mitat.</li><li><strong>Käsittely laitteella.</strong> Perhevideot eivät kuulu palvelimelle. Tarkista App Storen tietosuojamerkintä ja kokeile lentokonetilassa.</li><li><strong>Joukkotila.</strong> Kuvakäsikirjoitukset, urheilu ja ohjeet vaativat monta ruutua.</li><li><strong>Muodot ja vienti.</strong> JPG, PNG ja HEIC riittävät. ZIP ja PDF ovat harvinaisia mutta erittäin hyödyllisiä.</li><li><strong>Selkeä hinta.</strong> Mikä on ilmaista, onko tilaus, voiko ostaa kertamaksulla.</li></ol>",
+  "steps_title": "Näin testaat sovelluksen kuvien ottamiseen videosta 2 minuutissa",
+  "steps": [
+    {
+      "name": "Avaa oikea video",
+      "text": "Valitse vaakasuuntainen video, jossa on liikettä, ja jaa se Kuvista Video To Photo – Grab Frameen. Ruutunäkymä aukeaa.",
+      "shot": 0
+    },
+    {
+      "name": "Tähtää yhteen ruutuun",
+      "text": "Etsi silmänräpäys tai ilmassa oleva pallo. Nauha ja iso esikatselu helpottavat. Napauta tallenna.",
+      "shot": 1
+    },
+    {
+      "name": "Tallenna muutama ja vertaa",
+      "text": "Tallenna neljä tai viisi ja zoomaa. Epäonnistuneet pitää voida poistaa ennen vientiä.",
+      "shot": 2
+    },
+    {
+      "name": "Vie ja tarkista tiedosto",
+      "text": "Vie PNG:nä ja katso kuvan tiedot. Mittojen pitää vastata videota, ei näyttöä.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Mitä Video To Photo – Grab Frame tarjoaa</h2><table><thead><tr><th>Ominaisuus</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Käynnistys Kuvien Jaa-valikosta</td><td>Kyllä, suoraan ruutunäkymään</td></tr><tr><td>Lähde</td><td>Videotiedosto</td></tr><tr><td>Joukkotila</td><td>Monta ruutua kerralla</td></tr><tr><td>Muodot</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Vienti</td><td>Tiedostot, ZIP, PDF</td></tr><tr><td>Projektit</td><td>Tallenna ja jatka myöhemmin</td></tr><tr><td>Yksityisyys</td><td>100 % laitteella, ei tiliä</td></tr><tr><td>Hinta</td><td>Ilmainen lataus. Pro sovelluksen sisäisellä ostolla (ilmainen kokeilu, vuosittain, kertaosto)</td></tr></tbody></table><h2>Milloin et tarvitse sovellusta</h2><p>Yksi kuva iOS 27:ssä? Kuvat riittää (pysäytä → ••• → tallenna ruutu kuvana). Nopea muistiinpano vanhalla iOS:llä? Näyttökuva riittää.</p>",
+  "faq": [
+    {
+      "q": "Onko olemassa ilmaista sovellusta kuvien ottamiseen videosta?",
+      "a": "Video To Photo – Grab Frame on ilmainen ladata. Osa toiminnoista on Pro-tasoa sovelluksen sisäisellä ostolla (ilmainen kokeilu, vuosipaketti tai kertaosto). Ajantasaiset hinnat löydät App Storesta."
+    },
+    {
+      "q": "Lataavatko nämä sovellukset videoni verkkoon?",
+      "a": "Verkkotyökalut lataavat. Video To Photo – Grab Frame käsittelee kaiken iPhonella ja toimii ilman verkkoa."
+    },
+    {
+      "q": "Toimiiko se 4K- ja hidastusvideoilla?",
+      "a": "Toimii. Se tukee kirjaston 4K-, 60 fps- ja hidastusvideoita. Mitä parempi kuvaus, sitä tarkemmat ruudut."
+    }
+  ],
+  "related": [
+    "kuva-videosta-iphone",
+    "kuvia-videosta",
+    "video-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

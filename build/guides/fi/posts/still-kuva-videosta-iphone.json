@@ -1,0 +1,64 @@
+{
+  "slug": "still-kuva-videosta-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "still kuva videosta iPhone",
+  "secondary_keywords": [
+    "still kuva videosta iphone",
+    "still kuva videosta",
+    "tallenna ruutu videosta kuvana"
+  ],
+  "title": "Still-kuva videosta iPhonella ja sen tallentaminen",
+  "description": "Näin tallennat still-kuvan videosta valokuvana iPhonella: iOS 27 -toiminto ja tapa vanhemmalle iOS:lle tai monelle ruudulle JPG-, PNG- tai HEIC-muodossa.",
+  "h1": "Näin tallennat still-kuvan videosta iPhonella",
+  "nav_title": "Still-kuva videosta",
+  "card_title": "Still-kuva videosta valokuvaksi",
+  "excerpt": "Vie oikea ruutu Kuviin tai Tiedostoihin muuttamatta alkuperäistä videota.",
+  "lead": "Tiedät tarkalleen, minkä ruudun haluat. Haluat vain sen tavallisena valokuvana muiden joukkoon. Näin se onnistuu iPhonella.",
+  "quick_answer": "iOS 27 ja uudempi: avaa video Kuvissa, pysäytä ja tallenna ruutu •••-valikosta. Vanhempi iOS tai monta ruutua, PNG, ZIP tai PDF: jaa video Video To Photo – Grab Frameen, tallenna ruudut ja vie ne Kuviin tai Tiedostoihin.",
+  "content_intro": "<h2>Tapa 1: iOS 27:n sisäänrakennettu toiminto</h2><ol><li>Avaa video Kuvissa ja pysäytä haluamaasi ruutuun (vedä nauhaa osuaksesi tarkasti).</li><li>Napauta oikeassa yläkulmassa <strong>•••</strong>.</li><li>Valitse ruudun tallennus kuvana (<em>Save Video Frame as Photo</em>).</li></ol><p>Saat kuvan videon tarkkuudella HEIF- tai JPG-muodossa (kameran asetusten mukaan). Huomaa: <strong>yksi ruutu kerrallaan</strong>, ja kuva saa <strong>videon päivämäärän</strong>. Etsi se videon vierestä, ei Viimeisimpien ylhäältä.</p><h2>Tapa 2: monta ruutua tai iOS 26 ja vanhempi</h2><p>Vanhemmissa versioissa ei ole sisäänrakennettua toimintoa, vain näyttökuva (<a href=\"/fi/guides/nayttokuva-videosta-iphone/\">miksi se heikentää laatua</a>). iOS 27:ssäkin sovellus on nopeampi, kun haluat ruutusarjan, PNG:n tai ZIP/PDF:n.</p>",
+  "steps_title": "Näin tallennat ruudun Video To Photo – Grab Framella",
+  "steps": [
+    {
+      "name": "Jaa video Kuvista",
+      "text": "Avaa video, napauta Jaa ja valitse sovellus. Ruutunäkymä aukeaa heti.",
+      "shot": 0
+    },
+    {
+      "name": "Etsi ruutu ja tallenna",
+      "text": "Vedä hetkeen ja napauta tallenna. Laskuri näyttää, montako ruutua sinulla on.",
+      "shot": 1
+    },
+    {
+      "name": "Valitse muoto",
+      "text": "Napauta Vie. JPEG jakamiseen, PNG häviöttömästi, HEIC kevyt ja tarkka.",
+      "shot": 3
+    },
+    {
+      "name": "Tallenna Kuviin tai Tiedostoihin",
+      "text": "Jaa-valikosta tallennat kirjastoon tai Tiedostoihin tai lähetät suoraan keskusteluun.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Minne tallennettu ruutu menee?</h2><ul><li><strong>Kuvakirjasto</strong>: muokkaa, jaa ja tulosta kuten mitä tahansa kuvaa.</li><li><strong>Tiedostot</strong>: iCloud Drive tai Omalla iPhonella, kätevä työdokumenteille.</li><li><strong>Muut sovellukset</strong>: WhatsApp, Messenger, Instagram, sähköposti Jaa-valikosta.</li></ul><h2>Monta ruutua kerralla</h2><p>Tallenna kaikki tarvitsemasi ruudut ennen vientiä ja vie ne yhdessä erillisinä tiedostoina, <strong>ZIPinä</strong> tai <strong>PDF:nä</strong>. Katso myös <a href=\"/fi/guides/kuvia-videosta/\">kuvia videosta</a>.</p><h2>Jatka myöhemmin</h2><p>Jokainen video tallentuu projektiksi, joten voit jatkaa seuraavana päivänä etsimättä videota uudelleen.</p>",
+  "faq": [
+    {
+      "q": "Voiko Kuvat-sovellus tallentaa ruudun videosta?",
+      "a": "iOS 27:stä alkaen voi: pysäytä ja tallenna •••-valikosta. Yksi ruutu kerrallaan, HEIF- tai JPG-muodossa. Ennen iOS 27:ää oli vain näyttökuva."
+    },
+    {
+      "q": "Muuttuuko alkuperäinen videoni?",
+      "a": "Ei. Sovellus lukee videon ja luo uusia kuvatiedostoja. Video Kuvissa pysyy samana."
+    },
+    {
+      "q": "Toimiiko se ilman verkkoyhteyttä?",
+      "a": "Toimii. Ruudut otetaan videosta iPhonella, joten internetiä ei tarvita eikä mitään ladata palvelimelle."
+    }
+  ],
+  "related": [
+    "kuva-videosta-iphone",
+    "kuvia-videosta",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

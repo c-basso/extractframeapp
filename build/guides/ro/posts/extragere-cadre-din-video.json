@@ -1,0 +1,65 @@
+{
+  "slug": "extragere-cadre-din-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "extragere cadre din video",
+  "secondary_keywords": [
+    "cadre din video",
+    "extrage poze din video",
+    "video în poze",
+    "frame video extractor"
+  ],
+  "title": "Extragerea cadrelor din video pe iPhone: mai multe deodată",
+  "description": "Extrage mai multe cadre dintr-un video deodată pe iPhone, fără calculator sau ffmpeg. Alegi doar cadrele de care ai nevoie și le salvezi ca poze, ZIP sau PDF.",
+  "h1": "Extragerea cadrelor dintr-un video pe iPhone",
+  "nav_title": "Extragere cadre din video",
+  "card_title": "Cum extragi mai multe cadre din video",
+  "excerpt": "O serie de cadre dintr-un singur clip, exportate ca imagini, ZIP sau PDF.",
+  "lead": "Storyboard, secvență sportivă, înainte și după, compilație de reacții: uneori o poză nu e de ajuns. Iată cum scoți din clip câte cadre vrei, doar cu iPhone-ul.",
+  "quick_answer": "Deschide clipul în Video To Photo – Grab Frame și atinge salvarea la fiecare moment de care ai nevoie. Verifică cadrele, șterge-le pe cele ratate și exportă totul deodată ca fișiere JPG, PNG sau HEIC separate, ca ZIP sau ca PDF.",
+  "content_intro": "<h2>Toate cadrele sau doar cele bune?</h2><p>Un clip de 30 de secunde la 30 fps are 900 de cadre. Exportul tuturor, ca în ffmpeg sau VLC pe calculator, dă sute de fișiere aproape identice. Pe telefon e de obicei mai rapid să <strong>alegi doar cadrele necesare</strong>.</p><table><thead><tr><th>Scop</th><th>Abordare</th></tr></thead><tbody><tr><td>Storyboard, instrucțiuni pas cu pas</td><td>Un cadru pe scenă sau pas</td></tr><tr><td>Sport, analiza mișcării</td><td>Cadre la intervale regulate</td></tr><tr><td>Cea mai bună poză</td><td>Cel mai clar din 3–5 cadre vecine</td></tr><tr><td>Toate cadrele pentru animație sau analiză</td><td>Program pe calculator (ffmpeg)</td></tr></tbody></table><p>Funcția integrată din iOS 27 salvează un cadru o dată, deci nu e potrivită pentru serii.</p>",
+  "steps_title": "Cum extragi mai multe cadre dintr-un video pe iPhone",
+  "steps": [
+    {
+      "name": "Deschide clipul",
+      "text": "Partajează-l din Poze cu aplicația sau alege-l în Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Salvează fiecare moment",
+      "text": "Glisează pe bandă și atinge salvarea la fiecare moment. Contorul ține socoteala.",
+      "shot": 1
+    },
+    {
+      "name": "Verifică cadrele",
+      "text": "Deschide-le pe tot ecranul, verifică claritatea și șterge dublurile sau cadrele neclare.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă totul",
+      "text": "Alege JPEG, PNG sau HEIC. Imagini separate în Fișiere, ZIP ca un singur fișier, PDF ca document.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF sau fișiere separate?</h2><ul><li><strong>Fișiere separate</strong>: pentru editat sau postat pe rând.</li><li><strong>ZIP</strong>: un singur fișier de trimis prin AirDrop, e-mail, WhatsApp sau cloud.</li><li><strong>PDF</strong>: storyboard, notițe, document de revizuit. Vezi <a href=\"/ro/guides/video-in-pdf/\">video în PDF</a>.</li></ul><h2>Sfaturi pentru serii</h2><ul><li>Alege cadre la distanțe egale, ca mișcarea să rămână ușor de urmărit.</li><li>Pentru colaj exportă PNG și eviți compresia JPEG în plus.</li><li>Proiectul rămâne salvat, deci adaugi cadrele lipsă mai târziu.</li></ul>",
+  "faq": [
+    {
+      "q": "Câte cadre pot scoate dintr-un video?",
+      "a": "Câte ai nevoie. Atinge salvarea la fiecare moment și exportă-le împreună. La multe cadre exportul durează puțin mai mult."
+    },
+    {
+      "q": "Pot exporta automat toate cadrele?",
+      "a": "Video To Photo – Grab Frame e făcută pentru a alege cadre. Dacă ai nevoie chiar de fiecare cadru pentru animație sau analiză, un program pe calculator precum ffmpeg e mai potrivit."
+    },
+    {
+      "q": "Cum trimit multe cadre deodată?",
+      "a": "Exportă ca ZIP și trimite un singur fișier prin AirDrop, e-mail sau WhatsApp. Sau exportă ca PDF."
+    }
+  ],
+  "related": [
+    "video-in-pdf",
+    "video-cadru-cu-cadru-iphone",
+    "salvare-cadru-din-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

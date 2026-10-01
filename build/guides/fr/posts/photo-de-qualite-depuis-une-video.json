@@ -1,0 +1,64 @@
+{
+  "slug": "photo-de-qualite-depuis-une-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "photo de bonne qualité à partir d'une vidéo",
+  "secondary_keywords": [
+    "extraire une photo d'une vidéo sans perte de qualité",
+    "photo nette à partir d'une vidéo",
+    "vidéo en photo hd"
+  ],
+  "title": "Une photo de bonne qualité à partir d'une vidéo sur iPhone",
+  "description": "Pourquoi les photos tirées d'une vidéo sont floues et comment l'éviter : image sans mouvement, 4K et 60 i/s, extraction plutôt que capture, export en PNG ou HEIC.",
+  "h1": "Comment obtenir une photo de bonne qualité à partir d'une vidéo",
+  "nav_title": "Photo de qualité depuis une vidéo",
+  "card_title": "Une photo nette à partir d'une vidéo",
+  "excerpt": "Pourquoi les images de vidéo sont floues, ce qu'on peut corriger après le tournage et ce qu'il faut changer avant.",
+  "lead": "Vous avez trouvé le moment parfait, vous l'avez enregistré… et il est flou. Les images d'une vidéo sont faites pour le mouvement, pas pour être regardées fixes, mais avec la bonne image et la bonne méthode, elles ressemblent à de vraies photos.",
+  "quick_answer": "Choisissez une image où le sujet bouge à peine, extrayez-la du fichier plutôt que de faire une capture et exportez-la en PNG ou HEIC sans compression supplémentaire. Gardez 3 à 5 images voisines et conservez la plus nette. Pour les prochaines vidéos, filmez en 4K et à 60 i/s avec une bonne lumière.",
+  "content_intro": "<h2>Pourquoi les photos tirées d'une vidéo sont floues</h2><ul><li><strong>Flou de mouvement.</strong> Chaque image est exposée une fraction de seconde ; si le sujet bouge, il est flou.</li><li><strong>Capture d'écran.</strong> La vidéo est réduite à la taille de l'écran puis réenregistrée. Voir <a href=\"/fr/guides/capture-ecran-video-iphone-sans-perte/\">pourquoi la capture perd en qualité</a>.</li><li><strong>Compression vidéo.</strong> La vidéo est très compressée et certaines images sont moins détaillées.</li><li><strong>Faible lumière.</strong> Dans le noir, l'appareil expose plus longtemps et réduit plus le bruit : les détails disparaissent.</li></ul><h2>Ce qu'on peut corriger après coup</h2><table><thead><tr><th>Problème</th><th>Solution</th></tr></thead><tbody><tr><td>Sujet flou</td><td>Gardez plusieurs images voisines, choisissez la nette</td></tr><tr><td>Photo petite ou recadrée</td><td>Extrayez du fichier, pas de capture</td></tr><tr><td>Blocs de compression</td><td>Export PNG ou HEIC, sans réenregistrer</td></tr><tr><td>Yeux fermés</td><td>Avancez lentement : la bonne image est souvent à 1 ou 2 images</td></tr></tbody></table>",
+  "steps_title": "Obtenir l'image la plus nette d'une vidéo",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo",
+      "text": "Partagez-la depuis Photos vers Video To Photo – Grab Frame pour que l'image vienne du fichier, pas de l'écran.",
+      "shot": 0
+    },
+    {
+      "name": "Cherchez le moment immobile",
+      "text": "Parcourez autour de l'action et cherchez les pics : le haut d'un saut, la pause avant un rire.",
+      "shot": 1
+    },
+    {
+      "name": "Gardez une rafale et comparez",
+      "text": "Capturez 3 à 5 images voisines, zoomez sur les yeux, les contours ou le texte dans l'aperçu et supprimez les images molles.",
+      "shot": 2
+    },
+    {
+      "name": "Exportez sans compression en plus",
+      "text": "La meilleure en PNG (sans perte) ou HEIC (qualité et légèreté). JPG seulement pour un envoi rapide.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Filmer pour de meilleures photos ensuite</h2><ul><li><strong>4K.</strong> Plus de pixels, plus de détails et de marge pour recadrer (Réglages → Appareil photo → Enregistrement vidéo).</li><li><strong>60 i/s pour l'action.</strong> Plus d'images parmi lesquelles choisir, moins de flou dans chacune.</li><li><strong>La lumière.</strong> La lumière du jour ou une pièce bien éclairée améliorent le plus la netteté.</li><li><strong>La stabilité.</strong> Calez les coudes ou utilisez un trépied : le tremblement floute toutes les images.</li></ul><h2>Et si j'améliore l'image avec l'IA ?</h2><p>Les outils d'agrandissement par IA grossissent l'image mais inventent des détails. Commencez par la meilleure vraie image, à la résolution de la vidéo, et n'améliorez que si vous avez besoin d'un grand tirage. Pour les formats : <a href=\"/fr/guides/convertir-video-en-jpg-png/\">convertir une vidéo en JPG ou PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Une image de vidéo peut-elle valoir une vraie photo ?",
+      "a": "À partir d'une vidéo 4K nette et bien éclairée, l'image ressemble beaucoup à une photo, surtout pour les réseaux sociaux. Une vraie photo garde des avantages, comme une exposition plus courte et un traitement pensé pour la photo."
+    },
+    {
+      "q": "Quelle résolution a une image d'une vidéo 4K ?",
+      "a": "3840 × 2160 pixels, soit environ 8,3 mégapixels. Une image en 1080p fait 1920 × 1080, environ 2 mégapixels."
+    },
+    {
+      "q": "Quel format garde le plus de détails ?",
+      "a": "PNG est sans perte. HEIC garde presque la même qualité dans un fichier bien plus léger. JPG compresse un peu mais s'ouvre partout."
+    }
+  ],
+  "related": [
+    "capture-ecran-video-iphone-sans-perte",
+    "video-image-par-image-iphone",
+    "convertir-video-en-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

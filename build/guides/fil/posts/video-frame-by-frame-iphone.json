@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-by-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video frame by frame iPhone",
+  "secondary_keywords": [
+    "video to picture frame by frame",
+    "paano i-play ang video frame by frame sa iphone",
+    "i-pause ang video sa eksaktong frame"
+  ],
+  "title": "Video Frame by Frame sa iPhone at Pag-save ng Frame",
+  "description": "Paano dumaan sa video frame by frame sa iPhone para mahanap ang eksaktong sandali (swing, kurap, goal) at i-save ito bilang malinaw na picture.",
+  "h1": "Paano manood ng video frame by frame sa iPhone",
+  "nav_title": "Frame by frame (iPhone)",
+  "card_title": "Video frame by frame sa iPhone",
+  "excerpt": "Hanapin ang eksaktong sandali sa video at i-save bilang picture.",
+  "lead": "Isang swing, isang goal, isang trick, isang kurap. Hindi mo makikita gamit lang ang play at pause; kailangan mong dumaan sa video halos frame by frame. Ganito ito gawin sa iPhone at paano i-save ang frame.",
+  "quick_answer": "I-pause ang video sa Photos at dahan-dahang i-drag ang frame strip. Sa iOS 27, i-save pagkatapos ang frame sa •••. Kung gusto mong mag-ipon ng maraming sandali, mag-drag sa Video To Photo – Grab Frame na may malaking preview at i-save ang bawat sandali.",
+  "content_intro": "<h2>Frame by frame sa Photos app</h2><ol><li>Buksan ang video at i-pause.</li><li>Hawakan ang frame strip sa ibaba at dahan-dahang i-drag pakaliwa o pakanan.</li><li>Pindutin nang matagal ang strip saglit para lumaki ito at mas tumpak ang pag-drag.</li></ol><p>Sa iOS 27 o mas bago, i-tap ang <strong>•••</strong> para i-save ang nahanap na frame bilang photo. Sa lumang iOS, may <a href=\"/fil/guides/paano-mag-screenshot-ng-video-sa-iphone/\">screenshot na bumababa ang kalidad</a> lang; kayang mag-save ng app ng maraming sandali sa kahit anong version.</p><h2>Bakit dahan-dahan?</h2><p>Sa 30 fps, 33 millisecond ang isang frame; sa 60 fps, 17. Nagbabago ang kurap, tama ng bola o ekspresyon sa loob ng dalawang frame. Kadalasan, isang frame lang ang pagitan ng pinakamagandang picture at ng palpak.</p>",
+  "steps_title": "Paano hanapin at i-save ang tamang frame",
+  "steps": [
+    {
+      "name": "Buksan ang video sa app",
+      "text": "I-share mula sa Photos papunta sa Video To Photo – Grab Frame. Makikita mo ang malaking preview at frame strip.",
+      "shot": 0
+    },
+    {
+      "name": "Mag-drag nang dahan-dahan",
+      "text": "Igalaw ang daliri nang paunti-unti at bantayan ang preview. Pabalik-balik sa paligid ng galaw.",
+      "shot": 1
+    },
+    {
+      "name": "I-save din ang katabi",
+      "text": "I-tap ang save, i-drag nang kaunti at i-save ulit. Ikumpara at itira ang pinakamaganda.",
+      "shot": 2
+    },
+    {
+      "name": "I-export ang pinakamaganda",
+      "text": "I-export bilang PNG o HEIC para mapanatili ang detalye, para sa analysis, training notes o social media.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kailan kapaki-pakinabang ang frame by frame</h2><ul><li><strong>Sports</strong>: swing sa golf at tennis, teknik, talon. I-save ang key frame at i-review bilang PDF.</li><li><strong>Bata at alaga</strong>: yung isang frame na lahat ay nakatingin sa camera.</li><li><strong>Tutorial at screen recording</strong>: isang hakbang bilang reference image.</li><li><strong>Kontrobersyal na tagpo</strong>: ano talaga ang nangyari sa goal na iyon?</li></ul><h2>Mag-record para mas madali mamaya</h2><p>Mag-record sa <strong>60 fps</strong> (Settings → Camera → Record Video): dobleng dami ng sandali at mas kaunting labo bawat frame. Mas marami pa sa slow motion. Tingnan din ang <a href=\"/fil/guides/malinaw-na-picture-mula-sa-video/\">malinaw na picture mula sa video</a>.</p>",
+  "faq": [
+    {
+      "q": "Puwede bang dumaan frame by frame sa Photos app?",
+      "a": "Walang button para sa isang frame, pero halos pareho ang resulta ng pag-pause at dahan-dahang pag-drag ng strip. Sa iOS 27, i-save ang frame sa •••."
+    },
+    {
+      "q": "Paano i-save ang frame na nahanap ko?",
+      "a": "Sa iOS 27, gamit ang ••• sa Photos. Sa kahit anong version, hanapin ang parehong sandali sa Video To Photo – Grab Frame, i-save at i-export bilang JPG, PNG o HEIC."
+    },
+    {
+      "q": "Dapat ba akong mag-record sa 60 fps?",
+      "a": "Oo. Doble ang dami ng frame kumpara sa 30 fps at mas malinaw ang bawat isa, kaya mas madaling makahanap ng malinaw na sandali."
+    }
+  ],
+  "related": [
+    "malinaw-na-picture-mula-sa-video",
+    "maraming-frame-mula-sa-video",
+    "paano-kumuha-ng-picture-sa-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

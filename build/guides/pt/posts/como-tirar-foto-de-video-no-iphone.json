@@ -1,0 +1,69 @@
+{
+  "slug": "como-tirar-foto-de-video-no-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "tirar foto de vídeo no iPhone",
+  "secondary_keywords": [
+    "como tirar foto de um vídeo no iphone",
+    "como extrair foto de video iphone",
+    "tem como tirar foto de um video no iphone",
+    "como salvar foto de um video no iphone"
+  ],
+  "title": "Como tirar foto de um vídeo no iPhone: 3 jeitos (2026)",
+  "description": "Como tirar foto de um vídeo no iPhone sem perder qualidade: a função do iOS 27, o print de tela e como salvar vários frames em JPG, PNG ou HEIC.",
+  "h1": "Como tirar foto de um vídeo no iPhone",
+  "nav_title": "Foto de vídeo no iPhone",
+  "card_title": "Como tirar foto de um vídeo no iPhone",
+  "excerpt": "Todos os jeitos de tirar uma foto de um vídeo no iPhone — e quando usar cada um.",
+  "lead": "Você filmou o momento em vez de fotografar. A boa notícia: um vídeo são dezenas de fotos por segundo. Veja como tirar a que você quer no seu iPhone.",
+  "quick_answer": "No iOS 27 ou mais recente: abra o vídeo no Fotos, pause, toque em «•••» e escolha salvar o frame como foto; um frame é salvo na resolução do vídeo. Em versões anteriores, ou se você quiser vários frames, PNG, ZIP ou PDF, abra o vídeo no Video To Photo – Grab Frame, capture os frames e exporte todos juntos.",
+  "content_intro": "<h2>Tem como tirar foto de um vídeo no iPhone?</h2><p>Tem. Um vídeo tem 24, 30 ou 60 frames por segundo, e qualquer um pode virar foto. O melhor jeito depende da sua versão do iOS e de quantos frames você precisa.</p><h2>Os jeitos, comparados</h2><table><thead><tr><th>Jeito</th><th>Qualidade</th><th>Limitações</th><th>Ideal para</th></tr></thead><tbody><tr><td><strong>Fotos → salvar frame como foto</strong> (iOS 27+)</td><td>Resolução do vídeo, HEIF ou JPG</td><td>Um frame por vez; a foto fica com a data do vídeo e não aparece no topo dos Recentes</td><td>Salvar rápido um único frame</td></tr><tr><td><strong>Print</strong> com o vídeo pausado</td><td>Resolução da tela, muitas vezes com controles e barras</td><td>Difícil acertar o momento</td><td>Uma referência rápida em iOS antigo</td></tr><tr><td><strong>Live Photo</strong> → «Tornar Foto Principal»</td><td>Qualidade de foto completa</td><td>Só para Live Photos, não para vídeos</td><td>Trocar a capa de uma Live Photo</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Frame do arquivo de vídeo</td><td>Precisa do app (iOS 18.6+)</td><td>Vários frames, PNG, ZIP ou PDF, iOS antigos</td></tr></tbody></table><h3>O jeito nativo do iOS 27</h3><ol><li>Abra o vídeo no Fotos, pause no momento certo, toque em <strong>«•••»</strong> e escolha salvar o frame como foto (<em>Save Video Frame as Photo</em>).</li><li>O frame vai para a fototeca como foto na resolução do vídeo.</li><li>Procure perto do vídeo original: ele herda a data e o local.</li></ol><p>Para um frame é perfeito. Mas para dez momentos do mesmo vídeo, PNG para editar ou um ZIP/PDF para mandar, fica lento.</p><h3>Por que print não é o mesmo que foto</h3><p>No iOS 26 e anteriores, o comum é tirar print. Só que ele salva a tela, não o frame: um vídeo 4K na horizontal numa tela vertical ocupa uma faixa estreita, e você ainda precisa cortar os controles e acertar a pausa.</p>",
+  "steps_title": "Como tirar várias fotos de um vídeo com o Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Compartilhe o vídeo com o app",
+      "text": "Abra o vídeo no Fotos, toque em Compartilhar e escolha o app. Ou abra o Video To Photo – Grab Frame e selecione o vídeo na fototeca.",
+      "shot": 0
+    },
+    {
+      "name": "Ache o momento e capture",
+      "text": "Deslize pela faixa de frames até a pré-visualização mostrar o momento exato e toque no botão de captura. Se tiver movimento, salve também uns frames vizinhos.",
+      "shot": 1
+    },
+    {
+      "name": "Confira o frame",
+      "text": "Abra a pré-visualização, dê zoom em rostos ou texto e apague os frames tremidos. Fique com o mais nítido.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte como foto",
+      "text": "Escolha JPEG, PNG ou HEIC e toque em Exportar. Salve no Fotos ou no Arquivos, ou mande direto no WhatsApp, Instagram ou e-mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Dicas para uma foto melhor</h2><ul><li><strong>Procure a pausa no movimento.</strong> O ponto mais alto de um pulo, o instante antes de um sorriso: ali os frames são mais nítidos.</li><li><strong>Salve três, fique com um.</strong> Frames vizinhos parecem iguais até você dar zoom.</li><li><strong>Grave em 4K ou 60 fps.</strong> Veja <a href=\"/pt/guides/tirar-foto-de-video-com-qualidade/\">como tirar foto de vídeo com qualidade</a>.</li><li><strong>Escolha o formato.</strong> JPG para compartilhar, PNG para editar, HEIC para economizar espaço. Veja <a href=\"/pt/guides/converter-video-para-jpg/\">converter vídeo para JPG ou PNG</a>.</li></ul><h2>O app altera ou envia meu vídeo?</h2><p>Não. O Video To Photo – Grab Frame trabalha com uma cópia dentro do app e processa tudo no iPhone. O vídeo original no Fotos não muda e nada é enviado para servidor nenhum.</p>",
+  "faq": [
+    {
+      "q": "Tem um jeito nativo de tirar foto de um vídeo no iPhone?",
+      "a": "Tem, a partir do iOS 27: pause o vídeo no Fotos, toque em «•••» e escolha salvar o frame como foto. Ele salva um frame por vez em HEIF ou JPG. No iOS 26 e anteriores, a única opção nativa é o print."
+    },
+    {
+      "q": "Onde o frame é salvo no iOS 27?",
+      "a": "Na fototeca do Fotos, mas com a data e o local do vídeo original, então aparece perto do vídeo e não no topo dos Recentes."
+    },
+    {
+      "q": "A foto fica com a mesma qualidade do vídeo?",
+      "a": "Fica, se você salvar o frame e não um print: tanto a função do iOS 27 quanto o Video To Photo – Grab Frame leem o frame do arquivo. Com movimento rápido pode sair tremido, então escolha um momento parado."
+    },
+    {
+      "q": "Dá para tirar várias fotos do mesmo vídeo?",
+      "a": "Dá. No Video To Photo – Grab Frame, capture cada momento e exporte tudo junto em arquivos, ZIP ou PDF."
+    }
+  ],
+  "related": [
+    "print-de-video-iphone-sem-perder-qualidade",
+    "salvar-frame-de-video-iphone",
+    "tirar-foto-de-video-com-qualidade"
+  ],
+  "datePublished": "2026-09-30"
+}

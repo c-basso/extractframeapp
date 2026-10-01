@@ -1,0 +1,64 @@
+{
+  "slug": "skarpt-bilde-fra-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "skarpt bilde fra video",
+  "secondary_keywords": [
+    "bilde fra video uskarpt",
+    "bilde fra video høy kvalitet",
+    "hdr-video mørkt bilde"
+  ],
+  "title": "Skarpt bilde fra video på iPhone: hvorfor det blir uskarpt",
+  "description": "Hvorfor bildet fra video blir uskarpt eller mørkt, og hvordan du får et skarpt bilde i full oppløsning på iPhone: lukker, fps, HDR og riktig bilde.",
+  "h1": "Skarpt bilde i høy kvalitet fra video på iPhone",
+  "nav_title": "Skarpt bilde",
+  "card_title": "Skarpt bilde fra video: hvorfor uskarpt",
+  "excerpt": "Årsaker til uskarphet, mørke bilder og lav oppløsning, og løsningene.",
+  "lead": "Et bilde hentet fra video er ofte mykere enn et vanlig foto. Det er en grunn til det: video lages for kontinuerlig bevegelse, ikke enkeltbilder. Med noen innstillinger og riktig bilde kan du få et mye skarpere resultat.",
+  "quick_answer": "Velg bildet med minst bevegelse, lagre det fra videofilen (ikke som skjermbilde) og film i 4K med 60 fps i godt lys. Hvis bildet blir mørkt eller blekt, er HDR-video årsaken. Video To Photo – Grab Frame lagrer bildet fra filen i full oppløsning.",
+  "content_intro": "<h2>Hvorfor er bildet uskarpt?</h2><table><thead><tr><th>Årsak</th><th>Tegn</th><th>Løsning</th></tr></thead><tbody><tr><td>Bevegelsesuskarphet</td><td>Utflytende hånd, ball</td><td>Nabobildet, mer lys, 60 fps</td></tr><tr><td>Skjermbilde</td><td>Skjermoppløsning, kontroller</td><td>Lagre fra filen</td></tr><tr><td>Komprimering</td><td>Firkantete felter</td><td>Originalvideoen, ikke fra Messenger eller Snapchat</td></tr><tr><td>HDR-video</td><td>Mørkt eller blekt bilde</td><td>Se nedenfor</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p>",
+  "steps_title": "Skarpt bilde steg for steg",
+  "steps": [
+    {
+      "name": "Åpne originalvideoen",
+      "text": "Trykk på Del i Bilder og velg Video To Photo – Grab Frame. Bruk originalfilen.",
+      "shot": 0
+    },
+    {
+      "name": "Finn det skarpeste bildet",
+      "text": "Gå bilde for bilde rundt øyeblikket. Bildet før eller etter er ofte mye skarpere.",
+      "shot": 1
+    },
+    {
+      "name": "Sammenlign med zoom",
+      "text": "Lagre to–tre kandidater og zoom inn på øynene eller kantene. Behold det beste.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter i full oppløsning",
+      "text": "PNG for best kvalitet, HEIC/JPG for mindre filer.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hvorfor blir bildet fra HDR-video mørkt?</h2><p>iPhone filmer i HDR (Dolby Vision) som standard. Når bildet lagres som et vanlig foto, kan lysstyrke og farger avvike. Hvis det plager deg, slå det av: <strong>Innstillinger → Kamera → Ta opp video → HDR-video</strong>.</p><h2>Filmtips</h2><ul><li>4K, 60 fps: flere og skarpere bilder.</li><li>Mye lys: kortere lukkertid, mindre uskarphet.</li><li>Sakte film for raske bevegelser.</li><li>Stødig hånd eller stativ.</li></ul><p>Bildet kan ikke ha høyere oppløsning enn videoen: rundt 8 MP fra 4K, rundt 2 MP fra 1080p.</p>",
+  "faq": [
+    {
+      "q": "Kan man få et bilde i høy kvalitet fra video?",
+      "a": "Ja, hvis videoen er skarp og bildet lagres fra filen. Fra 4K får du rundt 8 MP, nok til mindre utskrifter."
+    },
+    {
+      "q": "Hvorfor blir bildet fra video uskarpt?",
+      "a": "Som regel bevegelsesuskarphet eller skjermbilde. Velg nabobildet og lagre fra filen."
+    },
+    {
+      "q": "Hvorfor er bildet mørkt?",
+      "a": "Sannsynligvis kommer det fra HDR-video. Slå av HDR-video under Innstillinger → Kamera → Ta opp video for neste opptak."
+    }
+  ],
+  "related": [
+    "ta-bilde-fra-video-iphone",
+    "video-bilde-for-bilde-iphone",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

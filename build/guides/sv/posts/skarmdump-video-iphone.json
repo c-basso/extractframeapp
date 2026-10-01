@@ -1,0 +1,64 @@
+{
+  "slug": "skarmdump-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "skärmdump video iphone",
+  "secondary_keywords": [
+    "skärmdump video",
+    "printscreen video iphone",
+    "skärmdump film iphone"
+  ],
+  "title": "Skärmdump av video på iPhone utan kvalitetsförlust",
+  "description": "Varför en skärmdump av video blir suddig, liten eller mörk, och hur du i stället sparar en riktig bildruta från videon i full upplösning på iPhone.",
+  "h1": "Skärmdump av video på iPhone utan kvalitetsförlust",
+  "nav_title": "Skärmdump av video",
+  "card_title": "Skärmdump av video utan kvalitetsförlust",
+  "excerpt": "Varför skärmdumpen är sämre än en riktig bildruta, och hur du undviker det.",
+  "lead": "Det snabbaste sättet att spara ett ögonblick från en video är en skärmdump: sidoknappen och volym upp samtidigt. Men resultatet gör ofta besviken. Här är varför, och vad du kan göra i stället.",
+  "quick_answer": "En skärmdump sparar skärmen, inte videon: upplösningen sjunker, reglagen följer med och HDR-video blir mörk. För full kvalitet sparar du bildrutan från filen: på iOS 27 i Bilder (••• → spara bildruta), eller i Video To Photo – Grab Frame som PNG eller HEIC.",
+  "content_intro": "<h2>Skärmdump eller riktig bildruta?</h2><table><thead><tr><th></th><th>Skärmdump</th><th>Bildruta från filen</th></tr></thead><tbody><tr><td>Upplösning</td><td>Skärm</td><td>Video (upp till 4K)</td></tr><tr><td>Reglage, kanter</td><td>Ofta</td><td>Aldrig</td></tr><tr><td>Exakt ögonblick</td><td>Svårt</td><td>Bildruta för bildruta</td></tr><tr><td>HDR-video</td><td>Mörk eller blek</td><td>Rätt konvertering</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p>",
+  "steps_title": "Riktig bildruta i stället för skärmdump",
+  "steps": [
+    {
+      "name": "Dela videon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Stanna på bildrutan",
+      "text": "Dra bildruteremsan. Den stora förhandsvisningen visar exakt vad som sparas.",
+      "shot": 1
+    },
+    {
+      "name": "Spara",
+      "text": "Tryck på spara-knappen. Du kan också spara flera bildrutor.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera som PNG eller HEIC",
+      "text": "PNG för bäst kvalitet, HEIC för mindre filer.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Om du ändå tar en skärmdump</h2><ul><li>Vrid iPhone för liggande video.</li><li>Vänta tills reglagen försvinner.</li><li>Beskär de svarta kanterna i Bilder.</li></ul><p>Även då har bilden bara skärmens upplösning.</p>",
+  "faq": [
+    {
+      "q": "Hur tar jag en skärmdump på iPhone?",
+      "a": "Tryck på sidoknappen och volym upp samtidigt. På iPhone med hemknapp: sidoknappen och hemknappen."
+    },
+    {
+      "q": "Varför blir skärmdumpen av en video suddig?",
+      "a": "Eftersom den sparar skärmen, inte videon. Bildrutan krymper och rörelsen i ögonblicket kan vara suddig."
+    },
+    {
+      "q": "Varför blir skärmdumpen av HDR-video mörk?",
+      "a": "HDR-video visas med högre ljusstyrka än en vanlig bild kan behålla. Att spara bildrutan från filen ger bättre resultat."
+    }
+  ],
+  "related": [
+    "ta-bild-fran-video-iphone",
+    "skarp-bild-fran-video",
+    "video-till-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

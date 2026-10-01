@@ -1,0 +1,64 @@
+{
+  "slug": "video-billede-for-billede-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video billede for billede iPhone",
+  "secondary_keywords": [
+    "afspil video billede for billede iphone",
+    "video frame by frame iphone",
+    "stop video på bestemt billede"
+  ],
+  "title": "Video billede for billede på iPhone, og gem billedet",
+  "description": "Sådan bladrer du billede for billede gennem en video på iPhone for at finde det præcise øjeblik (sving, blink, mål) og gemmer det som et skarpt foto.",
+  "h1": "Sådan ser du en video billede for billede på iPhone",
+  "nav_title": "Billede for billede (iPhone)",
+  "card_title": "Video billede for billede på iPhone",
+  "excerpt": "Find det præcise øjeblik i en video, og gem det som foto.",
+  "lead": "Et sving, et mål, et trick, et blink. Med afspil og pause kan du ikke se det; du skal næsten billede for billede gennem videoen. Sådan gør du på iPhone, og sådan gemmer du billedet.",
+  "quick_answer": "Sæt videoen på pause i Fotos, og træk langsomt i billedbåndet. På iOS 27 gemmer du derefter billedet via •••. Vil du samle flere øjeblikke, så træk i Video To Photo – Grab Frame med en stor forhåndsvisning, og gem hvert øjeblik.",
+  "content_intro": "<h2>Billede for billede i Fotos-appen</h2><ol><li>Åbn videoen, og sæt den på pause.</li><li>Rør ved billedbåndet nederst, og træk langsomt til venstre eller højre.</li><li>Hold fingeren på båndet et øjeblik, så det forstørres, og du kan trække mere præcist.</li></ol><p>På iOS 27 og nyere trykker du på <strong>•••</strong> for at gemme det fundne billede som foto. På ældre iOS har du kun <a href=\"/da/guides/skaermbillede-af-video-iphone/\">skærmbilledet med kvalitetstab</a>; en app gemmer flere øjeblikke på alle versioner.</p><h2>Hvorfor langsomt?</h2><p>Ved 30 fps varer et billede 33 millisekunder, ved 60 fps 17. Et blink, et boldspark eller et ansigtsudtryk skifter inden for to billeder. Forskellen på det bedste foto og et mislykket er ofte ét billede.</p>",
+  "steps_title": "Sådan finder og gemmer du det rigtige billede",
+  "steps": [
+    {
+      "name": "Åbn videoen i appen",
+      "text": "Del den fra Fotos til Video To Photo – Grab Frame. Du ser en stor forhåndsvisning og billedbåndet.",
+      "shot": 0
+    },
+    {
+      "name": "Træk langsomt",
+      "text": "Flyt fingeren i små trin, og hold øje med forhåndsvisningen. Gå frem og tilbage omkring bevægelsen.",
+      "shot": 1
+    },
+    {
+      "name": "Gem også naboerne",
+      "text": "Tryk på gem, træk lidt, og gem igen. Sammenlign, og behold det bedste.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér det bedste",
+      "text": "Eksportér som PNG eller HEIC for at bevare detaljerne, til analyse, træningsnoter eller sociale medier.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Hvornår billede for billede er nyttigt</h2><ul><li><strong>Sport</strong>: golf- og tennissving, teknik, hop. Gem nøglebillederne, og gennemgå dem som PDF.</li><li><strong>Børn og kæledyr</strong>: det ene billede, hvor alle kigger i kameraet.</li><li><strong>Vejledninger og skærmoptagelser</strong>: ét trin som referencebillede.</li><li><strong>Tvivlsituationer</strong>: hvad skete der egentlig ved det mål?</li></ul><h2>Film, så det bliver nemmere bagefter</h2><p>Film i <strong>60 fps</strong> (Indstillinger → Kamera → Optag video): dobbelt så mange øjeblikke og mindre sløring pr. billede. Slowmotion giver endnu flere. Se også <a href=\"/da/guides/skarpt-billede-fra-video/\">skarpt billede fra video</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan man gå billede for billede gennem en video i Fotos?",
+      "a": "Der er ingen knap til ét billede, men pause og langsom træk i båndet giver næsten det samme. På iOS 27 gemmer du billedet via •••."
+    },
+    {
+      "q": "Hvordan gemmer jeg det billede, jeg har fundet?",
+      "a": "På iOS 27 via ••• i Fotos. På alle versioner finder du det samme øjeblik i Video To Photo – Grab Frame, gemmer det og eksporterer som JPG, PNG eller HEIC."
+    },
+    {
+      "q": "Skal jeg filme i 60 fps?",
+      "a": "Ja. Du får dobbelt så mange billeder som ved 30 fps, og hvert billede er mindre sløret, så det er nemmere at finde et skarpt øjeblik."
+    }
+  ],
+  "related": [
+    "skarpt-billede-fra-video",
+    "billeder-fra-video",
+    "billede-fra-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

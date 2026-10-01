@@ -1,0 +1,64 @@
+{
+  "slug": "aplikacia-fotka-z-videa",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplikácia fotka z videa",
+  "secondary_keywords": [
+    "aplikácia na fotky z videa iphone",
+    "bezplatná aplikácia fotka z videa",
+    "frame grabber app"
+  ],
+  "title": "Aplikácia na fotky z videa pre iPhone: ako vybrať",
+  "description": "Na čo sa pozerať pri aplikácii na fotky z videa: presnosť, rozlíšenie, súkromie, hromadný export, formáty a cena, plus 2-minútový test.",
+  "h1": "Ako vybrať aplikáciu na fotky z videa pre iPhone",
+  "nav_title": "Aplikácia",
+  "card_title": "Ako vybrať aplikáciu na fotky z videa",
+  "excerpt": "Šesť znakov dobrej aplikácie a 2-minútový kontrolný zoznam.",
+  "lead": "Zadajte do App Store „fotka z videa“ a dostanete dlhý zoznam podobných aplikácií. Základ je rovnaký, rozdiel je v detailoch: ako presne vyberiete snímku, aká veľká je fotka a či sa video nahráva na internet.",
+  "quick_answer": "Dobrá aplikácia umožní presne vybrať snímku, ukladá zo súboru videa (nie z displeja), pracuje v zariadení, ukladá viac snímok naraz a exportuje do viacerých formátov. Video To Photo – Grab Frame zvláda všetko, plus export do ZIP a PDF a projekty, ku ktorým sa môžete vrátiť.",
+  "content_intro": "<h2>Potrebujete aplikáciu s iOS 27?</h2><p>Od iOS 27 vedia Fotky uložiť pozastavenú snímku. V staršom iOS a pre veľa snímok, PNG či ZIP/PDF je aplikácia pohodlnejšia.</p><h2>Šesť znakov dobrej aplikácie</h2><ol><li><strong>Presný výber snímky.</strong> Pás snímok alebo posuvník, ktorý zastaví presne na okamihu.</li><li><strong>Skutočný export.</strong> Zo súboru, nie z displeja. Vyskúšajte s vodorovným 4K videom a skontrolujte rozmery.</li><li><strong>Spracovanie v zariadení.</strong> Rodinné videá nepatria na server. Pozrite si štítok súkromia v App Store a vyskúšajte v režime Lietadlo.</li><li><strong>Hromadný režim.</strong> Storyboard, šport a návody potrebujú veľa snímok.</li><li><strong>Formáty a export.</strong> JPG, PNG a HEIC stačia. ZIP a PDF sú zriedkavé, ale veľmi užitočné.</li><li><strong>Jasná cena.</strong> Čo je zadarmo, či je tam predplatné, či sa dá kúpiť jednorazovo.</li></ol>",
+  "steps_title": "Test aplikácie za 2 minúty",
+  "steps": [
+    {
+      "name": "Otvorte skutočné video",
+      "text": "Vyberte vodorovné video s pohybom a zdieľajte ho z Fotiek do Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Zamierte na jednu snímku",
+      "text": "Nájdite žmurknutie alebo loptu vo vzduchu. Pás a veľký náhľad to uľahčia. Ťuknite na uložiť.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte pár a porovnajte",
+      "text": "Uložte štyri až päť snímok a priblížte ich. Zlé snímky musí ísť pred exportom vymazať.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte a skontrolujte súbor",
+      "text": "Exportujte do PNG a pozrite si informácie o fotke. Rozmery musia byť ako vo videu, nie ako na displeji.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Čo ponúka Video To Photo – Grab Frame</h2><table><thead><tr><th>Funkcia</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Spustenie z ponuky Zdieľať</td><td>Áno, rovno do zobrazenia snímok</td></tr><tr><td>Zdroj</td><td>Súbor videa</td></tr><tr><td>Hromadný režim</td><td>Veľa snímok v jednej relácii</td></tr><tr><td>Formáty</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export</td><td>Súbory, ZIP, PDF</td></tr><tr><td>Projekty</td><td>Uložiť a pokračovať neskôr</td></tr><tr><td>Súkromie</td><td>100 % v zariadení, bez účtu</td></tr><tr><td>Cena</td><td>Stiahnutie zadarmo. Pro cez nákup v aplikácii (skúšobná verzia zadarmo, ročne, jednorazovo)</td></tr></tbody></table><h2>Kedy aplikáciu nepotrebujete</h2><p>Jedna fotka v iOS 27? Stačia Fotky. Rýchla poznámka v staršom iOS? Stačí screenshot.</p>",
+  "faq": [
+    {
+      "q": "Existuje bezplatná aplikácia na fotky z videa?",
+      "a": "Video To Photo – Grab Frame si môžete stiahnuť zadarmo. Niektoré funkcie sú Pro, cez nákup v aplikácii (skúšobná verzia zadarmo, ročný plán alebo jednorazový nákup). Aktuálne ceny nájdete v App Store."
+    },
+    {
+      "q": "Nahrávajú tieto aplikácie moje video?",
+      "a": "Online nástroje áno. Video To Photo – Grab Frame spracúva všetko na iPhone a funguje bez internetu."
+    },
+    {
+      "q": "Funguje so 4K a spomaleným videom?",
+      "a": "Áno. Podporuje 4K, 60 fps a spomalené videá z knižnice."
+    }
+  ],
+  "related": [
+    "fotka-z-videa-iphone",
+    "video-na-fotky",
+    "video-do-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

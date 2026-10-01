@@ -1,0 +1,65 @@
+{
+  "slug": "video-do-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "video do jpg",
+    "video to png",
+    "video to heic",
+    "video to jpg converter"
+  ],
+  "title": "Video do JPG, PNG alebo HEIC na iPhone",
+  "description": "Uložte snímky z videa ako JPG, PNG alebo HEIC na iPhone. Kedy zvoliť ktorý formát a ako exportovať do Súborov, ZIP alebo PDF.",
+  "h1": "Prevod videa do JPG, PNG alebo HEIC na iPhone",
+  "nav_title": "Video do JPG/PNG",
+  "card_title": "Video do JPG, PNG alebo HEIC",
+  "excerpt": "Na čo je ktorý formát a ako exportovať snímky.",
+  "lead": "Video sa nedá jednoducho previesť na jeden JPG: fotka vždy vzniká z vybranej snímky. Otázkou je, v akom formáte ju uložiť: JPG, PNG alebo HEIC. Každý má svoje miesto.",
+  "quick_answer": "Vyberte snímku vo Video To Photo – Grab Frame a exportujte do JPG (otvorí sa všade), PNG (bezstratový, na úpravy) alebo HEIC (malé súbory, pre zariadenia Apple). Viac snímok naraz uložíte do Súborov, ZIP alebo PDF.",
+  "content_intro": "<h2>Ktorý formát zvoliť?</h2><table><thead><tr><th>Formát</th><th>Výhoda</th><th>Kedy</th></tr></thead><tbody><tr><td>JPG</td><td>Funguje všade</td><td>Zdieľanie, e-mail, web</td></tr><tr><td>PNG</td><td>Bezstratový</td><td>Úpravy, thumbnail, text na obrázku</td></tr><tr><td>HEIC</td><td>Malý súbor</td><td>Knižnica Fotky, zariadenia Apple</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p><p>Fotky neponúkajú PNG ani hromadné ukladanie. Na to potrebujete aplikáciu.</p>",
+  "steps_title": "Export snímky do JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Vyberte snímky",
+      "text": "Ťahajte pás a uložte požadované snímky. Jednu alebo desiatky.",
+      "shot": 1
+    },
+    {
+      "name": "Zvoľte formát",
+      "text": "Pri exporte vyberte JPG, PNG alebo HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Uložte",
+      "text": "Do Fotiek, Súborov, ZIP alebo PDF, prípadne priamo zdieľajte.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Otvorenie HEIC vo Windows</h2><p>Starší Windows a niektoré webové stránky HEIC nepodporujú. Ak fotku neposielate na zariadenie Apple, zvoľte JPG.</p><h2>Zachovajú sa metadáta?</h2><p>Fotka dostane rozlíšenie videa. Dátum a poloha závisia od zdrojového videa a spôsobu exportu. Ak je to dôležité, skontrolujte informácie o fotke vo Fotkách.</p>",
+  "faq": [
+    {
+      "q": "Ako previesť video do JPG na iPhone?",
+      "a": "Vyberte snímku vo Video To Photo – Grab Frame a exportujte ju ako JPG. V iOS 27 ukladajú snímku do HEIF alebo JPG aj Fotky."
+    },
+    {
+      "q": "PNG alebo JPG?",
+      "a": "PNG na úpravy a obrázky s textom, JPG na zdieľanie. PNG je väčší, ale bez straty kvality."
+    },
+    {
+      "q": "Môžem uložiť veľa snímok naraz?",
+      "a": "Áno, v hromadnom režime Grab Frame a potom exportovať do ZIP alebo PDF."
+    }
+  ],
+  "related": [
+    "ako-ulozit-fotku-z-videa",
+    "video-na-fotky",
+    "video-do-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

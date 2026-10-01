@@ -1,0 +1,64 @@
+{
+  "slug": "ako-ulozit-fotku-z-videa",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "ako spraviť fotku z videa",
+  "secondary_keywords": [
+    "ako urobiť fotku z videa",
+    "ako uložiť fotku z videa",
+    "snímka z videa"
+  ],
+  "title": "Ako spraviť a uložiť fotku z videa na iPhone",
+  "description": "Uložte jednu snímku z videa ako fotku na iPhone: nájdite okamih, uložte ho v plnom rozlíšení a exportujte do Fotiek alebo Súborov. Video zostane nezmenené.",
+  "h1": "Ako spraviť a uložiť fotku z videa na iPhone",
+  "nav_title": "Uložiť fotku",
+  "card_title": "Ako spraviť fotku z videa",
+  "excerpt": "Jedna snímka, plné rozlíšenie, uložená vo Fotkách alebo Súboroch.",
+  "lead": "Niekedy stačí jedna fotka: na profil, pohľadnicu alebo do správy. Takto spravíte fotku z videa na iPhone a uložíte ju presne tam, kde ju potrebujete.",
+  "quick_answer": "Zdieľajte video z Fotiek do Video To Photo – Grab Frame, nájdite snímku, uložte ju a ťuknite na Exportovať. Fotka sa uloží do Fotiek alebo Súborov. V iOS 27 to zvládnu aj Fotky: pozastavte video, ••• → uložiť snímku ako fotku.",
+  "content_intro": "<h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p><h2>Kam sa fotka uloží?</h2><table><thead><tr><th>Cieľ</th><th>Na čo</th></tr></thead><tbody><tr><td>Fotky (Nedávne)</td><td>Zdieľanie, albumy, iCloud</td></tr><tr><td>Súbory</td><td>Práca, tlač, počítač</td></tr><tr><td>Zdieľať</td><td>Priamo do Messengera, WhatsAppu, e-mailu</td></tr></tbody></table>",
+  "steps_title": "Uloženie fotky z videa",
+  "steps": [
+    {
+      "name": "Otvorte video v aplikácii",
+      "text": "Vo Fotkách ťuknite na Zdieľať → Video To Photo – Grab Frame, alebo otvorte aplikáciu a vyberte video.",
+      "shot": 0
+    },
+    {
+      "name": "Nájdite snímku",
+      "text": "Ťahajte pás snímok, kým sa nedostanete k správnemu okamihu.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte snímku",
+      "text": "Ťuknite na tlačidlo uloženia. Snímka sa objaví v zásobníku.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte",
+      "text": "Vyberte formát a cieľ: Fotky, Súbory alebo Zdieľať.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Zachová sa dátum?</h2><p>V iOS 27 ukladajú Fotky snímku s dátumom videa. Po exporte z aplikácie si skontrolujte informácie o fotke, ak je pre vás dátum dôležitý.</p><h2>Časté chyby</h2><ul><li>Snímka v pohybe: vyberte susednú.</li><li>Komprimovaná kópia: použite pôvodné video.</li></ul>",
+  "faq": [
+    {
+      "q": "Kam sa uloží fotka z videa?",
+      "a": "Do Fotiek medzi nedávne položky, alebo do Súborov, ak to zvolíte."
+    },
+    {
+      "q": "Môžem uložiť do PNG?",
+      "a": "Áno, vo Video To Photo – Grab Frame. Fotky v iOS 27 ukladajú do HEIF alebo JPG."
+    },
+    {
+      "q": "Potrebujem internet?",
+      "a": "Nie. Všetko prebieha na iPhone."
+    }
+  ],
+  "related": [
+    "fotka-z-videa-iphone",
+    "video-na-fotky",
+    "video-do-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

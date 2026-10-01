@@ -1,0 +1,64 @@
+{
+  "slug": "i-save-ang-frame-ng-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "i-save ang frame ng video sa iPhone",
+  "secondary_keywords": [
+    "how to capture picture from video iphone",
+    "how to get still picture from iphone video",
+    "still picture mula sa video"
+  ],
+  "title": "Paano I-save ang Frame ng Video bilang Picture sa iPhone",
+  "description": "Paano i-save ang isang frame ng video bilang picture sa iPhone: ang feature ng iOS 27 at paraan para sa lumang iOS o maraming frame, bilang JPG, PNG o HEIC.",
+  "h1": "Paano i-save ang frame ng video sa iPhone",
+  "nav_title": "I-save ang frame ng video",
+  "card_title": "Frame ng video bilang picture",
+  "excerpt": "I-export ang tamang frame sa Photos o Files nang hindi binabago ang original na video.",
+  "lead": "Alam mo na kung aling frame ang gusto mo. Gusto mo lang itong maging ordinaryong picture katabi ng iba. Ganito ito gawin sa iPhone.",
+  "quick_answer": "iOS 27 o mas bago: buksan ang video sa Photos, i-pause at i-save ang frame sa •••. Mas lumang iOS o maraming frame, PNG, ZIP o PDF: i-share ang video sa Video To Photo – Grab Frame, i-save ang mga frame at i-export sa Photos o Files.",
+  "content_intro": "<h2>Paraan 1: built-in na feature ng iOS 27</h2><ol><li>Buksan ang video sa Photos at i-pause sa frame na gusto mo (i-drag ang strip para tumama nang eksakto).</li><li>I-tap ang <strong>•••</strong> sa kanang itaas.</li><li>Piliin ang pag-save ng frame bilang photo (<em>Save Video Frame as Photo</em>).</li></ol><p>Makakakuha ka ng photo sa resolution ng video, bilang HEIF o JPG (depende sa camera settings). Tandaan: <strong>isang frame bawat beses</strong>, at kinukuha ng photo ang <strong>petsa ng video</strong>. Hanapin ito sa tabi ng video, hindi sa itaas ng Recents.</p><h2>Paraan 2: maraming frame o iOS 26 pababa</h2><p>Walang built-in na feature ang mga lumang version, screenshot lang (<a href=\"/fil/guides/paano-mag-screenshot-ng-video-sa-iphone/\">bakit bumababa ang kalidad</a>). Kahit sa iOS 27, mas mabilis ang app kung gusto mo ng sunod-sunod na frame, PNG o ZIP/PDF.</p>",
+  "steps_title": "Paano i-save ang frame gamit ang Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "I-share ang video mula sa Photos",
+      "text": "Buksan ang video, i-tap ang Share at piliin ang app. Agad bubukas ang frame screen.",
+      "shot": 0
+    },
+    {
+      "name": "Hanapin ang frame at i-save",
+      "text": "I-drag sa sandali at i-tap ang save. Ipinapakita ng counter kung ilang frame na ang meron ka.",
+      "shot": 1
+    },
+    {
+      "name": "Piliin ang format",
+      "text": "I-tap ang Export. JPEG para mag-share, PNG para lossless, HEIC para magaan at malinaw.",
+      "shot": 3
+    },
+    {
+      "name": "I-save sa Photos o Files",
+      "text": "Mula sa Share menu, i-save sa library o Files, o ipadala diretso sa chat.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Saan napupunta ang na-save na frame?</h2><ul><li><strong>Photo library</strong>: i-edit, i-share at i-print gaya ng ibang picture.</li><li><strong>Files</strong>: iCloud Drive o On My iPhone, praktikal para sa mga dokumento sa trabaho.</li><li><strong>Ibang app</strong>: Messenger, Viber, Instagram, email gamit ang Share menu.</li></ul><h2>Maraming frame nang sabay</h2><p>Bago mag-export, i-save lahat ng frame na kailangan mo at i-export nang sabay bilang hiwalay na file, <strong>ZIP</strong> o <strong>PDF</strong>. Tingnan din ang <a href=\"/fil/guides/maraming-frame-mula-sa-video/\">maraming frame mula sa video</a>.</p><h2>Ituloy mamaya</h2><p>Bawat video ay nase-save bilang project, kaya puwede mong ituloy kinabukasan nang hindi na hinahanap ulit ang video.</p>",
+  "faq": [
+    {
+      "q": "Kaya ba ng Photos app na mag-save ng frame mula sa video?",
+      "a": "Oo, simula iOS 27: i-pause at i-save sa •••. Isang frame bawat beses, bilang HEIF o JPG. Bago ang iOS 27, screenshot lang ang meron."
+    },
+    {
+      "q": "Mababago ba ang original kong video?",
+      "a": "Hindi. Binabasa lang ng app ang video at gumagawa ng bagong image file. Hindi nagbabago ang video sa Photos."
+    },
+    {
+      "q": "Gumagana ba ito offline?",
+      "a": "Oo. Kinukuha ang mga frame mula sa video sa iPhone mismo, kaya hindi kailangan ng internet at walang ina-upload."
+    }
+  ],
+  "related": [
+    "paano-kumuha-ng-picture-sa-video-iphone",
+    "maraming-frame-mula-sa-video",
+    "video-to-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

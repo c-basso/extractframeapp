@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "Video naar foto / afbeelding iPhone | Video To Photo",
-    "description": "Video naar foto op iPhone: leg één frame vast of exporteer meerdere als JPG, PNG of HEIC in seconden — verwerking op je apparaat, zonder upload nodig.",
-    "keywords": "video naar foto, foto's uit video, video naar afbeelding, frame uit video, video naar foto converter, iPhone frame, frame vastleggen, video frame extractor, jpg uit video, png uit video, heic uit video, batch export, delen vanuit foto's",
+    "title": "Foto uit video halen op iPhone – scherp | Grab Frame",
+    "description": "Haal een foto uit een video op je iPhone in volle kwaliteit. Geen screenshot, maar het exacte frame als JPG, PNG of HEIC, of als ZIP of PDF. Offline, geen upload.",
+    "keywords": "foto uit video halen, foto uit video halen iphone, still uit video halen, frame uit video halen, screenshot video iphone, app foto uit video halen, video naar jpg",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/nl/",
-    "og_title": "Video naar foto / afbeelding voor iPhone",
-    "og_description": "Video naar foto op iPhone. Kies het exacte moment en exporteer frames als JPG, PNG of HEIC — verwerking op je apparaat, zonder upload.",
+    "og_title": "Foto uit video halen op iPhone — het exacte frame, scherp",
+    "og_description": "Zoek het moment en bewaar één of tientallen frames als JPG, PNG of HEIC, of exporteer als ZIP of PDF. Alles op je toestel.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "nl_NL",
     "twitter_url": "https://extractframeapp.com/nl/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video naar foto op iPhone. Precieze frames, verwerking op apparaat, batch-export en formaten JPG, PNG, HEIC.",
+    "twitter_title": "Foto uit video halen — Grab Frame",
+    "twitter_description": "HD-foto's uit je iPhone-video's. JPG, PNG, HEIC, ZIP, PDF. Offline, geen upload.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/nl/",
@@ -21,18 +21,25 @@
     "geo_placename": "Nederland"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame-logo",
-    "title": "Haal frames uit video op iPhone",
-    "subtitle": "Video naar foto en afbeelding—sla exacte stills op in seconden",
-    "entity_definition": "Video To Photo - Grab Frame is een iOS-app die video's op je iPhone omzet in foto's. Kies het exacte moment en exporteer frames als JPG, PNG of HEIC.",
-    "subheadline": "Open vanuit Foto's, scrub naar het juiste moment en sla één frame of meerdere op. Geen account, geen upload en geen bewerkingstijdlijn nodig.",
-    "download_alt": "Downloaden in de App Store",
-    "phone_text": "Tik om een frame uit video vast te leggen",
-    "qr_alt": "QR-code om de app te downloaden",
-    "qr_text": "Scan met je iPhone om te downloaden"
+    "logo_alt": "App-icoon van Video To Photo – Grab Frame",
+    "title": "Foto uit video halen op iPhone — het exacte frame, scherp",
+    "title_html": "Haal een <span class=\"grad-text\">foto uit je video</span>. Het exacte frame, haarscherp.",
+    "subtitle": "Schuif naar het moment en bewaar één of tientallen frames. Exporteer als JPG, PNG of HEIC. Alles gebeurt op je iPhone: geen upload, geen account.",
+    "entity_definition": "Video To Photo – Grab Frame is een iPhone-app die frames uit video's haalt en als foto's in hoge resolutie bewaart. Alle verwerking gebeurt op het toestel.",
+    "subheadline": "Delen vanuit Foto's, moment zoeken, bewaren. Klaar.",
+    "download_alt": "Download Video To Photo – Grab Frame in de App Store",
+    "phone_text": "Tik om een frame uit je video te halen",
+    "qr_alt": "QR-code om Video To Photo – Grab Frame te downloaden",
+    "qr_text": "Scan met de camera van je iPhone om te installeren",
+    "bullets": [
+      "Werkt offline",
+      "JPG, PNG, HEIC",
+      "Export als ZIP en PDF",
+      "Geen account"
+    ]
   },
   "last_updated": {
-    "text": "Laatst bijgewerkt: 16 juni 2026"
+    "text": "Laatst bijgewerkt: 1 oktober 2026"
   },
   "features": {
     "title": "Waarom kiezen voor video naar foto op iPhone",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Een frame uit video halen op iPhone",
-    "subtitle": "Eenvoudige stappen om perfecte foto's uit je clips op te slaan",
-    "placeholder_line1": "📱 Demovideo binnenkort",
-    "placeholder_line2": "Stap 1: Open vanuit Foto's > Stap 2: Scrub naar moment > Stap 3: Frame(s) vastleggen > Stap 4: Exporteer JPG/PNG/HEIC"
+    "title": "Zo haal je een foto uit een video op iPhone",
+    "subtitle": "Vier stappen, ongeveer een minuut. Niets om te leren."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Open vanuit Foto's",
-        "text": "Deel een video vanuit Foto's met {{app_info.name}}, of open de app eerst en selecteer je clip."
+        "name": "Deel de video vanuit Foto's",
+        "text": "Open de video in Foto's, tik op Deel en kies de app. Of open de app en kies een video. Het frame-scherm opent direct."
       },
       {
-        "name": "Vind het exacte moment",
-        "text": "Gebruik de scrub-regelaar om frame voor frame te gaan en te stoppen op het gewenste stillbeeld."
+        "name": "Zoek het moment en bewaar",
+        "text": "Schuif over de framestrook naar het juiste frame en tik op bewaren. Herhaal voor elk frame dat je wilt."
       },
       {
-        "name": "Leg één of meer frames vast",
-        "text": "Leg één frame vast of markeer meerdere momenten voor batch-export."
+        "name": "Houd alleen de beste",
+        "text": "Open de frames schermvullend, zoom in om de scherpte te controleren en verwijder wazige frames."
       },
       {
-        "name": "Exporteren en opslaan",
-        "text": "Sla je stills op als JPG, PNG of HEIC, of exporteer als ZIP of PDF."
+        "name": "Exporteer en deel",
+        "text": "Kies JPEG, PNG of HEIC en bewaar als losse bestanden, ZIP of PDF."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "FAQ: video naar foto op iPhone",
+    "eyebrow": "FAQ",
+    "title": "Foto uit video op iPhone: veelgestelde vragen",
+    "learn_more": "Lees meer",
     "items": [
       {
-        "question": "Hoe haal ik een frame uit een video op iPhone?",
-        "answer": "Open een clip in Video To Photo - Grab Frame, scrub naar het exacte moment en leg het stillbeeld vast. Exporteer het daarna als JPG, PNG of HEIC."
+        "question": "Hoe haal ik een foto uit een video op mijn iPhone?",
+        "answer": "Vanaf iOS 27 open je de video in Foto's, pauzeer je en bewaar je het frame via ••• als foto (één per keer). Op oudere iOS, of voor meerdere foto's als JPG, PNG, HEIC, ZIP of PDF, gebruik je Video To Photo – Grab Frame.",
+        "url": "/nl/guides/foto-uit-video-halen-iphone/"
       },
       {
-        "question": "Kan ik meer dan één frame tegelijk exporteren?",
-        "answer": "Ja. Je kunt meerdere momenten selecteren en meerdere frames in één batch exporteren."
+        "question": "Waarom is een screenshot van een video zo slecht?",
+        "answer": "Een screenshot legt het scherm vast: een 4K-frame wordt verkleind tot schermformaat, met afspeelknop of zwarte balken erbij. Bewaar het frame uit het videobestand met Foto's in iOS 27 of met Video To Photo – Grab Frame en exporteer als PNG of HEIC.",
+        "url": "/nl/guides/screenshot-video-iphone-zonder-kwaliteitsverlies/"
       },
       {
-        "question": "Welke formaten kan ik exporteren?",
-        "answer": "De app ondersteunt JPG, PNG en HEIC. Je kunt ook exporteren als ZIP of PDF."
+        "question": "Hoe sla ik een still uit een video op?",
+        "answer": "Deel de video vanuit Foto's met Video To Photo – Grab Frame, zoek het frame, bewaar het en tik op Exporteer. Het komt in Foto's of Bestanden. De originele video blijft ongewijzigd.",
+        "url": "/nl/guides/still-uit-video-opslaan-iphone/"
       },
       {
-        "question": "Uploadt de app mijn video's?",
-        "answer": "Nee. Extractie gebeurt op het apparaat — je video's en afbeeldingen blijven op je iPhone."
+        "question": "Waar let ik op bij een app om foto's uit video's te halen?",
+        "answer": "Vier dingen: precieze frame-keuze, export op de resolutie van de video, verwerking op het toestel en batch-export. Video To Photo – Grab Frame doet dat allemaal en exporteert als JPG, PNG, HEIC, ZIP of PDF.",
+        "url": "/nl/guides/app-foto-uit-video-halen/"
       },
       {
-        "question": "Kan ik later verdergaan?",
-        "answer": "Ja. Je kunt sessies als projecten opslaan en later heropenen."
+        "question": "Kan ik meerdere frames tegelijk uit een video halen?",
+        "answer": "Ja. Bewaar zoveel frames als je wilt uit één video en exporteer ze samen als bestanden, ZIP of PDF. Alleen de frames kiezen die je nodig hebt is sneller dan honderden bijna gelijke beelden sorteren.",
+        "url": "/nl/guides/frames-uit-video-halen/"
       },
       {
-        "question": "Is Video To Photo - Grab Frame gratis?",
-        "answer": "De app is gratis te downloaden; geavanceerd gebruik is via in-app aankopen beschikbaar."
+        "question": "Hoe bekijk ik een video frame voor frame op iPhone?",
+        "answer": "Pauzeer in Foto's en schuif langzaam over de framestrook. In Video To Photo – Grab Frame schuif je met een grote voorbeeldweergave en bewaar je het juiste frame meteen.",
+        "url": "/nl/guides/video-frame-voor-frame-iphone/"
       },
       {
-        "question": "Voor wie is deze app?",
-        "answer": "Voor makers, docenten en iedereen die een specifiek videomoment als foto wil vastleggen."
+        "question": "Hoe krijg ik een scherpe foto uit een video?",
+        "answer": "Kies een frame met weinig beweging, film liefst in 4K of 60 fps en exporteer uit het bestand in plaats van een screenshot. Exporteer als PNG of HEIC en vergelijk naburige frames om de scherpste te houden.",
+        "url": "/nl/guides/scherpe-foto-uit-video/"
       },
       {
-        "question": "Hoe zet ik video om naar foto op iPhone?",
-        "answer": "Open een clip in Video To Photo - Grab Frame, scrub naar het exacte moment en sla frames op als JPG, PNG of HEIC — alles op je iPhone."
+        "question": "Hoe zet ik een video om naar JPG of PNG op iPhone?",
+        "answer": "Met Video To Photo – Grab Frame bewaar je gekozen frames als JPG, PNG of HEIC. JPG om te delen, PNG om verliesvrij te bewerken, HEIC voor klein en scherp.",
+        "url": "/nl/guides/video-naar-jpg-png/"
+      },
+      {
+        "question": "Hoe maak ik een PDF van een video?",
+        "answer": "Bewaar de belangrijkste frames in Video To Photo – Grab Frame en kies PDF bij het exporteren. Je krijgt één PDF met je frames, handig voor storyboards, lesnotities en verslagen.",
+        "url": "/nl/guides/video-naar-pdf/"
+      },
+      {
+        "question": "Hoe maak ik een thumbnail van een video op iPhone?",
+        "answer": "Bewaar een scherp, expressief frame als PNG en voeg tekst toe in je favoriete editor. Upload het daarna als YouTube-thumbnail of als cover op TikTok of Instagram.",
+        "url": "/nl/guides/thumbnail-maken-van-video/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video naar foto",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Foto uit video — frame-app voor iPhone",
     "application_category": "PhotoApplication",
-    "application_sub_category": "Foto's en video"
+    "application_sub_category": "Foto en video"
   },
   "footer": {
     "cta_text": "📱 Download Video To Photo - Grab Frame",
     "privacy_text": "Privacybeleid",
     "terms_text": "Gebruiksvoorwaarden",
-    "support_text": "Support",
-    "developer_info": "Ontwikkeld door Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Alle rechten voorbehouden."
+    "support_text": "Ondersteuning",
+    "developer_info": "Ontwikkeld door Vladimir Ivakhnenko (c-basso). Frames worden op je toestel verwerkt en nooit geüpload.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Gidsen",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Leg perfecte frames uit video vast op iPhone"
+    "text": "📱 Het perfecte frame uit elke video"
   },
   "seo_chapter": {
     "title": "Video omzetten in foto's op iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Naar inhoud",
+    "ratings": "beoordelingen"
+  },
+  "nav": {
+    "how": "Zo werkt het",
+    "screenshots": "Screenshots",
+    "guides": "Gidsen",
+    "faq": "FAQ"
+  },
+  "download": {
+    "title": "Eén app, één taak: foto's uit je video's",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Precies op het moment",
+        "description": "Schuif over de framestrook en stop waar je wilt. De lach, het hoogste punt van de sprong, de foto zonder dichte ogen."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Echte frames, geen screenshots",
+        "description": "Uit het videobestand zelf: geen afspeelknop, geen zwarte balken, niet beperkt tot je scherm."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Zoveel als je wilt",
+        "description": "Bewaar alle frames die je mooi vindt in één keer, vergelijk ze en houd alleen de beste."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Kies het formaat en hoe je het wilt ontvangen: losse bestanden, een ZIP-archief of een PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% op je toestel",
+        "description": "Je video's verlaten je iPhone niet. Geen upload, geen account, werkt in vliegtuigmodus."
+      },
+      {
+        "icon": "💾",
+        "title": "Projecten",
+        "description": "Elke video wordt als project bewaard. Open hem later en ga verder waar je was."
+      }
+    ],
+    "meta_labels": {
+      "version": "Versie",
+      "size": "Grootte",
+      "requires": "Vereist",
+      "price": "Prijs",
+      "price_value": "Gratis · in-app aankopen",
+      "category": "Categorie",
+      "category_value": "Foto en video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Screenshots",
+    "title": "Van video naar foto in zes schermen",
+    "subtitle": "Precies zoals in de App Store. Dit is de echte app.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: het beste moment uit elke video",
+        "title": "Het beste moment eruit",
+        "caption": "Uit elke video in je bibliotheek."
+      },
+      {
+        "alt": "Knop om het frame te bewaren en een bakje met 4 bewaarde frames",
+        "title": "Bewaar alles wat je mooi vindt",
+        "caption": "Tik zo vaak als je wilt op Grab This Frame."
+      },
+      {
+        "alt": "Voorbeeldweergave om een bewaard frame te vergroten",
+        "title": "Houd alleen de beste",
+        "caption": "Zoom in voordat je exporteert."
+      },
+      {
+        "alt": "Exportscherm met JPEG, PNG, HEIC en bestanden, ZIP of PDF",
+        "title": "Kies je formaat",
+        "caption": "JPEG, PNG of HEIC. Bestanden, ZIP of PDF."
+      },
+      {
+        "alt": "iOS-deelmenu dat een ZIP met frames exporteert",
+        "title": "Bewaren en delen",
+        "caption": "In Bestanden of via het deelmenu."
+      },
+      {
+        "alt": "Projectlijst met duur, aantal frames en fps",
+        "title": "Meerdere projecten",
+        "caption": "Later verder waar je was."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Zo werkt het",
+    "cta": "Gratis downloaden"
+  },
+  "guides_section": {
+    "eyebrow": "Gidsen",
+    "title": "Gidsen: foto uit video op iPhone",
+    "subtitle": "Antwoorden op de meest gezochte vragen, en de snelste manier op iPhone.",
+    "read_more": "Lees de gids",
+    "all_text": "Alle gidsen"
+  },
+  "cta": {
+    "title": "Je beste foto zit in een video.",
+    "text": "Haal hem er in seconden uit, in volle kwaliteit, alleen met je iPhone. Geen upload nodig."
+  },
+  "sticky": {
+    "text": "HD-foto's uit elke video"
   }
 }

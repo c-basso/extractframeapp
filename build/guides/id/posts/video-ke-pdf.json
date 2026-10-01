@@ -1,0 +1,64 @@
+{
+  "slug": "video-ke-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video to pdf gratis",
+    "video ke pdf",
+    "storyboard dari video"
+  ],
+  "title": "Video ke PDF di iPhone: Storyboard, Panduan, Catatan",
+  "description": "Simpan frame dari video ke satu PDF di iPhone: untuk storyboard, panduan langkah demi langkah, catatan kuliah, atau laporan. Tanpa komputer.",
+  "h1": "Frame video ke satu PDF di iPhone",
+  "nav_title": "Video ke PDF",
+  "card_title": "Frame video ke satu PDF",
+  "excerpt": "Storyboard, panduan, atau catatan dalam satu PDF, langsung dari video.",
+  "lead": "Kadang yang dibutuhkan bukan foto, tapi dokumen: langkah resep, panduan perakitan, slide kuliah, atau storyboard. Paling praktis jika frame-nya masuk ke satu PDF secara berurutan.",
+  "quick_answer": "Buka video di Video To Photo – Grab Frame, simpan frame penting, lalu ekspor ke PDF. Frame tersusun sesuai urutan waktu dalam satu file yang bisa dikirim atau dicetak.",
+  "content_intro": "<h2>Untuk apa PDF dari video?</h2><table><thead><tr><th>Kegunaan</th><th>Contoh</th></tr></thead><tbody><tr><td>Panduan</td><td>Resep, merakit furnitur, tutorial aplikasi</td></tr><tr><td>Storyboard</td><td>Film, iklan, video media sosial</td></tr><tr><td>Catatan</td><td>Slide kuliah atau webinar</td></tr><tr><td>Laporan</td><td>Dokumentasi kerusakan, bug, atau pekerjaan</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p><p>App Foto menyimpan satu per satu dan tidak membuat PDF.</p>",
+  "steps_title": "Ekspor frame ke PDF",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Simpan frame penting",
+      "text": "Telusuri video dan simpan langkah atau adegannya. Sebagai proyek, bisa dilanjutkan nanti.",
+      "shot": 1
+    },
+    {
+      "name": "Periksa urutan",
+      "text": "Tinjau frame dan hapus yang tidak perlu.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor ke PDF",
+      "text": "Pilih ekspor PDF lalu simpan ke File atau bagikan.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Satu langkah, satu frame: jangan simpan gambar yang hampir sama.</li><li>Untuk tutorial dari rekaman layar, teks harus terbaca: hindari frame yang sedang bergerak.</li><li>Jika PDF terlalu besar, kirim ZIP atau kurangi frame.</li></ul>",
+  "faq": [
+    {
+      "q": "Bisakah video diubah ke PDF?",
+      "a": "Videonya tidak, tapi frame-nya bisa. Video To Photo – Grab Frame membuat satu PDF dari frame yang dipilih."
+    },
+    {
+      "q": "Perlu komputer?",
+      "a": "Tidak. Semuanya di iPhone, tanpa internet."
+    },
+    {
+      "q": "Berapa frame yang muat dalam satu PDF?",
+      "a": "Sebanyak yang Anda pilih. Dengan banyak frame, file bisa besar, jadi sebaiknya disaring."
+    }
+  ],
+  "related": [
+    "mengubah-video-menjadi-foto",
+    "video-ke-jpg-png",
+    "aplikasi-mengambil-foto-dari-video"
+  ],
+  "datePublished": "2026-10-01"
+}

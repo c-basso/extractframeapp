@@ -1,0 +1,64 @@
+{
+  "slug": "alkalmazas-kep-videobol",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "alkalmazás kép kivágása videóból",
+  "secondary_keywords": [
+    "app kép videóból iphone",
+    "ingyenes app kép videóból",
+    "frame grabber app"
+  ],
+  "title": "App képek kivágásához videóból iPhone-on: hogyan válasszon",
+  "description": "Mire figyeljen egy képkivágó appnál: pontosság, felbontás, adatvédelem, csoportos exportálás, formátumok és ár, plusz egy 2 perces teszt.",
+  "h1": "Hogyan válasszon appot képek videóból való kivágásához iPhone-on",
+  "nav_title": "App kép videóból",
+  "card_title": "Hogyan válasszon appot képekhez videóból",
+  "excerpt": "Egy jó képkocka-app hat ismérve és egy 2 perces ellenőrzőlista.",
+  "lead": "Keressen rá az App Store-ban arra, hogy „kép videóból”, és hosszú listát kap hasonló appokból. Az alap ugyanaz, a különbség a részletekben van. Mennyire pontosan választ kockát, mekkora a kép, és felkerül-e a videó az internetre.",
+  "quick_answer": "Egy jó app engedi pontosan kiválasztani a kockát, a videófájlból ment, nem a kijelzőről, az eszközön dolgozik, több kockát ment egyszerre, és több formátumba exportál. A Video To Photo – Grab Frame mindezt tudja, plusz ZIP- és PDF-exportot és projekteket, amelyekhez később visszatérhet.",
+  "content_intro": "<h2>Kell app, ha iOS 27 van?</h2><p>iOS 27-től a Fotók egy megállított kockát el tud menteni. Régebbi iOS-en, illetve sok kockához, PNG-hez és ZIP/PDF-hez az app kényelmesebb.</p><h2>Egy jó app hat ismérve</h2><ol><li><strong>Pontos kockaválasztás.</strong> Képkockasáv vagy csúszka, amely pontosan a pillanatra áll.</li><li><strong>Valódi exportálás.</strong> A fájlból, nem a kijelzőről. Próbálja ki egy fekvő 4K-videóval, és nézze meg a méreteket.</li><li><strong>Feldolgozás az eszközön.</strong> A családi videóknak nincs helyük szerveren. Nézze meg az App Store adatvédelmi címkéjét, és próbálja ki repülőgép-üzemmódban.</li><li><strong>Csoportos mód.</strong> Storyboardhoz, sporthoz és oktatóanyagokhoz sok kocka kell.</li><li><strong>Formátumok és exportálás.</strong> JPG, PNG és HEIC elég. A ZIP és a PDF ritka, de nagyon hasznos.</li><li><strong>Átlátható ár.</strong> Mi ingyenes, van-e előfizetés, megvehető-e egyszeri díjért.</li></ol>",
+  "steps_title": "Képkivágó app tesztelése 2 perc alatt",
+  "steps": [
+    {
+      "name": "Nyisson meg egy valódi videót",
+      "text": "Válasszon egy mozgást tartalmazó fekvő videót, és ossza meg a Fotókból a Video To Photo – Grab Frame-mel. Megnyílik a képkocka-nézet.",
+      "shot": 0
+    },
+    {
+      "name": "Célozzon meg egy kockát",
+      "text": "Keressen egy pislogást vagy egy labdát a levegőben. A sáv és a nagy előnézet megkönnyíti. Koppintson a mentésre.",
+      "shot": 1
+    },
+    {
+      "name": "Mentsen néhányat, és hasonlítsa össze",
+      "text": "Mentsen négyet-ötöt, és nagyítson rá. Exportálás előtt törölni kell tudni a rosszakat.",
+      "shot": 2
+    },
+    {
+      "name": "Exportáljon, és ellenőrizze a fájlt",
+      "text": "Exportáljon PNG-be, és nézze meg a fotó adatait. A méretnek a videóénak kell lennie, nem a kijelzőének.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Amit a Video To Photo – Grab Frame kínál</h2><table><thead><tr><th>Funkció</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Indítás a Fotók Megosztás menüjéből</td><td>Igen, egyenesen a képkocka-nézetbe</td></tr><tr><td>Forrás</td><td>A videófájl</td></tr><tr><td>Csoportos mód</td><td>Sok kocka egy munkamenetben</td></tr><tr><td>Formátumok</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Exportálás</td><td>Fájlok, ZIP, PDF</td></tr><tr><td>Projektek</td><td>Mentés és folytatás később</td></tr><tr><td>Adatvédelem</td><td>100% az eszközön, fiók nélkül</td></tr><tr><td>Ár</td><td>Ingyenes letöltés. Pro alkalmazáson belüli vásárlással (ingyenes próba, éves, egyszeri)</td></tr></tbody></table><h2>Mikor nincs szükség appra</h2><p>Egy kép iOS 27-en? Elég a Fotók (megállítás → ••• → képkocka mentése fotóként). Gyors jegyzet régi iOS-en? Elég egy képernyőkép.</p>",
+  "faq": [
+    {
+      "q": "Van ingyenes app képek kivágásához videóból?",
+      "a": "A Video To Photo – Grab Frame ingyenesen letölthető. Egyes funkciók Pro-k, alkalmazáson belüli vásárlással (ingyenes próba, éves csomag vagy egyszeri vásárlás). Az aktuális árak az App Store-ban láthatók."
+    },
+    {
+      "q": "Feltöltik ezek az appok a videómat?",
+      "a": "Az online eszközök igen. A Video To Photo – Grab Frame mindent az iPhone-on dolgoz fel, és internet nélkül működik."
+    },
+    {
+      "q": "Működik 4K-s és lassított videóval?",
+      "a": "Igen. Támogatja a könyvtár 4K, 60 fps és lassított videóit. Minél jobb a felvétel, annál élesebbek a kockák."
+    }
+  ],
+  "related": [
+    "kep-kivagasa-videobol-iphone",
+    "kepkockak-videobol",
+    "video-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

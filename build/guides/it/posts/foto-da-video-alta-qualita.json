@@ -1,0 +1,64 @@
+{
+  "slug": "foto-da-video-alta-qualita",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "foto da video in alta qualità",
+  "secondary_keywords": [
+    "estrarre foto da video senza perdere qualità",
+    "foto nitida da video",
+    "fotogramma da video hd"
+  ],
+  "title": "Foto da video in alta qualità: come ottenerla su iPhone",
+  "description": "Perché le foto tratte da un video vengono sfocate e come evitarlo: fotogramma fermo, 4K e 60 fps, estrazione invece dello screenshot, export in PNG o HEIC.",
+  "h1": "Come ottenere una foto da video in alta qualità",
+  "nav_title": "Foto da video in alta qualità",
+  "card_title": "Una foto nitida da un video",
+  "excerpt": "Perché i fotogrammi sembrano sfocati, cosa si può sistemare dopo e cosa cambiare prima di girare.",
+  "lead": "Hai trovato il momento perfetto, l'hai salvato… ed è sfocato. I fotogrammi di un video nascono per il movimento, non per essere guardati fermi, ma con il fotogramma e il metodo giusti sembrano vere foto.",
+  "quick_answer": "Scegli un fotogramma in cui il soggetto si muove appena, salvalo dal file invece di fare uno screenshot ed esportalo in PNG o HEIC senza compressione aggiuntiva. Salva 3–5 fotogrammi vicini e tieni il più nitido. Per i prossimi video gira in 4K e a 60 fps con buona luce.",
+  "content_intro": "<h2>Perché le foto da video vengono sfocate</h2><ul><li><strong>Mosso.</strong> Ogni fotogramma è esposto per una frazione di secondo; se il soggetto si muove, viene mosso.</li><li><strong>Screenshot.</strong> Il video viene ridotto alla dimensione dello schermo e risalvato. Vedi <a href=\"/it/guides/screenshot-video-iphone-senza-perdere-qualita/\">perché lo screenshot perde qualità</a>.</li><li><strong>Compressione del video.</strong> Il video è molto compresso e alcuni fotogrammi hanno meno dettagli.</li><li><strong>Poca luce.</strong> Al buio la fotocamera espone più a lungo e riduce più rumore: si perdono dettagli.</li></ul><h2>Cosa si può sistemare dopo</h2><table><thead><tr><th>Problema</th><th>Soluzione</th></tr></thead><tbody><tr><td>Soggetto mosso</td><td>Salva più fotogrammi vicini e scegli il nitido</td></tr><tr><td>Foto piccola o tagliata</td><td>Estrai dal file, niente screenshot</td></tr><tr><td>Blocchi di compressione</td><td>Esporta in PNG o HEIC, senza risalvare</td></tr><tr><td>Occhi chiusi</td><td>Scorri piano: quello giusto è spesso a 1–2 fotogrammi</td></tr></tbody></table>",
+  "steps_title": "Come ottenere il fotogramma più nitido da un video",
+  "steps": [
+    {
+      "name": "Apri il video",
+      "text": "Condividilo da Foto con Video To Photo – Grab Frame, così il fotogramma viene dal file e non dallo schermo.",
+      "shot": 0
+    },
+    {
+      "name": "Cerca il momento fermo",
+      "text": "Scorri intorno all'azione e cerca i picchi: il punto più alto di un salto, la pausa prima di una risata.",
+      "shot": 1
+    },
+    {
+      "name": "Salva una raffica e confronta",
+      "text": "Cattura 3–5 fotogrammi vicini, ingrandisci occhi, bordi o testo nell'anteprima ed elimina quelli morbidi.",
+      "shot": 2
+    },
+    {
+      "name": "Esporta senza compressione extra",
+      "text": "Il migliore in PNG (senza perdite) o HEIC (qualità e poco spazio). JPG solo per un invio veloce.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Come girare per avere foto migliori dopo</h2><ul><li><strong>4K.</strong> Più pixel, più dettagli e margine per ritagliare (Impostazioni → Fotocamera → Registra video).</li><li><strong>60 fps per l'azione.</strong> Più fotogrammi tra cui scegliere e meno mosso in ognuno.</li><li><strong>Luce.</strong> Luce del giorno o una stanza luminosa sono ciò che migliora di più la nitidezza.</li><li><strong>Stabilità.</strong> Appoggia i gomiti o usa un treppiede: il tremolio rende sfocato ogni fotogramma.</li></ul><h2>E se lo miglioro con l'IA?</h2><p>Gli upscaler con IA ingrandiscono l'immagine ma inventano dettagli. Parti dal miglior fotogramma reale, alla risoluzione del video, e migliora solo se ti serve una stampa grande. Sui formati: <a href=\"/it/guides/convertire-video-in-jpg/\">convertire video in JPG o PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Una foto presa da un video può sembrare una foto vera?",
+      "a": "Da un video 4K nitido e ben illuminato, il fotogramma somiglia molto a una foto, soprattutto per i social. Una vera foto ha comunque dei vantaggi, come un'esposizione più breve e un'elaborazione pensata per le foto."
+    },
+    {
+      "q": "Che risoluzione ha un fotogramma di un video 4K?",
+      "a": "3840 × 2160 pixel, circa 8,3 megapixel. Un fotogramma 1080p è 1920 × 1080, circa 2 megapixel."
+    },
+    {
+      "q": "Quale formato conserva più dettagli?",
+      "a": "PNG è senza perdite. HEIC mantiene quasi la stessa qualità in un file molto più piccolo. JPG comprime un po' ma si apre ovunque."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-senza-perdere-qualita",
+    "video-fotogramma-per-fotogramma-iphone",
+    "convertire-video-in-jpg"
+  ],
+  "datePublished": "2026-09-30"
+}

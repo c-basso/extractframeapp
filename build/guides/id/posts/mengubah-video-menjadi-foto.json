@@ -1,0 +1,64 @@
+{
+  "slug": "mengubah-video-menjadi-foto",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "mengubah video menjadi foto",
+  "secondary_keywords": [
+    "cara mengubah video menjadi foto",
+    "mengubah video menjadi foto di iphone",
+    "video ke foto"
+  ],
+  "title": "Cara Mengubah Video Menjadi Foto di iPhone",
+  "description": "Ambil banyak foto dari video sekaligus di iPhone, tanpa komputer dan ffmpeg. Simpan hanya frame yang dibutuhkan sebagai foto, ZIP, atau PDF.",
+  "h1": "Cara mengubah video menjadi foto di iPhone",
+  "nav_title": "Video jadi foto",
+  "card_title": "Cara mengubah video menjadi foto",
+  "excerpt": "Banyak frame sekaligus, hanya yang Anda butuhkan.",
+  "lead": "Kadang satu foto tidak cukup: seluruh lompatan, setiap langkah resep, semua adegan untuk storyboard. Mengubah seluruh video menjadi ratusan foto justru bikin berantakan. Lebih baik pilih hanya yang Anda perlukan.",
+  "quick_answer": "Buka video di Video To Photo – Grab Frame, simpan frame sebanyak yang Anda mau, lalu ekspor sekaligus: sebagai file, ZIP, atau PDF. App Foto di iOS 27 hanya menyimpan satu frame setiap kali.",
+  "content_intro": "<h2>Cara mendapatkan banyak foto</h2><table><thead><tr><th>Cara</th><th>Kelebihan</th><th>Kekurangan</th></tr></thead><tbody><tr><td>Screenshot berulang</td><td>Tanpa aplikasi</td><td>Lambat, resolusi rendah</td></tr><tr><td>Foto (iOS 27)</td><td>Bawaan</td><td>Satu frame setiap kali</td></tr><tr><td>ffmpeg di komputer</td><td>Semua frame</td><td>Ribuan foto, perlu komputer</td></tr><tr><td>Grab Frame</td><td>Hanya yang dipilih, ekspor massal</td><td>Beberapa fitur Pro</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p>",
+  "steps_title": "Banyak foto dari satu video",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Simpan frame berurutan",
+      "text": "Geser ke setiap momen dan ketuk simpan. Frame terkumpul di baki.",
+      "shot": 1
+    },
+    {
+      "name": "Tinjau dan rapikan",
+      "text": "Hapus frame yang mirip atau buram.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor sekaligus",
+      "text": "Sebagai file terpisah, arsip ZIP, atau PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Berguna untuk</h2><ul><li>Olahraga: fase gerakan.</li><li>Resep dan tutorial: setiap langkah.</li><li>Storyboard: adegan utama.</li><li>Keluarga: momen terbaik ulang tahun.</li></ul><p>Proyek tersimpan, jadi Anda bisa melanjutkan nanti.</p>",
+  "faq": [
+    {
+      "q": "Bisakah semua frame video diambil?",
+      "a": "Di komputer, dengan ffmpeg. Di iPhone lebih praktis memilih frame yang dibutuhkan saja di Grab Frame."
+    },
+    {
+      "q": "Berapa frame yang bisa disimpan?",
+      "a": "Sebanyak yang Anda mau. Untuk banyak foto, ekspor sebagai ZIP atau PDF."
+    },
+    {
+      "q": "Bisa dilanjutkan nanti?",
+      "a": "Bisa. Setiap video tersimpan sebagai proyek."
+    }
+  ],
+  "related": [
+    "aplikasi-mengambil-foto-dari-video",
+    "video-frame-by-frame-iphone",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

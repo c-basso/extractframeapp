@@ -1,0 +1,64 @@
+{
+  "slug": "shipin-baocun-zhen-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "iPhone 视频保存某一帧",
+  "secondary_keywords": [
+    "苹果视频保存帧为照片",
+    "视频截取图片",
+    "iphone 视频 截取 照片"
+  ],
+  "title": "iPhone 如何把视频的某一帧保存为照片（iOS 27）",
+  "description": "在 iPhone 上把视频的某一帧保存为照片：iOS 27 自带功能，以及适用于旧版 iOS 或多帧的方法，可存为 JPG、PNG 或 HEIC。",
+  "h1": "iPhone 如何把视频的某一帧保存为照片",
+  "nav_title": "视频帧存为照片",
+  "card_title": "把视频的某一帧存为照片",
+  "excerpt": "把想要的帧导出到“照片”或“文件”，不改动原视频。",
+  "lead": "你已经知道要哪一帧了，只是想把它当成普通照片，和其他照片放在一起。在 iPhone 上这样做。",
+  "quick_answer": "iOS 27 及以上：在“照片”中打开视频，暂停，通过 ••• 保存帧。旧版 iOS，或需要多帧、PNG、ZIP、PDF：把视频共享到 Video To Photo – Grab Frame，保存各帧后导出到“照片”或“文件”。",
+  "content_intro": "<h2>方法 1：iOS 27 自带功能</h2><ol><li>在“照片”中打开视频，在想要的帧暂停（拖动帧条可以精确定位）。</li><li>轻点右上角的 <strong>•••</strong>。</li><li>选择将视频帧存储为照片（<em>Save Video Frame as Photo</em>）。</li></ol><p>你会得到与视频同分辨率的照片，格式为 HEIF 或 JPG（取决于相机设置）。注意：<strong>一次只能存一帧</strong>，并且照片使用<strong>视频的日期</strong>，请在视频旁边找，而不是“最近项目”顶部。</p><h2>方法 2：多帧，或 iOS 26 及更早</h2><p>旧版本没有自带功能，只能截屏（<a href=\"/zh/guides/iphone-shipin-jietu/\">为什么截屏会损失画质</a>）。即使在 iOS 27，需要连续多帧、PNG 或 ZIP/PDF 时，App 也更快。</p>",
+  "steps_title": "用 Video To Photo – Grab Frame 保存视频帧",
+  "steps": [
+    {
+      "name": "从“照片”共享视频",
+      "text": "打开视频，轻点“共享”，选择本 App，帧提取界面会立即打开。",
+      "shot": 0
+    },
+    {
+      "name": "找到帧并保存",
+      "text": "拖到对应瞬间，轻点保存。计数器会显示已保存的帧数。",
+      "shot": 1
+    },
+    {
+      "name": "选择格式",
+      "text": "轻点“导出”。发送用 JPEG，无损用 PNG，轻巧清晰用 HEIC。",
+      "shot": 3
+    },
+    {
+      "name": "存到“照片”或“文件”",
+      "text": "通过共享菜单存入图库或“文件”，也可以直接发到聊天中。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>保存的帧会去哪里？</h2><ul><li><strong>照片图库</strong>：可以像普通照片一样编辑、分享和打印。</li><li><strong>文件</strong>：iCloud 云盘或“我的 iPhone”，适合工作资料。</li><li><strong>其他 App</strong>：通过共享菜单发到微信、QQ、小红书、邮件等。</li></ul><h2>一次保存多帧</h2><p>导出前保存所有需要的帧，然后一次性导出为单独文件、<strong>ZIP</strong> 或 <strong>PDF</strong>。另见<a href=\"/zh/guides/shipin-tiqu-zhen/\">从视频提取多帧</a>。</p><h2>之后继续</h2><p>每个视频都会保存为项目，第二天可以接着保存，不必重新找视频。</p>",
+  "faq": [
+    {
+      "q": "“照片” App 能保存视频的某一帧吗？",
+      "a": "iOS 27 起可以：暂停后通过 ••• 保存，一次一帧，格式为 HEIF 或 JPG。iOS 27 之前只能截屏。"
+    },
+    {
+      "q": "原视频会被修改吗？",
+      "a": "不会。App 只是读取视频并生成新的图片文件，“照片”中的视频保持不变。"
+    },
+    {
+      "q": "能离线使用吗？",
+      "a": "可以。帧在 iPhone 上从视频中提取，不需要联网，也不会上传任何内容。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-jiequ-zhaopian",
+    "shipin-tiqu-zhen",
+    "shipin-zhuan-tupian"
+  ],
+  "datePublished": "2026-10-01"
+}

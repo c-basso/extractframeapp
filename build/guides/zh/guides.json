@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "指南：iPhone 从视频截取照片",
+    "description": "iPhone 从视频截取照片的指南合集：比截屏更清晰、保存视频帧、提取多帧、视频转 PDF、制作封面，以及转成 JPG 或 PNG。",
+    "eyebrow": "指南",
+    "h1": "iPhone 视频截取照片：全部指南",
+    "intro": "每篇指南回答一个问题：iPhone 自带功能能做到什么（以及做不到什么），以及用 Video To Photo – Grab Frame 最快的做法。"
+  },
+  "labels": {
+    "home": "首页",
+    "guides": "指南",
+    "guide_eyebrow": "iPhone 指南",
+    "quick_answer": "简要回答",
+    "by": "作者：",
+    "updated": "更新于",
+    "min_read": "分钟阅读",
+    "faq_title": "常见问题",
+    "related": "相关指南",
+    "read_guide": "阅读指南",
+    "inline_cta": "用你自己的视频试试，只需一分钟。",
+    "app_card_cta": "在 App Store 下载",
+    "app_card_fine": "免费 · 含 App 内购买 · iOS 18.6+",
+    "app_card_bullets": ["精准选帧", "JPG、PNG、HEIC", "批量导出 ZIP 和 PDF", "离线使用，无需上传或账号"],
+    "final_cta_title": "你最好的照片，藏在视频里。",
+    "final_cta_text": "以原画质保存到 iPhone。无需上传、无需账号、无需剪辑技巧。"
+  }
+}

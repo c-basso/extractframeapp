@@ -1,0 +1,64 @@
+{
+  "slug": "maraming-frame-mula-sa-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "video to picture frames",
+  "secondary_keywords": [
+    "video to pictures",
+    "video to picture frame by frame",
+    "kumuha ng maraming picture sa video"
+  ],
+  "title": "Maraming Frame mula sa Video sa iPhone nang Sabay-sabay",
+  "description": "Kumuha ng maraming frame mula sa video nang sabay sa iPhone, walang computer o ffmpeg. Piliin lang ang kailangang frame at i-save bilang picture, ZIP o PDF.",
+  "h1": "Paano kumuha ng maraming frame mula sa video sa iPhone",
+  "nav_title": "Maraming frame mula sa video",
+  "card_title": "Maraming frame mula sa isang video",
+  "excerpt": "Serye ng frame mula sa iisang video, ine-export bilang image, ZIP o PDF.",
+  "lead": "Storyboard, sports sequence, before and after, compilation ng reaksyon: minsan hindi sapat ang isang picture. Ganito kumuha ng kahit ilang frame mula sa video gamit lang ang iPhone.",
+  "quick_answer": "Buksan ang video sa Video To Photo – Grab Frame at i-tap ang save sa bawat sandaling gusto mo. Suriin ang mga frame, burahin ang pangit at i-export lahat nang sabay bilang hiwalay na JPG, PNG o HEIC, bilang ZIP o PDF.",
+  "content_intro": "<h2>Lahat ng frame, o yung maganda lang?</h2><p>Ang 30-segundong video sa 30 fps ay may 900 frame. Kung i-e-export mo lahat gaya ng ffmpeg o VLC sa computer, daan-daang halos magkakaparehong file ang makukuha mo. Sa phone, kadalasan mas mabilis <strong>piliin lang ang kailangang frame</strong>.</p><table><thead><tr><th>Layunin</th><th>Paraan</th></tr></thead><tbody><tr><td>Storyboard, step-by-step na gabay</td><td>Isang frame bawat eksena o hakbang</td></tr><tr><td>Sports, pagsusuri ng galaw</td><td>Mga frame sa pantay na pagitan</td></tr><tr><td>Pinakamagandang picture</td><td>Pinakamalinaw sa 3–5 magkakatabing frame</td></tr><tr><td>Lahat ng frame para sa animation o analysis</td><td>Program sa computer (ffmpeg)</td></tr></tbody></table><p>Isang frame bawat beses ang sine-save ng built-in na feature ng iOS 27, kaya hindi ito bagay sa serye.</p>",
+  "steps_title": "Paano kumuha ng maraming frame mula sa video sa iPhone",
+  "steps": [
+    {
+      "name": "Buksan ang video",
+      "text": "I-share mula sa Photos papunta sa app, o piliin ito sa Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "I-save ang bawat sandali",
+      "text": "I-drag ang strip at i-tap ang save sa bawat sandali. Binibilang ng counter para sa iyo.",
+      "shot": 1
+    },
+    {
+      "name": "Suriin ang mga frame",
+      "text": "Buksan nang full screen, tingnan ang linaw at burahin ang mga duplicate o malabong frame.",
+      "shot": 2
+    },
+    {
+      "name": "I-export lahat",
+      "text": "Piliin ang JPEG, PNG o HEIC. Hiwalay na image sa Files, ZIP bilang isang file, PDF bilang dokumento.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF o hiwalay na file?</h2><ul><li><strong>Hiwalay na file</strong>: i-edit o i-post isa-isa.</li><li><strong>ZIP</strong>: isang file para sa AirDrop, email, Messenger o cloud.</li><li><strong>PDF</strong>: storyboard, notes, dokumentong ire-review. Tingnan ang <a href=\"/fil/guides/video-to-pdf/\">video to PDF</a>.</li></ul><h2>Mga tip para sa serye</h2><ul><li>Pumili ng mga frame sa pantay na pagitan para madaling sundan ang galaw.</li><li>Para sa collage, mag-export ng PNG para iwas dagdag na JPEG compression.</li><li>Nakatago ang project, kaya puwede mong idagdag ang kulang na frame mamaya.</li></ul>",
+  "faq": [
+    {
+      "q": "Ilang frame ang makukuha ko sa isang video?",
+      "a": "Kahit ilan ang kailangan mo. I-tap ang save sa bawat sandali at i-export lahat nang sabay. Medyo mas matagal ang export kapag marami."
+    },
+    {
+      "q": "Puwede bang awtomatikong i-export lahat ng frame?",
+      "a": "Ginawa ang Video To Photo – Grab Frame para pumili ng frame. Kung talagang kailangan mo ang bawat frame para sa animation o analysis, mas bagay ang program sa computer gaya ng ffmpeg."
+    },
+    {
+      "q": "Paano magpadala ng maraming frame nang sabay?",
+      "a": "I-export bilang ZIP at ipadala ang isang file sa AirDrop, email o Messenger. O i-export bilang PDF."
+    }
+  ],
+  "related": [
+    "video-to-pdf",
+    "video-frame-by-frame-iphone",
+    "i-save-ang-frame-ng-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

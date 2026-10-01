@@ -1,0 +1,65 @@
+{
+  "slug": "youtube-kapak-fotografi-yapma",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "YouTube kapak fotoğrafı yapma",
+  "secondary_keywords": [
+    "youtube kapak fotoğrafı yapma",
+    "youtube kapak fotoğrafı boyutu",
+    "youtube kapak fotoğrafı nasıl yapılır",
+    "reels kapak fotoğrafı"
+  ],
+  "title": "iPhone'da Videodan YouTube Kapak Fotoğrafı Yapma",
+  "description": "iPhone'da kendi videondan kapak fotoğrafı yap: en iyi kareyi seç, net kaydet, yazı ekle ve YouTube, TikTok veya Reels'e yükle.",
+  "h1": "iPhone'da videodan kapak fotoğrafı nasıl yapılır",
+  "nav_title": "YouTube kapak fotoğrafı",
+  "card_title": "Videodan kapak fotoğrafı yapma",
+  "excerpt": "Tıklama getiren kareyi bul, net kaydet ve YouTube, TikTok veya Reels kapağı olarak kullan.",
+  "lead": "En iyi kapak fotoğrafı çoğu zaman zaten videonda: gerçek bir ifade, gerçek bir an. Püf noktası o kareyi bulmak ve yazıya, kırpmaya ve sıkıştırmaya dayanacak kadar net çıkarmak.",
+  "quick_answer": "Videoyu Video To Photo – Grab Frame'de aç, 2–3 net ve etkileyici anı kaydet ve en iyisini PNG olarak aktar. Sevdiğin düzenleyicide büyük yazı ekle (YouTube için 1280×720, Shorts, TikTok ve Reels için 9:16) ve kapak olarak yükle.",
+  "content_intro": "<h2>Kapak için iyi bir kare nasıl olur?</h2><ul><li><strong>Net bir yüz veya özne</strong>: yakın, keskin, mümkünse kameraya bakan.</li><li><strong>Duygu</strong>: şaşkınlık, gülümseme veya odaklanma, nötr bir yüzden daha iyi çalışır.</li><li><strong>Yazı için boşluk</strong>: birkaç kelimelik sakin bir alan.</li><li><strong>Netlik</strong>: kapaklar küçüktür, her bulanıklık göze batar.</li></ul><h2>Kapak fotoğrafı boyutları</h2><table><thead><tr><th>Platform</th><th>Oran</th><th>Boyut</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagram ızgarası</td><td>1:1 / 4:5'e kırpılır</td><td>Özne ortada</td></tr></tbody></table><p>1080p veya 4K videodan bir kare zaten daha büyük. Önemli olan ekran görüntüsü değil, dosyadan aktarmak.</p>",
+  "steps_title": "iPhone'da videodan kapak fotoğrafı yapma",
+  "steps": [
+    {
+      "name": "Bitmiş videoyu aç",
+      "text": "Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş veya uygulamada seç.",
+      "shot": 0
+    },
+    {
+      "name": "Üç aday kaydet",
+      "text": "En güçlü anları bul ve kaydet. İfadeler hızla değişir, komşu kareleri de kaydet.",
+      "shot": 1
+    },
+    {
+      "name": "En netini seç",
+      "text": "Önizlemede yüze yakınlaştır ve bulanık veya gözleri kapalı kareleri sil.",
+      "shot": 2
+    },
+    {
+      "name": "PNG aktar ve yazı ekle",
+      "text": "Düzenleme kaliteyi düşürmesin diye PNG olarak aktar, kısa bir başlık ekle ve kapak olarak yükle.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kapak fotoğrafı nasıl yüklenir</h2><ul><li><strong>YouTube:</strong> YouTube veya YouTube Studio uygulamasında video ayrıntılarını düzenle ve fotoğraflarından özel bir küçük resim seç (doğrulanmış hesap gerekir).</li><li><strong>TikTok:</strong> paylaşmadan önce Kapağı düzenle'ye dokun ve bir görüntü seç.</li><li><strong>Instagram Reels:</strong> Kapağı düzenle'den film rulondaki bir görüntüyü ekle.</li></ul><h2>Daha çok tıklama için ipuçları</h2><ul><li>Az yazı, en fazla birkaç kelime.</li><li>Özne, yazı ve arka plan arasında güçlü kontrast.</li><li>Tüm kanalda tanınır bir stil.</li><li>İki kareyi test et: birkaç gün sonra kapağı değiştir ve karşılaştır.</li></ul>",
+  "faq": [
+    {
+      "q": "Kendi videomdan bir kareyi YouTube kapak fotoğrafı yapabilir miyim?",
+      "a": "Evet. Kareyi kaydet, istersen yazı ekle ve özel küçük resim olarak yükle. En iyisi 1280×720, JPG veya PNG."
+    },
+    {
+      "q": "YouTube kapak fotoğrafı boyutu nedir?",
+      "a": "1280×720 piksel (16:9), JPG veya PNG. Shorts, TikTok ve Reels kapağı 9:16 oranında, yani 1080×1920."
+    },
+    {
+      "q": "Kapak fotoğrafım neden bulanık çıkıyor?",
+      "a": "Çoğu zaman ekran görüntüsü veya hareketli bir kare yüzünden. Kareyi dosyadan aktar ve öznenin durduğu bir an seç."
+    }
+  ],
+  "related": [
+    "videodan-kaliteli-fotograf-alma",
+    "video-jpg-cevirme",
+    "videodan-fotograf-alma-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

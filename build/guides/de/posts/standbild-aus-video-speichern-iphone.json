@@ -1,0 +1,65 @@
+{
+  "slug": "standbild-aus-video-speichern-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "Standbild aus Video speichern iPhone",
+  "secondary_keywords": [
+    "einzelbild aus video speichern iphone",
+    "bild aus video speichern iphone",
+    "standbild aus video erstellen iphone",
+    "frame aus video als bild speichern"
+  ],
+  "title": "Standbild aus Video auf dem iPhone als Foto speichern",
+  "description": "So speicherst du ein Standbild aus einem Video auf dem iPhone als Foto: die Option in iOS 27 und der Weg für ältere iOS oder mehrere Bilder – JPG, PNG, HEIC.",
+  "h1": "Standbild aus einem Video auf dem iPhone speichern",
+  "nav_title": "Standbild aus Video speichern",
+  "card_title": "Einzelbild aus Video als Foto speichern",
+  "excerpt": "Ein exaktes Einzelbild in Fotos oder Dateien exportieren – ohne das Originalvideo anzutasten.",
+  "lead": "Du weißt genau, welches Bild du willst. Jetzt soll es als ganz normales Foto neben den anderen liegen. So geht's auf dem iPhone.",
+  "quick_answer": "Ab iOS 27: Video in Fotos öffnen, pausieren, auf „•••“ tippen und das Einzelbild als Foto sichern. Bei älterem iOS oder für mehrere Bilder, PNG, ZIP oder PDF: Video mit Video To Photo – Grab Frame teilen, Bild aufnehmen, auf Exportieren tippen und in Fotos oder Dateien speichern.",
+  "content_intro": "<h2>Option 1: integriert in iOS 27</h2><ol><li>Öffne das Video in Fotos und pausiere beim gewünschten Bild (für mehr Präzision über die Leiste wischen).</li><li>Tippe oben rechts auf <strong>„•••“</strong>.</li><li>Wähle, das Einzelbild als Foto zu sichern (<em>Save Video Frame as Photo</em>).</li></ol><p>Gespeichert wird in Videoauflösung als HEIF oder JPG (je nach Kameraformat). Beachte: <strong>ein Bild pro Vorgang</strong>, und das Foto übernimmt das <strong>Datum des Videos</strong> – du findest es beim Video, nicht oben in „Neueste“.</p><h2>Option 2: mehrere Bilder oder iOS 26 und älter</h2><p>In älteren Versionen lässt sich kein Bild integriert exportieren – bleibt der Screenshot, der den Bildschirm statt des Bildes speichert (siehe <a href=\"/de/guides/screenshot-video-iphone-ohne-qualitaetsverlust/\">warum Screenshots Qualität verlieren</a>). Und selbst unter iOS 27 ist eine App schneller für Serien, PNG, ZIP oder PDF.</p>",
+  "steps_title": "Standbild aus Video mit Video To Photo – Grab Frame speichern",
+  "steps": [
+    {
+      "name": "Video aus Fotos teilen",
+      "text": "Öffne das Video, tippe auf Teilen und wähle die App. Sie öffnet sich direkt im Aufnahmemodus.",
+      "shot": 0
+    },
+    {
+      "name": "Bild finden und aufnehmen",
+      "text": "Wische über den Streifen bis zum exakten Moment und tippe auf Aufnehmen. Der Zähler zeigt, wie viele Bilder du hast.",
+      "shot": 1
+    },
+    {
+      "name": "Format wählen",
+      "text": "Tippe auf Exportieren. JPEG zum Teilen, PNG verlustfrei, HEIC klein und hochwertig.",
+      "shot": 3
+    },
+    {
+      "name": "In Fotos oder Dateien speichern",
+      "text": "Speichere über das Teilen-Menü in der Mediathek, in Dateien oder sende es direkt in einen Chat.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Wo landet das gespeicherte Bild?</h2><ul><li><strong>Mediathek</strong>: wie jedes Foto, bereit zum Bearbeiten, Teilen oder Drucken.</li><li><strong>Dateien</strong>: iCloud Drive oder „Auf meinem iPhone“, praktisch für die Arbeit.</li><li><strong>Jede App</strong>: WhatsApp, Instagram, Nachrichten oder Mail über das Teilen-Menü.</li></ul><h2>Mehrere Bilder auf einmal</h2><p>Nimm alle gewünschten Bilder vor dem Export auf: als einzelne Dateien, <strong>ZIP-Archiv</strong> oder <strong>PDF</strong>. Siehe <a href=\"/de/guides/bilder-aus-video-extrahieren/\">Bilder aus Video extrahieren</a>.</p><h2>Später weitermachen</h2><p>Jedes Video wird als Projekt gespeichert – komm morgen zurück und speichere weitere Bilder, ohne das Video neu zu suchen.</p>",
+  "faq": [
+    {
+      "q": "Kann die Fotos-App ein Standbild aus einem Video speichern?",
+      "a": "Ja, ab iOS 27: Pause, „•••“ und Einzelbild als Foto sichern. Jeweils ein Bild als HEIF oder JPG. Vor iOS 27 geht nur ein Screenshot."
+    },
+    {
+      "q": "Wird das Originalvideo verändert?",
+      "a": "Nein. Die App liest das Video und erstellt eine neue Bilddatei. Das Video in Fotos bleibt unverändert."
+    },
+    {
+      "q": "Funktioniert das offline?",
+      "a": "Ja. Die Bilder werden auf dem iPhone extrahiert – kein Internet nötig, nichts wird hochgeladen."
+    }
+  ],
+  "related": [
+    "foto-aus-video-iphone",
+    "bilder-aus-video-extrahieren",
+    "video-in-jpg-umwandeln"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "screenshot-video-iphone-ohne-qualitaetsverlust",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "Screenshot von Video iPhone ohne Qualitätsverlust",
+  "secondary_keywords": [
+    "screenshot von video iphone",
+    "screenshot video iphone 16",
+    "aus video ganzes bild speichern iphone"
+  ],
+  "title": "Screenshot von Video auf dem iPhone ohne Qualitätsverlust",
+  "description": "Warum ein Screenshot von einem Video auf dem iPhone unscharf und beschnitten ist – und wie du stattdessen das echte Videobild in voller Qualität speicherst.",
+  "h1": "Screenshot von einem Video auf dem iPhone ohne Qualitätsverlust",
+  "nav_title": "Screenshot ohne Qualitätsverlust",
+  "card_title": "Screenshot von Video ohne Qualitätsverlust",
+  "excerpt": "Warum Video-Screenshots unscharf wirken – und wie du ohne Screenshot ein scharfes Bild in voller Größe bekommst.",
+  "lead": "Pause, Seitentaste plus Lauter, zuschneiden … und trotzdem sieht es schlechter aus als das Video. Das bildest du dir nicht ein: Ein Screenshot fotografiert den Bildschirm, nicht das Video.",
+  "quick_answer": "Ein Screenshot kann nicht schärfer sein als dein Display – lass ihn weg. Ab iOS 27: Video in Fotos pausieren, auf „•••“ tippen und das Einzelbild als Foto sichern. Bei älterem iOS, für mehrere Bilder oder PNG öffnest du das Video in Video To Photo – Grab Frame und exportierst das Bild. Beides speichert das echte Bild ohne Bedienelemente und schwarze Balken.",
+  "content_intro": "<h2>Screenshot von einem Video auf dem iPhone (klassisch)</h2><ol><li>Spiele das Video in Fotos ab und pausiere.</li><li>Tippe auf den Bildschirm, um die Bedienelemente auszublenden.</li><li>Drücke gleichzeitig <strong>Seitentaste</strong> und <strong>Lauter</strong> (bei iPhones mit Home-Taste: Home + Seitentaste).</li><li>Öffne die Miniatur, schneide schwarze Balken weg und tippe auf Fertig.</li></ol><h2>Warum der Screenshot Qualität verliert</h2><ul><li><strong>Bildschirm- statt Videoauflösung.</strong> Ein 4K-Querformat-Video (3840 × 2160) füllt auf einem Hochformat-Display nur einen Streifen; nach dem Zuschneiden bleibt ein Bruchteil der echten Auflösung.</li><li><strong>Schwer zu treffen.</strong> Pausieren per Tipp ist ungenau – oft erwischst du Blinzeln oder Unschärfe.</li><li><strong>Störende Elemente und erneute Kompression.</strong> Bedienelemente, Untertitel, Zeitleiste und ein weiteres Speichern beim Zuschneiden.</li></ul><blockquote><p>Die Lösung ist kein besserer Screenshot, sondern gar keiner.</p></blockquote><h2>Weg 1: Fotos ab iOS 27</h2><p>Öffne das Video in Fotos, pausiere beim gewünschten Moment, tippe auf <strong>„•••“</strong> und wähle, das Einzelbild als Foto zu sichern (<em>Save Video Frame as Photo</em>). Gespeichert wird in Videoauflösung als HEIF oder JPG, ein Bild pro Vorgang, mit dem Datum des Videos.</p><h2>Weg 2: eine App (jedes iOS, viele Bilder)</h2><p>Unter iOS 26 oder älter oder wenn du mehrere Bilder, PNG, ZIP oder PDF brauchst, liest eine Frame-App die Bilder direkt aus der Videodatei und exportiert sie in einem Rutsch.</p>",
+  "steps_title": "Videobild auf dem iPhone ohne Screenshot speichern",
+  "steps": [
+    {
+      "name": "Video in der App öffnen",
+      "text": "In Fotos auf Teilen tippen und die App wählen – oder Video To Photo – Grab Frame öffnen und das Video auswählen.",
+      "shot": 0
+    },
+    {
+      "name": "Beim exakten Bild anhalten",
+      "text": "Wische langsam über den Bildstreifen, bis die große Vorschau den Moment zeigt. Kein Wettlauf mit der Pausetaste.",
+      "shot": 1
+    },
+    {
+      "name": "Bild aufnehmen",
+      "text": "Es landet in der Leiste. Nimm auch zwei Nachbarbilder auf und vergleiche sie in der Vorschau.",
+      "shot": 2
+    },
+    {
+      "name": "Als PNG oder HEIC exportieren",
+      "text": "PNG verlustfrei, HEIC hohe Qualität bei kleiner Datei. In Fotos oder Dateien speichern.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Screenshot vs. extrahiertes Bild</h2><table><thead><tr><th></th><th>Screenshot</th><th>Bild aus der Datei</th></tr></thead><tbody><tr><td>Auflösung</td><td>Auf das Display begrenzt</td><td>Die des Videos</td></tr><tr><td>Exakter Moment</td><td>Glückssache</td><td>Bildstreifen</td></tr><tr><td>Bedienelemente & Balken</td><td>Oft, Zuschnitt nötig</td><td>Nie</td></tr><tr><td>Viele Bilder</td><td>Ein Screenshot nach dem anderen</td><td>Stapelexport, ZIP oder PDF</td></tr><tr><td>Format</td><td>PNG-Screenshot</td><td>JPG, PNG oder HEIC</td></tr></tbody></table><h2>Für das schärfste Ergebnis</h2><p>Ein Bild kann nicht schärfer sein als das Video. Am besten werden ruhige Momente bei gutem Licht und hoher Auflösung. Mehr dazu: <a href=\"/de/guides/foto-aus-video-gute-qualitaet/\">Foto aus Video in guter Qualität</a>.</p>",
+  "faq": [
+    {
+      "q": "Warum ist mein Screenshot vom Video unscharf?",
+      "a": "Weil er den Bildschirm aufnimmt: Das Video wird auf den Displaybereich verkleinert, und die Pause trifft oft ein verwackeltes Bild. Das Bild aus der Datei zu speichern löst beides."
+    },
+    {
+      "q": "Kann ich auf dem iPhone ein Videobild ohne Screenshot speichern?",
+      "a": "Ja. Ab iOS 27 über das „•••“-Menü in Fotos. In jeder Version mit Video To Photo – Grab Frame, das die Bilder direkt aus der Videodatei extrahiert."
+    },
+    {
+      "q": "Welches Format erhält die meiste Qualität?",
+      "a": "PNG ist verlustfrei und erhält jedes Pixel. HEIC bietet fast die gleiche Qualität bei weniger Speicher. JPG ist am kleinsten und am kompatibelsten."
+    }
+  ],
+  "related": [
+    "foto-aus-video-iphone",
+    "foto-aus-video-gute-qualitaet",
+    "video-in-jpg-umwandeln"
+  ],
+  "datePublished": "2026-09-30"
+}

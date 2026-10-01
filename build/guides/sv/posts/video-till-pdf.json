@@ -1,0 +1,64 @@
+{
+  "slug": "video-till-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video till pdf",
+    "bildrutor till pdf",
+    "storyboard från video"
+  ],
+  "title": "Video till PDF på iPhone: storyboard, guide, anteckningar",
+  "description": "Spara bildrutor från video i en enda PDF på iPhone: till storyboard, steg-för-steg-guide, föreläsningsanteckningar eller rapport. Utan dator.",
+  "h1": "Bildrutor från video i en PDF på iPhone",
+  "nav_title": "Video till PDF",
+  "card_title": "Bildrutor från video i en PDF",
+  "excerpt": "Storyboard, guide eller anteckningar i en PDF, direkt från videon.",
+  "lead": "Ibland behöver du inte en bild utan ett dokument: stegen i ett recept, en monteringsanvisning, bilderna från en föreläsning eller ett storyboard. Då är det smidigast att bildrutorna hamnar i en PDF, i ordning.",
+  "quick_answer": "Öppna videon i Video To Photo – Grab Frame, spara de viktiga bildrutorna och exportera som PDF. Bildrutorna ligger i tidsordning i en fil som du kan skicka eller skriva ut.",
+  "content_intro": "<h2>Vad används en PDF från video till?</h2><table><thead><tr><th>Användning</th><th>Exempel</th></tr></thead><tbody><tr><td>Guide</td><td>Recept, möbelmontering, programvaruguide</td></tr><tr><td>Storyboard</td><td>Film, reklam, video för sociala medier</td></tr><tr><td>Anteckningar</td><td>Bilder från föreläsning eller webbinarium</td></tr><tr><td>Rapport</td><td>Dokumentation av skada, fel eller arbete</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p><p>Bilder sparar en i taget och skapar ingen PDF.</p>",
+  "steps_title": "Exportera bildrutor till PDF",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Spara de viktiga bildrutorna",
+      "text": "Gå igenom videon och spara stegen eller scenerna. Som projekt kan du fortsätta senare.",
+      "shot": 1
+    },
+    {
+      "name": "Kontrollera ordningen",
+      "text": "Gå igenom bildrutorna och radera de överflödiga.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera som PDF",
+      "text": "Välj PDF-export och spara i Filer eller dela.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Ett steg, en bildruta: spara inte nästan likadana bilder.</li><li>I guider från skärminspelning måste texten vara läsbar: undvik bildrutor i rörelse.</li><li>Är PDF:en stor, skicka ZIP eller färre bildrutor.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan jag göra om en video till PDF?",
+      "a": "Inte själva videon, men bildrutorna från den. Video To Photo – Grab Frame skapar en PDF av de valda bildrutorna."
+    },
+    {
+      "q": "Behöver jag en dator?",
+      "a": "Nej. Allt sker på iPhone, utan internet."
+    },
+    {
+      "q": "Hur många bildrutor får plats i en PDF?",
+      "a": "Så många du väljer. Med många bildrutor kan filen bli stor, så det lönar sig att sortera."
+    }
+  ],
+  "related": [
+    "ta-ut-bilder-fran-video",
+    "video-till-jpg-png",
+    "app-bild-fran-video"
+  ],
+  "datePublished": "2026-10-01"
+}

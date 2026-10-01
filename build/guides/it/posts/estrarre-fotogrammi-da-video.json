@@ -1,0 +1,65 @@
+{
+  "slug": "estrarre-fotogrammi-da-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "estrarre fotogrammi da video",
+  "secondary_keywords": [
+    "estrarre fotogrammi da video iphone",
+    "convertire video in immagini",
+    "video in fotogrammi",
+    "fotogrammi di un video"
+  ],
+  "title": "Estrarre fotogrammi da un video su iPhone, anche tanti",
+  "description": "Come estrarre più fotogrammi da un video su iPhone in un solo passaggio, senza computer né ffmpeg. Salvali come foto singole, archivio ZIP o PDF.",
+  "h1": "Come estrarre fotogrammi da un video su iPhone",
+  "nav_title": "Estrarre fotogrammi da video",
+  "card_title": "Estrarre più fotogrammi da un video",
+  "excerpt": "Un'intera serie di fotogrammi da un video, esportati insieme: immagini, ZIP o PDF.",
+  "lead": "Storyboard, sequenze sportive, prima e dopo, reazioni… a volte un fotogramma non basta. Ecco come estrarne quanti ne servono, direttamente su iPhone.",
+  "quick_answer": "Apri il video in Video To Photo – Grab Frame e tocca cattura su ogni momento che ti serve. Controlla la serie, elimina il superfluo ed esporta tutto in una volta: JPG, PNG o HEIC singoli, un archivio ZIP o un PDF.",
+  "content_intro": "<h2>Tutti i fotogrammi o quelli giusti?</h2><p>Un video di 30 secondi a 30 fps sono 900 fotogrammi. Esportarli tutti (come fanno ffmpeg o VLC sul computer) dà centinaia di file quasi identici. Sul telefono è quasi sempre più veloce <strong>scegliere quelli che contano</strong> ed esportare solo quelli.</p><table><thead><tr><th>Obiettivo</th><th>Approccio migliore</th></tr></thead><tbody><tr><td>Storyboard o passaggi di un tutorial</td><td>Un fotogramma per scena o passaggio</td></tr><tr><td>Sport, movimento</td><td>Fotogrammi a intervalli regolari</td></tr><tr><td>Trovare la foto perfetta</td><td>3–5 fotogrammi vicini, tenere il più nitido</td></tr><tr><td>Ogni fotogramma per animazione o analisi</td><td>Meglio un programma sul computer (ffmpeg)</td></tr></tbody></table><p>La funzione integrata di iOS 27 salva un fotogramma alla volta: scomoda per le serie.</p>",
+  "steps_title": "Come estrarre più fotogrammi da un video su iPhone",
+  "steps": [
+    {
+      "name": "Apri il video",
+      "text": "Condividilo da Foto con l'app o sceglilo dentro Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Cattura ogni momento",
+      "text": "Scorri la striscia e tocca cattura su ogni momento. Il contatore mostra quanti ne hai.",
+      "shot": 1
+    },
+    {
+      "name": "Controlla la serie",
+      "text": "Apri i fotogrammi a schermo intero, verifica la nitidezza ed elimina doppioni e mossi.",
+      "shot": 2
+    },
+    {
+      "name": "Esportali insieme",
+      "text": "Scegli JPEG, PNG o HEIC e poi File per immagini singole, ZIP per un solo file, PDF per un documento.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF o file singoli?</h2><ul><li><strong>File singoli</strong>: se modificherai o pubblicherai ogni fotogramma.</li><li><strong>ZIP</strong>: un solo file per AirDrop, email, WhatsApp o il cloud.</li><li><strong>PDF</strong>: tutti i fotogrammi in un documento per storyboard, appunti o approvazione. Vedi <a href=\"/it/guides/video-in-pdf/\">video in PDF</a>.</li></ul><h2>Consigli per le serie</h2><ul><li>Per il movimento, prendi fotogrammi a intervalli simili.</li><li>Per un collage esporta in PNG, così non ricomprimi il JPEG.</li><li>Il progetto viene salvato: torna ad aggiungere i fotogrammi mancanti.</li></ul>",
+  "faq": [
+    {
+      "q": "Quanti fotogrammi posso estrarre da un video?",
+      "a": "Quanti ne servono: tocca cattura su ogni momento ed esporta l'intera serie. Le serie grandi richiedono solo un po' più di tempo per l'esportazione."
+    },
+    {
+      "q": "Posso estrarre automaticamente tutti i fotogrammi?",
+      "a": "Video To Photo – Grab Frame è pensata per scegliere i fotogrammi. Se ti serve davvero ogni fotogramma per animazione o analisi, è più comodo un programma sul computer come ffmpeg."
+    },
+    {
+      "q": "Come invio tanti fotogrammi insieme?",
+      "a": "Esporta un archivio ZIP e invia un solo file via AirDrop, email o WhatsApp. Oppure esporta un PDF."
+    }
+  ],
+  "related": [
+    "video-in-pdf",
+    "video-fotogramma-per-fotogramma-iphone",
+    "salvare-fotogramma-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

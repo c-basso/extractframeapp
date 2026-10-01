@@ -1,0 +1,64 @@
+{
+  "slug": "fotka-z-videa-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "fotka z videa iphone",
+  "secondary_keywords": [
+    "fotka z videa",
+    "ako urobiť fotku z videa iphone",
+    "vytiahnuť fotku z videa"
+  ],
+  "title": "Fotka z videa na iPhone: 3 spôsoby",
+  "description": "Ako urobiť fotku z videa na iPhone v plnej kvalite: vstavaná funkcia iOS 27, snímka obrazovky a aplikácia na ostré snímky vo formáte JPG, PNG alebo HEIC.",
+  "h1": "Ako urobiť fotku z videa na iPhone",
+  "nav_title": "Fotka z videa",
+  "card_title": "Ako urobiť fotku z videa na iPhone",
+  "excerpt": "Tri spôsoby, od najrýchlejšieho po najvyššiu kvalitu, a kedy ktorý použiť.",
+  "lead": "Najlepší okamih je často len vo videu: úsmev, skok, sfúknutie sviečok na torte. Na iPhone z neho môžete urobiť fotku tromi spôsobmi. Líšia sa kvalitou, rýchlosťou a tým, koľko fotiek potrebujete.",
+  "quick_answer": "V iOS 27 pozastavte video vo Fotkách, ťuknite na ••• a uložte snímku ako fotku. V staršom iOS alebo pre viac fotiek v JPG, PNG či HEIC otvorte video vo Video To Photo – Grab Frame, nájdite snímku a uložte ju v plnom rozlíšení.",
+  "content_intro": "<h2>Porovnanie spôsobov</h2><table><thead><tr><th>Spôsob</th><th>Kvalita</th><th>Viac snímok</th><th>Formáty</th></tr></thead><tbody><tr><td>Snímka obrazovky</td><td>Rozlíšenie displeja</td><td>Nie</td><td>PNG</td></tr><tr><td>Fotky (iOS 27)</td><td>Plná</td><td>Po jednej</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Plná</td><td>Áno, naraz</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p>",
+  "steps_title": "Fotka z videa pomocou Grab Frame",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Vo Fotkách otvorte video, ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame. Zobrazenie snímok sa otvorí hneď.",
+      "shot": 0
+    },
+    {
+      "name": "Nájdite okamih",
+      "text": "Potiahnite pás snímok na správny okamih a ťuknite na tlačidlo uloženia.",
+      "shot": 1
+    },
+    {
+      "name": "Skontrolujte ostrosť",
+      "text": "Otvorte snímku na celú obrazovku a priblížte ju. Rozmazané snímky vymažte.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte",
+      "text": "Vyberte JPG, PNG alebo HEIC a uložte do Fotiek, Súborov, ZIP alebo PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Prečo nestačí snímka obrazovky?</h2><p>Snímka obrazovky ukladá to, čo je na displeji, nie samotné video. 4K snímka sa zmenší na veľkosť displeja a na fotke môžu zostať ovládacie prvky alebo čierne pruhy. Na rýchlu poznámku stačí, na spomienky či tlač nie.</p><h2>Tipy</h2><ul><li>Natáčajte v 4K a 60 fps pre ostrejšie snímky.</li><li>Porovnajte susedné snímky a nechajte si najostrejšiu.</li><li>Pracujte s pôvodným videom, nie s kópiou z Messengera alebo WhatsAppu.</li></ul>",
+  "faq": [
+    {
+      "q": "Vie iPhone urobiť fotku z videa bez aplikácie?",
+      "a": "Áno, od iOS 27 vedia Fotky uložiť pozastavenú snímku ako fotku, vždy jednu. V starších verziách potrebujete snímku obrazovky alebo aplikáciu."
+    },
+    {
+      "q": "Zhorší sa kvalita?",
+      "a": "Nie, ak ukladáte zo súboru videa. Fotka má rozlíšenie videa: približne 8 MP zo 4K, približne 2 MP z 1080p."
+    },
+    {
+      "q": "Zmení sa pôvodné video?",
+      "a": "Nie. Video zostane nezmenené a snímky sa uložia ako nové fotky."
+    }
+  ],
+  "related": [
+    "screenshot-z-videa-iphone",
+    "ako-ulozit-fotku-z-videa",
+    "ostra-fotka-z-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

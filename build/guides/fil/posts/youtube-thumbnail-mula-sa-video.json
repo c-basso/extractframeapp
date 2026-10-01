@@ -1,0 +1,65 @@
+{
+  "slug": "youtube-thumbnail-mula-sa-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "YouTube thumbnail mula sa video",
+  "secondary_keywords": [
+    "youtube thumbnail size",
+    "youtube thumbnail creator",
+    "youtube thumbnail",
+    "reels cover mula sa video"
+  ],
+  "title": "YouTube Thumbnail mula sa Video sa iPhone: Paano Gawin",
+  "description": "Thumbnail o cover mula sa sarili mong video sa iPhone: pinakamagandang frame, malinaw na save, text at upload sa YouTube, TikTok o Reels.",
+  "h1": "Paano gumawa ng thumbnail mula sa video sa iPhone",
+  "nav_title": "YouTube thumbnail mula sa video",
+  "card_title": "Thumbnail o cover mula sa video",
+  "excerpt": "Hanapin ang frame na nagdadala ng click, i-save nang malinaw at gamitin bilang cover sa YouTube, TikTok o Reels.",
+  "lead": "Ang pinakamagandang thumbnail ay kadalasang nasa video mo na: totoong ekspresyon, totoong sandali. Ang sikreto ay hanapin ang frame at kunin ito nang sapat na malinaw para kayanin ang text, crop at compression.",
+  "quick_answer": "Buksan ang video sa Video To Photo – Grab Frame, mag-save ng 2–3 malinaw at ekspresibong sandali, at i-export ang pinakamaganda bilang PNG. Lagyan ng malaking text sa paborito mong editor (1280×720 para sa YouTube, 9:16 para sa Shorts, TikTok at Reels) at i-upload bilang thumbnail o cover.",
+  "content_intro": "<h2>Anong frame ang bagay sa thumbnail?</h2><ul><li><strong>Malinaw na mukha o subject</strong>: malapit, matalas, mas maganda kung nakatingin sa camera.</li><li><strong>Emosyon</strong>: gulat, ngiti o konsentrasyon ay mas epektibo kaysa blangkong mukha.</li><li><strong>Puwang para sa text</strong>: tahimik na bahagi para sa ilang salita.</li><li><strong>Linaw</strong>: maliit ang thumbnail, kita ang kahit kaunting labo.</li></ul><h2>Mga sukat ng thumbnail</h2><table><thead><tr><th>Platform</th><th>Ratio</th><th>Sukat</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagram grid</td><td>naka-crop sa 1:1 / 4:5</td><td>Subject sa gitna</td></tr></tbody></table><p>Mas malaki na rito ang frame mula sa 1080p o 4K na video. Ang mahalaga ay mag-export mula sa file, hindi mag-screenshot.</p>",
+  "steps_title": "Paano gumawa ng thumbnail mula sa video sa iPhone",
+  "steps": [
+    {
+      "name": "Buksan ang tapos na video",
+      "text": "I-share mula sa Photos papunta sa Video To Photo – Grab Frame, o piliin ito sa app.",
+      "shot": 0
+    },
+    {
+      "name": "Mag-save ng tatlong kandidato",
+      "text": "Hanapin ang pinakamalalakas na sandali at i-save. Mabilis magbago ang ekspresyon, kaya i-save din ang katabing frame.",
+      "shot": 1
+    },
+    {
+      "name": "Piliin ang pinakamalinaw",
+      "text": "I-zoom ang mukha sa preview at burahin ang malabo o nakapikit na frame.",
+      "shot": 2
+    },
+    {
+      "name": "I-export ang PNG at lagyan ng text",
+      "text": "I-export bilang PNG para hindi bumaba ang kalidad sa pag-edit, maglagay ng maikling title at i-upload bilang thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Paano i-upload ang thumbnail</h2><ul><li><strong>YouTube:</strong> i-edit ang detalye ng video sa YouTube o YouTube Studio app at pumili ng custom thumbnail mula sa photos (kailangan ng verified account).</li><li><strong>TikTok:</strong> bago mag-post, i-tap ang Edit cover at pumili ng image.</li><li><strong>Instagram Reels:</strong> sa Edit cover, magdagdag ng image mula sa camera roll.</li></ul><h2>Mga tip para sa mas maraming click</h2><ul><li>Kaunting text, ilang salita lang.</li><li>Malakas na contrast sa pagitan ng subject, text at background.</li><li>Makikilalang istilo sa buong channel.</li><li>Subukan ang dalawang frame: palitan ang thumbnail pagkalipas ng ilang araw at ikumpara.</li></ul>",
+  "faq": [
+    {
+      "q": "Puwede bang gamitin ang frame ng sarili kong video bilang YouTube thumbnail?",
+      "a": "Oo. I-save ang frame, lagyan ng text kung gusto mo, at i-upload bilang custom thumbnail. Pinakamainam ang 1280×720 bilang JPG o PNG."
+    },
+    {
+      "q": "Ano ang size ng YouTube thumbnail?",
+      "a": "1280×720 pixel (16:9), JPG o PNG. Ang cover ng Shorts, TikTok at Reels ay 9:16, ibig sabihin 1080×1920."
+    },
+    {
+      "q": "Bakit malabo ang thumbnail ko?",
+      "a": "Kadalasan dahil sa screenshot o frame na gumagalaw. I-export ang frame mula sa file at pumili ng sandaling hindi gumagalaw ang subject."
+    }
+  ],
+  "related": [
+    "malinaw-na-picture-mula-sa-video",
+    "video-to-jpg-png",
+    "paano-kumuha-ng-picture-sa-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

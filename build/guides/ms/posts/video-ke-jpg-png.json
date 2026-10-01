@@ -1,0 +1,65 @@
+{
+  "slug": "video-ke-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "video to jpg converter",
+    "video ke jpg",
+    "video to png",
+    "video to heic"
+  ],
+  "title": "Video ke JPG, PNG atau HEIC di iPhone",
+  "description": "Simpan bingkai daripada video dalam JPG, PNG atau HEIC di iPhone. Bila memilih format mana, dan cara eksport ke Fail, ZIP atau PDF.",
+  "h1": "Menukar video ke JPG, PNG atau HEIC di iPhone",
+  "nav_title": "Video ke JPG/PNG",
+  "card_title": "Video ke JPG, PNG atau HEIC",
+  "excerpt": "Kegunaan setiap format dan cara mengeksport bingkai.",
+  "lead": "Video tidak boleh terus ditukar menjadi satu JPG: gambar sentiasa datang daripada bingkai yang dipilih. Persoalannya, simpan dalam format apa: JPG, PNG atau HEIC. Setiap satu ada tempatnya.",
+  "quick_answer": "Pilih bingkai dalam Video To Photo – Grab Frame dan eksport ke JPG (dibuka di mana-mana), PNG (tanpa kehilangan, untuk suntingan) atau HEIC (fail kecil, untuk peranti Apple). Banyak bingkai boleh disimpan serentak ke Fail, ZIP atau PDF.",
+  "content_intro": "<h2>Format mana yang dipilih?</h2><table><thead><tr><th>Format</th><th>Kelebihan</th><th>Bila</th></tr></thead><tbody><tr><td>JPG</td><td>Disokong di mana-mana</td><td>Berkongsi, e-mel, web</td></tr><tr><td>PNG</td><td>Tanpa kehilangan</td><td>Suntingan, thumbnail, teks pada gambar</td></tr><tr><td>HEIC</td><td>Fail kecil</td><td>Pustaka Foto, peranti Apple</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p><p>Apl Foto tidak menyediakan PNG atau simpanan pukal. Untuk itu perlukan apl.</p>",
+  "steps_title": "Eksport bingkai ke JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Pilih bingkai",
+      "text": "Seret jalur dan simpan bingkai yang dikehendaki. Satu atau berpuluh-puluh.",
+      "shot": 1
+    },
+    {
+      "name": "Pilih format",
+      "text": "Semasa eksport, pilih JPG, PNG atau HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Simpan",
+      "text": "Ke Foto, Fail, ZIP atau PDF, atau kongsi terus.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Membuka HEIC di Windows</h2><p>Windows lama dan sesetengah laman web tidak menyokong HEIC. Jika gambar tidak dihantar ke peranti Apple, pilih JPG.</p><h2>Adakah metadata dikekalkan?</h2><p>Gambar mendapat resolusi video. Tarikh dan lokasi bergantung pada video sumber dan cara eksport. Jika penting, semak maklumat foto dalam apl Foto.</p>",
+  "faq": [
+    {
+      "q": "Bagaimana menukar video ke JPG di iPhone?",
+      "a": "Pilih bingkai dalam Video To Photo – Grab Frame dan eksport sebagai JPG. Di iOS 27, apl Foto juga menyimpan bingkai dalam HEIF atau JPG."
+    },
+    {
+      "q": "PNG atau JPG?",
+      "a": "PNG untuk suntingan dan gambar bertulis, JPG untuk berkongsi. Fail PNG lebih besar, tetapi tanpa kehilangan kualiti."
+    },
+    {
+      "q": "Bolehkah menyimpan banyak bingkai serentak?",
+      "a": "Boleh, dalam mod pukal Grab Frame, kemudian eksport ke ZIP atau PDF."
+    }
+  ],
+  "related": [
+    "cara-simpan-gambar-dari-video-iphone",
+    "tukar-video-ke-gambar",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

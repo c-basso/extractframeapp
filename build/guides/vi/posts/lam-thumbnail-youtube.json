@@ -1,0 +1,65 @@
+{
+  "slug": "lam-thumbnail-youtube",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "làm thumbnail YouTube",
+  "secondary_keywords": [
+    "cách làm thumbnail youtube",
+    "làm thumbnail youtube bằng điện thoại",
+    "làm thumbnail youtube short",
+    "kích thước thumbnail youtube"
+  ],
+  "title": "Làm thumbnail YouTube từ video bằng iPhone",
+  "description": "Làm thumbnail hoặc ảnh bìa từ chính video của bạn trên iPhone: chọn khung hình đẹp nhất, lưu thật nét, thêm chữ và tải lên YouTube, TikTok hoặc Reels.",
+  "h1": "Cách làm thumbnail từ video bằng iPhone",
+  "nav_title": "Làm thumbnail YouTube",
+  "card_title": "Làm thumbnail hoặc ảnh bìa từ video",
+  "excerpt": "Tìm khung hình hút click, lưu thật nét và dùng làm ảnh bìa YouTube, TikTok hoặc Reels.",
+  "lead": "Thumbnail tốt nhất thường đã có sẵn trong video của bạn: biểu cảm thật, khoảnh khắc thật. Bí quyết là tìm đúng khung hình đó và lấy ra đủ nét để chịu được chữ, cắt cúp và nén.",
+  "quick_answer": "Mở video trong Video To Photo – Grab Frame, lưu 2–3 khoảnh khắc nét và giàu cảm xúc rồi xuất tấm đẹp nhất dạng PNG. Thêm chữ lớn trong ứng dụng chỉnh ảnh bạn thích (YouTube 1280×720, Shorts, TikTok và Reels 9:16) rồi tải lên làm thumbnail hoặc ảnh bìa.",
+  "content_intro": "<h2>Khung hình nào hợp làm thumbnail?</h2><ul><li><strong>Khuôn mặt hoặc chủ thể rõ ràng</strong>: gần, nét, tốt nhất là nhìn vào máy.</li><li><strong>Cảm xúc</strong>: ngạc nhiên, cười hay tập trung hiệu quả hơn mặt vô cảm.</li><li><strong>Chỗ cho chữ</strong>: một vùng thoáng để đặt vài chữ.</li><li><strong>Độ nét</strong>: thumbnail nhỏ, nhòe một chút cũng thấy.</li></ul><h2>Kích thước thumbnail</h2><table><thead><tr><th>Nền tảng</th><th>Tỉ lệ</th><th>Kích thước</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Lưới Instagram</td><td>cắt về 1:1 / 4:5</td><td>Đặt chủ thể ở giữa</td></tr></tbody></table><p>Khung hình từ video 1080p hoặc 4K đã lớn hơn mức này. Quan trọng là xuất từ tệp, không chụp màn hình.</p>",
+  "steps_title": "Cách làm thumbnail từ video trên iPhone",
+  "steps": [
+    {
+      "name": "Mở video đã hoàn thiện",
+      "text": "Chia sẻ từ Ảnh sang Video To Photo – Grab Frame hoặc chọn trong ứng dụng.",
+      "shot": 0
+    },
+    {
+      "name": "Lưu ba ứng viên",
+      "text": "Tìm những khoảnh khắc mạnh nhất và lưu lại. Biểu cảm thay đổi nhanh, nên lưu cả khung hình bên cạnh.",
+      "shot": 1
+    },
+    {
+      "name": "Chọn tấm nét nhất",
+      "text": "Phóng to khuôn mặt trong bản xem trước và xóa tấm nhòe hoặc nhắm mắt.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất PNG và thêm chữ",
+      "text": "Xuất PNG để chỉnh sửa không giảm chất lượng, thêm tiêu đề ngắn rồi tải lên làm thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Cách tải thumbnail lên</h2><ul><li><strong>YouTube:</strong> sửa chi tiết video trong ứng dụng YouTube hoặc YouTube Studio và chọn hình thu nhỏ tùy chỉnh từ ảnh (cần tài khoản đã xác minh).</li><li><strong>TikTok:</strong> trước khi đăng, chạm Sửa ảnh bìa và chọn ảnh.</li><li><strong>Instagram Reels:</strong> trong Sửa ảnh bìa, thêm ảnh từ thư viện.</li></ul><h2>Mẹo tăng lượt click</h2><ul><li>Ít chữ, tối đa vài từ.</li><li>Tương phản mạnh giữa chủ thể, chữ và nền.</li><li>Phong cách dễ nhận ra trên toàn kênh.</li><li>Thử hai khung hình: vài ngày sau đổi thumbnail và so sánh.</li></ul>",
+  "faq": [
+    {
+      "q": "Có dùng khung hình từ video của mình làm thumbnail YouTube được không?",
+      "a": "Được. Lưu khung hình, thêm chữ nếu muốn rồi tải lên làm hình thu nhỏ tùy chỉnh. Tốt nhất là 1280×720, JPG hoặc PNG."
+    },
+    {
+      "q": "Thumbnail YouTube kích thước bao nhiêu?",
+      "a": "1280×720 điểm ảnh (16:9), JPG hoặc PNG. Ảnh bìa Shorts, TikTok và Reels có tỉ lệ 9:16, tức 1080×1920."
+    },
+    {
+      "q": "Vì sao thumbnail của tôi bị mờ?",
+      "a": "Thường do chụp màn hình hoặc khung hình đang chuyển động. Hãy xuất khung hình từ tệp và chọn lúc chủ thể đứng yên."
+    }
+  ],
+  "related": [
+    "cat-anh-tu-video-net",
+    "chuyen-video-sang-jpg",
+    "cat-anh-tu-video-tren-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

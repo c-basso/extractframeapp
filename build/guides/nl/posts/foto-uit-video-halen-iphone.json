@@ -1,0 +1,69 @@
+{
+  "slug": "foto-uit-video-halen-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "foto uit video halen iPhone",
+  "secondary_keywords": [
+    "foto uit video iphone",
+    "foto maken uit video iphone",
+    "foto knippen uit video iphone",
+    "foto opslaan uit video iphone"
+  ],
+  "title": "Foto uit video halen op iPhone: 3 manieren (scherp)",
+  "description": "Zo haal je een foto uit een video op je iPhone. iOS 27, screenshot, onderwerp loslichten en meerdere foto's tegelijk als JPG, PNG of HEIC.",
+  "h1": "Een foto uit een video halen op je iPhone",
+  "nav_title": "Foto uit video (iPhone)",
+  "card_title": "Foto uit video halen op iPhone",
+  "excerpt": "Alle manieren om een foto uit een video te halen op iPhone, en wanneer je welke gebruikt.",
+  "lead": "Je filmde het moment in plaats van een foto te maken. Geen probleem: een video is een reeks van tientallen foto's per seconde. Zo haal je precies die ene foto eruit op je iPhone.",
+  "quick_answer": "Vanaf iOS 27 pauzeer je de video in Foto's en bewaar je het frame via ••• als foto (zelfde resolutie als de video, één per keer). Op oudere iOS, of als je meerdere foto's, PNG, ZIP of PDF wilt, open je de video in Video To Photo – Grab Frame, bewaar je de frames en exporteer je ze in één keer.",
+  "content_intro": "<h2>Kun je op een iPhone een foto uit een video halen?</h2><p>Ja. Een video bestaat uit 24 tot 60 stilstaande beelden per seconde, en elk frame kan een foto worden. De beste methode hangt af van je iOS-versie en hoeveel foto's je nodig hebt.</p><h2>Methodes vergeleken</h2><table><thead><tr><th>Methode</th><th>Kwaliteit</th><th>Beperking</th><th>Ideaal voor</th></tr></thead><tbody><tr><td><strong>Foto's → frame als foto bewaren</strong> (iOS 27+)</td><td>Resolutie van de video, HEIF of JPG</td><td>Eén frame per keer. De foto krijgt de datum van de video en staat dus niet bovenaan Recent</td><td>Snel één foto</td></tr><tr><td><strong>Screenshot</strong> (pauzeren en vastleggen)</td><td>Schermresolutie, vaak met afspeelknop of zwarte balken</td><td>Lastig om op het exacte frame te stoppen</td><td>Snelle notitie op oudere iOS</td></tr><tr><td><strong>Onderwerp loslichten</strong> (iOS 17+, lang drukken)</td><td>Alleen het onderwerp, zonder achtergrond</td><td>Geen volledig frame</td><td>Sticker van persoon of huisdier</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Uit het videobestand</td><td>App nodig (iOS 18.6+)</td><td>Meerdere foto's, PNG, ZIP, PDF, oudere iOS</td></tr></tbody></table><h3>Met de ingebouwde functie van iOS 27</h3><ol><li>Pauzeer: open de video in Foto's, pauzeer op het juiste moment, tik op <strong>•••</strong> en kies de optie om het frame als foto te bewaren (<em>Save Video Frame as Photo</em>).</li><li>Het frame komt als foto in de resolutie van de video in je bibliotheek.</li><li>De foto krijgt de datum en locatie van de video, dus zoek hem naast de video en niet bovenaan.</li></ol><p>Voor één foto is dat genoeg. Wil je tien frames uit dezelfde video, een PNG om te bewerken of alles als ZIP of PDF versturen, dan wordt het omslachtig.</p><h3>Waarom een screenshot niet hetzelfde is</h3><p>Tot en met iOS 26 is een screenshot de gewone manier, maar die legt het scherm vast, niet het frame. Een liggende 4K-video is op een staand scherm maar een smalle strook, en je moet de afspeelknop wegsnijden en precies op tijd pauzeren.</p>",
+  "steps_title": "Meerdere foto's uit een video halen met Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Deel de video met de app",
+      "text": "Open de video in Foto's, tik op Deel en kies de app. Of open Video To Photo – Grab Frame en kies een video uit je bibliotheek.",
+      "shot": 0
+    },
+    {
+      "name": "Zoek het moment en bewaar het",
+      "text": "Schuif over de framestrook tot het moment in de voorbeeldweergave staat en tik op bewaren. Bij beweging bewaar je ook de frames ervoor en erna.",
+      "shot": 1
+    },
+    {
+      "name": "Controleer je frames",
+      "text": "Open de voorbeeldweergave, zoom in op gezichten of tekst en verwijder wazige frames. Houd alleen de scherpste over.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer als foto",
+      "text": "Kies JPEG, PNG of HEIC en tik op Exporteer. Bewaar in Foto's of Bestanden, of stuur direct via WhatsApp, Instagram of mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tips voor een scherpe foto</h2><ul><li><strong>Kies het moment waarop de beweging stopt.</strong> Het hoogste punt van een sprong of vlak voor een lach: daar zijn frames het scherpst.</li><li><strong>Bewaar er drie, houd er één.</strong> Naburige frames lijken gelijk tot je inzoomt.</li><li><strong>Film in 4K of 60 fps.</strong> Meer in <a href=\"/nl/guides/scherpe-foto-uit-video/\">een scherpe foto uit een video halen</a>.</li><li><strong>Kies het formaat.</strong> JPG om te delen, PNG om te bewerken, HEIC om ruimte te besparen. Zie ook <a href=\"/nl/guides/video-naar-jpg-png/\">video naar JPG of PNG</a>.</li></ul><h2>Past de app mijn video aan of uploadt hij iets?</h2><p>Nee. Video To Photo – Grab Frame werkt met een kopie in de app en doet alles op je iPhone. Het origineel in Foto's blijft ongewijzigd en er gaat niets naar een server.</p>",
+  "faq": [
+    {
+      "q": "Kan de iPhone zelf een foto uit een video bewaren?",
+      "a": "Vanaf iOS 27 wel. Pauzeer de video in Foto's, tik op ••• en bewaar het frame als foto. Dat gaat één per keer, als HEIF of JPG. Tot en met iOS 26 is een screenshot de enige ingebouwde optie."
+    },
+    {
+      "q": "Waar staat het frame dat ik in iOS 27 bewaarde?",
+      "a": "In je fotobibliotheek, maar met de datum en locatie van de video. Het staat dus naast de originele video, niet bovenaan Recent."
+    },
+    {
+      "q": "Is de kwaliteit gelijk aan die van de video?",
+      "a": "Ja, als je het frame bewaart in plaats van een screenshot te maken. Zowel iOS 27 als Video To Photo – Grab Frame lezen het frame uit het videobestand. Snelle beweging kan wazig zijn, dus kies een stil moment."
+    },
+    {
+      "q": "Kan ik meerdere foto's uit dezelfde video halen?",
+      "a": "Ja. Bewaar in Video To Photo – Grab Frame elk moment en exporteer ze samen als losse bestanden, ZIP of PDF."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-zonder-kwaliteitsverlies",
+    "still-uit-video-opslaan-iphone",
+    "scherpe-foto-uit-video"
+  ],
+  "datePublished": "2026-09-30"
+}

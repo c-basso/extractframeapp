@@ -1,0 +1,65 @@
+{
+  "slug": "videodan-fotograf-cikarma",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "videodan fotoğraf çıkarma",
+  "secondary_keywords": [
+    "iphone videodan fotoğraf çıkarma",
+    "videodan kare kare fotoğraf alma",
+    "videodan resim alma",
+    "videoyu fotoğrafa çevirme"
+  ],
+  "title": "Videodan Fotoğraf Çıkarma: iPhone'da Çok Kareyi Birlikte Al",
+  "description": "iPhone'da videodan aynı anda çok sayıda kare çıkar, bilgisayar veya ffmpeg olmadan. Sadece gereken kareleri seç ve fotoğraf, ZIP veya PDF olarak kaydet.",
+  "h1": "iPhone'da videodan fotoğraf çıkarma",
+  "nav_title": "Videodan fotoğraf çıkarma",
+  "card_title": "Videodan çok sayıda kare çıkarma",
+  "excerpt": "Tek videodan bir kare dizisi, görüntü, ZIP veya PDF olarak.",
+  "lead": "Storyboard, spor serisi, öncesi-sonrası, tepki derlemesi: bazen tek fotoğraf yetmez. Sadece iPhone'la videodan istediğin kadar kare çıkarmanın yolu burada.",
+  "quick_answer": "Videoyu Video To Photo – Grab Frame'de aç ve istediğin her anda kaydet'e dokun. Kareleri kontrol et, kötü olanları sil ve hepsini tek seferde ayrı JPG, PNG veya HEIC dosyaları, ZIP ya da PDF olarak dışa aktar.",
+  "content_intro": "<h2>Tüm kareler mi, sadece iyiler mi?</h2><p>30 fps'lik 30 saniyelik bir videoda 900 kare vardır. Bilgisayarda ffmpeg veya VLC gibi hepsini dışa aktarmak yüzlerce neredeyse aynı dosya verir. Telefonda <strong>sadece gereken kareleri seçmek</strong> genelde daha hızlıdır.</p><table><thead><tr><th>Amaç</th><th>Yaklaşım</th></tr></thead><tbody><tr><td>Storyboard, adım adım anlatım</td><td>Sahne veya adım başına bir kare</td></tr><tr><td>Spor, hareket analizi</td><td>Düzenli aralıklarla kareler</td></tr><tr><td>En iyi fotoğrafı bulmak</td><td>3–5 komşu kareden en neti</td></tr><tr><td>Animasyon veya analiz için tüm kareler</td><td>Bilgisayar programı (ffmpeg)</td></tr></tbody></table><p>iOS 27'nin yerleşik özelliği tek seferde bir kare kaydeder, bu yüzden seriler için uygun değildir.</p>",
+  "steps_title": "iPhone'da videodan çok sayıda kare çıkarma",
+  "steps": [
+    {
+      "name": "Videoyu aç",
+      "text": "Fotoğraflar'dan uygulamayla paylaş veya Video To Photo – Grab Frame'de seç.",
+      "shot": 0
+    },
+    {
+      "name": "Her anı kaydet",
+      "text": "Şeritte kaydır ve her anda kaydet'e dokun. Sayaç sayıyı tutar.",
+      "shot": 1
+    },
+    {
+      "name": "Kareleri kontrol et",
+      "text": "Tam ekran aç, netliği kontrol et ve tekrarlanan ya da bulanık kareleri sil.",
+      "shot": 2
+    },
+    {
+      "name": "Hepsini dışa aktar",
+      "text": "JPEG, PNG veya HEIC seç. Ayrı görüntüler Dosyalar'a, tek dosya için ZIP, belge için PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF veya ayrı dosyalar?</h2><ul><li><strong>Ayrı dosyalar</strong>: tek tek düzenlemek veya paylaşmak için.</li><li><strong>ZIP</strong>: AirDrop, e-posta, WhatsApp veya bulutla tek dosya göndermek için.</li><li><strong>PDF</strong>: storyboard, notlar, inceleme belgesi. Bkz. <a href=\"/tr/guides/video-pdf-donusturme/\">videoyu PDF'e dönüştürme</a>.</li></ul><h2>Seriler için ipuçları</h2><ul><li>Kareleri eşit aralıklarla seç, hareket kolay okunur.</li><li>Kolaj için PNG aktar, ek JPEG sıkıştırmasından kaçınırsın.</li><li>Proje kayıtlı kalır, eksik kareleri sonra eklersin.</li></ul>",
+  "faq": [
+    {
+      "q": "Bir videodan kaç kare çıkarabilirim?",
+      "a": "İhtiyacın kadar. Her anda kaydet'e dokun ve hepsini birlikte aktar. Çok karede dışa aktarma biraz daha uzun sürer."
+    },
+    {
+      "q": "Tüm kareleri otomatik aktarabilir miyim?",
+      "a": "Video To Photo – Grab Frame kare seçmek için tasarlandı. Animasyon veya analiz için gerçekten her kare gerekiyorsa ffmpeg gibi bir bilgisayar programı daha uygundur."
+    },
+    {
+      "q": "Çok kareyi birlikte nasıl gönderirim?",
+      "a": "ZIP olarak aktar ve tek dosyayı AirDrop, e-posta veya WhatsApp ile gönder. Ya da PDF olarak aktar."
+    }
+  ],
+  "related": [
+    "video-pdf-donusturme",
+    "video-kare-kare-izleme-iphone",
+    "videodan-kare-alma-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

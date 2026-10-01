@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Návody: fotka z videa na iPhonu",
+    "description": "Návody na fotky z videa na iPhonu: ostřeji než screenshot, uložení snímku, více snímků najednou, video do PDF, náhledy pro YouTube a převod na JPG či PNG.",
+    "eyebrow": "Návody",
+    "h1": "Fotka z videa na iPhonu: všechny návody",
+    "intro": "Každý návod odpovídá na jednu otázku: co iPhone zvládne sám (a co ne) a jak to nejrychleji udělat ve Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Domů",
+    "guides": "Návody",
+    "guide_eyebrow": "Návod pro iPhone",
+    "quick_answer": "Stručná odpověď",
+    "by": "Autor:",
+    "updated": "Aktualizováno",
+    "min_read": "min čtení",
+    "faq_title": "Časté dotazy",
+    "related": "Související návody",
+    "read_guide": "Číst návod",
+    "inline_cta": "Vyzkoušejte to na vlastním videu. Zabere to minutu.",
+    "app_card_cta": "Stáhnout z App Storu",
+    "app_card_fine": "Zdarma · nákupy v aplikaci · iOS 18.6+",
+    "app_card_bullets": ["Přesný výběr snímku", "JPG, PNG, HEIC", "Hromadný export do ZIP a PDF", "Offline, bez nahrávání a účtu"],
+    "final_cta_title": "Vaše nejlepší fotka je ve videu.",
+    "final_cta_text": "Uložte ji do iPhonu v plné kvalitě. Bez nahrávání, bez účtu, bez znalosti střihu."
+  }
+}

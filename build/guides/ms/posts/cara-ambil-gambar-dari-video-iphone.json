@@ -1,0 +1,65 @@
+{
+  "slug": "cara-ambil-gambar-dari-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "cara ambil gambar dari video iphone",
+  "secondary_keywords": [
+    "cara ambil gambar dari video",
+    "cara ambil foto dari video iphone",
+    "ambil gambar dari video",
+    "cara ambil foto dari video tanpa screenshot"
+  ],
+  "title": "Cara Ambil Gambar dari Video di iPhone (3 Cara)",
+  "description": "Cara ambil gambar dari video di iPhone dengan kualiti penuh: ciri terbina dalam iOS 27, tangkapan skrin dan apl untuk bingkai tajam dalam JPG, PNG atau HEIC.",
+  "h1": "Cara ambil gambar dari video di iPhone",
+  "nav_title": "Gambar dari video",
+  "card_title": "Cara ambil gambar dari video di iPhone",
+  "excerpt": "Tiga cara, dari yang terpantas hingga kualiti terbaik, dan bila guna setiap satu.",
+  "lead": "Detik terbaik selalunya hanya ada dalam video: senyuman, lompatan, tiup lilin hari jadi. Di iPhone, anda boleh jadikannya gambar dengan tiga cara. Bezanya pada kualiti, kepantasan dan berapa banyak gambar yang anda perlukan.",
+  "quick_answer": "Di iOS 27, jeda video dalam apl Foto, ketik ••• dan simpan bingkai sebagai foto. Di iOS lama, atau untuk banyak gambar dalam JPG, PNG atau HEIC, buka video dalam Video To Photo – Grab Frame, cari bingkainya dan simpan dalam resolusi penuh.",
+  "content_intro": "<h2>Perbandingan cara</h2><table><thead><tr><th>Cara</th><th>Kualiti</th><th>Banyak bingkai</th><th>Format</th></tr></thead><tbody><tr><td>Tangkapan skrin</td><td>Resolusi skrin</td><td>Tidak</td><td>PNG</td></tr><tr><td>Foto (iOS 27)</td><td>Penuh</td><td>Satu demi satu</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Penuh</td><td>Ya, serentak</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p>",
+  "steps_title": "Ambil gambar dari video dengan Grab Frame",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Dalam apl Foto, buka video, ketik Kongsi dan pilih Video To Photo – Grab Frame. Paparan bingkai terus dibuka.",
+      "shot": 0
+    },
+    {
+      "name": "Cari detiknya",
+      "text": "Seret jalur bingkai ke detik yang dikehendaki dan ketik butang simpan.",
+      "shot": 1
+    },
+    {
+      "name": "Semak ketajaman",
+      "text": "Buka bingkai dalam skrin penuh dan zum. Padam bingkai yang kabur.",
+      "shot": 2
+    },
+    {
+      "name": "Eksport",
+      "text": "Pilih JPG, PNG atau HEIC dan simpan ke Foto, Fail, ZIP atau PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kenapa bukan tangkapan skrin sahaja?</h2><p>Tangkapan skrin menyimpan apa yang dipaparkan pada skrin, bukan video itu sendiri. Bingkai 4K mengecil ke saiz skrin, dan kawalan main balik atau jalur hitam boleh turut terakam. Cukup untuk nota pantas, tetapi tidak untuk kenangan atau cetakan.</p><h2>Tip</h2><ul><li>Rakam dalam 4K dan 60 fps untuk bingkai lebih tajam.</li><li>Bandingkan bingkai bersebelahan dan simpan yang paling tajam.</li><li>Guna video asal, bukan salinan dari WhatsApp atau Telegram.</li></ul>",
+  "faq": [
+    {
+      "q": "Bolehkah iPhone ambil gambar dari video tanpa apl?",
+      "a": "Ya, mulai iOS 27 apl Foto boleh menyimpan bingkai yang dijeda sebagai foto, satu demi satu. Pada versi lama, anda perlukan tangkapan skrin atau apl."
+    },
+    {
+      "q": "Adakah kualiti menurun?",
+      "a": "Tidak, jika disimpan daripada fail video. Resolusinya sama dengan video: kira-kira 8 MP daripada 4K, kira-kira 2 MP daripada 1080p."
+    },
+    {
+      "q": "Adakah video asal berubah?",
+      "a": "Tidak. Video kekal utuh, bingkai disimpan sebagai foto baharu."
+    }
+  ],
+  "related": [
+    "cara-screenshot-video-iphone",
+    "cara-simpan-gambar-dari-video-iphone",
+    "gambar-hd-dari-video"
+  ],
+  "datePublished": "2026-10-01"
+}

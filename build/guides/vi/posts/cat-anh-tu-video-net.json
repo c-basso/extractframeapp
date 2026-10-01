@@ -1,0 +1,64 @@
+{
+  "slug": "cat-anh-tu-video-net",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "cắt ảnh từ video nét",
+  "secondary_keywords": [
+    "cách cắt ảnh từ video nét trên iphone",
+    "cắt ảnh từ video chất lượng cao",
+    "ảnh từ video bị mờ"
+  ],
+  "title": "Cắt ảnh từ video nét: vì sao bị mờ và cách khắc phục",
+  "description": "Vì sao ảnh cắt từ video bị mờ và cách khắc phục: chọn khung hình tĩnh, quay 4K và 60 fps, xuất từ tệp thay vì chụp màn hình, dùng PNG hoặc HEIC.",
+  "h1": "Cách cắt ảnh từ video thật nét",
+  "nav_title": "Cắt ảnh từ video nét",
+  "card_title": "Cắt ảnh từ video nét",
+  "excerpt": "Vì sao khung hình bị mờ, làm gì sau khi quay và thay đổi gì trước khi quay.",
+  "lead": "Bạn tìm được khoảnh khắc hoàn hảo, lưu lại, nhưng nó bị mờ. Khung hình video được tạo ra cho chuyển động, không phải để xem tĩnh. Nhưng chọn đúng khung hình và đúng cách, nó vẫn có thể trông như ảnh chụp thật.",
+  "quick_answer": "Chọn khung hình mà chủ thể gần như đứng yên, lưu từ tệp video thay vì chụp màn hình, rồi xuất PNG hoặc HEIC không nén thêm. Lưu 3–5 khung hình liền kề và giữ tấm nét nhất. Video sau này hãy quay ở nơi đủ sáng, 4K và 60 fps.",
+  "content_intro": "<h2>Vì sao ảnh từ video bị mờ</h2><ul><li><strong>Chuyển động.</strong> Mỗi khung hình phơi sáng một phần nhỏ của giây. Chủ thể di chuyển thì bị nhòe.</li><li><strong>Chụp màn hình.</strong> Video bị thu nhỏ về màn hình rồi lưu lại. Xem <a href=\"/vi/guides/chup-man-hinh-video-iphone/\">vì sao chụp màn hình mất chất lượng</a>.</li><li><strong>Nén video.</strong> Video bị nén mạnh; một số khung hình ít chi tiết hơn.</li><li><strong>Thiếu sáng.</strong> Phơi sáng lâu hơn và khử nhiễu mạnh làm mất chi tiết.</li></ul><h2>Làm gì sau khi quay</h2><table><thead><tr><th>Vấn đề</th><th>Cách xử lý</th></tr></thead><tbody><tr><td>Chủ thể bị nhòe</td><td>Lưu vài khung hình liền kề và chọn tấm nét nhất</td></tr><tr><td>Ảnh nhỏ hoặc bị cắt</td><td>Xuất từ tệp, không chụp màn hình</td></tr><tr><td>Vết nén dạng khối</td><td>Xuất PNG hoặc HEIC và không lưu lại nhiều lần</td></tr><tr><td>Nhắm mắt</td><td>Kéo chậm; khung hình đẹp thường chỉ cách 1–2 khung</td></tr></tbody></table>",
+  "steps_title": "Cách lấy khung hình nét nhất từ video",
+  "steps": [
+    {
+      "name": "Mở video",
+      "text": "Chia sẻ từ Ảnh sang Video To Photo – Grab Frame. Khung hình lấy từ tệp, không phải màn hình.",
+      "shot": 0
+    },
+    {
+      "name": "Tìm khoảnh khắc tĩnh",
+      "text": "Kéo quanh chuyển động và tìm \"điểm dừng\": đỉnh cú nhảy, ngay trước khi cười.",
+      "shot": 1
+    },
+    {
+      "name": "Lưu một loạt và so sánh",
+      "text": "Lưu 3–5 khung hình quanh khoảnh khắc và phóng to mắt, đường viền hoặc chữ. Xóa tấm không nét.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất không nén thêm",
+      "text": "Xuất tấm đẹp nhất dạng PNG (không mất dữ liệu) hoặc HEIC (nét và nhẹ). JPG để gửi nhanh.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Quay thế nào để khung hình nét</h2><ul><li><strong>4K.</strong> Nhiều điểm ảnh hơn, nhiều chi tiết hơn và dư chỗ để cắt (Cài đặt → Camera → Quay video).</li><li><strong>60 fps khi có chuyển động.</strong> Nhiều khung hình để chọn và ít nhòe hơn trên mỗi khung.</li><li><strong>Ánh sáng.</strong> Ánh sáng ban ngày hoặc phòng sáng ảnh hưởng nhiều nhất đến độ nét.</li><li><strong>Giữ máy vững.</strong> Tì khuỷu tay hoặc dùng chân máy; rung tay làm nhòe mọi khung hình.</li></ul><h2>Còn làm nét bằng AI?</h2><p>Công cụ AI phóng to ảnh nhưng \"vẽ thêm\" chi tiết. Hãy lấy khung hình thật đẹp nhất ở độ phân giải video trước, việc phóng to để dành cho bản in lớn. Về định dạng, xem <a href=\"/vi/guides/chuyen-video-sang-jpg/\">chuyển video sang JPG hoặc PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Khung hình từ video có đẹp như ảnh chụp không?",
+      "a": "Video 4K nét quay ở nơi đủ sáng cho khung hình khó phân biệt với ảnh chụp trên mạng xã hội. Nhưng ảnh chụp thật vẫn có lợi thế như tốc độ màn trập ngắn hơn và xử lý ảnh."
+    },
+    {
+      "q": "Khung hình từ video 4K có độ phân giải bao nhiêu?",
+      "a": "3840×2160 điểm ảnh, khoảng 8,3 megapixel. Với 1080p là 1920×1080, khoảng 2 megapixel."
+    },
+    {
+      "q": "Định dạng nào giữ nhiều chi tiết nhất?",
+      "a": "PNG không mất dữ liệu. HEIC gần tương đương với tệp nhỏ hơn nhiều. JPG nén nhẹ nhưng mở được ở mọi nơi."
+    }
+  ],
+  "related": [
+    "chup-man-hinh-video-iphone",
+    "xem-video-tung-khung-hinh-iphone",
+    "chuyen-video-sang-jpg"
+  ],
+  "datePublished": "2026-10-01"
+}

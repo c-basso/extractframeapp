@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "ガイド：iPhoneで動画から写真を切り出す方法まとめ",
+    "description": "iPhoneで動画から写真を切り出すためのガイド集。スクショより高画質に保存する方法、静止画の保存、動画のPDF化、サムネイル作成、JPG・PNGへの変換まで。",
+    "eyebrow": "ガイド",
+    "h1": "iPhoneで動画から写真：すべてのガイド",
+    "intro": "各ガイドはひとつの疑問に答えます。iPhoneの標準機能でできること（とできないこと）、そしてVideo To Photo – Grab Frameでいちばん早くやる方法。"
+  },
+  "labels": {
+    "home": "ホーム",
+    "guides": "ガイド",
+    "guide_eyebrow": "iPhoneガイド",
+    "quick_answer": "結論",
+    "by": "著者：",
+    "updated": "更新日",
+    "min_read": "分で読めます",
+    "faq_title": "よくある質問",
+    "related": "関連ガイド",
+    "read_guide": "ガイドを読む",
+    "inline_cta": "手持ちの動画で試してみてください。1分で終わります。",
+    "app_card_cta": "App Storeでダウンロード",
+    "app_card_fine": "無料・App内課金あり・iOS 18.6以降",
+    "app_card_bullets": ["正確なコマ選び", "JPG・PNG・HEIC", "ZIP・PDFでまとめて書き出し", "オフライン、アップロード・アカウント不要"],
+    "final_cta_title": "いちばんいい写真は、動画の中にある。",
+    "final_cta_text": "画質そのままでiPhoneに保存。アップロードもアカウントも、編集スキルも要りません。"
+  }
+}

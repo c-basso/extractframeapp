@@ -1,0 +1,64 @@
+{
+  "slug": "aplikacija-slika-iz-videa",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplikacija slika iz videa",
+  "secondary_keywords": [
+    "aplikacija za slike iz videa iphone",
+    "brezplačna aplikacija slika iz videa",
+    "frame grabber app"
+  ],
+  "title": "Aplikacija za slike iz videa za iPhone: kako izbrati",
+  "description": "Na kaj paziti pri aplikaciji za slike iz videa: natančnost, ločljivost, zasebnost, skupinski izvoz, formati in cena, plus 2-minutni preizkus.",
+  "h1": "Kako izbrati aplikacijo za slike iz videa za iPhone",
+  "nav_title": "Aplikacija",
+  "card_title": "Kako izbrati aplikacijo za slike iz videa",
+  "excerpt": "Šest znakov dobre aplikacije in 2-minutni kontrolni seznam.",
+  "lead": "V App Store poiščite »slika iz videa« in dobili boste dolg seznam podobnih aplikacij. Osnova je enaka, razlika je v podrobnostih: kako natančno izberete sličico, kako velika je slika in ali se video nalaga na splet.",
+  "quick_answer": "Dobra aplikacija omogoča natančen izbor sličice, shranjuje iz datoteke videa (ne z zaslona), deluje v napravi, shrani več sličic naenkrat in izvaža v več formatov. Video To Photo – Grab Frame zmore vse to, poleg tega izvoz v ZIP in PDF ter projekte, h katerim se lahko vrnete.",
+  "content_intro": "<h2>Ali potrebujete aplikacijo z iOS 27?</h2><p>Od iOS 27 lahko Fotografije shranijo ustavljeno sličico. V starejšem iOS ter za veliko sličic, PNG in ZIP/PDF je aplikacija priročnejša.</p><h2>Šest znakov dobre aplikacije</h2><ol><li><strong>Natančen izbor sličice.</strong> Trak sličic ali drsnik, ki se ustavi točno na trenutku.</li><li><strong>Pravi izvoz.</strong> Iz datoteke, ne z zaslona. Preizkusite z ležečim 4K-videom in preverite dimenzije.</li><li><strong>Obdelava v napravi.</strong> Družinski videi ne sodijo na strežnik. Preverite oznako zasebnosti v App Store in preizkusite v načinu za letalo.</li><li><strong>Skupinski način.</strong> Snemalna knjiga, šport in navodila potrebujejo veliko sličic.</li><li><strong>Formati in izvoz.</strong> JPG, PNG in HEIC zadoščajo. ZIP in PDF sta redka, a zelo uporabna.</li><li><strong>Jasna cena.</strong> Kaj je brezplačno, ali je naročnina, ali je mogoč enkratni nakup.</li></ol>",
+  "steps_title": "Preizkus aplikacije v 2 minutah",
+  "steps": [
+    {
+      "name": "Odprite pravi video",
+      "text": "Izberite ležeč video z gibanjem in ga delite iz Fotografij v Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Ciljajte eno sličico",
+      "text": "Poiščite mežik ali žogo v zraku. Trak in velik predogled to olajšata. Tapnite shrani.",
+      "shot": 1
+    },
+    {
+      "name": "Shranite nekaj in primerjajte",
+      "text": "Shranite štiri do pet sličic in jih povečajte. Slabe morate pred izvozom lahko izbrisati.",
+      "shot": 2
+    },
+    {
+      "name": "Izvozite in preverite datoteko",
+      "text": "Izvozite v PNG in poglejte podatke o fotografiji. Dimenzije morajo biti kot pri videu, ne kot pri zaslonu.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kaj ponuja Video To Photo – Grab Frame</h2><table><thead><tr><th>Funkcija</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Zagon iz menija Deli</td><td>Da, naravnost v pogled sličic</td></tr><tr><td>Vir</td><td>Datoteka videa</td></tr><tr><td>Skupinski način</td><td>Veliko sličic v eni seji</td></tr><tr><td>Formati</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Izvoz</td><td>Datoteke, ZIP, PDF</td></tr><tr><td>Projekti</td><td>Shrani in nadaljuj pozneje</td></tr><tr><td>Zasebnost</td><td>100 % v napravi, brez računa</td></tr><tr><td>Cena</td><td>Brezplačen prenos. Pro z nakupom v aplikaciji (brezplačen preizkus, letno, enkratno)</td></tr></tbody></table><h2>Kdaj aplikacije ne potrebujete</h2><p>Ena slika v iOS 27? Zadoščajo Fotografije. Hiter zapis v starejšem iOS? Zadošča posnetek zaslona.</p>",
+  "faq": [
+    {
+      "q": "Ali obstaja brezplačna aplikacija za slike iz videa?",
+      "a": "Video To Photo – Grab Frame je brezplačna za prenos. Nekatere funkcije so Pro, z nakupom v aplikaciji (brezplačen preizkus, letni paket ali enkratni nakup). Trenutne cene so v App Store."
+    },
+    {
+      "q": "Ali te aplikacije naložijo moj video?",
+      "a": "Spletna orodja da. Video To Photo – Grab Frame vse obdela na iPhonu in deluje brez interneta."
+    },
+    {
+      "q": "Deluje s 4K in počasnimi posnetki?",
+      "a": "Da. Podpira 4K, 60 fps in počasne posnetke iz knjižnice."
+    }
+  ],
+  "related": [
+    "slika-iz-videa-iphone",
+    "video-v-slike",
+    "video-v-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

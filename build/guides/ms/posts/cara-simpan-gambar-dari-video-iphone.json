@@ -1,0 +1,64 @@
+{
+  "slug": "cara-simpan-gambar-dari-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "cara simpan gambar dari video",
+  "secondary_keywords": [
+    "capture gambar dari video",
+    "tangkap gambar dari video",
+    "buat gambar dari video"
+  ],
+  "title": "Cara Simpan Gambar dari Video di iPhone",
+  "description": "Simpan satu bingkai daripada video sebagai foto di iPhone: cari detiknya, simpan dalam resolusi penuh dan eksport ke Foto atau Fail. Video asal tidak berubah.",
+  "h1": "Cara simpan gambar dari video di iPhone",
+  "nav_title": "Simpan gambar",
+  "card_title": "Cara simpan gambar dari video",
+  "excerpt": "Satu bingkai, resolusi penuh, disimpan dalam Foto atau Fail.",
+  "lead": "Kadangkala anda hanya perlukan satu gambar: untuk profil, kad ucapan atau mesej. Begini cara simpan gambar dari video di iPhone, tepat di tempat yang anda perlukan.",
+  "quick_answer": "Kongsi video dari apl Foto ke Video To Photo – Grab Frame, cari bingkainya, simpan dan ketik Eksport. Gambar masuk ke Foto atau Fail. Di iOS 27, apl Foto juga boleh: jeda video, ••• → simpan bingkai sebagai foto.",
+  "content_intro": "<h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p><h2>Di mana gambar disimpan?</h2><table><thead><tr><th>Destinasi</th><th>Untuk</th></tr></thead><tbody><tr><td>Foto (Terkini)</td><td>Berkongsi, album, iCloud</td></tr><tr><td>Fail</td><td>Kerja, cetakan, komputer</td></tr><tr><td>Kongsi</td><td>Terus ke WhatsApp, Telegram, e-mel</td></tr></tbody></table>",
+  "steps_title": "Simpan gambar dari video",
+  "steps": [
+    {
+      "name": "Buka video dalam apl",
+      "text": "Dalam apl Foto, ketik Kongsi → Video To Photo – Grab Frame, atau buka apl dan pilih video.",
+      "shot": 0
+    },
+    {
+      "name": "Cari bingkai",
+      "text": "Seret jalur bingkai sehingga sampai ke detik yang tepat.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan bingkai",
+      "text": "Ketik butang simpan. Bingkai muncul dalam dulang.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport",
+      "text": "Pilih format dan destinasi: Foto, Fail atau Kongsi.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Adakah tarikh dikekalkan?</h2><p>Di iOS 27, apl Foto menyimpan bingkai dengan tarikh video. Selepas eksport daripada apl, semak maklumat foto jika tarikh penting bagi anda.</p><h2>Kesilapan biasa</h2><ul><li>Bingkai sedang bergerak: pilih bingkai di sebelahnya.</li><li>Salinan termampat: guna video asal.</li></ul>",
+  "faq": [
+    {
+      "q": "Di mana gambar dari video disimpan?",
+      "a": "Dalam apl Foto, di bahagian Terkini, atau dalam Fail jika anda memilihnya."
+    },
+    {
+      "q": "Bolehkah disimpan dalam PNG?",
+      "a": "Boleh, dalam Video To Photo – Grab Frame. Apl Foto di iOS 27 menyimpan dalam HEIF atau JPG."
+    },
+    {
+      "q": "Perlukan internet?",
+      "a": "Tidak. Semuanya berlaku di iPhone."
+    }
+  ],
+  "related": [
+    "cara-ambil-gambar-dari-video-iphone",
+    "tukar-video-ke-gambar",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

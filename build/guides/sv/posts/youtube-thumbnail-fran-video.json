@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-fran-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail size",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "thumbnail från video",
+    "miniatyrbild youtube"
+  ],
+  "title": "YouTube-thumbnail från video på iPhone",
+  "description": "Gör en thumbnail till YouTube, Instagram eller TikTok från den bästa bildrutan i din egen video på iPhone: PNG-export, rätt storlek och tips för fler klick.",
+  "h1": "Så gör du en YouTube-thumbnail från video på iPhone",
+  "nav_title": "YouTube-thumbnail",
+  "card_title": "YouTube-thumbnail från din egen video",
+  "excerpt": "Välj och exportera den bästa bildrutan till thumbnail.",
+  "lead": "Thumbnailen avgör om någon klickar på videon. Den bästa utgångspunkten finns ofta i själva videon: ett uttrycksfullt ansikte, höjdpunkten, ett tydligt ögonblick. Du behöver bara hitta det och spara det skarpt.",
+  "quick_answer": "Öppna videon i Video To Photo – Grab Frame, hitta en skarp och uttrycksfull bildruta och exportera som PNG. Lägg till text och beskär (1280×720, 16:9) i din favoritredigerare och ladda upp till YouTube.",
+  "content_intro": "<h2>Rekommenderade storlekar</h2><table><thead><tr><th>Plattform</th><th>Storlek</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Instagram-inlägg</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p>",
+  "steps_title": "Thumbnail steg för steg",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Hitta höjdpunkten",
+      "text": "Stega bildruta för bildruta och leta efter ett uttrycksfullt ansikte eller ett starkt ögonblick, utan oskärpa.",
+      "shot": 1
+    },
+    {
+      "name": "Spara flera kandidater",
+      "text": "Spara tre–fyra bildrutor så du har något att välja mellan.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera som PNG",
+      "text": "PNG bevarar kvaliteten inför text och beskärning.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips för en bra thumbnail</h2><ul><li>Stor, läsbar text: högst 3–5 ord.</li><li>Ansikte med känsla: sticker ut i listan.</li><li>Stark kontrast, få detaljer.</li><li>Kolla den även i liten storlek, så som den syns i mobilen.</li></ul><p>Använd dina egna videor. Lägg inte upp bildrutor från andras innehåll utan tillstånd.</p>",
+  "faq": [
+    {
+      "q": "Vilken storlek ska en YouTube-thumbnail ha?",
+      "a": "1280×720 pixlar, 16:9, högst 2 MB (JPG eller PNG)."
+    },
+    {
+      "q": "Kan jag göra en thumbnail från en bildruta i videon?",
+      "a": "Ja. Spara bildrutan med Video To Photo – Grab Frame som PNG och lägg till text i en redigeringsapp."
+    },
+    {
+      "q": "Varför är thumbnailen suddig?",
+      "a": "Du valde en bildruta i rörelse, eller så har videon låg upplösning. Välj grannrutan och filma i 4K."
+    }
+  ],
+  "related": [
+    "skarp-bild-fran-video",
+    "video-till-jpg-png",
+    "ta-bild-fran-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

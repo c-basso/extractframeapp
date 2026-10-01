@@ -1,0 +1,64 @@
+{
+  "slug": "video-til-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video til PDF",
+  "secondary_keywords": [
+    "video til pdf",
+    "video pdf converter",
+    "storyboard fra video"
+  ],
+  "title": "Video til PDF på iPhone: billederne i én fil",
+  "description": "Lav en video om til PDF på iPhone: vælg nøglebillederne, og saml dem i én PDF til storyboard, forelæsningsnoter eller godkendelse. Offline, uden upload.",
+  "h1": "Sådan laver du en video om til PDF på iPhone",
+  "nav_title": "Video til PDF",
+  "card_title": "Billeder fra en video i én PDF",
+  "excerpt": "De vigtigste øjeblikke i en video i én PDF: storyboard, noter, godkendelse.",
+  "lead": "En PDF med nøglebillederne er den hurtigste måde at vise, hvad en video indeholder, til en, der ikke skal se den. En kunde, der godkender en klipning, en studerende, der repeterer en forelæsning, et team, der godkender et storyboard.",
+  "quick_answer": "Åbn videoen i Video To Photo – Grab Frame, og gem et billede ved hvert vigtigt øjeblik. Tryk på Eksportér, vælg billedformat og derefter PDF. Du får én PDF med billederne, klar til at sende via AirDrop, Messenger, mail eller Arkiver.",
+  "content_intro": "<h2>Hvad betyder „video til PDF“?</h2><p>En PDF kan ikke afspille video. At lave en video om til PDF betyder at gemme <strong>stillbilleder</strong> og samle dem i ét dokument. Det handler om, <em>hvilke billeder du vælger</em>: en PDF med 900 ens billeder er ubrugelig, en PDF med 12 nøglebilleder er guld værd.</p><h2>Nyttigt til</h2><ul><li><strong>Storyboard eller shotliste</strong>: ét billede pr. scene til pitch og præsentationer.</li><li><strong>Forelæsningsnoter</strong>: slides og tavle fra en optaget forelæsning.</li><li><strong>Kundegodkendelse</strong>: kommentarer i en PDF er nemmere end at lede efter tidskoder.</li><li><strong>Sportsanalyse</strong>: faserne i en bevægelse i rækkefølge.</li><li><strong>Vejledninger</strong>: en skærmoptagelse som trin-for-trin-guide.</li></ul>",
+  "steps_title": "Sådan samler du billeder fra en video i en PDF på iPhone",
+  "steps": [
+    {
+      "name": "Åbn videoen",
+      "text": "Del den fra Fotos til Video To Photo – Grab Frame, eller vælg den i appen.",
+      "shot": 0
+    },
+    {
+      "name": "Gem nøglebillederne",
+      "text": "Gå gennem videoen, og tryk på gem ved hver scene, slide eller trin.",
+      "shot": 1
+    },
+    {
+      "name": "Vælg PDF ved eksport",
+      "text": "Tryk på Eksportér, vælg JPEG, PNG eller HEIC, og derefter PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Del eller gem PDF'en",
+      "text": "Gem i Arkiver, eller send via AirDrop, Messenger eller mail fra Del-menuen.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips til en pæn PDF</h2><ul><li>Gem billederne i rækkefølge, fra start til slut.</li><li>Vælg billeder, hvor al tekst er synlig, og som ikke er midt i en overgang.</li><li>Brug PNG til slides og lille tekst.</li><li>Projektet er gemt, så du kan tilføje billeder senere og eksportere igen.</li></ul><h2>PDF eller ZIP?</h2><p><strong>PDF</strong> til at læse i rækkefølge og kommentere, <strong>ZIP</strong>, når du skal bruge separate filer, fx til design. Begge dele er beskrevet i <a href=\"/da/guides/billeder-fra-video/\">billeder fra video</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan jeg lave en video om til PDF uden at uploade den?",
+      "a": "Ja. Video To Photo – Grab Frame laver PDF'en på din iPhone ud fra de gemte billeder; videoen forlader ikke enheden."
+    },
+    {
+      "q": "I hvilken rækkefølge er billederne i PDF'en?",
+      "a": "PDF'en indeholder de billeder, du har gemt. Gem dem fra start til slut, så følger dokumentet videoen."
+    },
+    {
+      "q": "Hvordan laver jeg et storyboard fra en video på telefonen?",
+      "a": "Gem ét billede pr. optagelse eller scene, og eksportér som PDF: det er et enkelt storyboard. Noter tilføjer du med Markering eller en PDF-app."
+    }
+  ],
+  "related": [
+    "billeder-fra-video",
+    "video-til-jpg-png",
+    "app-billede-fra-video"
+  ],
+  "datePublished": "2026-10-01"
+}

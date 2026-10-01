@@ -1,0 +1,69 @@
+{
+  "slug": "cat-anh-tu-video-tren-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "cắt ảnh từ video trên iPhone",
+  "secondary_keywords": [
+    "cắt ảnh từ video trên iphone",
+    "chụp ảnh từ video iphone",
+    "lấy ảnh từ video trên iphone",
+    "tách ảnh từ video trên iphone"
+  ],
+  "title": "Cách cắt ảnh từ video trên iPhone: 3 cách (nét)",
+  "description": "Cách cắt ảnh từ video trên iPhone chất lượng cao: tính năng iOS 27, chụp màn hình, tách chủ thể và lưu nhiều ảnh cùng lúc dạng JPG, PNG hoặc HEIC.",
+  "h1": "Cách cắt ảnh từ video trên iPhone",
+  "nav_title": "Cắt ảnh từ video (iPhone)",
+  "card_title": "Cắt ảnh từ video trên iPhone",
+  "excerpt": "Mọi cách lấy ảnh từ video trên iPhone và khi nào nên dùng cách nào.",
+  "lead": "Bạn quay video thay vì chụp ảnh. Không sao: video là hàng chục bức ảnh mỗi giây. Đây là cách lấy đúng tấm ảnh bạn muốn trên iPhone.",
+  "quick_answer": "Từ iOS 27, hãy tạm dừng video trong Ảnh rồi lưu khung hình thành ảnh qua ••• (độ phân giải như video, mỗi lần một ảnh). Trên iOS cũ hơn hoặc khi cần nhiều ảnh, PNG, ZIP hay PDF, hãy mở video trong Video To Photo – Grab Frame, lưu các khung hình rồi xuất tất cả một lần.",
+  "content_intro": "<h2>Có cắt ảnh từ video trên iPhone được không?</h2><p>Được. Video gồm 24–60 ảnh tĩnh mỗi giây và khung hình nào cũng có thể thành ảnh. Cách tốt nhất tùy vào phiên bản iOS và số lượng ảnh bạn cần.</p><h2>So sánh các cách</h2><table><thead><tr><th>Cách</th><th>Chất lượng</th><th>Giới hạn</th><th>Phù hợp nhất</th></tr></thead><tbody><tr><td><strong>Ảnh → lưu khung hình thành ảnh</strong> (iOS 27+)</td><td>Độ phân giải video, HEIF hoặc JPG</td><td>Mỗi lần một khung hình. Ảnh mang ngày của video nên không hiện ở đầu mục Gần đây</td><td>Một ảnh thật nhanh</td></tr><tr><td><strong>Chụp màn hình</strong> (tạm dừng rồi chụp)</td><td>Độ phân giải màn hình, hay dính nút phát hoặc viền đen</td><td>Khó dừng đúng khung hình</td><td>Ghi chú nhanh trên iOS cũ</td></tr><tr><td><strong>Tách chủ thể</strong> (iOS 17+, nhấn giữ)</td><td>Chỉ chủ thể, không có nền</td><td>Không có cả khung hình</td><td>Sticker người hoặc thú cưng</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Từ tệp video</td><td>Cần ứng dụng (iOS 18.6+)</td><td>Nhiều ảnh, PNG, ZIP, PDF, iOS cũ</td></tr></tbody></table><h3>Dùng tính năng có sẵn của iOS 27</h3><ol><li>Tạm dừng: mở video trong ứng dụng Ảnh, tạm dừng đúng khoảnh khắc, chạm <strong>•••</strong> rồi chọn lưu khung hình thành ảnh (<em>Save Video Frame as Photo</em>).</li><li>Khung hình được lưu vào thư viện thành ảnh với độ phân giải của video.</li><li>Ảnh mang ngày và vị trí của video, nên hãy tìm ngay cạnh video chứ không phải ở trên cùng.</li></ol><p>Một ảnh thì như vậy là đủ. Nhưng khi cần mười khung hình từ cùng một video, cần PNG để chỉnh sửa, hay muốn gửi tất cả dạng ZIP hoặc PDF thì sẽ bất tiện.</p><h3>Vì sao chụp màn hình không giống ảnh thật</h3><p>Đến iOS 26, chụp màn hình là cách thông dụng, nhưng nó lưu màn hình chứ không phải khung hình. Video 4K ngang trên màn hình dọc chỉ là một dải hẹp, bạn phải cắt bỏ nút phát và dừng thật đúng lúc.</p>",
+  "steps_title": "Cách lấy nhiều ảnh từ video bằng Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Chia sẻ video sang ứng dụng",
+      "text": "Mở video trong Ảnh, chạm Chia sẻ rồi chọn ứng dụng. Hoặc mở Video To Photo – Grab Frame và chọn video từ thư viện.",
+      "shot": 0
+    },
+    {
+      "name": "Tìm khoảnh khắc và lưu",
+      "text": "Kéo dải khung hình cho đến khi khoảnh khắc hiện trong bản xem trước rồi chạm nút lưu. Nếu có chuyển động, lưu cả khung hình trước và sau.",
+      "shot": 1
+    },
+    {
+      "name": "Kiểm tra khung hình",
+      "text": "Mở bản xem trước, phóng to khuôn mặt hoặc chữ và xóa khung hình bị nhòe. Chỉ giữ tấm nét nhất.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất thành ảnh",
+      "text": "Chọn JPEG, PNG hoặc HEIC rồi chạm Xuất. Lưu vào Ảnh hoặc Tệp, hay gửi ngay qua Zalo, Messenger, Instagram hoặc email.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Mẹo để có ảnh nét</h2><ul><li><strong>Chọn lúc chuyển động dừng lại.</strong> Điểm cao nhất của cú nhảy, ngay trước khi cười: khung hình ở đó nét nhất.</li><li><strong>Lưu ba, giữ một.</strong> Các khung hình liền kề trông giống nhau cho đến khi phóng to.</li><li><strong>Quay 4K hoặc 60 fps.</strong> Xem thêm <a href=\"/vi/guides/cat-anh-tu-video-net/\">cắt ảnh từ video nét</a>.</li><li><strong>Chọn định dạng.</strong> JPG để gửi, PNG để chỉnh sửa, HEIC để tiết kiệm dung lượng. Xem thêm <a href=\"/vi/guides/chuyen-video-sang-jpg/\">chuyển video sang JPG hoặc PNG</a>.</li></ul><h2>Ứng dụng có sửa hay tải video của tôi lên không?</h2><p>Không. Video To Photo – Grab Frame làm việc với bản sao trong ứng dụng và xử lý mọi thứ trên iPhone. Bản gốc trong Ảnh không đổi và không có gì được gửi lên máy chủ.</p>",
+  "faq": [
+    {
+      "q": "iPhone có tự lưu ảnh từ video được không?",
+      "a": "Từ iOS 27 thì được. Tạm dừng video trong Ảnh, chạm ••• và lưu khung hình thành ảnh. Mỗi lần một ảnh, dạng HEIF hoặc JPG. Đến iOS 26, lựa chọn có sẵn duy nhất là chụp màn hình."
+    },
+    {
+      "q": "Khung hình lưu trong iOS 27 nằm ở đâu?",
+      "a": "Trong thư viện ảnh, nhưng mang ngày và vị trí của video. Vì vậy nó nằm cạnh video gốc chứ không ở đầu mục Gần đây."
+    },
+    {
+      "q": "Chất lượng có giống video không?",
+      "a": "Có, nếu bạn lưu khung hình thay vì chụp màn hình. Cả iOS 27 và Video To Photo – Grab Frame đều đọc khung hình từ tệp video. Chuyển động nhanh có thể bị nhòe, hãy chọn lúc tĩnh."
+    },
+    {
+      "q": "Có lấy được nhiều ảnh từ cùng một video không?",
+      "a": "Được. Lưu từng khoảnh khắc trong Video To Photo – Grab Frame rồi xuất tất cả cùng lúc dạng tệp riêng, ZIP hoặc PDF."
+    }
+  ],
+  "related": [
+    "chup-man-hinh-video-iphone",
+    "chup-anh-tu-video-iphone",
+    "cat-anh-tu-video-net"
+  ],
+  "datePublished": "2026-10-01"
+}

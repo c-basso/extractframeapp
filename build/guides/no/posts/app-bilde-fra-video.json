@@ -1,0 +1,64 @@
+{
+  "slug": "app-bilde-fra-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "app bilde fra video",
+  "secondary_keywords": [
+    "app for å ta bilde fra video",
+    "gratis app bilde fra video",
+    "frame grabber app"
+  ],
+  "title": "App for bilde fra video på iPhone: slik velger du",
+  "description": "Hva du bør se etter i en app som tar bilder fra video: presisjon, oppløsning, personvern, masseeksport, formater og pris, pluss en test på 2 minutter.",
+  "h1": "Slik velger du app for bilde fra video på iPhone",
+  "nav_title": "App",
+  "card_title": "Slik velger du app for bilde fra video",
+  "excerpt": "Seks kjennetegn på en god app og en sjekkliste på 2 minutter.",
+  "lead": "Søk etter «video til bilde» i App Store, og du får en lang liste med like apper. Grunnlaget er det samme, forskjellen ligger i detaljene: hvor presist du velger bildet, hvor stort det blir, og om videoen lastes opp på nettet.",
+  "quick_answer": "En god app lar deg velge bildet presist, lagrer fra videofilen (ikke skjermen), jobber på enheten, lagrer mange bilder samtidig og eksporterer til flere formater. Video To Photo – Grab Frame gjør alt dette, i tillegg til ZIP- og PDF-eksport og prosjekter du kan gå tilbake til.",
+  "content_intro": "<h2>Trenger du en app med iOS 27?</h2><p>Fra iOS 27 kan Bilder lagre et pauset bilde. På eldre iOS, og for mange bilder, PNG og ZIP/PDF, er en app mer praktisk.</p><h2>Seks kjennetegn på en god app</h2><ol><li><strong>Presist bildevalg.</strong> En bildestripe eller glidebryter som stopper akkurat på øyeblikket.</li><li><strong>Ekte eksport.</strong> Fra filen, ikke skjermen. Test med en liggende 4K-video og sjekk dimensjonene.</li><li><strong>Behandling på enheten.</strong> Familievideoer hører ikke hjemme på en server. Sjekk personvernetiketten i App Store og test i flymodus.</li><li><strong>Massemodus.</strong> Storyboard, sport og veiledninger trenger mange bilder.</li><li><strong>Formater og eksport.</strong> JPG, PNG og HEIC holder. ZIP og PDF er sjeldne, men svært nyttige.</li><li><strong>Tydelig pris.</strong> Hva er gratis, finnes det abonnement, kan den kjøpes med engangsbetaling.</li></ol>",
+  "steps_title": "Test en app på 2 minutter",
+  "steps": [
+    {
+      "name": "Åpne en ekte video",
+      "text": "Velg en liggende video med bevegelse og del den fra Bilder til Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Sikt på ett bilde",
+      "text": "Finn et blunk eller en ball i lufta. Stripen og den store forhåndsvisningen gjør det enkelt. Trykk på lagre.",
+      "shot": 1
+    },
+    {
+      "name": "Lagre noen og sammenlign",
+      "text": "Lagre fire–fem bilder og zoom inn. Det skal være mulig å slette dårlige før eksport.",
+      "shot": 2
+    },
+    {
+      "name": "Eksporter og sjekk filen",
+      "text": "Eksporter som PNG og se på bildeinformasjonen. Dimensjonene skal være videoens, ikke skjermens.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Dette tilbyr Video To Photo – Grab Frame</h2><table><thead><tr><th>Funksjon</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Start fra Del-menyen</td><td>Ja, rett til bildevisningen</td></tr><tr><td>Kilde</td><td>Videofilen</td></tr><tr><td>Massemodus</td><td>Mange bilder i én økt</td></tr><tr><td>Formater</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Eksport</td><td>Filer, ZIP, PDF</td></tr><tr><td>Prosjekter</td><td>Lagre og fortsett senere</td></tr><tr><td>Personvern</td><td>100 % på enheten, uten konto</td></tr><tr><td>Pris</td><td>Gratis nedlasting. Pro via kjøp i appen (gratis prøveperiode, årlig, engangskjøp)</td></tr></tbody></table><h2>Når du ikke trenger app</h2><p>Ett bilde på iOS 27? Bilder holder. Et raskt notat på eldre iOS? Et skjermbilde holder.</p>",
+  "faq": [
+    {
+      "q": "Finnes det en gratis app for å ta bilde fra video?",
+      "a": "Video To Photo – Grab Frame er gratis å laste ned. Noen funksjoner er Pro, via kjøp i appen (gratis prøveperiode, årsabonnement eller engangskjøp). Gjeldende priser står i App Store."
+    },
+    {
+      "q": "Laster disse appene opp videoen min?",
+      "a": "Nettverktøy gjør det. Video To Photo – Grab Frame behandler alt på iPhone og fungerer uten internett."
+    },
+    {
+      "q": "Fungerer den med 4K og sakte film?",
+      "a": "Ja. Den støtter 4K, 60 fps og sakte film fra biblioteket."
+    }
+  ],
+  "related": [
+    "ta-bilde-fra-video-iphone",
+    "video-til-bilder",
+    "video-til-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

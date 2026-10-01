@@ -1,0 +1,64 @@
+{
+  "slug": "cara-menyimpan-foto-dari-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "cara menyimpan foto dari video di iphone",
+  "secondary_keywords": [
+    "cara menyimpan foto dari video",
+    "capture video jadi foto",
+    "buat foto dari video"
+  ],
+  "title": "Cara Menyimpan Foto dari Video di iPhone",
+  "description": "Simpan satu frame dari video sebagai foto di iPhone: cari momennya, simpan dalam resolusi penuh, lalu ekspor ke Foto atau File. Video asli tidak berubah.",
+  "h1": "Cara menyimpan foto dari video di iPhone",
+  "nav_title": "Simpan foto",
+  "card_title": "Cara menyimpan foto dari video",
+  "excerpt": "Satu frame, resolusi penuh, tersimpan di Foto atau File.",
+  "lead": "Kadang Anda hanya butuh satu foto: untuk profil, kartu ucapan, atau pesan. Berikut cara menyimpan foto dari video di iPhone, tepat di tempat yang Anda perlukan.",
+  "quick_answer": "Bagikan video dari app Foto ke Video To Photo – Grab Frame, cari frame-nya, simpan, lalu ketuk Ekspor. Foto masuk ke Foto atau File. Di iOS 27, app Foto juga bisa: jeda video, ••• → simpan frame sebagai foto.",
+  "content_intro": "<h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p><h2>Di mana foto disimpan?</h2><table><thead><tr><th>Tujuan</th><th>Untuk</th></tr></thead><tbody><tr><td>Foto (Terbaru)</td><td>Berbagi, album, iCloud</td></tr><tr><td>File</td><td>Kerja, cetak, komputer</td></tr><tr><td>Bagikan</td><td>Langsung ke WhatsApp, Instagram, email</td></tr></tbody></table>",
+  "steps_title": "Menyimpan foto dari video",
+  "steps": [
+    {
+      "name": "Buka video di aplikasi",
+      "text": "Di app Foto, ketuk Bagikan → Video To Photo – Grab Frame, atau buka aplikasi dan pilih video.",
+      "shot": 0
+    },
+    {
+      "name": "Cari frame",
+      "text": "Geser strip frame sampai ke momen yang tepat.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan frame",
+      "text": "Ketuk tombol simpan. Frame muncul di baki.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor",
+      "text": "Pilih format dan tujuan: Foto, File, atau Bagikan.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Apakah tanggalnya ikut?</h2><p>Di iOS 27, app Foto menyimpan frame dengan tanggal video. Setelah ekspor dari aplikasi, periksa info foto jika tanggal penting bagi Anda.</p><h2>Kesalahan umum</h2><ul><li>Frame sedang bergerak: pilih frame di sebelahnya.</li><li>Salinan terkompresi: gunakan video asli.</li></ul>",
+  "faq": [
+    {
+      "q": "Di mana foto dari video disimpan?",
+      "a": "Di app Foto, di bagian Terbaru, atau di File jika Anda memilihnya."
+    },
+    {
+      "q": "Bisakah disimpan dalam PNG?",
+      "a": "Bisa, di Video To Photo – Grab Frame. App Foto di iOS 27 menyimpan dalam HEIF atau JPG."
+    },
+    {
+      "q": "Perlu internet?",
+      "a": "Tidak. Semuanya terjadi di iPhone."
+    }
+  ],
+  "related": [
+    "cara-mengambil-foto-dari-video-iphone",
+    "mengubah-video-menjadi-foto",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

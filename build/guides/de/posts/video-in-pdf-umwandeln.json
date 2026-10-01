@@ -1,0 +1,65 @@
+{
+  "slug": "video-in-pdf-umwandeln",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "Video in PDF umwandeln",
+  "secondary_keywords": [
+    "video in pdf",
+    "video in pdf umwandeln kostenlos",
+    "video in pdf umwandeln iphone",
+    "storyboard aus video"
+  ],
+  "title": "Video in PDF umwandeln auf dem iPhone – ohne Upload",
+  "description": "So wandelst du ein Video auf dem iPhone in ein PDF um: Schlüsselbilder wählen und als ein PDF für Storyboard, Notizen oder Abnahme speichern. Offline.",
+  "h1": "Video in PDF umwandeln auf dem iPhone",
+  "nav_title": "Video in PDF",
+  "card_title": "Bilder aus einem Video als PDF",
+  "excerpt": "Die Schlüsselmomente eines Videos in einem sauberen PDF – für Storyboards, Unterricht und Abnahmen.",
+  "lead": "Ein PDF mit den Schlüsselbildern ist der schnellste Weg, jemandem zu zeigen, was in einem Video passiert, der es nicht ansehen wird: einem Kunden bei der Abnahme, einem Schüler beim Lernen, einem Team beim Storyboard.",
+  "quick_answer": "Öffne das Video in Video To Photo – Grab Frame, nimm jeden Schlüsselmoment auf, tippe auf Exportieren, wähle ein Bildformat und PDF als Speicherformat. Du erhältst ein PDF mit diesen Bildern – bereit für AirDrop, WhatsApp, Mail oder Dateien.",
+  "content_intro": "<h2>Was bedeutet „Video in PDF“?</h2><p>Ein PDF spielt kein Video ab: Ein Video in ein PDF umzuwandeln heißt, <strong>Standbilder</strong> zu speichern und in einem Dokument zusammenzufassen. Entscheidend ist die Auswahl: Ein PDF mit 900 gleichen Bildern nützt nichts, eins mit den 12 Schlüsselmomenten ist Gold wert.</p><h2>Wofür es sich lohnt</h2><ul><li><strong>Storyboards und Shotlisten</strong>: ein Bild pro Szene zum Planen oder Pitchen.</li><li><strong>Unterrichtsnotizen</strong>: Folien und Tafel aus einer aufgezeichneten Stunde.</li><li><strong>Kundenabnahmen</strong>: Ein PDF zu kommentieren ist einfacher als im Video zu suchen.</li><li><strong>Sportanalyse</strong>: Schlüsselphasen einer Bewegung der Reihe nach.</li><li><strong>Anleitungen</strong>: eine Bildschirmaufnahme wird zu Schritt-für-Schritt-Seiten.</li></ul>",
+  "steps_title": "Bilder aus einem Video auf dem iPhone in ein PDF umwandeln",
+  "steps": [
+    {
+      "name": "Video öffnen",
+      "text": "Teile es aus Fotos mit Video To Photo – Grab Frame oder wähle es in der App.",
+      "shot": 0
+    },
+    {
+      "name": "Schlüsselmomente aufnehmen",
+      "text": "Geh durchs Video und tippe bei jeder Szene, Folie oder jedem Schritt auf Aufnehmen.",
+      "shot": 1
+    },
+    {
+      "name": "Beim Export PDF wählen",
+      "text": "Tippe auf Exportieren, wähle JPEG, PNG oder HEIC für die Bilder und PDF als Speicherformat.",
+      "shot": 3
+    },
+    {
+      "name": "PDF teilen oder speichern",
+      "text": "Speichere es in Dateien oder sende es per AirDrop, WhatsApp oder Mail über das Teilen-Menü.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tipps für ein sauberes PDF</h2><ul><li>Nimm die Bilder der Reihe nach auf, vom Anfang bis zum Ende.</li><li>Wähle Momente, in denen Text auf dem Bildschirm vollständig und ohne Übergang zu sehen ist.</li><li>Für Folien oder kleine Schrift PNG wählen.</li><li>Das Projekt wird gespeichert: Bilder ergänzen und jederzeit neu exportieren.</li></ul><h2>PDF oder ZIP?</h2><p><strong>PDF</strong>, wenn die Bilder der Reihe nach gelesen und kommentiert werden. <strong>ZIP</strong>, wenn die einzelnen Dateien gebraucht werden, etwa fürs Design. Beides unter <a href=\"/de/guides/bilder-aus-video-extrahieren/\">Bilder aus Video extrahieren</a>.</p>",
+  "faq": [
+    {
+      "q": "Kann ich ein Video in ein PDF umwandeln, ohne es hochzuladen?",
+      "a": "Ja. Video To Photo – Grab Frame erstellt das PDF auf dem iPhone aus den aufgenommenen Bildern – das Video verlässt das Gerät nicht."
+    },
+    {
+      "q": "In welcher Reihenfolge erscheinen die Bilder im PDF?",
+      "a": "Das PDF enthält die Bilder, die du aufgenommen hast – nimm sie vom Anfang bis zum Ende auf, dann folgt das Dokument der Reihenfolge des Videos."
+    },
+    {
+      "q": "Wie erstelle ich ein Storyboard aus einem Video auf dem Handy?",
+      "a": "Nimm ein Bild pro Einstellung oder Szene auf und exportiere als PDF. So entsteht ein einfaches Storyboard, das du mit Markierungen oder jeder PDF-App kommentieren kannst."
+    }
+  ],
+  "related": [
+    "bilder-aus-video-extrahieren",
+    "video-in-jpg-umwandeln",
+    "app-foto-aus-video"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "extrair-frames-de-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "extrair frames de vídeo",
+  "secondary_keywords": [
+    "extrair todos os frames de video",
+    "extrair frames de video iphone",
+    "extrair imagens de video",
+    "como salvar todos os frames de video"
+  ],
+  "title": "Extrair frames de vídeo no iPhone: vários de uma vez",
+  "description": "Como extrair vários frames de um vídeo no iPhone de uma só vez, sem computador nem ffmpeg. Salve como fotos separadas, um ZIP ou um PDF.",
+  "h1": "Como extrair frames de um vídeo no iPhone",
+  "nav_title": "Extrair frames de vídeo",
+  "card_title": "Extrair vários frames de um vídeo",
+  "excerpt": "Uma sequência inteira de frames de um vídeo, exportada junta: imagens, ZIP ou PDF.",
+  "lead": "Storyboards, lances de esporte, antes e depois, reações… às vezes um frame só não basta. Veja como tirar quantos precisar, direto no iPhone.",
+  "quick_answer": "Abra o vídeo no Video To Photo – Grab Frame e toque em capturar em cada momento que quiser. Revise a sequência, apague o que sobrar e exporte tudo de uma vez: JPG, PNG ou HEIC separados, um ZIP ou um PDF.",
+  "content_intro": "<h2>Todos os frames ou os certos?</h2><p>Um vídeo de 30 segundos a 30 fps tem 900 frames. Exportar todos (como fazem ffmpeg ou VLC no computador) gera centenas de arquivos quase iguais. No celular, quase sempre é mais rápido <strong>escolher os que importam</strong> e exportar só esses.</p><table><thead><tr><th>Objetivo</th><th>Melhor jeito</th></tr></thead><tbody><tr><td>Storyboard ou passos de tutorial</td><td>Um frame por cena ou passo</td></tr><tr><td>Esporte, movimento</td><td>Frames em intervalos regulares</td></tr><tr><td>Achar a foto perfeita</td><td>3 a 5 frames vizinhos, ficar com o mais nítido</td></tr><tr><td>Cada frame para animação ou análise</td><td>Melhor um programa no computador (ffmpeg)</td></tr></tbody></table><p>A função nativa do iOS 27 salva um frame por vez — pouco prática para sequências.</p>",
+  "steps_title": "Como extrair vários frames de um vídeo no iPhone",
+  "steps": [
+    {
+      "name": "Abra o vídeo",
+      "text": "Compartilhe pelo Fotos com o app ou escolha dentro do Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Capture cada momento",
+      "text": "Deslize pela faixa e toque em capturar em cada momento. O contador mostra o tamanho da sequência.",
+      "shot": 1
+    },
+    {
+      "name": "Revise a sequência",
+      "text": "Abra os frames em tela cheia, confira a nitidez e apague repetidos ou tremidos.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte tudo junto",
+      "text": "Escolha JPEG, PNG ou HEIC e depois Arquivos para imagens separadas, ZIP para um arquivo só ou PDF para um documento.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF ou arquivos separados?</h2><ul><li><strong>Arquivos separados</strong>: se você vai editar ou postar cada frame.</li><li><strong>ZIP</strong>: um arquivo só para AirDrop, e-mail, WhatsApp ou nuvem.</li><li><strong>PDF</strong>: todos os frames num documento para storyboard, resumo ou aprovação. Veja <a href=\"/pt/guides/video-para-pdf/\">vídeo para PDF</a>.</li></ul><h2>Dicas para sequências</h2><ul><li>Para movimento, pegue frames em intervalos parecidos.</li><li>Para colagem, exporte em PNG para não recomprimir JPEG.</li><li>O projeto fica salvo: volte e adicione os que faltarem.</li></ul>",
+  "faq": [
+    {
+      "q": "Quantos frames dá para tirar de um vídeo?",
+      "a": "Quantos precisar: toque em capturar em cada momento e exporte a sequência inteira. Sequências grandes só demoram um pouco mais para exportar."
+    },
+    {
+      "q": "Dá para extrair todos os frames automaticamente?",
+      "a": "O Video To Photo – Grab Frame foi feito para escolher frames. Se você realmente precisa de cada frame para animação ou análise, um programa no computador como o ffmpeg é mais indicado."
+    },
+    {
+      "q": "Como mando muitos frames de uma vez?",
+      "a": "Exporte um ZIP e mande um arquivo só por AirDrop, e-mail ou WhatsApp. Ou exporte um PDF."
+    }
+  ],
+  "related": [
+    "video-para-pdf",
+    "video-frame-a-frame-iphone",
+    "salvar-frame-de-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

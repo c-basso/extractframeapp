@@ -1,0 +1,69 @@
+{
+  "slug": "iphone-douga-kara-shashin",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "動画から写真 iPhone",
+  "secondary_keywords": [
+    "iphone 動画から写真",
+    "動画から写真を切り取る方法 iphone",
+    "iphone 動画 切り出し 写真",
+    "iphone 動画から写真 スクショ以外"
+  ],
+  "title": "iPhoneで動画から写真を切り出す方法3選【高画質】",
+  "description": "iPhoneで動画から写真を切り出す方法を比較。iOS 27の新機能、スクショ、被写体の長押しコピー、そして複数枚をJPG・PNG・HEICでまとめて保存する方法まで。",
+  "h1": "iPhoneで動画から写真を切り出す方法",
+  "nav_title": "動画から写真（iPhone）",
+  "card_title": "iPhoneで動画から写真を切り出す方法",
+  "excerpt": "iPhoneで動画から写真を取り出すすべての方法と、それぞれの使いどころ。",
+  "lead": "写真ではなく動画で撮ってしまった、あの瞬間。でも大丈夫、動画は1秒あたり数十枚の写真の集まりです。iPhoneで欲しい1枚を取り出す方法をまとめました。",
+  "quick_answer": "iOS 27以降なら、「写真」で動画を一時停止し「•••」からフレームを写真として保存できます（動画と同じ解像度で1枚ずつ）。それ以前のiOSや、複数枚・PNG・ZIP・PDFが必要なときは、Video To Photo – Grab Frameで動画を開き、コマを保存してまとめて書き出します。",
+  "content_intro": "<h2>iPhoneで動画から写真は作れる？</h2><p>作れます。動画は1秒に24〜60コマの静止画でできていて、どのコマも写真にできます。最適な方法はiOSのバージョンと、何枚必要かで変わります。</p><h2>方法の比較</h2><table><thead><tr><th>方法</th><th>画質</th><th>制限</th><th>向いている用途</th></tr></thead><tbody><tr><td><strong>「写真」→ フレームを写真として保存</strong>（iOS 27以降）</td><td>動画と同じ解像度、HEIFまたはJPG</td><td>1枚ずつ。写真の日付は元動画の日付になり、「最近の項目」の先頭には出ない</td><td>1枚だけサッと保存</td></tr><tr><td><strong>スクショ</strong>（一時停止して撮影）</td><td>画面の解像度。再生ボタンや黒帯が入りがち</td><td>狙ったコマで止めるのが難しい</td><td>古いiOSでのメモ代わり</td></tr><tr><td><strong>被写体を長押ししてコピー</strong>（iOS 17以降）</td><td>被写体だけ（背景は消える）</td><td>フレーム全体は保存できない</td><td>人物やペットの切り抜き</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>動画ファイルから切り出し</td><td>アプリが必要（iOS 18.6以降）</td><td>複数枚、PNG・ZIP・PDF、古いiOS</td></tr></tbody></table><h3>iOS 27の標準機能で保存する</h3><ol><li>「写真」で動画を開いて狙ったところで一時停止し、<strong>「•••」</strong>をタップしてフレームを写真として保存（<em>Save Video Frame as Photo</em>）を選びます。</li><li>動画と同じ解像度の写真としてライブラリに保存されます。</li><li>元の動画の日付と場所を引き継ぐので、動画のすぐ近くを探してください。</li></ol><p>1枚なら十分です。ただ、同じ動画から10コマ欲しいとき、編集用にPNGが欲しいとき、ZIPやPDFで送りたいときは手間がかかります。</p><h3>スクショが写真と同じにならない理由</h3><p>iOS 26以前ではスクショが定番ですが、保存されるのは画面であってコマではありません。横向きの4K動画を縦画面で見ると細い帯にしかならず、再生ボタンを避けてトリミングし、一時停止のタイミングも合わせる必要があります。</p>",
+  "steps_title": "Video To Photo – Grab Frameで動画から複数の写真を切り出す手順",
+  "steps": [
+    {
+      "name": "動画をアプリに共有",
+      "text": "「写真」で動画を開き、共有ボタンからアプリを選びます。またはVideo To Photo – Grab Frameを開いてライブラリから動画を選択します。",
+      "shot": 0
+    },
+    {
+      "name": "瞬間を探して保存",
+      "text": "プレビューに狙った瞬間が出るまでフレームの帯をなぞり、保存ボタンをタップ。動きがあるときは前後のコマもいっしょに保存しておきます。",
+      "shot": 1
+    },
+    {
+      "name": "コマを確認",
+      "text": "プレビューを開いて顔や文字を拡大し、ブレたコマは削除。いちばんシャープな1枚を残します。",
+      "shot": 2
+    },
+    {
+      "name": "写真として書き出す",
+      "text": "JPEG・PNG・HEICを選んで「書き出し」。「写真」や「ファイル」に保存するか、LINEやInstagram、メールにそのまま送れます。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>きれいに切り出すコツ</h2><ul><li><strong>動きが止まる瞬間を狙う。</strong>ジャンプの頂点、笑う直前など、動きが一瞬止まるコマがいちばんシャープです。</li><li><strong>3枚保存して1枚残す。</strong>前後のコマは拡大するまで同じに見えます。</li><li><strong>4Kや60fpsで撮る。</strong>詳しくは<a href=\"/ja/guides/douga-kara-shashin-kougashitsu/\">動画から高画質な写真を取り出す方法</a>へ。</li><li><strong>形式を選ぶ。</strong>共有はJPG、編集はPNG、容量節約はHEIC。<a href=\"/ja/guides/douga-jpg-henkan/\">動画をJPG・PNGに変換</a>も参考に。</li></ul><h2>アプリは動画を変更・アップロードする？</h2><p>しません。Video To Photo – Grab Frameはアプリ内のコピーを使い、すべてiPhone内で処理します。「写真」の元動画はそのまま、サーバーへ送られるものもありません。</p>",
+  "faq": [
+    {
+      "q": "iPhoneの標準機能で動画から写真を保存できる？",
+      "a": "iOS 27以降ならできます。「写真」で動画を一時停止し、「•••」からフレームを写真として保存を選びます。1枚ずつ、HEIFまたはJPGで保存されます。iOS 26以前の標準機能はスクショのみです。"
+    },
+    {
+      "q": "iOS 27で保存したフレームはどこにある？",
+      "a": "「写真」のライブラリですが、元動画の日付と場所が付くため、「最近の項目」の先頭ではなく元の動画の近くに並びます。"
+    },
+    {
+      "q": "動画と同じ画質になる？",
+      "a": "スクショではなくフレームを保存すればなります。iOS 27の機能もVideo To Photo – Grab Frameも動画ファイルからコマを読み取ります。速い動きのコマはブレることがあるので、動きの止まった瞬間を選びましょう。"
+    },
+    {
+      "q": "同じ動画から何枚も写真にできる？",
+      "a": "できます。Video To Photo – Grab Frameで瞬間ごとに保存し、ファイル・ZIP・PDFでまとめて書き出せます。"
+    }
+  ],
+  "related": [
+    "douga-sukusho-kougashitsu",
+    "douga-seishiga-hozon-iphone",
+    "douga-kara-shashin-kougashitsu"
+  ],
+  "datePublished": "2026-09-30"
+}

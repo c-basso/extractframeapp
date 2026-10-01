@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Guias: como tirar foto de vídeo no iPhone",
+    "description": "Guias passo a passo para iPhone: tirar foto de vídeo sem perder qualidade, salvar frames, vídeo para PDF, thumbnails e conversão para JPG ou PNG.",
+    "eyebrow": "Guias",
+    "h1": "Foto de vídeo no iPhone: todos os guias",
+    "intro": "Cada guia responde a uma pergunta específica: o que o próprio iPhone consegue fazer (e o que não consegue) e como fazer mais rápido com o Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Início",
+    "guides": "Guias",
+    "guide_eyebrow": "Guia para iPhone",
+    "quick_answer": "Resposta rápida",
+    "by": "Por",
+    "updated": "atualizado em",
+    "min_read": "min de leitura",
+    "faq_title": "Perguntas frequentes",
+    "related": "Guias relacionados",
+    "read_guide": "Ler o guia",
+    "inline_cta": "Teste com um vídeo seu: leva um minuto.",
+    "app_card_cta": "Baixar na App Store",
+    "app_card_fine": "Grátis · compras dentro do app · iOS 18.6+",
+    "app_card_bullets": ["Seleção precisa do frame", "JPG, PNG ou HEIC", "Exportação em lote para ZIP ou PDF", "Offline, sem upload e sem conta"],
+    "final_cta_title": "Sua melhor foto está escondida num vídeo.",
+    "final_cta_text": "Salve com qualidade total no seu iPhone. Sem upload, sem conta e sem saber editar."
+  }
+}

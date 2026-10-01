@@ -1,0 +1,65 @@
+{
+  "slug": "dongyeongsang-pdf-byeonhwan",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "동영상 pdf 변환",
+  "secondary_keywords": [
+    "동영상 pdf 변환 아이폰",
+    "동영상 캡쳐 pdf",
+    "동영상 콘티 만들기",
+    "동영상 pdf 변환 무료"
+  ],
+  "title": "아이폰 동영상 PDF 변환 방법 | 업로드 없이 한 번에",
+  "description": "아이폰에서 동영상을 PDF로 변환하는 방법. 핵심 프레임을 골라 하나의 PDF로 묶어 콘티, 강의 노트, 검토 자료로. 오프라인, 업로드 없이.",
+  "h1": "아이폰에서 동영상을 PDF로 변환하는 방법",
+  "nav_title": "동영상 PDF 변환",
+  "card_title": "동영상 프레임을 PDF로 묶기",
+  "excerpt": "동영상의 핵심 장면을 하나의 PDF로. 콘티, 강의 노트, 검토 자료에.",
+  "lead": "핵심 프레임을 모은 PDF는 동영상을 보지 않는 사람에게 내용을 전하는 가장 빠른 방법입니다. 편집본을 검토하는 클라이언트, 강의를 복습하는 학생, 콘티를 승인하는 팀.",
+  "quick_answer": "Video To Photo – Grab Frame에서 동영상을 열고 핵심 장면마다 프레임을 저장합니다. 내보내기에서 이미지 형식을 고르고 저장 방식으로 PDF를 선택하세요. 고른 프레임의 PDF가 만들어져 AirDrop·카카오톡·메일·파일 앱으로 바로 공유할 수 있습니다.",
+  "content_intro": "<h2>'동영상을 PDF로'란?</h2><p>PDF에서는 동영상이 재생되지 않습니다. 동영상을 PDF로 만든다는 것은 <strong>정지 이미지</strong>를 저장해 하나의 문서로 묶는 것입니다. 중요한 것은 <em>어떤 프레임을 고르느냐</em>입니다. 비슷한 프레임 900장짜리 PDF는 쓸모없지만, 핵심 12장짜리 PDF는 보물입니다.</p><h2>이럴 때 유용합니다</h2><ul><li><strong>콘티·컷 리스트</strong>: 장면마다 한 프레임, 기획이나 발표에.</li><li><strong>강의 노트</strong>: 녹화한 강의의 슬라이드와 판서.</li><li><strong>클라이언트 검토</strong>: 동영상을 뒤지는 것보다 PDF에 코멘트하는 편이 쉽습니다.</li><li><strong>스포츠 분석</strong>: 동작의 핵심을 순서대로.</li><li><strong>매뉴얼</strong>: 화면 녹화를 단계별 안내서로.</li></ul>",
+  "steps_title": "아이폰에서 동영상 프레임을 PDF로 묶기",
+  "steps": [
+    {
+      "name": "동영상 열기",
+      "text": "사진 앱에서 Video To Photo – Grab Frame으로 공유하거나 앱에서 동영상을 고릅니다.",
+      "shot": 0
+    },
+    {
+      "name": "핵심 프레임 저장",
+      "text": "동영상을 넘기며 장면, 슬라이드, 단계마다 저장 버튼을 탭합니다.",
+      "shot": 1
+    },
+    {
+      "name": "내보내기에서 PDF 선택",
+      "text": "내보내기를 탭하고 이미지는 JPEG·PNG·HEIC, 저장 방식은 PDF를 고릅니다.",
+      "shot": 3
+    },
+    {
+      "name": "PDF 공유·저장",
+      "text": "파일 앱에 저장하거나 공유 시트에서 AirDrop·카카오톡·메일로 보냅니다.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>깔끔한 PDF를 위한 팁</h2><ul><li>프레임은 처음부터 끝까지 순서대로 저장하세요.</li><li>화면의 글자가 모두 보이고 전환 중이 아닌 프레임을 고릅니다.</li><li>슬라이드나 작은 글자는 PNG를 추천합니다.</li><li>프로젝트가 저장되므로 나중에 프레임을 추가해 다시 내보낼 수 있습니다.</li></ul><h2>PDF와 ZIP 사용 구분</h2><p>순서대로 읽거나 코멘트하려면 <strong>PDF</strong>, 디자인 등에서 개별 파일이 필요하면 <strong>ZIP</strong>. 둘 다 <a href=\"/ko/guides/dongyeongsang-frame-chuchul/\">동영상 프레임 추출 방법</a>에서 설명합니다.</p>",
+  "faq": [
+    {
+      "q": "업로드 없이 동영상을 PDF로 만들 수 있나요?",
+      "a": "네. Video To Photo – Grab Frame은 저장한 프레임으로 아이폰에서 PDF를 만들기 때문에 동영상이 기기 밖으로 나가지 않습니다."
+    },
+    {
+      "q": "PDF의 프레임 순서는?",
+      "a": "PDF에는 저장한 프레임이 들어갑니다. 처음부터 끝까지 순서대로 저장하면 동영상과 같은 순서의 문서가 됩니다."
+    },
+    {
+      "q": "스마트폰에서 동영상으로 콘티를 만들려면?",
+      "a": "컷이나 장면마다 한 프레임씩 저장해 PDF로 내보내면 간단한 콘티가 됩니다. 마크업이나 PDF 앱으로 메모도 추가할 수 있습니다."
+    }
+  ],
+  "related": [
+    "dongyeongsang-frame-chuchul",
+    "dongyeongsang-jpg-byeonhwan",
+    "dongyeongsang-sajin-chuchul-app"
+  ],
+  "datePublished": "2026-09-30"
+}

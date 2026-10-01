@@ -1,0 +1,65 @@
+{
+  "slug": "cara-mengambil-foto-dari-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "cara mengambil foto dari video di iphone",
+  "secondary_keywords": [
+    "cara mengambil foto dari video",
+    "cara mengambil gambar dari video",
+    "ambil foto dari video",
+    "cara mengambil foto dari video tanpa screenshot"
+  ],
+  "title": "Cara Mengambil Foto dari Video di iPhone (3 Cara)",
+  "description": "Cara mengambil foto dari video di iPhone dengan kualitas penuh: fitur bawaan iOS 27, screenshot, dan aplikasi untuk frame tajam dalam JPG, PNG, atau HEIC.",
+  "h1": "Cara mengambil foto dari video di iPhone",
+  "nav_title": "Foto dari video",
+  "card_title": "Cara mengambil foto dari video di iPhone",
+  "excerpt": "Tiga cara, dari yang tercepat hingga kualitas terbaik, dan kapan memakai masing-masing.",
+  "lead": "Momen terbaik sering hanya ada di video: senyuman, lompatan, tiup lilin ulang tahun. Di iPhone, Anda bisa menjadikannya foto dengan tiga cara. Bedanya ada di kualitas, kecepatan, dan berapa banyak foto yang Anda butuhkan.",
+  "quick_answer": "Di iOS 27, jeda video di app Foto, ketuk •••, lalu simpan frame sebagai foto. Di iOS lama, atau untuk banyak foto dalam JPG, PNG, atau HEIC, buka video di Video To Photo – Grab Frame, cari frame-nya, dan simpan dalam resolusi penuh.",
+  "content_intro": "<h2>Perbandingan cara</h2><table><thead><tr><th>Cara</th><th>Kualitas</th><th>Banyak frame</th><th>Format</th></tr></thead><tbody><tr><td>Screenshot</td><td>Resolusi layar</td><td>Tidak</td><td>PNG</td></tr><tr><td>Foto (iOS 27)</td><td>Penuh</td><td>Satu per satu</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Penuh</td><td>Ya, sekaligus</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p>",
+  "steps_title": "Mengambil foto dari video dengan Grab Frame",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Di app Foto, buka video, ketuk Bagikan, lalu pilih Video To Photo – Grab Frame. Tampilan frame langsung terbuka.",
+      "shot": 0
+    },
+    {
+      "name": "Cari momennya",
+      "text": "Geser strip frame ke momen yang diinginkan, lalu ketuk tombol simpan.",
+      "shot": 1
+    },
+    {
+      "name": "Periksa ketajaman",
+      "text": "Buka frame dalam layar penuh dan perbesar. Hapus frame yang buram.",
+      "shot": 2
+    },
+    {
+      "name": "Ekspor",
+      "text": "Pilih JPG, PNG, atau HEIC lalu simpan ke Foto, File, ZIP, atau PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kenapa tidak screenshot saja?</h2><p>Screenshot menyimpan apa yang tampil di layar, bukan videonya. Frame 4K mengecil ke ukuran layar, dan kontrol pemutar atau bingkai hitam bisa ikut terekam. Cukup untuk catatan cepat, tapi tidak untuk kenangan atau cetak.</p><h2>Tips</h2><ul><li>Rekam dalam 4K dan 60 fps untuk frame yang lebih tajam.</li><li>Bandingkan frame di sekitarnya dan simpan yang paling tajam.</li><li>Gunakan video asli, bukan salinan dari WhatsApp.</li></ul>",
+  "faq": [
+    {
+      "q": "Bisakah iPhone mengambil foto dari video tanpa aplikasi?",
+      "a": "Ya, mulai iOS 27 app Foto bisa menyimpan frame yang dijeda sebagai foto, satu per satu. Di versi lama, Anda perlu screenshot atau aplikasi."
+    },
+    {
+      "q": "Apakah kualitasnya turun?",
+      "a": "Tidak, jika disimpan dari file video. Resolusinya sama dengan video: sekitar 8 MP dari 4K, sekitar 2 MP dari 1080p."
+    },
+    {
+      "q": "Apakah video aslinya berubah?",
+      "a": "Tidak. Video tetap utuh, frame disimpan sebagai foto baru."
+    }
+  ],
+  "related": [
+    "cara-screenshot-video-iphone",
+    "cara-menyimpan-foto-dari-video-iphone",
+    "foto-hd-dari-video"
+  ],
+  "datePublished": "2026-10-01"
+}

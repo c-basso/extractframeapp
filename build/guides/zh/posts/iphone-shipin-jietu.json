@@ -1,0 +1,69 @@
+{
+  "slug": "iphone-shipin-jietu",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "iPhone 视频截图",
+  "secondary_keywords": [
+    "iphone 视频截图",
+    "苹果手机视频截图模糊",
+    "视频截图变暗",
+    "视频截图 高清"
+  ],
+  "title": "iPhone 视频截图模糊、变暗？高清保存方法",
+  "description": "为什么在 iPhone 上给视频截图会模糊或变暗，以及两种以原画质保存真实视频帧的方法。",
+  "h1": "iPhone 视频截图为什么模糊，以及更好的办法",
+  "nav_title": "视频截图",
+  "card_title": "视频截图不损失画质",
+  "excerpt": "视频截图为什么会模糊或发暗，以及如何保存清晰的原尺寸帧。",
+  "lead": "暂停、同时按侧边按钮和音量加、再裁剪……结果还是比视频差。不是你的错觉：截屏保存的是屏幕，而不是视频本身。",
+  "quick_answer": "截屏不可能比屏幕更清晰。iOS 27 及以上，在“照片”中暂停，通过 ••• 保存帧。旧版 iOS，或需要多帧和 PNG 时，用 Video To Photo – Grab Frame 打开视频并导出。两种方法得到的都是真正的视频帧，没有播放按钮和黑边。",
+  "content_intro": "<h2>常规的视频截图方法</h2><ol><li>在“照片”中播放视频并暂停。</li><li>轻点屏幕隐藏控制按钮。</li><li>同时按下<strong>侧边按钮</strong>和<strong>调高音量按钮</strong>（有主屏幕按钮的机型：主屏幕按钮 + 侧边按钮）。</li><li>打开缩略图，裁掉黑边，轻点“完成”。</li></ol><h2>画质为什么会变差</h2><ul><li><strong>屏幕分辨率，而不是视频分辨率。</strong>横屏 4K 视频（3840×2160）在竖屏上只是一条窄带，裁剪后只剩下很少的像素。</li><li><strong>很难停在准确的帧。</strong>手指暂停常常落在眨眼或晃动的帧上。</li><li><strong>多余元素和二次压缩。</strong>播放按钮、字幕、进度条，以及裁剪时再次保存。</li></ul><h3>为什么截图会变暗</h3><p>iPhone 默认拍摄 <strong>HDR</strong> 视频，HDR 视频在屏幕上显示得更亮。截屏以普通图片保存，所以看起来会比正在播放的视频更暗或更灰。如果不想新拍的视频有这种差别，可以在 设置 → 相机 → 录制视频 中关闭“HDR 视频”。</p><blockquote><p>解决办法不是截得更好，而是不再截屏。</p></blockquote><h2>方法 1：iOS 27 的“照片”</h2><p>在“照片”中打开视频，在想要的瞬间暂停，轻点 <strong>•••</strong>，然后选择将视频帧存储为照片（<em>Save Video Frame as Photo</em>）。你会得到与视频同分辨率的 HEIF 或 JPG，一次一帧，日期与视频相同。</p><h2>方法 2：使用 App（任何 iOS，多帧）</h2><p>如果是 iOS 26 或更早，或需要多帧、PNG、ZIP、PDF，帧提取 App 会直接从视频文件读取帧并一次性导出。</p>",
+  "steps_title": "不截屏，在 iPhone 上保存视频帧",
+  "steps": [
+    {
+      "name": "在 App 中打开视频",
+      "text": "在“照片”中轻点“共享”并选择本 App，或打开 Video To Photo – Grab Frame 选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "停在准确的帧",
+      "text": "慢慢拖动帧条，当瞬间出现在大预览中时停下。不用再和暂停按钮较劲。",
+      "shot": 1
+    },
+    {
+      "name": "保存这一帧",
+      "text": "它会进入下方的托盘。把前后几帧也存下来比较。",
+      "shot": 2
+    },
+    {
+      "name": "导出为 PNG 或 HEIC",
+      "text": "PNG 无损，HEIC 清晰又小巧。存到“照片”或“文件”。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>截屏与导出帧对比</h2><table><thead><tr><th></th><th>截屏</th><th>从文件导出的帧</th></tr></thead><tbody><tr><td>分辨率</td><td>最多等于屏幕</td><td>与视频相同</td></tr><tr><td>准确瞬间</td><td>看运气</td><td>用帧条选择</td></tr><tr><td>播放按钮、黑边</td><td>经常有，需要裁剪</td><td>没有</td></tr><tr><td>多帧</td><td>一张张截</td><td>一次导出，ZIP、PDF</td></tr><tr><td>格式</td><td>PNG 截图</td><td>JPG、PNG、HEIC</td></tr></tbody></table><h2>如何得到最清晰的效果</h2><p>帧不会比视频更清晰。静止的瞬间、充足的光线和高分辨率效果最好。详见<a href=\"/zh/guides/shipin-tiqu-gaoqing-tupian/\">从视频提取高清图片</a>。</p>",
+  "faq": [
+    {
+      "q": "为什么视频截图会模糊？",
+      "a": "因为它保存的是屏幕：视频被缩小到显示尺寸，暂停又常常落在运动的帧上。从文件提取帧可以同时解决这两个问题。"
+    },
+    {
+      "q": "iPhone 视频截图为什么变暗？",
+      "a": "HDR 视频在屏幕上显示得更亮，但截图以普通图片保存。新拍的视频可在 设置 → 相机 → 录制视频 中关闭“HDR 视频”。"
+    },
+    {
+      "q": "不截屏能从视频保存照片吗？",
+      "a": "可以。iOS 27 起可通过“照片”中的 ••• 菜单。任何版本都可以用 Video To Photo – Grab Frame 直接从视频文件提取帧。"
+    },
+    {
+      "q": "哪种格式最能保留画质？",
+      "a": "PNG 无损，保留每个像素。HEIC 画质接近、文件更小。JPG 最轻，哪里都能打开。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-jiequ-zhaopian",
+    "shipin-tiqu-gaoqing-tupian",
+    "shipin-zhuan-tupian"
+  ],
+  "datePublished": "2026-10-01"
+}

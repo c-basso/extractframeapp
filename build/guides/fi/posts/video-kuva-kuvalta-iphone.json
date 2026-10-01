@@ -1,0 +1,64 @@
+{
+  "slug": "video-kuva-kuvalta-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video ruutu ruudulta iPhone",
+  "secondary_keywords": [
+    "video kuva kuvalta iphone",
+    "video frame by frame iphone",
+    "pysäytä video tiettyyn ruutuun"
+  ],
+  "title": "Video ruutu ruudulta iPhonella ja ruudun tallennus",
+  "description": "Näin selaat videota ruutu ruudulta iPhonella löytääksesi tarkan hetken (lyönti, räpäytys, maali) ja tallennat sen tarkkana valokuvana.",
+  "h1": "Näin katsot videota ruutu ruudulta iPhonella",
+  "nav_title": "Ruutu ruudulta (iPhone)",
+  "card_title": "Video ruutu ruudulta iPhonella",
+  "excerpt": "Löydä videon tarkka hetki ja tallenna se kuvana.",
+  "lead": "Lyönti, maali, temppu, silmänräpäys. Toistolla ja pysäytyksellä et näe niitä; videota pitää käydä läpi lähes ruutu ruudulta. Näin se onnistuu iPhonella ja näin tallennat ruudun.",
+  "quick_answer": "Pysäytä video Kuvissa ja vedä ruutunauhaa hitaasti. iOS 27:ssä tallennat sitten ruudun •••-valikosta. Jos haluat kerätä monta hetkeä, vedä Video To Photo – Grab Framessa ison esikatselun kanssa ja tallenna jokainen hetki.",
+  "content_intro": "<h2>Ruutu ruudulta Kuvat-sovelluksessa</h2><ol><li>Avaa video ja pysäytä se.</li><li>Kosketa alareunan ruutunauhaa ja vedä hitaasti vasemmalle tai oikealle.</li><li>Pidä sormea hetken nauhalla, niin se suurenee ja voit vetää tarkemmin.</li></ol><p>iOS 27:ssä ja uudemmissa napauta <strong>•••</strong> tallentaaksesi löytämäsi ruudun kuvana. Vanhemmassa iOS:ssä on vain <a href=\"/fi/guides/nayttokuva-videosta-iphone/\">laatua heikentävä näyttökuva</a>; sovellus tallentaa monta hetkeä kaikissa versioissa.</p><h2>Miksi hitaasti?</h2><p>30 fps:llä ruutu kestää 33 millisekuntia, 60 fps:llä 17. Silmänräpäys, pallon osuma tai ilme vaihtuu kahden ruudun sisällä. Paras kuva ja epäonnistunut eroavat usein vain yhden ruudun verran.</p>",
+  "steps_title": "Näin löydät ja tallennat oikean ruudun",
+  "steps": [
+    {
+      "name": "Avaa video sovelluksessa",
+      "text": "Jaa se Kuvista Video To Photo – Grab Frameen. Näet ison esikatselun ja ruutunauhan.",
+      "shot": 0
+    },
+    {
+      "name": "Vedä hitaasti",
+      "text": "Liikuta sormea pienin askelin ja seuraa esikatselua. Liiku edestakaisin liikkeen ympärillä.",
+      "shot": 1
+    },
+    {
+      "name": "Tallenna myös naapurit",
+      "text": "Napauta tallenna, vedä vähän ja tallenna uudelleen. Vertaa ja säilytä paras.",
+      "shot": 2
+    },
+    {
+      "name": "Vie paras",
+      "text": "Vie PNG- tai HEIC-muodossa yksityiskohtien säilyttämiseksi, analyysiin, harjoitusmuistiinpanoihin tai someen.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Milloin ruutu ruudulta on hyödyllistä</h2><ul><li><strong>Urheilu</strong>: golf- ja tennislyönti, tekniikka, hypyt. Tallenna avainruudut ja käy ne läpi PDF:nä.</li><li><strong>Lapset ja lemmikit</strong>: se yksi ruutu, jossa kaikki katsovat kameraan.</li><li><strong>Ohjeet ja näytön tallenteet</strong>: yksi vaihe viitekuvaksi.</li><li><strong>Kiistanalaiset tilanteet</strong>: mitä siinä maalissa oikeasti tapahtui?</li></ul><h2>Kuvaa niin, että myöhemmin on helpompaa</h2><p>Kuvaa <strong>60 fps:llä</strong> (Asetukset → Kamera → Videon tallennus): kaksi kertaa enemmän hetkiä ja vähemmän epätarkkuutta ruutua kohden. Hidastus antaa vielä enemmän. Katso myös <a href=\"/fi/guides/tarkka-kuva-videosta/\">tarkka kuva videosta</a>.</p>",
+  "faq": [
+    {
+      "q": "Voiko Kuvissa selata videota ruutu ruudulta?",
+      "a": "Yhden ruudun painiketta ei ole, mutta pysäytys ja nauhan hidas vetäminen antavat lähes saman tuloksen. iOS 27:ssä tallennat ruudun •••-valikosta."
+    },
+    {
+      "q": "Miten tallennan löytämäni ruudun?",
+      "a": "iOS 27:ssä Kuvien •••-valikosta. Kaikissa versioissa etsi sama hetki Video To Photo – Grab Framessa, tallenna ja vie JPG-, PNG- tai HEIC-muodossa."
+    },
+    {
+      "q": "Pitäisikö kuvata 60 fps:llä?",
+      "a": "Kyllä. Saat kaksi kertaa enemmän ruutuja kuin 30 fps:llä, ja jokainen on vähemmän epätarkka, joten tarkan hetken löytäminen on helpompaa."
+    }
+  ],
+  "related": [
+    "tarkka-kuva-videosta",
+    "kuvia-videosta",
+    "kuva-videosta-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

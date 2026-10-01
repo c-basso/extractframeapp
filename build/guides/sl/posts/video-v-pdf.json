@@ -1,0 +1,64 @@
+{
+  "slug": "video-v-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video v pdf",
+    "sličice v pdf",
+    "snemalna knjiga iz videa"
+  ],
+  "title": "Video v PDF na iPhonu: snemalna knjiga, navodila",
+  "description": "Shranite sličice iz videa v en PDF na iPhonu: za snemalno knjigo, navodila po korakih, zapiske s predavanj ali poročilo. Brez računalnika.",
+  "h1": "Sličice iz videa v en PDF na iPhonu",
+  "nav_title": "Video v PDF",
+  "card_title": "Sličice iz videa v en PDF",
+  "excerpt": "Snemalna knjiga, navodila ali zapiski v enem PDF, neposredno iz videa.",
+  "lead": "Včasih ne potrebujete slike, temveč dokument: korake recepta, navodila za sestavljanje, prosojnice s predavanja ali snemalno knjigo. Takrat je najbolj priročno, da sličice po vrsti pridejo v en PDF.",
+  "quick_answer": "Odprite video v Video To Photo – Grab Frame, shranite pomembne sličice in izvozite v PDF. Sličice bodo v časovnem zaporedju v eni datoteki, ki jo lahko pošljete ali natisnete.",
+  "content_intro": "<h2>Za kaj je PDF iz videa?</h2><table><thead><tr><th>Uporaba</th><th>Primer</th></tr></thead><tbody><tr><td>Navodila</td><td>Recept, sestavljanje pohištva, programska vadnica</td></tr><tr><td>Snemalna knjiga</td><td>Film, oglas, video za družbena omrežja</td></tr><tr><td>Zapiski</td><td>Prosojnice s predavanja ali spletnega seminarja</td></tr><tr><td>Poročilo</td><td>Dokumentiranje škode, napake ali dela</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p><p>Fotografije shranjujejo po eno in ne naredijo PDF.</p>",
+  "steps_title": "Izvoz sličic v PDF",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Shranite pomembne sličice",
+      "text": "Preglejte video in shranite korake ali prizore. Kot projekt lahko nadaljujete pozneje.",
+      "shot": 1
+    },
+    {
+      "name": "Preverite vrstni red",
+      "text": "Preglejte sličice in izbrišite odvečne.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite v PDF",
+      "text": "Izberite izvoz v PDF in shranite v Datoteke ali delite.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Nasveti</h2><ul><li>En korak, ena sličica: ne shranjujte skoraj enakih slik.</li><li>Pri vadnicah s snemanja zaslona mora biti besedilo berljivo: izogibajte se sličicam v gibanju.</li><li>Če je PDF velik, pošljite ZIP ali manj sličic.</li></ul>",
+  "faq": [
+    {
+      "q": "Ali lahko video pretvorim v PDF?",
+      "a": "Videa samega ne, njegove sličice pa. Video To Photo – Grab Frame iz izbranih sličic naredi en PDF."
+    },
+    {
+      "q": "Potrebujem računalnik?",
+      "a": "Ne. Vse poteka na iPhonu, brez interneta."
+    },
+    {
+      "q": "Koliko sličic gre v en PDF?",
+      "a": "Kolikor jih izberete. Pri veliko sličicah je datoteka lahko velika, zato se splača izbirati."
+    }
+  ],
+  "related": [
+    "video-v-slike",
+    "video-v-jpg-png",
+    "aplikacija-slika-iz-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "app-foto-dun-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplicació per treure fotos d'un vídeo",
+  "secondary_keywords": [
+    "app foto d'un vídeo iphone",
+    "app gratuïta foto d'un vídeo",
+    "frame grabber app"
+  ],
+  "title": "App per treure fotos d’un vídeo a l’iPhone: com triar-la",
+  "description": "Què has de mirar en una app per treure fotos d’un vídeo: precisió, resolució, privadesa, exportació en lot, formats i preu, i una prova de 2 minuts.",
+  "h1": "Com triar una app per treure fotos d’un vídeo a l’iPhone",
+  "nav_title": "App",
+  "card_title": "Com triar una app per treure fotos d’un vídeo",
+  "excerpt": "Sis trets d’una bona app i una llista de comprovació de 2 minuts.",
+  "lead": "Cerca «vídeo a foto» a l’App Store i trobaràs una llarga llista d’apps semblants. La base és la mateixa; la diferència és als detalls: amb quina precisió tries el fotograma, quina mida té la foto i si el vídeo es puja a internet.",
+  "quick_answer": "Una bona app et deixa triar el fotograma amb precisió, desa des del fitxer del vídeo (no de la pantalla), funciona al dispositiu, desa molts fotogrames alhora i exporta a diversos formats. Video To Photo – Grab Frame ho fa tot, a més d’exportar en ZIP i PDF i de guardar projectes per continuar-los després.",
+  "content_intro": "<h2>Cal una app amb iOS 27?</h2><p>Des d’iOS 27, Fotos pot desar un fotograma en pausa. En un iOS més antic, i per a molts fotogrames, PNG i ZIP/PDF, una app és més còmoda.</p><h2>Sis trets d’una bona app</h2><ol><li><strong>Selecció precisa.</strong> Una tira de fotogrames o un control lliscant que s’aturi just al moment.</li><li><strong>Exportació real.</strong> Des del fitxer, no de la pantalla. Prova-ho amb un vídeo 4K horitzontal i revisa’n les dimensions.</li><li><strong>Processament al dispositiu.</strong> Els vídeos familiars no han de ser en un servidor. Revisa l’etiqueta de privadesa de l’App Store i prova-ho en mode avió.</li><li><strong>Mode en lot.</strong> Storyboards, esport i tutorials necessiten molts fotogrames.</li><li><strong>Formats i exportació.</strong> JPG, PNG i HEIC són suficients. ZIP i PDF són poc habituals, però molt útils.</li><li><strong>Preu clar.</strong> Què és gratuït, si hi ha subscripció, si es pot comprar amb un sol pagament.</li></ol>",
+  "steps_title": "Prova una app en 2 minuts",
+  "steps": [
+    {
+      "name": "Obre un vídeo real",
+      "text": "Tria un vídeo horitzontal amb moviment i comparteix-lo des de Fotos amb Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Apunta a un fotograma",
+      "text": "Busca un parpelleig o una pilota a l’aire. La tira i la vista prèvia gran t’ho posen fàcil. Toca desar.",
+      "shot": 1
+    },
+    {
+      "name": "Desa’n uns quants i compara",
+      "text": "Desa’n quatre o cinc i amplia’ls. Els dolents s’han de poder eliminar abans d’exportar.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta i revisa el fitxer",
+      "text": "Exporta en PNG i mira la informació de la foto. Les dimensions han de ser les del vídeo, no les de la pantalla.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Què ofereix Video To Photo – Grab Frame</h2><table><thead><tr><th>Funció</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Inici des del menú Comparteix</td><td>Sí, directament a la vista de fotogrames</td></tr><tr><td>Origen</td><td>El fitxer del vídeo</td></tr><tr><td>Mode en lot</td><td>Molts fotogrames en una sessió</td></tr><tr><td>Formats</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Exportació</td><td>Fitxers, ZIP, PDF</td></tr><tr><td>Projectes</td><td>Desa i continua més tard</td></tr><tr><td>Privadesa</td><td>100% al dispositiu, sense compte</td></tr><tr><td>Preu</td><td>Descàrrega gratuïta. Pro amb compra dins l’app (prova gratuïta, anual, pagament únic)</td></tr></tbody></table><h2>Quan no cal cap app</h2><p>Una sola foto a iOS 27? N’hi ha prou amb Fotos. Una nota ràpida en un iOS antic? N’hi ha prou amb una captura.</p>",
+  "faq": [
+    {
+      "q": "Hi ha alguna app gratuïta per treure fotos d’un vídeo?",
+      "a": "Video To Photo – Grab Frame es pot descarregar gratis. Algunes funcions són Pro, amb compra dins l’app (prova gratuïta, pla anual o pagament únic). Els preus actuals són a l’App Store."
+    },
+    {
+      "q": "Aquestes apps pugen el meu vídeo?",
+      "a": "Les eines en línia, sí. Video To Photo – Grab Frame ho processa tot a l’iPhone i funciona sense internet."
+    },
+    {
+      "q": "Funciona amb 4K i càmera lenta?",
+      "a": "Sí. Admet 4K, 60 fps i càmera lenta de la fototeca."
+    }
+  ],
+  "related": [
+    "treure-foto-dun-video-iphone",
+    "video-a-fotogrames",
+    "video-a-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "video-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video JPG-kuviksi",
+  "secondary_keywords": [
+    "video jpg converter",
+    "video kuviksi",
+    "video png",
+    "video heic"
+  ],
+  "title": "Video JPG-, PNG- tai HEIC-kuviksi iPhonella (offline)",
+  "description": "Muunna videon ruudut JPG-, PNG- tai HEIC-kuviksi iPhonella ilman verkkoa ja täydellä laadulla. Lisäksi: mikä muoto jakamiseen, muokkaukseen tai arkistointiin.",
+  "h1": "Video JPG-, PNG- tai HEIC-kuviksi iPhonella",
+  "nav_title": "Video JPG-, PNG-, HEIC-kuviksi",
+  "card_title": "Videon ruudut JPG-, PNG- tai HEIC-kuviksi",
+  "excerpt": "Oikea muoto ruuduille ja vienti ilman verkkomuunninta.",
+  "lead": "Verkon ”video jpg converter” -palvelut pyytävät lataamaan koko tiedoston, odottamaan ja lataamaan kasan kuvia. iPhonella teet sen laitteella, vain haluamillasi ruuduilla ja tarkoitukseen sopivassa muodossa.",
+  "quick_answer": "Avaa video Video To Photo – Grab Framessa, tallenna haluamasi ruudut, napauta Vie ja valitse JPEG, PNG tai HEIC. JPG jakamiseen, PNG häviöttömään muokkaukseen, HEIC pieniin ja tarkkoihin tiedostoihin. Muunnos tapahtuu iPhonella ilman latausta.",
+  "content_intro": "<h2>JPG, PNG ja HEIC: erot</h2><table><thead><tr><th>Muoto</th><th>Laatu</th><th>Koko</th><th>Paras</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Erittäin hyvä (häviöllinen)</td><td>Pieni</td><td>WhatsApp, some, sähköposti, verkko. Aukeaa kaikkialla</td></tr><tr><td><strong>PNG</strong></td><td>Häviötön</td><td>Suurin</td><td>Muokkaus, tekstilliset pikkukuvat, kollaasit</td></tr><tr><td><strong>HEIC</strong></td><td>Erinomainen</td><td>Pienin samalla laadulla</td><td>Applen kuvakirjasto, iPhone ja Mac</td></tr></tbody></table><p>Epävarma? <strong>JPG</strong> jakamiseen, <strong>PNG</strong> muokkaukseen.</p><h2>Miksi ei verkkomuunninta?</h2><ul><li>Koko video pitää ladata: hidasta mobiilidatalla eikä sovi yksityisiin videoihin.</li><li>Moni sivusto leikkaa kiintein välein: satoja kuvia, mutta ehkä ei sinun hetkeäsi.</li><li>Ilmaisversioissa on usein raja tai vesileima.</li></ul>",
+  "steps_title": "Näin muunnat videon ruudut JPG-, PNG- tai HEIC-kuviksi iPhonella",
+  "steps": [
+    {
+      "name": "Avaa video",
+      "text": "Jaa se Kuvista Video To Photo – Grab Frameen tai valitse se sovelluksessa.",
+      "shot": 0
+    },
+    {
+      "name": "Tallenna ruudut",
+      "text": "Napauta tallenna jokaisen hetken kohdalla. Vain valitut ruudut muunnetaan.",
+      "shot": 1
+    },
+    {
+      "name": "Valitse JPEG, PNG tai HEIC",
+      "text": "Napauta Vie ja valitse kuvamuoto ylhäältä.",
+      "shot": 3
+    },
+    {
+      "name": "Tallenna tiedostoina, ZIPinä tai PDF:nä",
+      "text": "Vie erillisinä kuvina, ZIPinä tai PDF:nä ja tallenna Kuviin tai Tiedostoihin, tai jaa heti.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Mikä muoto mihinkin?</h2><ul><li><strong>YouTube-pikkukuva tai TikTok-kansi</strong> → PNG, sitten teksti. Katso <a href=\"/fi/guides/youtube-thumbnail-videosta/\">YouTube-pikkukuva videosta</a>.</li><li><strong>Lähetys Windowsiin tai Androidiin</strong> → JPG (HEIC ei aukea kaikkialla).</li><li><strong>Tulostus</strong> → PNG tai korkealaatuinen JPG 4K-videosta.</li><li><strong>Monen ruudun arkisto</strong> → HEIC ZIPissä.</li><li><strong>Ruudut asiakirjaan</strong> → PDF, katso <a href=\"/fi/guides/video-pdf/\">video PDF:ksi</a>.</li></ul><h2>Heikentääkö muunnos laatua?</h2><p>PNG säilyttää ruudun jokaisen pikselin. JPG ja HEIC pakkaavat, mutta valokuvalaadulla eroa tuskin näkee. Paljon muotoa tärkeämpää on viedä tiedostosta eikä ottaa näyttökuvaa.</p>",
+  "faq": [
+    {
+      "q": "Voinko muuntaa videon JPG:ksi ilmaiseksi iPhonella?",
+      "a": "Video To Photo – Grab Frame on ilmainen ladata; Pro-toiminnot ovat sovelluksen sisäisiä ostoja. Ruudut muunnetaan iPhonella, eikä videota ladata minnekään."
+    },
+    {
+      "q": "Voinko tallentaa videon ruudun PNG:nä?",
+      "a": "Voit. Tallenna ruutu, valitse viennissä PNG ja tallenna erillisenä tiedostona tai ZIPinä."
+    },
+    {
+      "q": "Aukeaako HEIC Windowsissa?",
+      "a": "Uudemmat Windowsit avaavat HEIC:n laajennuksella, mutta eivät kaikki järjestelmät. Muille kuin Applen laitteille JPG on varma valinta."
+    }
+  ],
+  "related": [
+    "tarkka-kuva-videosta",
+    "video-pdf",
+    "youtube-thumbnail-videosta"
+  ],
+  "datePublished": "2026-10-01"
+}

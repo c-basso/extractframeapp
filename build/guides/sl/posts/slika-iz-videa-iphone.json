@@ -1,0 +1,64 @@
+{
+  "slug": "slika-iz-videa-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "slika iz videa",
+  "secondary_keywords": [
+    "slika iz videa iphone",
+    "kako narediti sliko iz videa",
+    "fotografija iz videa"
+  ],
+  "title": "Slika iz videa na iPhonu: 3 načini",
+  "description": "Kako narediti sliko iz videa na iPhonu v polni kakovosti: vgrajena funkcija iOS 27, posnetek zaslona in aplikacija za ostre sličice v JPG, PNG ali HEIC.",
+  "h1": "Kako narediti sliko iz videa na iPhonu",
+  "nav_title": "Slika iz videa",
+  "card_title": "Kako narediti sliko iz videa na iPhonu",
+  "excerpt": "Trije načini, od najhitrejšega do najboljše kakovosti, in kdaj izbrati katerega.",
+  "lead": "Najlepši trenutek je pogosto le v videu: nasmeh, skok, upihovanje svečk. Na iPhonu ga lahko spremenite v sliko na tri načine. Razlikujejo se po kakovosti, hitrosti in številu slik, ki jih potrebujete.",
+  "quick_answer": "V iOS 27 ustavite video v Fotografijah, tapnite ••• in shranite sličico kot fotografijo. V starejšem iOS ali za več slik v JPG, PNG ali HEIC odprite video v Video To Photo – Grab Frame, poiščite sličico in jo shranite v polni ločljivosti.",
+  "content_intro": "<h2>Primerjava načinov</h2><table><thead><tr><th>Način</th><th>Kakovost</th><th>Več sličic</th><th>Formati</th></tr></thead><tbody><tr><td>Posnetek zaslona</td><td>Ločljivost zaslona</td><td>Ne</td><td>PNG</td></tr><tr><td>Fotografije (iOS 27)</td><td>Polna</td><td>Ena za drugo</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Polna</td><td>Da, naenkrat</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p>",
+  "steps_title": "Slika iz videa z Grab Frame",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "V Fotografijah odprite video, tapnite Deli in izberite Video To Photo – Grab Frame. Pogled sličic se odpre takoj.",
+      "shot": 0
+    },
+    {
+      "name": "Poiščite trenutek",
+      "text": "Povlecite trak sličic na pravi trenutek in tapnite gumb za shranjevanje.",
+      "shot": 1
+    },
+    {
+      "name": "Preverite ostrino",
+      "text": "Odprite sličico čez cel zaslon in jo povečajte. Zamegljene izbrišite.",
+      "shot": 2
+    },
+    {
+      "name": "Izvozite",
+      "text": "Izberite JPG, PNG ali HEIC in shranite v Fotografije, Datoteke, ZIP ali PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Zakaj ne le posnetek zaslona?</h2><p>Posnetek zaslona shrani tisto, kar je na zaslonu, ne videa samega. 4K sličica se zmanjša na velikost zaslona, na sliki pa lahko ostanejo kontrolniki predvajanja ali črni robovi. Za hiter zapis zadošča, za spomine ali tisk ne.</p><h2>Nasveti</h2><ul><li>Snemajte v 4K in pri 60 fps za ostrejše sličice.</li><li>Primerjajte sosednje sličice in obdržite najostrejšo.</li><li>Uporabite izvirni video, ne kopije iz Vibra ali WhatsAppa.</li></ul>",
+  "faq": [
+    {
+      "q": "Ali lahko iPhone naredi sliko iz videa brez aplikacije?",
+      "a": "Da, od iOS 27 lahko Fotografije shranijo ustavljeno sličico kot fotografijo, po eno naenkrat. V starejših različicah potrebujete posnetek zaslona ali aplikacijo."
+    },
+    {
+      "q": "Se kakovost poslabša?",
+      "a": "Ne, če shranjujete iz datoteke videa. Slika ima ločljivost videa: približno 8 MP iz 4K, približno 2 MP iz 1080p."
+    },
+    {
+      "q": "Se izvirni video spremeni?",
+      "a": "Ne. Video ostane nespremenjen, sličice pa se shranijo kot nove fotografije."
+    }
+  ],
+  "related": [
+    "posnetek-zaslona-videa-iphone",
+    "shraniti-sliko-iz-videa",
+    "ostra-slika-iz-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "foto-aus-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "Foto aus Video iPhone",
+  "secondary_keywords": [
+    "foto aus video machen iphone",
+    "bild aus video iphone",
+    "foto aus video extrahieren iphone",
+    "video in bild umwandeln iphone"
+  ],
+  "title": "Foto aus Video auf dem iPhone machen: 3 Wege im Vergleich",
+  "description": "So machst du ein Foto aus einem Video auf dem iPhone ohne Qualitätsverlust: die Funktion in iOS 27, der Screenshot und viele Bilder auf einmal als JPG, PNG, HEIC.",
+  "h1": "Foto aus Video auf dem iPhone machen",
+  "nav_title": "Foto aus Video auf dem iPhone",
+  "card_title": "Foto aus Video auf dem iPhone machen",
+  "excerpt": "Alle Wege, ein Foto aus einem Video auf dem iPhone zu holen – und wann welcher passt.",
+  "lead": "Du hast den Moment gefilmt statt fotografiert. Die gute Nachricht: Ein Video besteht aus Dutzenden Fotos pro Sekunde. So holst du das richtige auf dem iPhone heraus.",
+  "quick_answer": "Ab iOS 27: Video in Fotos öffnen, pausieren, auf „•••“ tippen und das Einzelbild als Foto sichern – gespeichert wird ein Bild in Videoauflösung. Bei älteren iOS-Versionen oder für mehrere Bilder, PNG, ZIP oder PDF öffnest du das Video in Video To Photo – Grab Frame, nimmst die Bilder auf und exportierst sie zusammen.",
+  "content_intro": "<h2>Kann man auf dem iPhone ein Foto aus einem Video machen?</h2><p>Ja. Ein Video besteht aus 24, 30 oder 60 Einzelbildern pro Sekunde, und jedes davon kann ein Foto werden. Welche Methode am besten ist, hängt von deiner iOS-Version und der Anzahl der Bilder ab.</p><h2>Die Methoden im Vergleich</h2><table><thead><tr><th>Methode</th><th>Qualität</th><th>Einschränkungen</th><th>Ideal für</th></tr></thead><tbody><tr><td><strong>Fotos → Einzelbild als Foto sichern</strong> (iOS 27+)</td><td>Videoauflösung, HEIF oder JPG</td><td>Ein Bild pro Vorgang; das Foto erhält das Datum des Videos und erscheint nicht oben in „Neueste“</td><td>Schnell ein einzelnes Bild</td></tr><tr><td><strong>Screenshot</strong> bei Pause</td><td>Bildschirmauflösung, oft mit Bedienelementen und Balken</td><td>Den Moment exakt zu treffen ist schwer</td><td>Schnelle Notiz auf älterem iOS</td></tr><tr><td><strong>Live Photo</strong> → „Als Schlüsselfoto“</td><td>Volle Fotoqualität</td><td>Nur für Live Photos, nicht für Videos</td><td>Titelbild eines Live Photos ändern</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Bild aus der Videodatei</td><td>App nötig (iOS 18.6+)</td><td>Viele Bilder, PNG, ZIP oder PDF, ältere iOS-Versionen</td></tr></tbody></table><h3>Der integrierte Weg in iOS 27</h3><ol><li>Öffne das Video in Fotos, pausiere beim gewünschten Moment, tippe auf <strong>„•••“</strong> und wähle, das Einzelbild als Foto zu sichern (<em>Save Video Frame as Photo</em>).</li><li>Das Bild landet als Foto in Videoauflösung in deiner Mediathek.</li><li>Du findest es beim Originalvideo: Es übernimmt dessen Datum und Ort.</li></ol><p>Für ein Bild ist das perfekt. Für zehn Momente aus demselben Video, PNG zum Bearbeiten oder ein ZIP/PDF zum Verschicken wird es mühsam.</p><h3>Warum ein Screenshot kein Foto ist</h3><p>Unter iOS 26 und älter macht man meist einen Screenshot. Der speichert aber den Bildschirm, nicht das Bild: Ein 4K-Querformat-Video auf einem Hochformat-Display füllt nur einen schmalen Streifen, und du musst Bedienelemente wegschneiden und die Pause genau treffen.</p>",
+  "steps_title": "Mehrere Fotos aus einem Video mit Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Video mit der App teilen",
+      "text": "Öffne das Video in Fotos, tippe auf Teilen und wähle die App. Oder öffne Video To Photo – Grab Frame und wähle das Video aus deiner Mediathek.",
+      "shot": 0
+    },
+    {
+      "name": "Moment finden und aufnehmen",
+      "text": "Wische über den Bildstreifen, bis die Vorschau den exakten Moment zeigt, und tippe auf den Aufnahme-Button. Bei Bewegung zusätzlich ein, zwei Nachbarbilder speichern.",
+      "shot": 1
+    },
+    {
+      "name": "Bild prüfen",
+      "text": "Öffne die Vorschau, zoome auf Gesichter oder Text und lösche verwackelte Bilder. Behalte das schärfste.",
+      "shot": 2
+    },
+    {
+      "name": "Als Foto exportieren",
+      "text": "Wähle JPEG, PNG oder HEIC und tippe auf Exportieren. Speichere in Fotos oder Dateien oder sende direkt per WhatsApp, Instagram oder Mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tipps für ein besseres Foto</h2><ul><li><strong>Such die Pause in der Bewegung.</strong> Der höchste Punkt eines Sprungs, der Moment vor dem Lachen – dort sind die Bilder am schärfsten.</li><li><strong>Drei speichern, eins behalten.</strong> Nachbarbilder wirken gleich, bis du hineinzoomst.</li><li><strong>In 4K oder 60 fps filmen.</strong> Mehr dazu: <a href=\"/de/guides/foto-aus-video-gute-qualitaet/\">Foto aus Video in guter Qualität</a>.</li><li><strong>Format wählen.</strong> JPG zum Teilen, PNG zum Bearbeiten, HEIC zum Platzsparen. Siehe <a href=\"/de/guides/video-in-jpg-umwandeln/\">Video in JPG umwandeln</a>.</li></ul><h2>Verändert oder lädt die App mein Video hoch?</h2><p>Nein. Video To Photo – Grab Frame arbeitet mit einer Kopie in der App und verarbeitet alles auf dem iPhone. Das Originalvideo in Fotos bleibt unverändert, nichts wird an einen Server gesendet.</p>",
+  "faq": [
+    {
+      "q": "Gibt es auf dem iPhone eine integrierte Möglichkeit, ein Foto aus einem Video zu machen?",
+      "a": "Ja, ab iOS 27: Video in Fotos pausieren, auf „•••“ tippen und das Einzelbild als Foto sichern. Es wird jeweils ein Bild als HEIF oder JPG gespeichert. Unter iOS 26 und älter gibt es außer dem Screenshot nichts Integriertes."
+    },
+    {
+      "q": "Wo landet das Bild unter iOS 27?",
+      "a": "In der Fotos-Mediathek, aber mit Datum und Ort des Originalvideos – es erscheint neben dem Video, nicht oben in „Neueste“."
+    },
+    {
+      "q": "Hat das Foto dieselbe Qualität wie das Video?",
+      "a": "Ja, wenn du das Bild und keinen Screenshot speicherst: Sowohl die iOS-27-Funktion als auch Video To Photo – Grab Frame lesen es aus der Datei. Bei schneller Bewegung kann es trotzdem unscharf sein – wähle einen ruhigen Moment."
+    },
+    {
+      "q": "Kann ich mehrere Fotos aus einem Video machen?",
+      "a": "Ja. Nimm in Video To Photo – Grab Frame jeden Moment auf und exportiere alle zusammen als Dateien, ZIP oder PDF."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-ohne-qualitaetsverlust",
+    "standbild-aus-video-speichern-iphone",
+    "foto-aus-video-gute-qualitaet"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "video-snimek-po-snimku-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video snímek po snímku iPhone",
+  "secondary_keywords": [
+    "přehrávání videa po snímcích iphone",
+    "video frame by frame iphone",
+    "zastavit video na snímku iphone"
+  ],
+  "title": "Video snímek po snímku na iPhonu a uložení snímku",
+  "description": "Jak na iPhonu procházet video snímek po snímku, najít přesný okamžik (švih, mrknutí, gól) a uložit ho jako ostrou fotku.",
+  "h1": "Jak procházet video snímek po snímku na iPhonu",
+  "nav_title": "Snímek po snímku (iPhone)",
+  "card_title": "Video snímek po snímku na iPhonu",
+  "excerpt": "Najděte přesný okamžik ve videu a uložte ho jako fotku.",
+  "lead": "Švih, gól, trik, mrknutí. Přehráváním a pauzou to neuvidíte; video musíte projít skoro snímek po snímku. Ukážeme, jak na to na iPhonu a jak snímek uložit.",
+  "quick_answer": "Pozastavte video ve Fotkách a pomalu posouvejte pás snímků. Na iOS 27 pak snímek uložte přes •••. Chcete-li posbírat více okamžiků, posouvejte ve Video To Photo – Grab Frame s velkým náhledem a každý okamžik uložte.",
+  "content_intro": "<h2>Snímek po snímku v aplikaci Fotky</h2><ol><li>Otevřete video a pozastavte ho.</li><li>Dotkněte se pásu snímků dole a pomalu posouvejte doleva nebo doprava.</li><li>Chvíli pás podržte, zvětší se a posun bude přesnější.</li></ol><p>Na iOS 27 a novějším klepněte na <strong>•••</strong> a nalezený snímek uložte jako fotku. Na starším iOS máte jen <a href=\"/cs/guides/screenshot-videa-iphone-bez-ztraty-kvality/\">snímek obrazovky se ztrátou kvality</a>; aplikace uloží více okamžiků na jakékoli verzi.</p><h2>Proč pomalu?</h2><p>Při 30 fps trvá snímek 33 milisekund, při 60 fps 17. Mrknutí, úder do míče nebo výraz tváře se změní během dvou snímků. Rozdíl mezi nejlepší fotkou a nepovedenou je často jediný snímek.</p>",
+  "steps_title": "Jak najít a uložit správný snímek",
+  "steps": [
+    {
+      "name": "Otevřete video v aplikaci",
+      "text": "Nasdílejte ho z Fotek do Video To Photo – Grab Frame. Uvidíte velký náhled a pás snímků.",
+      "shot": 0
+    },
+    {
+      "name": "Posouvejte pomalu",
+      "text": "Hýbejte prstem po malých krocích a sledujte náhled. Choďte tam a zpět kolem pohybu.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte i sousední",
+      "text": "Klepněte na uložení, trochu posuňte a uložte znovu. Porovnejte a nechte nejlepší.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte nejlepší",
+      "text": "Exportujte jako PNG nebo HEIC, abyste zachovali detaily, pro analýzu, tréninkové poznámky nebo sítě.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kdy se hodí procházení po snímcích</h2><ul><li><strong>Sport</strong>: golfový a tenisový švih, technika, skoky. Uložte klíčové snímky a projděte je jako PDF.</li><li><strong>Děti a zvířata</strong>: ten jediný snímek, kde se všichni dívají do objektivu.</li><li><strong>Návody a záznamy obrazovky</strong>: jeden krok jako referenční obrázek.</li><li><strong>Sporné situace</strong>: co se u toho gólu doopravdy stalo?</li></ul><h2>Natáčejte tak, aby to pak bylo snazší</h2><p>Natáčejte v <strong>60 fps</strong> (Nastavení → Fotoaparát → Záznam videa): dvakrát víc okamžiků a méně rozmazání na snímek. Zpomalené video jich dá ještě víc. Viz také <a href=\"/cs/guides/kvalitni-fotka-z-videa/\">kvalitní fotka z videa</a>.</p>",
+  "faq": [
+    {
+      "q": "Dá se ve Fotkách procházet video po snímcích?",
+      "a": "Tlačítko na jeden snímek tam není, ale pauza a pomalé posouvání pásu dá téměř totéž. Na iOS 27 snímek uložíte přes •••."
+    },
+    {
+      "q": "Jak uložím nalezený snímek?",
+      "a": "Na iOS 27 přes ••• ve Fotkách. Na jakékoli verzi najděte stejný okamžik ve Video To Photo – Grab Frame, uložte ho a exportujte jako JPG, PNG nebo HEIC."
+    },
+    {
+      "q": "Mám natáčet v 60 fps?",
+      "a": "Ano. Snímků je dvakrát víc než při 30 fps a každý je méně rozmazaný, takže ostrý okamžik najdete snáz."
+    }
+  ],
+  "related": [
+    "kvalitni-fotka-z-videa",
+    "snimky-z-videa",
+    "jak-udelat-fotku-z-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

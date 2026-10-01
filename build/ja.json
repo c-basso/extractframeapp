@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "ja",
-    "title": "動画から写真・画像 iPhone | Video To Photo",
-    "description": "動画から写真・画像をiPhoneで取得するアプリ。1フレームまたは複数を数秒でJPG・PNG・HEICに書き出し。一括エクスポート対応。処理は端末内で完結し、動画のアップロードは不要。App Storeで今すぐダウンロード。",
-    "keywords": "動画から写真, 動画から写真を取得, 動画から写真 画像, フレーム抽出, 動画フレーム抽出, iPhone フレーム保存, 動画から画像, jpg 動画, png 動画, heic 動画, 一括エクスポート, 写真から共有",
+    "title": "動画から写真を切り出す iPhoneアプリ（高画質）| Grab Frame",
+    "description": "iPhoneで動画から写真を高画質で切り出せるアプリ。スクショではなく元の動画ファイルから、狙った1コマを1枚でも複数枚でもJPG・PNG・HEICで保存。ZIPやPDFでまとめて書き出しも可能。オフライン対応、アップロード不要で無料ダウンロード。",
+    "keywords": "動画から写真, 動画から写真 iphone, 動画から静止画, 動画 切り出し 写真, 動画 スクショ 画質, 動画から写真 アプリ",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/ja/",
-    "og_title": "動画から写真・画像 iPhoneアプリ",
-    "og_description": "動画から写真・画像をiPhoneで取得できるアプリです。欲しい瞬間をフレーム単位で選び、JPG・PNG・HEICで高品質に書き出し。一括エクスポートにも対応。処理は端末内で完結し、動画のアップロードやアカウント登録は不要です。",
+    "og_title": "iPhoneで動画から写真を切り出す — 狙った1コマを高画質で",
+    "og_description": "iPhoneの動画から決定的瞬間を探し、1枚でも数十枚でもフル画質で保存。スクショではなく本物のフレームを、JPG・PNG・HEICで書き出し、ZIPやPDFにもまとめられます。アップロード不要、アカウント不要で、すべて端末内で処理します。",
     "og_image": "https://extractframeapp.com/site_preview.png",
-    "site_name": "Video To Photo - Grab Frame",
+    "site_name": "Video To Photo – Grab Frame",
     "og_locale": "ja_JP",
     "twitter_url": "https://extractframeapp.com/ja/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "動画から写真・画像をiPhoneで取得。端末内処理、一括エクスポート、柔軟な形式に対応。",
+    "twitter_title": "動画から写真を切り出す — Grab Frame",
+    "twitter_description": "iPhoneの動画からHD静止画を保存。JPG・PNG・HEIC・ZIP・PDF。オフライン、アップロード不要。",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/ja/",
@@ -21,15 +21,22 @@
     "geo_placename": "日本"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame のロゴ",
-    "title": "iPhoneで動画からフレームを抽出",
-    "subtitle": "動画から写真を取得—クリップから欲しい静止画を数秒で保存",
-    "entity_definition": "Video To Photo - Grab Frameは、iPhone上で動画を静止画に変換するiOSアプリです。欲しい瞬間を選び、JPG、PNG、HEICでフレームを書き出せます。",
-    "subheadline": "「写真」から開き、目的の瞬間までスクラブして、1フレームまたは複数を保存。アカウント不要、動画のアップロード不要、編集タイムラインも不要です。",
-    "download_alt": "App Storeからダウンロード",
+    "logo_alt": "Video To Photo – Grab Frameのアプリアイコン",
+    "title": "iPhoneで動画から写真を切り出す — 狙った1コマを高画質で",
+    "subtitle": "決定的瞬間までスクロールして、1枚でも数十枚でも保存。JPG・PNG・HEICで書き出せます。すべてiPhoneの中で完結、アップロードもアカウントも不要です。",
+    "entity_definition": "Video To Photo – Grab Frameは、動画からフレームを切り出して高解像度の写真として保存するiPhoneアプリです。処理はすべて端末内で行われます。",
+    "subheadline": "「写真」から共有して、瞬間を探して、保存するだけ。",
+    "download_alt": "Video To Photo – Grab FrameをApp Storeでダウンロード",
     "phone_text": "タップして動画からフレームを取得",
-    "qr_alt": "アプリをダウンロードするQRコード",
-    "qr_text": "iPhoneでスキャンしてダウンロード"
+    "qr_alt": "Video To Photo – Grab FrameをダウンロードするQRコード",
+    "qr_text": "iPhoneのカメラで読み取ってインストール",
+    "title_html": "iPhoneで<span class=\"grad-text\">動画から写真</span>を。狙った1コマを高画質で。",
+    "bullets": [
+      "オフラインで動作",
+      "JPG・PNG・HEIC",
+      "ZIP・PDFで書き出し",
+      "アカウント不要"
+    ]
   },
   "last_updated": {
     "text": "最終更新：2026年6月16日"
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "iPhoneで動画からフレームを抽出する方法",
-    "subtitle": "クリップから完璧な静止画を保存する簡単な手順",
-    "placeholder_line1": "📱 デモ動画は近日公開",
-    "placeholder_line2": "手順1：「写真」から開く > 手順2：瞬間までスクラブ > 手順3：フレーム取得 > 手順4：JPG/PNG/HEICで書き出し"
+    "title": "iPhoneで動画から写真を切り出す方法",
+    "subtitle": "4ステップ、約1分。覚えることはありません。"
   },
   "howto_steps": {
     "items": [
       {
-        "name": "「写真」から開く",
-        "text": "「写真」から動画を{{app_info.name}}に共有するか、先にアプリを開いてクリップを選択します。"
+        "name": "「写真」から動画を共有",
+        "text": "「写真」アプリで動画を開き、共有ボタンからアプリを選択。またはアプリを開いて動画を選びます。すぐにフレーム切り出し画面が開きます。"
       },
       {
-        "name": "正確な瞬間を見つける",
-        "text": "スクラブ操作でフレーム単位に移動し、欲しい静止画で止めます。"
+        "name": "瞬間を探して保存",
+        "text": "フレームの帯をなぞって狙ったコマまで移動し、保存ボタンをタップ。欲しいコマの数だけ繰り返します。"
       },
       {
-        "name": "1枚または複数のフレームを取得",
-        "text": "1フレームだけキャプチャするか、複数の瞬間をマークして一括書き出し。"
+        "name": "ベストだけを残す",
+        "text": "保存したコマを全画面で開き、拡大してピントを確認。ブレたものは削除します。"
       },
       {
-        "name": "書き出して保存",
-        "text": "JPG、PNG、HEICで保存するか、ZIPまたはPDFで書き出します。"
+        "name": "書き出して共有",
+        "text": "JPEG・PNG・HEICを選び、個別ファイル、ZIP、PDFのいずれかで保存します。"
       }
     ]
   },
@@ -151,45 +156,65 @@
     ]
   },
   "faq": {
-    "title": "iPhoneで動画を写真に：よくある質問",
+    "eyebrow": "よくある質問",
+    "title": "iPhoneで動画から写真：よくある質問",
+    "learn_more": "詳しく見る",
     "items": [
       {
-        "question": "iPhoneで動画からフレームを抽出するには？",
-        "answer": "Video To Photo - Grab Frameでクリップを開き、正確な瞬間までスクラブして静止画をキャプチャ。JPG、PNG、HEICで書き出します。"
+        "question": "iPhoneで動画から写真を切り出すには？",
+        "answer": "iOS 27以降なら「写真」で動画を開いて一時停止し、「•••」からフレームを写真として保存できます（1枚ずつ）。それ以前のiOS、または複数枚をJPG・PNG・HEIC・ZIP・PDFでまとめて保存したい場合はVideo To Photo – Grab Frameを使います。",
+        "url": "/ja/guides/iphone-douga-kara-shashin/"
       },
       {
-        "question": "複数フレームを一度に書き出せますか？",
-        "answer": "はい。複数の瞬間を選んで、まとめて書き出せます。"
+        "question": "動画のスクショの画質が悪いのはなぜ？",
+        "answer": "スクショは画面を撮るため、4Kのフレームも画面サイズに縮小され、再生ボタンや黒帯も入ります。iOS 27の「写真」やVideo To Photo – Grab Frameで動画ファイルからフレームを保存し、PNGかHEICで書き出せば画質を保てます。",
+        "url": "/ja/guides/douga-sukusho-kougashitsu/"
       },
       {
-        "question": "どの形式で書き出せますか？",
-        "answer": "JPG、PNG、HEICに対応。ZIPやPDFでの書き出しも可能です。"
+        "question": "動画の静止画を写真として保存するには？",
+        "answer": "「写真」から動画をVideo To Photo – Grab Frameに共有し、コマを探して保存、「書き出し」をタップ。「写真」または「ファイル」に保存します。元の動画は変わりません。",
+        "url": "/ja/guides/douga-seishiga-hozon-iphone/"
       },
       {
-        "question": "動画はアップロードされますか？",
-        "answer": "いいえ。フレーム抽出は端末内で行われ、動画と生成画像はiPhoneに残ります。"
+        "question": "動画から写真を切り出すおすすめアプリは？",
+        "answer": "選ぶポイントは、正確なコマ選び、動画と同じ解像度での書き出し、端末内処理、まとめて書き出しの4つ。Video To Photo – Grab Frameはすべてに対応し、JPG・PNG・HEIC・ZIP・PDFでの書き出しもできます。",
+        "url": "/ja/guides/douga-kara-shashin-app/"
       },
       {
-        "question": "後から作業を再開できますか？",
-        "answer": "はい。セッションをプロジェクトとして保存し、後で開き直せます。"
+        "question": "動画から複数のフレームをまとめて抽出できる？",
+        "answer": "できます。1本の動画から欲しいコマを何枚でも一度に保存し、ファイル・ZIP・PDFでまとめて書き出せます。必要なコマだけ選ぶほうが、何百枚もの似たコマを整理するより早く済みます。",
+        "url": "/ja/guides/douga-frame-chushutsu/"
       },
       {
-        "question": "Video To Photo - Grab Frameは無料ですか？",
-        "answer": "ダウンロードは無料。高度な機能はアプリ内課金で利用できます。"
+        "question": "iPhoneで動画をコマ送りするには？",
+        "answer": "「写真」で一時停止し、下のフレームの帯をゆっくりなぞります。Video To Photo – Grab Frameなら大きなプレビューを見ながら帯をなぞり、狙ったコマをそのまま保存できます。",
+        "url": "/ja/guides/douga-komaokuri-iphone/"
       },
       {
-        "question": "どんな人向けですか？",
-        "answer": "コンテンツ制作者、教育者、動画の特定の瞬間を静止画として残したい方に役立ちます。"
+        "question": "動画から高画質な写真を取り出すコツは？",
+        "answer": "動きの少ないコマを選び、できれば4Kや60fpsで撮影し、スクショではなくファイルから切り出すこと。PNGかHEICで書き出し、前後のコマを見比べて一番シャープなものを選びます。",
+        "url": "/ja/guides/douga-kara-shashin-kougashitsu/"
       },
       {
-        "question": "iPhoneで動画から写真を取得するアプリはありますか？",
-        "answer": "はい。Video To Photo - Grab Frameは動画から写真・画像を取得できるアプリです。クリップを開き、正確な瞬間までスクラブして、JPG・PNG・HEICで保存できます。すべてiPhone上で完結します。"
+        "question": "iPhoneで動画をJPGやPNGに変換するには？",
+        "answer": "Video To Photo – Grab Frameで選んだコマをJPG・PNG・HEICで保存できます。共有ならJPG、劣化なしで編集するならPNG、軽くて高画質ならHEICが向いています。",
+        "url": "/ja/guides/douga-jpg-henkan/"
+      },
+      {
+        "question": "動画をPDFにするには？",
+        "answer": "Video To Photo – Grab Frameで要所のコマを保存し、保存形式に「PDF」を選んで書き出します。コマをまとめた1つのPDFになり、絵コンテや授業メモ、報告書に便利です。",
+        "url": "/ja/guides/douga-pdf-henkan/"
+      },
+      {
+        "question": "iPhoneで動画からサムネイルを作るには？",
+        "answer": "表情がよくピントの合ったコマをPNGで保存し、好きな編集アプリで文字を入れます。あとはYouTubeのサムネイルやTikTok・Instagramのカバーとしてアップロードするだけです。",
+        "url": "/ja/guides/youtube-thumbnail-douga-kara/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "動画から写真・画像",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "動画から写真 — iPhone用フレーム切り出しアプリ",
     "application_category": "PhotoApplication",
     "application_sub_category": "写真とビデオ"
   },
@@ -198,8 +223,10 @@
     "privacy_text": "プライバシーポリシー",
     "terms_text": "利用規約",
     "support_text": "サポート",
-    "developer_info": "開発：Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. All rights reserved."
+    "developer_info": "開発：Vladimir Ivakhnenko（c-basso）。フレームは端末内で処理され、アップロードされません。",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "ガイド",
+    "blog_text": "ブログ"
   },
   "floating_cta": {
     "text": "📱 iPhoneで動画から完璧なフレームを取得"
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "本文へ移動",
+    "ratings": "件の評価"
+  },
+  "nav": {
+    "how": "使い方",
+    "screenshots": "スクリーンショット",
+    "guides": "ガイド",
+    "faq": "よくある質問"
+  },
+  "download": {
+    "title": "動画から写真を取り出す、そのためだけのアプリ",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "狙った瞬間ぴったりに",
+        "description": "フレームの帯をなぞって、欲しいコマで止めるだけ。笑顔、ジャンプの頂点、目をつぶっていない1枚。"
+      },
+      {
+        "icon": "🖼️",
+        "title": "スクショではなく本物のフレーム",
+        "description": "動画ファイルそのものから切り出すので、再生ボタンや黒い帯が入らず、画面サイズにも縛られません。"
+      },
+      {
+        "icon": "🗂️",
+        "title": "何枚でも保存",
+        "description": "気に入ったコマを一度にまとめて保存し、見比べてベストだけを残せます。"
+      },
+      {
+        "icon": "📦",
+        "title": "JPG・PNG・HEIC + ZIP/PDF",
+        "description": "形式と受け取り方を選べます。個別ファイル、ZIPアーカイブ、PDFのいずれかで。"
+      },
+      {
+        "icon": "🔒",
+        "title": "100%端末内で処理",
+        "description": "動画はiPhoneから出ません。アップロードなし、アカウントなし、機内モードでも使えます。"
+      },
+      {
+        "icon": "💾",
+        "title": "プロジェクト保存",
+        "description": "動画ごとにプロジェクトとして保存。あとから開いて続きのコマを切り出せます。"
+      }
+    ],
+    "meta_labels": {
+      "version": "バージョン",
+      "size": "サイズ",
+      "requires": "対応",
+      "price": "価格",
+      "price_value": "無料・App内課金あり",
+      "category": "カテゴリ",
+      "category_value": "写真/ビデオ"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "スクリーンショット",
+    "title": "6つの画面で、動画が写真に",
+    "subtitle": "App Storeの掲載画面そのまま。これが実際のアプリです。",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame：どんな動画からもベストな瞬間を",
+        "title": "ベストな瞬間を切り出す",
+        "caption": "ライブラリのどの動画からでも。"
+      },
+      {
+        "alt": "フレーム保存ボタンと保存済み4コマのトレイ",
+        "title": "気に入ったコマを全部保存",
+        "caption": "「Grab This Frame」を何回でもタップ。"
+      },
+      {
+        "alt": "保存したフレームを拡大表示するプレビュー画面",
+        "title": "ベストだけを残す",
+        "caption": "書き出し前にプレビューで拡大チェック。"
+      },
+      {
+        "alt": "JPEG・PNG・HEICとファイル・ZIP・PDFを選べる書き出し画面",
+        "title": "形式を選ぶ",
+        "caption": "JPEG・PNG・HEIC。ファイル、ZIP、PDFで。"
+      },
+      {
+        "alt": "フレームのZIPを書き出すiOSの共有シート",
+        "title": "保存して共有",
+        "caption": "「ファイル」へ保存、または共有シートから。"
+      },
+      {
+        "alt": "長さ・コマ数・fpsが表示されたプロジェクト一覧",
+        "title": "複数のプロジェクト",
+        "caption": "あとから開いて続きを。"
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "使い方",
+    "cta": "無料でダウンロード"
+  },
+  "guides_section": {
+    "eyebrow": "ガイド",
+    "title": "ガイド：iPhoneで動画から写真",
+    "subtitle": "よく検索される疑問への答えと、iPhoneでいちばん早くできる方法。",
+    "read_more": "ガイドを読む",
+    "all_text": "すべてのガイド"
+  },
+  "cta": {
+    "title": "いちばんいい写真は、動画の中にある。",
+    "text": "数秒で、画質そのままに、iPhoneだけで取り出せます。アップロードは不要です。"
+  },
+  "sticky": {
+    "text": "どんな動画からもHD写真を"
   }
 }

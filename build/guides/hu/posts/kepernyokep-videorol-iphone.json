@@ -1,0 +1,68 @@
+{
+  "slug": "kepernyokep-videorol-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "képernyőkép videóról iPhone",
+  "secondary_keywords": [
+    "képernyőkép videóról",
+    "videó képernyőkép homályos",
+    "iphone videó képernyőkép sötét"
+  ],
+  "title": "Képernyőkép videóról iPhone-on minőségromlás nélkül",
+  "description": "Miért homályos vagy sötét a videóról készült képernyőkép iPhone-on, és két módszer a valódi képkocka teljes minőségű mentésére.",
+  "h1": "Képernyőkép videóról iPhone-on: miért homályos, és hogyan lehet jobban",
+  "nav_title": "Képernyőkép videóról",
+  "card_title": "Képernyőkép videóról minőségromlás nélkül",
+  "excerpt": "Miért homályosak vagy sötétek a videós képernyőképek, és hogyan menthet éles, teljes méretű kockát.",
+  "lead": "Megállítás, oldalsó gomb és hangerő fel, vágás… és mégis rosszabb, mint a videó. Nem csak képzeli: a képernyőkép a kijelzőt menti, nem a videót.",
+  "quick_answer": "A képernyőkép nem lehet élesebb a kijelzőnél. iOS 27-en vagy újabbon állítsa meg a videót a Fotókban, és mentse a kockát a ••• menüben. Régebbi iOS-en, vagy több kockához és PNG-hez nyissa meg a videót a Video To Photo – Grab Frame-ben, és exportáljon. Mindkét esetben a valódi kockát kapja, lejátszás gomb és fekete sávok nélkül.",
+  "content_intro": "<h2>Képernyőkép készítése videóról (a szokásos módon)</h2><ol><li>Játssza le a videót a Fotókban, és állítsa meg.</li><li>Koppintson a kijelzőre a vezérlők elrejtéséhez.</li><li>Nyomja meg egyszerre az <strong>oldalsó gombot</strong> és a <strong>hangerő-növelő gombot</strong> (Kezdőlap gombos modelleken: Kezdőlap + oldalsó gomb).</li><li>Nyissa meg a miniatűrt, vágja le a fekete sávokat, és koppintson a Kész gombra.</li></ol><h2>Miért romlik a minőség</h2><ul><li><strong>A kijelző felbontása, nem a videóé.</strong> Egy fekvő 4K-videó (3840×2160) álló kijelzőn keskeny sáv. Vágás után a pixeleknek csak töredéke marad.</li><li><strong>Nehéz eltalálni a kockát.</strong> Az ujjal megállítás gyakran pislogásra vagy bemozdult kockára esik.</li><li><strong>Felesleges elemek és újratömörítés.</strong> Lejátszás gomb, felirat, idősáv és újabb mentés a vágásnál.</li></ul><h3>Miért sötétebb a képernyőkép</h3><p>Az iPhone alapból <strong>HDR</strong> videót rögzít, és a HDR videó a kijelzőn világosabbnak látszik. A képernyőkép normál képként mentődik, ezért sötétebbnek vagy fakóbbnak tűnhet, mint a lejátszott videó. Ha az új videóknál nem szeretné ezt a különbséget, kapcsolja ki a HDR videót a Beállítások → Kamera → Videorögzítés menüben.</p><blockquote><p>A megoldás nem a jobb képernyőkép, hanem a képernyőkép elhagyása.</p></blockquote><h2>1. módszer: Fotók iOS 27-en</h2><p>Megállítás: nyissa meg a videót a Fotókban, állítsa meg a megfelelő pillanatban, koppintson a <strong>•••</strong> gombra, és válassza a képkocka mentését fotóként (<em>Save Video Frame as Photo</em>). HEIF vagy JPG képet kap a videó felbontásában, egyszerre egy kockát, a videó dátumával.</p><h2>2. módszer: app (bármely iOS, sok kocka)</h2><p>iOS 26 vagy régebbi van, vagy sok kockát, PNG-t, ZIP-et vagy PDF-et szeretne? Egy képkocka-app közvetlenül a videófájlból olvassa ki a kockákat, és egyszerre exportálja őket.</p>",
+  "steps_title": "Képkocka mentése videóból iPhone-on képernyőkép nélkül",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót az appban",
+      "text": "A Fotókban koppintson a Megosztásra, és válassza az appot, vagy nyissa meg a Video To Photo – Grab Frame-et, és válassza ki a videót.",
+      "shot": 0
+    },
+    {
+      "name": "Álljon meg a megfelelő kockánál",
+      "text": "Húzza lassan a képkockasávot, és álljon meg, amikor a pillanat a nagy előnézetben van. Nincs küzdelem a szünet gombbal.",
+      "shot": 1
+    },
+    {
+      "name": "Mentse a kockát",
+      "text": "Az alsó tálcára kerül. Mentse az előtte és utána lévő kockákat is, és hasonlítsa össze őket.",
+      "shot": 2
+    },
+    {
+      "name": "Exportálás PNG-be vagy HEIC-be",
+      "text": "A PNG veszteségmentes, a HEIC éles és kis méretű. Mentse a Fotókba vagy a Fájlokba.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Képernyőkép kontra exportált kocka</h2><table><thead><tr><th></th><th>Képernyőkép</th><th>Kocka a fájlból</th></tr></thead><tbody><tr><td>Felbontás</td><td>Legfeljebb a kijelzőé</td><td>Mint a videóé</td></tr><tr><td>Pontos pillanat</td><td>Szerencse kérdése</td><td>Képkockasávval választható</td></tr><tr><td>Lejátszás gomb, sávok</td><td>Gyakran, vágni kell</td><td>Soha</td></tr><tr><td>Több kocka</td><td>Egyenként</td><td>Egyszerre, ZIP, PDF</td></tr><tr><td>Formátum</td><td>PNG képernyőkép</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Így lesz a legélesebb</h2><p>A kocka sosem élesebb a videónál. Nyugodt pillanatok, jó fény és nagy felbontás adják a legjobb eredményt. Bővebben: <a href=\"/hu/guides/eles-kep-videobol/\">éles kép videóból</a>.</p>",
+  "faq": [
+    {
+      "q": "Miért homályos a videóról készült képernyőkép?",
+      "a": "Mert a kijelzőt menti: a videó a megjelenítési méretre kicsinyül, a megállítás pedig gyakran mozgó kockára esik. A fájlból kinyert kocka mindkét gondot megoldja."
+    },
+    {
+      "q": "Miért sötét a videóról készült képernyőkép iPhone-on?",
+      "a": "A HDR videó világosabban jelenik meg, a képernyőkép viszont normál képként mentődik. Új videóknál kikapcsolhatja a HDR videót a Beállítások → Kamera → Videorögzítés menüben."
+    },
+    {
+      "q": "Menthetek képet videóból képernyőkép nélkül?",
+      "a": "Igen. iOS 27-től a Fotók ••• menüjével. Bármely verzión a Video To Photo – Grab Frame közvetlenül a videófájlból nyeri ki a kockát."
+    },
+    {
+      "q": "Melyik formátum őrzi meg legjobban a minőséget?",
+      "a": "A PNG veszteségmentes, minden pixelt megőriz. A HEIC nagyon közel áll hozzá kisebb fájlokkal. A JPG a legkisebb, és mindenhol működik."
+    }
+  ],
+  "related": [
+    "kep-kivagasa-videobol-iphone",
+    "eles-kep-videobol",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

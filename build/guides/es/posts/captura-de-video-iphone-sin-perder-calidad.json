@@ -1,0 +1,65 @@
+{
+  "slug": "captura-de-video-iphone-sin-perder-calidad",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "captura de un video en iPhone sin perder calidad",
+  "secondary_keywords": [
+    "como hacer captura de un video en iphone",
+    "sacar fotos de un video sin perder calidad",
+    "como sacar un frame de un video sin perder calidad",
+    "captura de video iphone 16"
+  ],
+  "title": "Captura de un video en iPhone sin perder calidad: 2 formas",
+  "description": "Por qué las capturas de un video en iPhone salen borrosas y recortadas, y cómo guardar el fotograma real del video con toda su calidad en lugar de una captura.",
+  "h1": "Cómo hacer una captura de un video en iPhone sin perder calidad",
+  "nav_title": "Captura de video sin perder calidad",
+  "card_title": "Captura de un video en iPhone sin perder calidad",
+  "excerpt": "Por qué las capturas de video se ven borrosas y cómo guardar un fotograma nítido y a tamaño completo sin captura.",
+  "lead": "Pausas, pulsas botón lateral y volumen, recortas los controles… y aun así se ve peor que el video. No es cosa tuya: una captura es una foto de la pantalla, no del video.",
+  "quick_answer": "Una captura no puede ser más nítida que tu pantalla, así que mejor evítala. En iOS 27+, pausa el video en Fotos, toca «•••» y elige guardar el fotograma como foto. En iOS anteriores, o para varios fotogramas o PNG, abre el video en Video To Photo – Grab Frame y exporta el fotograma. Ambos guardan el fotograma real, sin controles ni bandas negras.",
+  "content_intro": "<h2>Cómo hacer una captura de un video en iPhone (lo de siempre)</h2><ol><li>Reproduce el video en Fotos y páusalo.</li><li>Toca la pantalla para ocultar los controles.</li><li>Pulsa a la vez el <strong>botón lateral</strong> y <strong>subir volumen</strong> (en iPhone con botón de inicio: inicio + lateral).</li><li>Abre la miniatura, recorta las bandas negras y toca OK.</li></ol><h2>Por qué la captura pierde calidad</h2><ul><li><strong>Resolución de pantalla, no de video.</strong> Un video horizontal 4K (3840 × 2160) en una pantalla vertical ocupa una franja estrecha; al recortar queda una pequeña parte de la resolución real.</li><li><strong>Difícil acertar el fotograma.</strong> Pausar con un toque es impreciso: suele salir el parpadeo o el movido.</li><li><strong>Elementos de más y recompresión.</strong> Controles, subtítulos, barra de progreso y otro guardado al recortar.</li></ul><blockquote><p>La solución no es una captura mejor, sino no hacer captura.</p></blockquote><h2>Forma 1: Fotos en iOS 27</h2><p>Abre el video en Fotos, páusalo en el momento que quieres, toca <strong>«•••»</strong> y elige guardar el fotograma como foto (<em>Save Video Frame as Photo</em>). Se guarda a la resolución del video en HEIF o JPG, un fotograma cada vez y con la fecha del video original.</p><h2>Forma 2: una app (cualquier iOS, muchos fotogramas)</h2><p>En iOS 26 o anteriores, o si quieres varios fotogramas, PNG, ZIP o PDF, una app de captura de fotogramas saca las imágenes directamente del archivo y las exporta de una vez.</p>",
+  "steps_title": "Cómo guardar un fotograma de un video en iPhone sin captura",
+  "steps": [
+    {
+      "name": "Abre el video en la app",
+      "text": "En Fotos toca Compartir y elige la app, o abre Video To Photo – Grab Frame y selecciona el video.",
+      "shot": 0
+    },
+    {
+      "name": "Detente en el fotograma exacto",
+      "text": "Desliza despacio por la tira de fotogramas hasta que la vista previa grande muestre el momento. Sin pelearte con la pausa.",
+      "shot": 1
+    },
+    {
+      "name": "Captura el fotograma",
+      "text": "Queda en la bandeja. Captura también un par de vecinos y compáralos en la vista previa.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta en PNG o HEIC",
+      "text": "PNG sin pérdidas; HEIC, alta calidad en poco espacio. Guárdalo en Fotos o Archivos.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Captura frente a fotograma extraído</h2><table><thead><tr><th></th><th>Captura</th><th>Fotograma del archivo</th></tr></thead><tbody><tr><td>Resolución</td><td>Limitada a la pantalla</td><td>La del video</td></tr><tr><td>Momento exacto</td><td>A la suerte</td><td>Tira de fotogramas</td></tr><tr><td>Controles y bandas</td><td>A menudo, hay que recortar</td><td>Nunca</td></tr><tr><td>Muchos fotogramas</td><td>Una captura cada vez</td><td>Exportación por lotes, ZIP o PDF</td></tr><tr><td>Formato</td><td>Captura PNG</td><td>JPG, PNG o HEIC</td></tr></tbody></table><h2>Para el resultado más nítido</h2><p>Un fotograma no puede ser más nítido que el video. Los mejores salen de momentos quietos, con buena luz y alta resolución. Más en <a href=\"/es/guides/foto-de-un-video-en-buena-calidad/\">foto de un video en buena calidad</a>.</p>",
+  "faq": [
+    {
+      "q": "¿Por qué la captura de un video sale borrosa?",
+      "a": "Porque captura la pantalla: el video se reduce al trozo de pantalla que ocupa, y la pausa suele caer en un fotograma movido. Guardar el fotograma del archivo resuelve ambas cosas."
+    },
+    {
+      "q": "¿Se puede guardar un fotograma sin hacer captura en iPhone?",
+      "a": "Sí. En iOS 27 o posterior, desde el menú «•••» de Fotos. En cualquier versión, con Video To Photo – Grab Frame, que extrae los fotogramas directamente del archivo de video."
+    },
+    {
+      "q": "¿Qué formato conserva más calidad?",
+      "a": "PNG no tiene pérdidas y conserva cada píxel. HEIC ofrece casi la misma calidad en menos espacio. JPG es el más ligero y compatible."
+    }
+  ],
+  "related": [
+    "como-sacar-una-foto-de-un-video-en-iphone",
+    "foto-de-un-video-en-buena-calidad",
+    "convertir-video-a-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "ta-bilde-fra-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "ta bilde fra video iphone",
+  "secondary_keywords": [
+    "bilde fra video iphone",
+    "hvordan ta bilde av video iphone",
+    "ta ut bilde fra video iphone",
+    "stillbilde fra video iphone"
+  ],
+  "title": "Ta bilde fra video på iPhone: 3 måter",
+  "description": "Slik tar du et bilde fra en video på iPhone i full kvalitet: den innebygde funksjonen i iOS 27, skjermbilde og en app for skarpe bilder i JPG, PNG eller HEIC.",
+  "h1": "Slik tar du bilde fra video på iPhone",
+  "nav_title": "Bilde fra video",
+  "card_title": "Slik tar du bilde fra video på iPhone",
+  "excerpt": "Tre måter, fra raskest til best kvalitet, og når du bør bruke hvilken.",
+  "lead": "Det beste øyeblikket finnes ofte bare i videoen: smilet, hoppet, når lysene på kaka blåses ut. På iPhone kan du gjøre det om til et bilde på tre måter. Forskjellen ligger i kvalitet, tempo og hvor mange bilder du trenger.",
+  "quick_answer": "På iOS 27 setter du videoen på pause i Bilder, trykker på ••• og lagrer bildet som foto. På eldre iOS, eller for mange bilder i JPG, PNG eller HEIC, åpner du videoen i Video To Photo – Grab Frame, finner bildet og lagrer det i full oppløsning.",
+  "content_intro": "<h2>Sammenligning</h2><table><thead><tr><th>Måte</th><th>Kvalitet</th><th>Flere bilder</th><th>Formater</th></tr></thead><tbody><tr><td>Skjermbilde</td><td>Skjermoppløsning</td><td>Nei</td><td>PNG</td></tr><tr><td>Bilder (iOS 27)</td><td>Full</td><td>Ett om gangen</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Full</td><td>Ja, samtidig</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p>",
+  "steps_title": "Ta bilde fra video med Grab Frame",
+  "steps": [
+    {
+      "name": "Åpne videoen",
+      "text": "Åpne videoen i Bilder, trykk på Del og velg Video To Photo – Grab Frame. Bildevisningen åpnes med en gang.",
+      "shot": 0
+    },
+    {
+      "name": "Finn øyeblikket",
+      "text": "Dra bildestripen til riktig øyeblikk og trykk på lagre-knappen.",
+      "shot": 1
+    },
+    {
+      "name": "Sjekk skarpheten",
+      "text": "Åpne bildet i fullskjerm og zoom inn. Slett uskarpe bilder.",
+      "shot": 2
+    },
+    {
+      "name": "Eksporter",
+      "text": "Velg JPG, PNG eller HEIC og lagre i Bilder, Filer, ZIP eller PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Hvorfor ikke bare ta skjermbilde?</h2><p>Et skjermbilde lagrer det som vises på skjermen, ikke selve videoen. Et 4K-bilde krymper til skjermstørrelse, og avspillingskontroller eller svarte kanter kan bli med. Greit for et raskt notat, men ikke for minner eller utskrift.</p><h2>Tips</h2><ul><li>Film i 4K og 60 fps for skarpere bilder.</li><li>Sammenlign bildene rett før og etter, og behold det skarpeste.</li><li>Bruk originalvideoen, ikke en kopi fra Messenger eller Snapchat.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan iPhone ta bilde fra video uten app?",
+      "a": "Ja, fra iOS 27 kan Bilder lagre et pauset bilde som foto, ett om gangen. På eldre versjoner trenger du skjermbilde eller en app."
+    },
+    {
+      "q": "Blir kvaliteten dårligere?",
+      "a": "Ikke hvis du lagrer fra videofilen. Bildet får videoens oppløsning: rundt 8 MP fra 4K, rundt 2 MP fra 1080p."
+    },
+    {
+      "q": "Endres originalvideoen?",
+      "a": "Nei. Videoen forblir uendret, og bildene lagres som nye bilder."
+    }
+  ],
+  "related": [
+    "skjermbilde-video-iphone",
+    "lagre-bilde-fra-video-iphone",
+    "skarpt-bilde-fra-video"
+  ],
+  "datePublished": "2026-10-01"
+}

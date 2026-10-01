@@ -1,0 +1,64 @@
+{
+  "slug": "video-do-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video do pdf",
+    "snímky z videa do pdf",
+    "storyboard z videa"
+  ],
+  "title": "Video do PDF na iPhone: storyboard, návod, poznámky",
+  "description": "Uložte snímky z videa do jedného PDF na iPhone: na storyboard, návod krok za krokom, poznámky z prednášky alebo správu. Bez počítača.",
+  "h1": "Snímky z videa do jedného PDF na iPhone",
+  "nav_title": "Video do PDF",
+  "card_title": "Snímky z videa do jedného PDF",
+  "excerpt": "Storyboard, návod alebo poznámky v jednom PDF, priamo z videa.",
+  "lead": "Niekedy nepotrebujete fotku, ale dokument: kroky receptu, návod na montáž, slajdy z prednášky alebo storyboard. Vtedy je najpraktickejšie, keď sa snímky dostanú do jedného PDF v poradí.",
+  "quick_answer": "Otvorte video vo Video To Photo – Grab Frame, uložte dôležité snímky a exportujte do PDF. Snímky budú v časovom poradí v jednom súbore, ktorý môžete poslať alebo vytlačiť.",
+  "content_intro": "<h2>Na čo je PDF z videa?</h2><table><thead><tr><th>Použitie</th><th>Príklad</th></tr></thead><tbody><tr><td>Návod</td><td>Recept, montáž nábytku, softvérový tutoriál</td></tr><tr><td>Storyboard</td><td>Film, reklama, video na sociálne siete</td></tr><tr><td>Poznámky</td><td>Slajdy z prednášky alebo webinára</td></tr><tr><td>Správa</td><td>Dokumentácia škody, chyby alebo práce</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p><p>Fotky ukladajú po jednej a PDF nevytvoria.</p>",
+  "steps_title": "Export snímok do PDF",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Uložte dôležité snímky",
+      "text": "Prejdite video a uložte kroky alebo scény. Ako projekt môžete pokračovať neskôr.",
+      "shot": 1
+    },
+    {
+      "name": "Skontrolujte poradie",
+      "text": "Prezrite snímky a vymažte nadbytočné.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte do PDF",
+      "text": "Vyberte export do PDF a uložte do Súborov alebo zdieľajte.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tipy</h2><ul><li>Jeden krok, jedna snímka: neukladajte takmer rovnaké obrázky.</li><li>Pri tutoriáloch zo záznamu obrazovky musí byť text čitateľný: vyhnite sa snímkam v pohybe.</li><li>Ak je PDF veľké, pošlite ZIP alebo menej snímok.</li></ul>",
+  "faq": [
+    {
+      "q": "Dá sa video previesť do PDF?",
+      "a": "Samotné video nie, ale jeho snímky áno. Video To Photo – Grab Frame vytvorí z vybraných snímok jedno PDF."
+    },
+    {
+      "q": "Potrebujem počítač?",
+      "a": "Nie. Všetko prebieha na iPhone, bez internetu."
+    },
+    {
+      "q": "Koľko snímok sa zmestí do PDF?",
+      "a": "Koľko vyberiete. Pri veľa snímkach môže byť súbor veľký, preto sa oplatí vyberať."
+    }
+  ],
+  "related": [
+    "video-na-fotky",
+    "video-do-jpg-png",
+    "aplikacia-fotka-z-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

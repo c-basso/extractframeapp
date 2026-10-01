@@ -1,0 +1,64 @@
+{
+  "slug": "ostre-zdjecie-z-filmu",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "ostre zdjęcie z filmu",
+  "secondary_keywords": [
+    "zdjęcie z filmu rozmazane",
+    "zdjęcie z filmu dobra jakość",
+    "zdjęcie z filmu wysoka jakość iphone"
+  ],
+  "title": "Ostre zdjęcie z filmu: dlaczego rozmazane i jak to naprawić",
+  "description": "Dlaczego zdjęcie z filmu jest rozmazane i jak to naprawić: wybór nieruchomej klatki, nagrywanie w 4K i 60 kl./s, eksport zamiast zrzutu ekranu, PNG lub HEIC.",
+  "h1": "Jak uzyskać ostre zdjęcie z filmu",
+  "nav_title": "Ostre zdjęcie z filmu",
+  "card_title": "Ostre zdjęcie z filmu",
+  "excerpt": "Dlaczego klatki są rozmazane, co zrobić po nagraniu i co zmienić przed nim.",
+  "lead": "Znalazłeś idealny moment, zapisałeś go i jest rozmazany. Klatki filmu są stworzone do ruchu, nie do oglądania w bezruchu. Z właściwą klatką i metodą mogą jednak wyglądać jak prawdziwe zdjęcie.",
+  "quick_answer": "Wybierz klatkę, w której obiekt prawie się nie rusza, zapisz z pliku wideo zamiast zrzutu ekranu i wyeksportuj jako PNG lub HEIC bez dodatkowej kompresji. Zapisz 3–5 sąsiednich klatek i zostaw najostrzejszą. Kolejne filmy nagrywaj w dobrym świetle w 4K i 60 kl./s.",
+  "content_intro": "<h2>Dlaczego zdjęcie z filmu jest rozmazane</h2><ul><li><strong>Poruszenie.</strong> Każda klatka jest naświetlana ułamek sekundy. Gdy obiekt się rusza, rozmywa się.</li><li><strong>Zrzut ekranu.</strong> Film zostaje pomniejszony do ekranu i zapisany ponownie. Zobacz <a href=\"/pl/guides/zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci/\">dlaczego zrzut traci jakość</a>.</li><li><strong>Kompresja wideo.</strong> Film jest mocno skompresowany; niektóre klatki mają mniej szczegółów.</li><li><strong>Słabe światło.</strong> Dłuższe naświetlanie i mocne odszumianie zjadają detale.</li></ul><h2>Co zrobić po nagraniu</h2><table><thead><tr><th>Problem</th><th>Rozwiązanie</th></tr></thead><tbody><tr><td>Poruszony obiekt</td><td>Zapisz kilka sąsiednich klatek i wybierz najostrzejszą</td></tr><tr><td>Zdjęcie małe lub ucięte</td><td>Eksportuj z pliku, nie rób zrzutu</td></tr><tr><td>Bloki kompresji</td><td>Eksportuj PNG lub HEIC i nie zapisuj ponownie</td></tr><tr><td>Zamknięte oczy</td><td>Przesuwaj powoli; dobra klatka jest często 1–2 dalej</td></tr></tbody></table>",
+  "steps_title": "Jak wyciągnąć najostrzejszą klatkę z filmu",
+  "steps": [
+    {
+      "name": "Otwórz film",
+      "text": "Udostępnij go ze Zdjęć aplikacji Video To Photo – Grab Frame. Klatki pochodzą z pliku, nie z ekranu.",
+      "shot": 0
+    },
+    {
+      "name": "Znajdź bezruch",
+      "text": "Przesuwaj wokół ruchu i szukaj „pauzy”: szczytu skoku, chwili przed uśmiechem.",
+      "shot": 1
+    },
+    {
+      "name": "Zapisz serię i porównaj",
+      "text": "Zapisz 3–5 klatek wokół momentu i powiększ oczy, krawędzie lub tekst. Usuń miękkie klatki.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportuj bez dodatkowej kompresji",
+      "text": "Najlepszą wyeksportuj jako PNG (bezstratnie) lub HEIC (ostro i lekko). JPG do szybkiego wysłania.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Jak nagrywać, by klatki były ostre</h2><ul><li><strong>4K.</strong> Więcej pikseli, więcej szczegółów i zapas na kadrowanie (Ustawienia → Aparat → Nagrywanie wideo).</li><li><strong>60 kl./s przy ruchu.</strong> Więcej klatek do wyboru i mniej rozmycia na klatkę.</li><li><strong>Światło.</strong> Dzienne światło lub jasne pomieszczenie najbardziej poprawia ostrość.</li><li><strong>Stabilność.</strong> Oprzyj łokcie lub użyj statywu; drżenie rozmywa każdą klatkę.</li></ul><h2>A poprawianie przez AI?</h2><p>Programy AI powiększają obraz, ale „dorysowują” szczegóły. Najpierw zdobądź najlepszą prawdziwą klatkę w rozdzielczości filmu, a powiększanie zostaw na duże wydruki. O formatach w poradniku <a href=\"/pl/guides/film-na-jpg-png/\">film na JPG lub PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Czy klatka z filmu może być tak dobra jak zdjęcie?",
+      "a": "Ostry film 4K w dobrym świetle daje klatki, które w social mediach trudno odróżnić od zdjęcia. Prawdziwe zdjęcie ma jednak przewagi, jak krótszy czas naświetlania i obróbka fotograficzna."
+    },
+    {
+      "q": "Jaką rozdzielczość ma klatka z filmu 4K?",
+      "a": "3840×2160 pikseli, około 8,3 megapiksela. Przy 1080p to 1920×1080, około 2 megapiksele."
+    },
+    {
+      "q": "Który format zachowuje najwięcej szczegółów?",
+      "a": "PNG jest bezstratny. HEIC jest bardzo bliski przy znacznie mniejszych plikach. JPG lekko kompresuje, ale otwiera się wszędzie."
+    }
+  ],
+  "related": [
+    "zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci",
+    "film-klatka-po-klatce-iphone",
+    "film-na-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

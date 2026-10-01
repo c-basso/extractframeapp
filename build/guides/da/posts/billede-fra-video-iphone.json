@@ -1,0 +1,69 @@
+{
+  "slug": "billede-fra-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "billede fra video iPhone",
+  "secondary_keywords": [
+    "billede fra video iphone",
+    "tag billede fra video iphone",
+    "hvordan tager man et billede fra en video",
+    "klip billede ud af video"
+  ],
+  "title": "Billede fra video på iPhone: 3 måder (skarpt)",
+  "description": "Sådan tager du et billede fra en video på iPhone: iOS 27-funktionen, skærmbillede, løft motivet og flere billeder på én gang som JPG, PNG eller HEIC.",
+  "h1": "Sådan tager du et billede fra en video på iPhone",
+  "nav_title": "Billede fra video (iPhone)",
+  "card_title": "Billede fra video på iPhone",
+  "excerpt": "Alle måder at få et billede ud af en video på iPhone, og hvornår du bruger hvilken.",
+  "lead": "Du filmede øjeblikket i stedet for at tage et billede. Det gør ikke noget: en video er snesevis af billeder i sekundet. Her er, hvordan du får præcis det ene billede ud på din iPhone.",
+  "quick_answer": "Fra iOS 27 sætter du videoen på pause i Fotos og gemmer billedet via ••• som foto (i videoens opløsning, ét ad gangen). På ældre iOS, eller hvis du vil have flere billeder, PNG, ZIP eller PDF, åbner du videoen i Video To Photo – Grab Frame, gemmer billederne og eksporterer dem samlet.",
+  "content_intro": "<h2>Kan man tage et billede fra en video på iPhone?</h2><p>Ja. En video består af 24–60 stillbilleder i sekundet, og hvert billede kan blive et foto. Den bedste metode afhænger af din iOS-version og af, hvor mange billeder du har brug for.</p><h2>Metoderne sammenlignet</h2><table><thead><tr><th>Metode</th><th>Kvalitet</th><th>Begrænsning</th><th>Bedst til</th></tr></thead><tbody><tr><td><strong>Fotos → gem billede som foto</strong> (iOS 27+)</td><td>Videoens opløsning, HEIF eller JPG</td><td>Ét billede ad gangen. Fotoet får videoens dato og ligger derfor ikke øverst i Seneste</td><td>Hurtigt ét billede</td></tr><tr><td><strong>Skærmbillede</strong> (pause og skærmbillede)</td><td>Skærmens opløsning, ofte med afspilningsknap eller sorte kanter</td><td>Svært at ramme det præcise billede</td><td>Hurtig note på ældre iOS</td></tr><tr><td><strong>Løft motivet</strong> (iOS 17+, hold fingeren nede)</td><td>Kun motivet, uden baggrund</td><td>Ikke hele billedet</td><td>Mærkat af person eller kæledyr</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Fra videofilen</td><td>Kræver appen (iOS 18.6+)</td><td>Mange billeder, PNG, ZIP, PDF, ældre iOS</td></tr></tbody></table><h3>Med den indbyggede funktion i iOS 27</h3><ol><li>Pause: åbn videoen i Fotos, sæt den på pause på det rigtige tidspunkt, tryk på <strong>•••</strong>, og vælg at gemme billedet som foto (<em>Save Video Frame as Photo</em>).</li><li>Billedet gemmes i biblioteket som foto i videoens opløsning.</li><li>Fotoet får videoens dato og sted, så led efter det ved siden af videoen, ikke øverst.</li></ol><p>Til ét billede er det nok. Vil du have ti billeder fra samme video, en PNG til redigering eller sende det hele som ZIP eller PDF, bliver det besværligt.</p><h3>Hvorfor et skærmbillede ikke er det samme</h3><p>Til og med iOS 26 er skærmbilledet den almindelige metode, men det gemmer skærmen, ikke billedet. En vandret 4K-video på en lodret skærm er kun en smal stribe, og du skal beskære afspilningsknappen væk og ramme pausen præcist.</p>",
+  "steps_title": "Sådan får du flere billeder ud af en video med Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Del videoen med appen",
+      "text": "Åbn videoen i Fotos, tryk på Del, og vælg appen. Eller åbn Video To Photo – Grab Frame, og vælg en video fra biblioteket.",
+      "shot": 0
+    },
+    {
+      "name": "Find øjeblikket, og gem det",
+      "text": "Træk i billedbåndet, til øjeblikket vises i forhåndsvisningen, og tryk på gem-knappen. Er der bevægelse, så gem også billederne før og efter.",
+      "shot": 1
+    },
+    {
+      "name": "Tjek billederne",
+      "text": "Åbn forhåndsvisningen, zoom ind på ansigter eller tekst, og slet de slørede billeder. Behold kun det skarpeste.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér som foto",
+      "text": "Vælg JPEG, PNG eller HEIC, og tryk på Eksportér. Gem i Fotos eller Arkiver, eller send direkte via Messenger, Beskeder, Instagram eller mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tips til et skarpt billede</h2><ul><li><strong>Fang øjeblikket, hvor bevægelsen stopper.</strong> Toppen af et hop, lige før et smil: her er billederne skarpest.</li><li><strong>Gem tre, behold ét.</strong> Nabobilleder ser ens ud, indtil du zoomer ind.</li><li><strong>Film i 4K eller 60 fps.</strong> Læs mere i <a href=\"/da/guides/skarpt-billede-fra-video/\">skarpt billede fra video</a>.</li><li><strong>Vælg format.</strong> JPG til deling, PNG til redigering, HEIC for at spare plads. Se også <a href=\"/da/guides/video-til-jpg-png/\">video til JPG eller PNG</a>.</li></ul><h2>Ændrer eller uploader appen min video?</h2><p>Nej. Video To Photo – Grab Frame arbejder på en kopi i appen og gør alt på din iPhone. Originalen i Fotos forbliver uændret, og intet sendes til en server.</p>",
+  "faq": [
+    {
+      "q": "Kan iPhone selv gemme et billede fra en video?",
+      "a": "Fra iOS 27, ja. Sæt videoen på pause i Fotos, tryk på •••, og gem billedet som foto. Ét ad gangen, som HEIF eller JPG. Til og med iOS 26 er skærmbillede den eneste indbyggede mulighed."
+    },
+    {
+      "q": "Hvor finder jeg billedet, jeg gemte i iOS 27?",
+      "a": "I fotobiblioteket, men med videoens dato og sted. Det ligger derfor ved siden af den oprindelige video, ikke øverst i Seneste."
+    },
+    {
+      "q": "Er kvaliteten den samme som videoens?",
+      "a": "Ja, hvis du gemmer billedet i stedet for at tage et skærmbillede. Både iOS 27 og Video To Photo – Grab Frame læser billedet fra videofilen. Hurtig bevægelse kan være sløret, så vælg et roligt øjeblik."
+    },
+    {
+      "q": "Kan jeg tage flere billeder fra samme video?",
+      "a": "Ja. Gem hvert øjeblik i Video To Photo – Grab Frame, og eksportér dem samlet som separate filer, ZIP eller PDF."
+    }
+  ],
+  "related": [
+    "skaermbillede-af-video-iphone",
+    "gem-billede-fra-video-iphone",
+    "skarpt-billede-fra-video"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "chup-man-hinh-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "chụp màn hình video trên iPhone",
+  "secondary_keywords": [
+    "chụp màn hình video trên iphone",
+    "chụp màn hình video bị mờ",
+    "chụp màn hình video iphone bị tối"
+  ],
+  "title": "Chụp màn hình video trên iPhone không bị mờ",
+  "description": "Vì sao chụp màn hình video trên iPhone bị mờ hoặc tối, và hai cách lưu khung hình thật với chất lượng đầy đủ.",
+  "h1": "Chụp màn hình video trên iPhone: vì sao bị mờ và cách làm tốt hơn",
+  "nav_title": "Chụp màn hình video",
+  "card_title": "Chụp màn hình video không mất chất lượng",
+  "excerpt": "Vì sao ảnh chụp màn hình từ video bị mờ hoặc tối và cách lưu khung hình nét ở kích thước thật.",
+  "lead": "Tạm dừng, nút sườn và tăng âm lượng, cắt ảnh… mà vẫn xấu hơn video. Bạn không tưởng tượng đâu: chụp màn hình lưu màn hình, không phải video.",
+  "quick_answer": "Ảnh chụp màn hình không thể nét hơn màn hình. Trên iOS 27 trở lên, tạm dừng trong Ảnh và lưu khung hình qua •••. Trên iOS cũ, hoặc cần nhiều khung hình và PNG, hãy mở video trong Video To Photo – Grab Frame rồi xuất. Cả hai cách đều cho khung hình thật, không có nút phát hay viền đen.",
+  "content_intro": "<h2>Cách chụp màn hình video (cách thông thường)</h2><ol><li>Phát video trong Ảnh rồi tạm dừng.</li><li>Chạm màn hình để ẩn các nút điều khiển.</li><li>Nhấn cùng lúc <strong>nút sườn</strong> và <strong>nút tăng âm lượng</strong> (máy có nút Home: Home + nút sườn).</li><li>Mở ảnh thu nhỏ, cắt viền đen rồi chạm Xong.</li></ol><h2>Vì sao chất lượng giảm</h2><ul><li><strong>Độ phân giải màn hình, không phải video.</strong> Video 4K ngang (3840×2160) trên màn hình dọc chỉ là một dải hẹp. Sau khi cắt, chỉ còn một phần nhỏ số điểm ảnh.</li><li><strong>Khó dừng đúng khung hình.</strong> Dừng bằng tay thường rơi vào lúc chớp mắt hoặc khung hình bị rung.</li><li><strong>Thừa chi tiết và nén lại.</strong> Nút phát, phụ đề, thanh thời gian và lưu lại lần nữa khi cắt.</li></ul><h3>Vì sao ảnh chụp bị tối</h3><p>iPhone mặc định quay video <strong>HDR</strong>, và video HDR hiển thị sáng hơn trên màn hình. Ảnh chụp màn hình được lưu như ảnh thường nên có thể trông tối hơn hoặc nhạt hơn video đang phát. Nếu không muốn khác biệt này ở video mới, hãy tắt Video HDR trong Cài đặt → Camera → Quay video.</p><blockquote><p>Giải pháp không phải là chụp màn hình giỏi hơn, mà là không chụp màn hình nữa.</p></blockquote><h2>Cách 1: ứng dụng Ảnh trên iOS 27</h2><p>Tạm dừng: mở video trong ứng dụng Ảnh, tạm dừng đúng khoảnh khắc, chạm <strong>•••</strong> rồi chọn lưu khung hình thành ảnh (<em>Save Video Frame as Photo</em>). Bạn nhận HEIF hoặc JPG với độ phân giải video, mỗi lần một khung hình, mang ngày của video.</p><h2>Cách 2: dùng ứng dụng (mọi iOS, nhiều khung hình)</h2><p>Bạn dùng iOS 26 trở xuống, hoặc muốn nhiều khung hình, PNG, ZIP hay PDF? Ứng dụng lấy khung hình đọc trực tiếp từ tệp video và xuất cùng lúc.</p>",
+  "steps_title": "Cách lưu khung hình từ video trên iPhone mà không chụp màn hình",
+  "steps": [
+    {
+      "name": "Mở video trong ứng dụng",
+      "text": "Trong Ảnh, chạm Chia sẻ và chọn ứng dụng, hoặc mở Video To Photo – Grab Frame rồi chọn video.",
+      "shot": 0
+    },
+    {
+      "name": "Dừng đúng khung hình",
+      "text": "Kéo chậm dải khung hình và dừng khi khoảnh khắc hiện trong bản xem trước lớn. Không cần vật lộn với nút tạm dừng.",
+      "shot": 1
+    },
+    {
+      "name": "Lưu khung hình",
+      "text": "Khung hình vào khay bên dưới. Lưu cả khung hình trước và sau rồi so sánh.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất PNG hoặc HEIC",
+      "text": "PNG không mất chất lượng, HEIC nét và nhẹ. Lưu vào Ảnh hoặc Tệp.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Chụp màn hình và khung hình xuất ra</h2><table><thead><tr><th></th><th>Chụp màn hình</th><th>Khung hình từ tệp</th></tr></thead><tbody><tr><td>Độ phân giải</td><td>Tối đa bằng màn hình</td><td>Bằng video</td></tr><tr><td>Đúng khoảnh khắc</td><td>Nhờ may mắn</td><td>Chọn bằng dải khung hình</td></tr><tr><td>Nút phát, viền đen</td><td>Thường có, phải cắt</td><td>Không bao giờ</td></tr><tr><td>Nhiều khung hình</td><td>Từng tấm</td><td>Xuất cùng lúc, ZIP, PDF</td></tr><tr><td>Định dạng</td><td>Ảnh chụp PNG</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Làm sao để nét nhất</h2><p>Khung hình không bao giờ nét hơn video. Khoảnh khắc tĩnh, ánh sáng tốt và độ phân giải cao cho kết quả đẹp nhất. Xem thêm <a href=\"/vi/guides/cat-anh-tu-video-net/\">cắt ảnh từ video nét</a>.</p>",
+  "faq": [
+    {
+      "q": "Vì sao chụp màn hình video bị mờ?",
+      "a": "Vì nó lưu màn hình: video bị thu nhỏ về kích thước hiển thị, và lúc tạm dừng thường rơi vào khung hình đang chuyển động. Lấy khung hình từ tệp giải quyết cả hai."
+    },
+    {
+      "q": "Vì sao chụp màn hình video trên iPhone bị tối?",
+      "a": "Video HDR hiển thị sáng hơn, nhưng ảnh chụp màn hình được lưu như ảnh thường. Với video mới, bạn có thể tắt Video HDR trong Cài đặt → Camera → Quay video."
+    },
+    {
+      "q": "Có lưu ảnh từ video mà không chụp màn hình được không?",
+      "a": "Được. Từ iOS 27 qua menu ••• trong Ảnh. Trên mọi phiên bản, Video To Photo – Grab Frame lấy khung hình trực tiếp từ tệp video."
+    },
+    {
+      "q": "Định dạng nào giữ chất lượng tốt nhất?",
+      "a": "PNG không mất dữ liệu và giữ từng điểm ảnh. HEIC gần tương đương với tệp nhỏ hơn. JPG nhẹ nhất và mở được ở mọi nơi."
+    }
+  ],
+  "related": [
+    "cat-anh-tu-video-tren-iphone",
+    "cat-anh-tu-video-net",
+    "chuyen-video-sang-jpg"
+  ],
+  "datePublished": "2026-10-01"
+}

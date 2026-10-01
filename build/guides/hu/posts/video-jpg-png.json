@@ -1,0 +1,65 @@
+{
+  "slug": "video-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg iphone",
+  "secondary_keywords": [
+    "videó jpg-be",
+    "video to png",
+    "video to heic",
+    "videó konvertálása képpé"
+  ],
+  "title": "Videó JPG-be, PNG-be vagy HEIC-be iPhone-on",
+  "description": "Képkockák mentése videóból JPG, PNG vagy HEIC formátumban iPhone-on. Melyik formátumot mikor válassza, és hogyan exportáljon a Fájlokba, ZIP-be vagy PDF-be.",
+  "h1": "Videó konvertálása JPG-be, PNG-be vagy HEIC-be iPhone-on",
+  "nav_title": "Videó JPG/PNG",
+  "card_title": "Videó JPG-be, PNG-be vagy HEIC-be",
+  "excerpt": "Melyik formátum mire jó, és hogyan exportálja a kockákat.",
+  "lead": "Egy videót nem lehet egy az egyben JPG-vé alakítani: a kép mindig egy kiválasztott kockából készül. A kérdés az, melyik formátumban mentse: JPG, PNG vagy HEIC. Mindegyiknek megvan a helye.",
+  "quick_answer": "Válassza ki a kockát a Video To Photo – Grab Frame-ben, és exportálja JPG-be (bárhol megnyílik), PNG-be (veszteségmentes, szerkesztéshez) vagy HEIC-be (kis méret, Apple-eszközökre). Több kockát egyszerre is menthet a Fájlokba, ZIP-be vagy PDF-be.",
+  "content_intro": "<h2>Melyik formátumot válassza?</h2><table><thead><tr><th>Formátum</th><th>Előny</th><th>Mikor</th></tr></thead><tbody><tr><td>JPG</td><td>Mindenhol működik</td><td>Megosztás, e-mail, web</td></tr><tr><td>PNG</td><td>Veszteségmentes</td><td>Szerkesztés, bélyegkép, szöveg a képen</td></tr><tr><td>HEIC</td><td>Kis fájlméret</td><td>Fotók könyvtár, Apple-eszközök</td></tr></tbody></table><h2>A beépített mód (iOS 27)</h2><p>iOS 27-től a Fotók app maga is el tud menteni egy kockát: nyissa meg a videót, állítsa meg a kívánt pillanatnál, koppintson a <strong>•••</strong> gombra, és válassza a <em>Save Video Frame as Photo</em> lehetőséget. A kép HEIF vagy JPG formátumban, a videó dátumával kerül a könyvtárba. Egyszerre egy kockát ment.</p><p>A Fotók nem kínál PNG-t, sem csoportos mentést. Ehhez kell app.</p>",
+  "steps_title": "Képkocka exportálása JPG/PNG/HEIC formátumba",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót",
+      "text": "A Fotókban koppintson a Megosztás gombra, és válassza a Video To Photo – Grab Frame-et.",
+      "shot": 0
+    },
+    {
+      "name": "Válassza ki a kockákat",
+      "text": "Görgessen a sávon, és mentse a kívánt kockákat. Egy vagy akár több tucat.",
+      "shot": 1
+    },
+    {
+      "name": "Válassza ki a formátumot",
+      "text": "Exportálásnál válasszon JPG, PNG vagy HEIC közül.",
+      "shot": 3
+    },
+    {
+      "name": "Mentse el",
+      "text": "Mentse a Fotókba, a Fájlokba, ZIP-be vagy PDF-be, vagy ossza meg közvetlenül.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>HEIC megnyitása Windowson</h2><p>Régebbi Windows és egyes weboldalak nem kezelik a HEIC-et. Ha a képet nem Apple-eszközre küldi, inkább JPG-t válasszon.</p><h2>Megmaradnak a metaadatok?</h2><p>A kép a videó felbontását kapja. A dátum és a hely a forrásvideótól és az exportálás módjától függ. Ha fontos, ellenőrizze a fotó adatait a Fotókban.</p>",
+  "faq": [
+    {
+      "q": "Hogyan alakítok videót JPG-vé iPhone-on?",
+      "a": "Válasszon ki egy kockát a Video To Photo – Grab Frame-ben, és exportálja JPG-ként. iOS 27-en a Fotók is ment egy kockát HEIF vagy JPG formátumban."
+    },
+    {
+      "q": "PNG vagy JPG?",
+      "a": "PNG szerkesztéshez és szöveges képekhez, JPG megosztáshoz. A PNG nagyobb fájl, de nincs minőségvesztés."
+    },
+    {
+      "q": "Menthetek sok kockát egyszerre?",
+      "a": "Igen, a Grab Frame csoportos módjában, majd exportálhat ZIP-be vagy PDF-be."
+    }
+  ],
+  "related": [
+    "kep-mentese-videobol-iphone",
+    "kepkockak-videobol",
+    "video-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

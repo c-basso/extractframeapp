@@ -1,0 +1,65 @@
+{
+  "slug": "miniature-video-youtube-iphone",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "miniature vidéo YouTube sur iPhone",
+  "secondary_keywords": [
+    "miniature vidéo youtube",
+    "couverture vidéo youtube",
+    "créer une miniature à partir d'une vidéo",
+    "image de couverture vidéo"
+  ],
+  "title": "Créer une miniature YouTube à partir d'une vidéo sur iPhone",
+  "description": "Comment créer une miniature ou une couverture à partir de votre vidéo sur iPhone : choisir la meilleure image, la garder en HD, ajouter du texte et l'importer.",
+  "h1": "Créer une miniature à partir d'une vidéo sur iPhone",
+  "nav_title": "Miniature à partir d'une vidéo",
+  "card_title": "Miniature et couverture à partir de votre vidéo",
+  "excerpt": "Trouvez l'image qui donne envie de cliquer, gardez-la nette et faites-en une couverture YouTube, TikTok ou Reels.",
+  "lead": "La meilleure miniature est souvent déjà dans votre vidéo : une vraie émotion, un vrai moment. Tout l'art est de trouver cette image et de la sortir assez nette pour supporter texte, recadrage et compression.",
+  "quick_answer": "Ouvrez votre vidéo dans Video To Photo – Grab Frame, trouvez un moment net et expressif, capturez deux ou trois options et exportez la meilleure en PNG. Ajoutez un gros texte dans n'importe quel éditeur (1280 × 720 pour YouTube, 9:16 pour Shorts, TikTok et Reels) puis importez-la comme miniature ou couverture.",
+  "content_intro": "<h2>À quoi doit ressembler l'image de la miniature</h2><ul><li><strong>Un visage ou un sujet clair</strong> : proche, net, de préférence face à l'objectif.</li><li><strong>De l'émotion</strong> : surprise, rire ou concentration marchent mieux qu'un visage neutre.</li><li><strong>De la place pour le texte</strong> : une zone calme où caser quelques mots.</li><li><strong>De la netteté</strong> : les miniatures sont petites, le moindre flou se remarque.</li></ul><h2>Tailles des miniatures</h2><table><thead><tr><th>Plateforme</th><th>Format</th><th>Taille</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080 × 1920</td></tr><tr><td>Grille Instagram</td><td>Recadrée en 1:1 / 4:5</td><td>Sujet bien centré</td></tr></tbody></table><p>Une image issue d'une vidéo 1080p ou 4K dépasse déjà ces tailles : l'important est de l'extraire du fichier, pas de faire une capture.</p>",
+  "steps_title": "Créer une miniature à partir de votre vidéo sur iPhone",
+  "steps": [
+    {
+      "name": "Ouvrez votre vidéo terminée",
+      "text": "Partagez-la depuis Photos vers Video To Photo – Grab Frame, ou choisissez-la dans l'app.",
+      "shot": 0
+    },
+    {
+      "name": "Capturez 3 options",
+      "text": "Cherchez des moments forts et capturez-les. Les expressions changent vite : gardez aussi les images voisines.",
+      "shot": 1
+    },
+    {
+      "name": "Choisissez la plus nette",
+      "text": "Zoomez sur les visages dans l'aperçu et supprimez les images floues ou aux yeux fermés.",
+      "shot": 2
+    },
+    {
+      "name": "Export PNG et texte",
+      "text": "Exportez en PNG pour garder la qualité à l'édition, ajoutez un titre court et importez-la comme miniature.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Importer la miniature</h2><ul><li><strong>YouTube :</strong> dans YouTube ou YouTube Studio, modifiez les détails de la vidéo et choisissez une miniature personnalisée depuis vos photos (compte validé requis).</li><li><strong>TikTok :</strong> avant de publier, touchez « Modifier la couverture » et choisissez l'image.</li><li><strong>Instagram Reels :</strong> touchez « Modifier la couverture » et ajoutez-la depuis la pellicule.</li></ul><h2>Astuces qui font cliquer</h2><ul><li>Trois à cinq mots de texte, pas plus.</li><li>Un fort contraste entre sujet, texte et fond.</li><li>Un style cohérent sur toute la chaîne.</li><li>Testez deux images : changez la miniature après quelques jours et comparez.</li></ul>",
+  "faq": [
+    {
+      "q": "Peut-on utiliser une image de sa vidéo comme miniature YouTube ?",
+      "a": "Oui. Enregistrez l'image, ajoutez du texte si vous voulez et importez-la comme miniature personnalisée. L'idéal : 1280 × 720 en JPG ou PNG."
+    },
+    {
+      "q": "Exporter la miniature en JPG ou en PNG ?",
+      "a": "Exportez l'image en PNG pendant l'édition pour un texte net. La miniature finale peut être enregistrée en JPG si vous voulez un fichier plus léger."
+    },
+    {
+      "q": "Pourquoi ma miniature est-elle floue ?",
+      "a": "Le plus souvent c'est une capture d'écran ou une image avec du mouvement. Extrayez l'image du fichier et choisissez un moment où le sujet est immobile."
+    }
+  ],
+  "related": [
+    "photo-de-qualite-depuis-une-video",
+    "convertir-video-en-jpg-png",
+    "extraire-une-photo-d-une-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

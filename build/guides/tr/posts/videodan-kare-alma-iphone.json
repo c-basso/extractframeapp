@@ -1,0 +1,65 @@
+{
+  "slug": "videodan-kare-alma-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "iPhone videodan kare alma",
+  "secondary_keywords": [
+    "iphone videodan kare alma",
+    "videodan fotoğraf karesi alma",
+    "iphone videodan fotoğraf karesi alma",
+    "videoyu fotoğrafa çevirme iphone"
+  ],
+  "title": "iPhone'da Videodan Kare Alma ve Fotoğraf Kaydetme",
+  "description": "iPhone'da videodan bir kareyi fotoğraf olarak kaydetme: iOS 27 özelliği ve eski iOS ya da birden fazla kare için yöntem, JPG, PNG veya HEIC olarak.",
+  "h1": "iPhone'da videodan kare alıp fotoğraf olarak kaydetme",
+  "nav_title": "Videodan kare alma",
+  "card_title": "Videodan bir kareyi fotoğraf olarak kaydet",
+  "excerpt": "Doğru kareyi Fotoğraflar'a veya Dosyalar'a aktar, orijinal videoyu değiştirmeden.",
+  "lead": "Hangi kareyi istediğini biliyorsun. Onu diğer fotoğraflarının yanında normal bir fotoğraf olarak tutmak istiyorsun. iPhone'da nasıl yapılacağı burada.",
+  "quick_answer": "iOS 27 ve sonrası: videoyu Fotoğraflar'da aç, duraklat ve kareyi ••• ile kaydet. Eski iOS ya da birden fazla kare, PNG, ZIP veya PDF: videoyu Video To Photo – Grab Frame ile paylaş, kareleri kaydet ve Fotoğraflar'a veya Dosyalar'a aktar.",
+  "content_intro": "<h2>Yöntem 1: iOS 27'nin yerleşik özelliği</h2><ol><li>Videoyu Fotoğraflar'da aç ve istediğin karede duraklat (tam denk getirmek için şeritte kaydır).</li><li>Sağ üstteki <strong>•••</strong> simgesine dokun.</li><li>Kareyi fotoğraf olarak kaydetme seçeneğini seç (<em>Save Video Frame as Photo</em>).</li></ol><p>Video çözünürlüğünde, HEIF veya JPG (kamera ayarlarına göre) bir fotoğraf alırsın. Unutma: <strong>tek seferde bir kare</strong>dir ve fotoğraf <strong>videonun tarihini</strong> alır. Onu en üstte değil, videonun yanında ara.</p><h2>Yöntem 2: çok kare veya iOS 26 ve öncesi</h2><p>Eski sürümlerde yerleşik bir özellik yok, sadece ekran görüntüsü var (<a href=\"/tr/guides/videodan-ekran-goruntusu-alma-iphone/\">neden kalite kaybeder</a>). iOS 27'de de bir kare dizisi, PNG ya da ZIP/PDF istiyorsan uygulama daha hızlıdır.</p>",
+  "steps_title": "Video To Photo – Grab Frame ile videodan kare kaydetme",
+  "steps": [
+    {
+      "name": "Videoyu Fotoğraflar'dan paylaş",
+      "text": "Videoyu aç, Paylaş'a dokun ve uygulamayı seç. Kare ekranı hemen açılır.",
+      "shot": 0
+    },
+    {
+      "name": "Kareyi bul ve kaydet",
+      "text": "Ana kadar kaydır ve kaydet'e dokun. Sayaç kaç karen olduğunu gösterir.",
+      "shot": 1
+    },
+    {
+      "name": "Formatı seç",
+      "text": "Dışa Aktar'a dokun. Göndermek için JPEG, kayıpsız PNG, hafif ve net HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Fotoğraflar'a veya Dosyalar'a kaydet",
+      "text": "Paylaşma menüsünden arşive veya Dosyalar'a kaydet ya da doğrudan bir sohbete gönder.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Kaydedilen kare nereye gider?</h2><ul><li><strong>Fotoğraf arşivi</strong>: her fotoğraf gibi düzenle, paylaş, bastır.</li><li><strong>Dosyalar</strong>: iCloud Drive veya iPhone'umda, iş belgeleri için pratik.</li><li><strong>Diğer uygulamalar</strong>: paylaşma menüsünden WhatsApp, Instagram, e-posta.</li></ul><h2>Birden fazla kare</h2><p>Dışa aktarmadan önce gereken tüm kareleri kaydet ve hepsini ayrı dosya, <strong>ZIP</strong> veya <strong>PDF</strong> olarak birlikte aktar. Ayrıca bkz. <a href=\"/tr/guides/videodan-fotograf-cikarma/\">videodan fotoğraf çıkarma</a>.</p><h2>Sonra devam et</h2><p>Her video proje olarak kaydedilir; ertesi gün videoyu yeniden aramadan devam edersin.</p>",
+  "faq": [
+    {
+      "q": "Fotoğraflar uygulaması videodan kare kaydedebilir mi?",
+      "a": "iOS 27'den itibaren evet: duraklat ve ••• ile kaydet. Tek seferde bir kare, HEIF veya JPG olarak. iOS 27'den önce sadece ekran görüntüsü vardı."
+    },
+    {
+      "q": "Orijinal videom değişir mi?",
+      "a": "Hayır. Uygulama videoyu okur ve yeni görüntü dosyaları oluşturur. Fotoğraflar'daki video aynı kalır."
+    },
+    {
+      "q": "Çevrimdışı çalışır mı?",
+      "a": "Evet. Kareler iPhone'da videodan çıkarılır; internete gerek yoktur ve hiçbir şey yüklenmez."
+    }
+  ],
+  "related": [
+    "videodan-fotograf-alma-iphone",
+    "videodan-fotograf-cikarma",
+    "video-jpg-cevirme"
+  ],
+  "datePublished": "2026-10-01"
+}

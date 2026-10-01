@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="{{meta.lang}}" dir="{{meta.text_direction}}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -8,14 +8,15 @@
     <meta name="author" content="{{guide.author}}">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
     <link rel="canonical" href="{{meta.canonical}}">
-    <link rel="alternate" hreflang="en" href="{{meta.canonical}}" />
-    <link rel="alternate" hreflang="x-default" href="{{meta.canonical}}" />
+    {{#each meta.alternates as |alt|}}
+    <link rel="alternate" hreflang="{{alt.hreflang}}" href="{{alt.url}}" />
+    {{/each}}
     <meta property="og:type" content="article">
     <meta property="og:url" content="{{meta.canonical}}">
     <meta property="og:title" content="{{meta.og_title}}">
     <meta property="og:description" content="{{meta.description}}">
     <meta property="og:site_name" content="{{meta.site_name}}">
-    <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="{{meta.og_locale}}">
     <meta property="og:image" content="{{meta.og_image}}">
     <meta property="og:image:width" content="{{meta.og_image_width}}">
     <meta property="og:image:height" content="{{meta.og_image_height}}">
@@ -39,8 +40,8 @@
     <div class="container">
         <nav class="breadcrumb" aria-label="Breadcrumb">
             <ol>
-                <li><a href="/">{{labels.home}}</a></li>
-                <li><a href="/guides/">{{labels.guides}}</a></li>
+                <li><a href="{{site.home_url}}">{{labels.home}}</a></li>
+                <li><a href="{{site.guides_url}}">{{labels.guides}}</a></li>
                 <li aria-current="page">{{guide.nav_title}}</li>
             </ol>
         </nav>

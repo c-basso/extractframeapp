@@ -1,0 +1,65 @@
+{
+  "slug": "tach-anh-tu-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "tách ảnh từ video",
+  "secondary_keywords": [
+    "tách ảnh từ video trên iphone",
+    "trích xuất khung hình từ video",
+    "lấy ảnh từ video",
+    "chuyển video thành ảnh"
+  ],
+  "title": "Tách ảnh từ video trên iPhone: nhiều khung hình cùng lúc",
+  "description": "Tách nhiều khung hình từ video cùng lúc trên iPhone, không cần máy tính hay ffmpeg. Chỉ chọn khung hình cần thiết và lưu thành ảnh, ZIP hoặc PDF.",
+  "h1": "Tách ảnh từ video trên iPhone",
+  "nav_title": "Tách ảnh từ video",
+  "card_title": "Tách nhiều khung hình từ video",
+  "excerpt": "Một loạt khung hình từ một video, xuất thành ảnh, ZIP hoặc PDF.",
+  "lead": "Storyboard, chuỗi ảnh thể thao, trước và sau, tổng hợp biểu cảm: đôi khi một ảnh là không đủ. Đây là cách lấy bao nhiêu khung hình tùy ý từ video, chỉ với iPhone.",
+  "quick_answer": "Mở video trong Video To Photo – Grab Frame và chạm lưu ở mỗi khoảnh khắc cần thiết. Kiểm tra khung hình, xóa tấm hỏng rồi xuất tất cả một lần dạng tệp JPG, PNG hoặc HEIC riêng, ZIP hoặc PDF.",
+  "content_intro": "<h2>Tất cả khung hình hay chỉ tấm đẹp?</h2><p>Video 30 giây ở 30 fps có 900 khung hình. Xuất tất cả như ffmpeg hay VLC trên máy tính sẽ cho hàng trăm tệp gần như giống nhau. Trên điện thoại, <strong>chỉ chọn khung hình cần thiết</strong> thường nhanh hơn.</p><table><thead><tr><th>Mục đích</th><th>Cách làm</th></tr></thead><tbody><tr><td>Storyboard, hướng dẫn từng bước</td><td>Mỗi cảnh hoặc bước một khung hình</td></tr><tr><td>Thể thao, phân tích động tác</td><td>Khung hình cách đều nhau</td></tr><tr><td>Tìm ảnh đẹp nhất</td><td>Tấm nét nhất trong 3–5 khung hình liền kề</td></tr><tr><td>Mọi khung hình cho hoạt hình hoặc phân tích</td><td>Phần mềm máy tính (ffmpeg)</td></tr></tbody></table><p>Tính năng có sẵn của iOS 27 lưu mỗi lần một khung hình nên không hợp với chuỗi ảnh.</p>",
+  "steps_title": "Cách tách nhiều khung hình từ video trên iPhone",
+  "steps": [
+    {
+      "name": "Mở video",
+      "text": "Chia sẻ từ Ảnh sang ứng dụng hoặc chọn video trong Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Lưu từng khoảnh khắc",
+      "text": "Kéo dải khung hình và chạm lưu ở mỗi khoảnh khắc. Bộ đếm sẽ đếm giúp bạn.",
+      "shot": 1
+    },
+    {
+      "name": "Kiểm tra khung hình",
+      "text": "Mở toàn màn hình, kiểm tra độ nét và xóa khung hình trùng hoặc nhòe.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất tất cả",
+      "text": "Chọn JPEG, PNG hoặc HEIC. Ảnh riêng vào Tệp, ZIP thành một tệp, PDF thành tài liệu.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF hay tệp riêng?</h2><ul><li><strong>Tệp riêng</strong>: chỉnh sửa hoặc đăng từng tấm.</li><li><strong>ZIP</strong>: một tệp duy nhất để gửi qua AirDrop, email, Zalo hoặc đám mây.</li><li><strong>PDF</strong>: storyboard, ghi chú, tài liệu duyệt. Xem <a href=\"/vi/guides/chuyen-video-sang-pdf/\">chuyển video sang PDF</a>.</li></ul><h2>Mẹo cho chuỗi ảnh</h2><ul><li>Chọn khung hình cách đều nhau để chuyển động dễ hiểu.</li><li>Làm ảnh ghép thì xuất PNG để tránh nén JPEG thêm.</li><li>Dự án được lưu nên có thể thêm khung hình còn thiếu sau.</li></ul>",
+  "faq": [
+    {
+      "q": "Một video tách được bao nhiêu khung hình?",
+      "a": "Bao nhiêu tùy bạn cần. Chạm lưu ở mỗi khoảnh khắc rồi xuất cùng lúc. Nhiều khung hình thì xuất lâu hơn một chút."
+    },
+    {
+      "q": "Có xuất tự động mọi khung hình được không?",
+      "a": "Video To Photo – Grab Frame được làm để chọn khung hình. Nếu thật sự cần mọi khung hình cho hoạt hình hay phân tích, phần mềm máy tính như ffmpeg sẽ phù hợp hơn."
+    },
+    {
+      "q": "Gửi nhiều khung hình cùng lúc thế nào?",
+      "a": "Xuất ZIP rồi gửi một tệp qua AirDrop, email hoặc Zalo. Hoặc xuất PDF."
+    }
+  ],
+  "related": [
+    "chuyen-video-sang-pdf",
+    "xem-video-tung-khung-hinh-iphone",
+    "chup-anh-tu-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "video-bildruta-for-bildruta-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video bildruta för bildruta iphone",
+  "secondary_keywords": [
+    "frame by frame iphone",
+    "pausa video på rätt bildruta",
+    "stega bildruta för bildruta"
+  ],
+  "title": "Video bildruta för bildruta på iPhone: hitta ögonblicket",
+  "description": "Så stegar du igenom en video bildruta för bildruta på iPhone, hittar det exakta ögonblicket (skottet, blinkningen, målet) och sparar det som ett skarpt foto.",
+  "h1": "Video bildruta för bildruta på iPhone",
+  "nav_title": "Bildruta för bildruta",
+  "card_title": "Video bildruta för bildruta på iPhone",
+  "excerpt": "Så kommer du exakt till rätt bildruta och sparar den.",
+  "lead": "Med 30 fps har varje sekund 30 bildrutor, med 60 fps 60. Rätt ögonblick finns bara i en av dem. Därför behöver du se videon bildruta för bildruta.",
+  "quick_answer": "Pausa videon i Bilder och dra bildruteremsan långsamt. Mer exakt i Video To Photo – Grab Frame: stor förhandsvisning, precis remsa och bildrutan sparas direkt.",
+  "content_intro": "<h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p><h2>Bilder eller Grab Frame?</h2><table><thead><tr><th></th><th>Bilder</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Bildruta för bildruta</td><td>Dra remsan</td><td>Precis remsa, stor förhandsvisning</td></tr><tr><td>Spara</td><td>iOS 27, en bildruta</td><td>Direkt, många bildrutor</td></tr><tr><td>Format</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Hitta den exakta bildrutan",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Dela den från Bilder till Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Kom nära ögonblicket",
+      "text": "Dra remsan snabbt till ungefär rätt ställe.",
+      "shot": 1
+    },
+    {
+      "name": "Långsamt, bildruta för bildruta",
+      "text": "Flytta långsamt och håll ögonen på den stora förhandsvisningen.",
+      "shot": 3
+    },
+    {
+      "name": "Spara",
+      "text": "Tryck på spara när ögonblicket är perfekt.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Slowmotion (120/240 fps) ger många fler bildrutor av snabba rörelser.</li><li>Med 60 fps blir rörelsen mindre suddig än med 30 fps.</li><li>Spara några bildrutor bredvid varandra och jämför.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan iPhone spela upp video bildruta för bildruta?",
+      "a": "I Bilder kan du pausa och dra i remsan. Mer exakt visning finns i appar som Grab Frame."
+    },
+    {
+      "q": "Hur pausar jag videon på rätt bildruta?",
+      "a": "Pausa nära ögonblicket och dra sedan bildruteremsan långsamt."
+    },
+    {
+      "q": "Fungerar det med slowmotion?",
+      "a": "Ja. Slowmotion har fler bildrutor, så du får fler val."
+    }
+  ],
+  "related": [
+    "ta-bild-fran-video-iphone",
+    "skarp-bild-fran-video",
+    "ta-ut-bilder-fran-video"
+  ],
+  "datePublished": "2026-10-01"
+}

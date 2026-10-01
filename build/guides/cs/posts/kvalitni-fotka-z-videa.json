@@ -1,0 +1,64 @@
+{
+  "slug": "kvalitni-fotka-z-videa",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "kvalitní fotka z videa",
+  "secondary_keywords": [
+    "ostrá fotka z videa",
+    "fotka z videa rozmazaná",
+    "fotka z videa v dobré kvalitě"
+  ],
+  "title": "Kvalitní fotka z videa: proč je rozmazaná a jak na to",
+  "description": "Proč je fotka z videa rozmazaná a jak to spravit: vyberte klidný snímek, točte ve 4K a 60 fps, exportujte místo screenshotu, PNG nebo HEIC.",
+  "h1": "Jak získat kvalitní a ostrou fotku z videa",
+  "nav_title": "Kvalitní fotka z videa",
+  "card_title": "Kvalitní fotka z videa",
+  "excerpt": "Proč jsou snímky rozmazané, co dělat po natočení a co změnit předem.",
+  "lead": "Našli jste dokonalý okamžik, uložili ho — a je rozmazaný. Snímky videa jsou dělané pro pohyb, ne pro prohlížení v klidu. Se správným snímkem a postupem ale můžou vypadat jako skutečná fotka.",
+  "quick_answer": "Vyberte snímek, kde se objekt skoro nehýbe, uložte ze souboru videa místo screenshotu a exportujte jako PNG nebo HEIC bez další komprese. Uložte 3–5 sousedních snímků a nechte ten nejostřejší. Další videa točte za dobrého světla ve 4K a 60 fps.",
+  "content_intro": "<h2>Proč je fotka z videa rozmazaná</h2><ul><li><strong>Pohyb.</strong> Každý snímek se exponuje zlomek sekundy. Když se objekt hýbe, rozmaže se.</li><li><strong>Screenshot.</strong> Video se zmenší na displej a znovu uloží. Viz <a href=\"/cs/guides/screenshot-videa-iphone-bez-ztraty-kvality/\">proč screenshot ztrácí kvalitu</a>.</li><li><strong>Komprese videa.</strong> Video je silně komprimované; některé snímky mají méně detailů.</li><li><strong>Málo světla.</strong> Delší expozice a silné odšumění mažou detaily.</li></ul><h2>Co dělat po natočení</h2><table><thead><tr><th>Problém</th><th>Řešení</th></tr></thead><tbody><tr><td>Rozmazaný objekt</td><td>Uložte několik sousedních snímků a vyberte nejostřejší</td></tr><tr><td>Malá nebo oříznutá fotka</td><td>Exportujte ze souboru, ne screenshotem</td></tr><tr><td>Kostičky z komprese</td><td>Exportujte PNG nebo HEIC a znovu neukládejte</td></tr><tr><td>Zavřené oči</td><td>Posouvejte pomalu; dobrý snímek bývá o 1–2 dál</td></tr></tbody></table>",
+  "steps_title": "Jak dostat z videa nejostřejší snímek",
+  "steps": [
+    {
+      "name": "Otevřete video",
+      "text": "Nasdílejte ho z Fotek do Video To Photo – Grab Frame. Snímky jdou ze souboru, ne z displeje.",
+      "shot": 0
+    },
+    {
+      "name": "Najděte chvíli klidu",
+      "text": "Posouvejte kolem pohybu a hledejte „pauzu“: vrchol skoku, chvíli před úsměvem.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte sérii a porovnejte",
+      "text": "Uložte 3–5 snímků kolem okamžiku a přibližte oči, hrany nebo text. Měkké snímky smažte.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte bez další komprese",
+      "text": "Nejlepší exportujte jako PNG (bezeztrátově) nebo HEIC (ostře a lehce). JPG na rychlé poslání.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Jak natáčet pro ostré snímky</h2><ul><li><strong>4K.</strong> Víc pixelů, víc detailů a rezerva na ořez (Nastavení → Fotoaparát → Záznam videa).</li><li><strong>60 fps při pohybu.</strong> Víc snímků na výběr a méně rozmazání na snímek.</li><li><strong>Světlo.</strong> Denní světlo nebo světlá místnost ovlivní ostrost nejvíc.</li><li><strong>Stabilita.</strong> Opřete lokty nebo použijte stativ; třes rozmaže každý snímek.</li></ul><h2>A co vylepšení pomocí AI?</h2><p>AI zvětšovače obraz zvětší, ale detaily si „domyslí“. Nejdřív získejte nejlepší skutečný snímek v rozlišení videa a zvětšování nechte na velké tisky. O formátech v návodu <a href=\"/cs/guides/video-na-jpg-png/\">video na JPG nebo PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Může být snímek z videa stejně dobrý jako fotka?",
+      "a": "Ostré 4K video za dobrého světla dává snímky, které na sítích od fotky těžko rozeznáte. Skutečná fotka má ale výhody jako kratší expozici a fotografické zpracování."
+    },
+    {
+      "q": "Jaké rozlišení má snímek ze 4K videa?",
+      "a": "3840×2160 pixelů, zhruba 8,3 megapixelu. U 1080p je to 1920×1080, zhruba 2 megapixely."
+    },
+    {
+      "q": "Který formát zachová nejvíc detailů?",
+      "a": "PNG je bezeztrátové. HEIC je velmi blízko s mnohem menšími soubory. JPG mírně komprimuje, ale otevře se všude."
+    }
+  ],
+  "related": [
+    "screenshot-videa-iphone-bez-ztraty-kvality",
+    "video-snimek-po-snimku-iphone",
+    "video-na-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "tirar-foto-de-video-com-qualidade",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "tirar foto de vídeo com qualidade",
+  "secondary_keywords": [
+    "tirar foto de video sem perder qualidade",
+    "como extrair foto de video sem perder qualidade",
+    "foto nítida de vídeo"
+  ],
+  "title": "Tirar foto de vídeo com qualidade no iPhone, sem borrar",
+  "description": "Por que foto tirada de vídeo fica borrada e como evitar: frame sem movimento, 4K e 60 fps, extrair em vez de tirar print e exportar em PNG ou HEIC.",
+  "h1": "Como tirar foto de vídeo com qualidade",
+  "nav_title": "Foto de vídeo com qualidade",
+  "card_title": "Foto de vídeo com qualidade",
+  "excerpt": "Por que frames parecem borrados, o que dá para corrigir depois e o que mudar antes de gravar.",
+  "lead": "Você achou o momento perfeito, salvou… e ficou borrado. Frames de vídeo são feitos para o movimento, não para ficar parados na tela, mas com o frame e o método certos eles parecem fotos de verdade.",
+  "quick_answer": "Escolha um frame em que o assunto quase não se mexe, salve a partir do arquivo em vez de tirar print e exporte em PNG ou HEIC sem compressão extra. Salve de 3 a 5 frames vizinhos e fique com o mais nítido. Nos próximos vídeos, grave em 4K e a 60 fps com boa luz.",
+  "content_intro": "<h2>Por que foto de vídeo fica borrada</h2><ul><li><strong>Movimento.</strong> Cada frame é exposto por uma fração de segundo; se o assunto se mexe, sai tremido.</li><li><strong>Print.</strong> O vídeo é reduzido ao tamanho da tela e salvo de novo. Veja <a href=\"/pt/guides/print-de-video-iphone-sem-perder-qualidade/\">por que o print perde qualidade</a>.</li><li><strong>Compressão do vídeo.</strong> O vídeo é muito comprimido e alguns frames têm menos detalhe.</li><li><strong>Pouca luz.</strong> No escuro a câmera expõe por mais tempo e reduz mais ruído: some detalhe.</li></ul><h2>O que dá para corrigir depois</h2><table><thead><tr><th>Problema</th><th>Solução</th></tr></thead><tbody><tr><td>Assunto tremido</td><td>Salve vários frames vizinhos e escolha o nítido</td></tr><tr><td>Foto pequena ou cortada</td><td>Extraia do arquivo, sem print</td></tr><tr><td>Blocos de compressão</td><td>Exporte em PNG ou HEIC, sem salvar de novo</td></tr><tr><td>Olho fechado</td><td>Vá devagar: o certo costuma estar a 1 ou 2 frames</td></tr></tbody></table>",
+  "steps_title": "Como pegar o frame mais nítido de um vídeo",
+  "steps": [
+    {
+      "name": "Abra o vídeo",
+      "text": "Compartilhe pelo Fotos com o Video To Photo – Grab Frame para o frame vir do arquivo, não da tela.",
+      "shot": 0
+    },
+    {
+      "name": "Procure o momento parado",
+      "text": "Deslize em volta da ação e procure os picos: o ponto mais alto de um pulo, a pausa antes de uma risada.",
+      "shot": 1
+    },
+    {
+      "name": "Salve uma rajada e compare",
+      "text": "Capture 3 a 5 frames vizinhos, dê zoom nos olhos, bordas ou texto na pré-visualização e apague os moles.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte sem compressão extra",
+      "text": "O melhor em PNG (sem perda) ou HEIC (qualidade com pouco espaço). JPG só para mandar rápido.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Grave para ter fotos melhores depois</h2><ul><li><strong>4K.</strong> Mais pixels, mais detalhe e margem para cortar (Ajustes → Câmera → Gravar Vídeo).</li><li><strong>60 fps para ação.</strong> Mais frames para escolher e menos tremido em cada um.</li><li><strong>Luz.</strong> Luz do dia ou um ambiente bem iluminado é o que mais melhora a nitidez.</li><li><strong>Estabilidade.</strong> Apoie os cotovelos ou use tripé: tremer deixa todos os frames borrados.</li></ul><h2>E se eu melhorar com IA?</h2><p>Os ampliadores com IA aumentam a imagem, mas inventam detalhes. Primeiro pegue o melhor frame real, na resolução do vídeo, e só melhore se precisar de uma impressão grande. Sobre formatos: <a href=\"/pt/guides/converter-video-para-jpg/\">converter vídeo para JPG ou PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Uma foto tirada de vídeo pode parecer foto normal?",
+      "a": "De um vídeo 4K nítido e bem iluminado, o frame fica bem parecido com uma foto, principalmente para redes sociais. Uma foto de verdade ainda tem vantagens, como exposição mais curta e processamento pensado para fotos."
+    },
+    {
+      "q": "Qual a resolução de um frame de vídeo 4K?",
+      "a": "3840 × 2160 pixels, cerca de 8,3 megapixels. Um frame de 1080p tem 1920 × 1080, cerca de 2 megapixels."
+    },
+    {
+      "q": "Qual formato mantém mais detalhe?",
+      "a": "PNG não tem perda. HEIC mantém quase a mesma qualidade num arquivo bem menor. JPG comprime um pouco, mas abre em qualquer lugar."
+    }
+  ],
+  "related": [
+    "print-de-video-iphone-sem-perder-qualidade",
+    "video-frame-a-frame-iphone",
+    "converter-video-para-jpg"
+  ],
+  "datePublished": "2026-09-30"
+}

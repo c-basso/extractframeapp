@@ -1,0 +1,64 @@
+{
+  "slug": "aplicatie-poza-din-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplicație poză din video",
+  "secondary_keywords": [
+    "aplicatie poza din video iphone",
+    "aplicație extragere cadre video",
+    "aplicație gratuită poză din video"
+  ],
+  "title": "Aplicație pentru poze din video pe iPhone: cum alegi",
+  "description": "Cum alegi o aplicație pentru poze din video: precizie, rezoluție, confidențialitate, export în serie, formate și preț, plus un test de 2 minute.",
+  "h1": "Cum alegi o aplicație pentru poze din video pe iPhone",
+  "nav_title": "Aplicație poză din video",
+  "card_title": "Cum alegi o aplicație pentru poze din video",
+  "excerpt": "Șase criterii pentru o aplicație bună de cadre și o listă de verificare de 2 minute.",
+  "lead": "Caută în App Store „poză din video” și primești o listă lungă de aplicații asemănătoare. Baza e aceeași; diferența stă în detalii. Cât de precis alegi cadrul, cât de mare e imaginea și dacă clipul ajunge pe internet.",
+  "quick_answer": "O aplicație bună te lasă să alegi cadrul exact, salvează din fișierul video, nu de pe ecran, lucrează pe dispozitiv, salvează mai multe cadre deodată și exportă în mai multe formate. Video To Photo – Grab Frame face toate acestea, plus export ZIP și PDF și proiecte la care revii mai târziu.",
+  "content_intro": "<h2>Mai e nevoie de o aplicație cu iOS 27?</h2><p>Din iOS 27, Poze salvează un singur cadru pus pe pauză. Pe iOS mai vechi sau pentru multe cadre, PNG și ZIP/PDF, o aplicație e mai comodă.</p><h2>Șase criterii pentru o aplicație bună</h2><ol><li><strong>Alegere precisă a cadrului.</strong> O bandă de cadre sau un glisor care nimerește exact momentul.</li><li><strong>Export real.</strong> Din fișier, nu de pe ecran. Testează cu un clip 4K orizontal și verifică dimensiunile.</li><li><strong>Procesare pe dispozitiv.</strong> Clipurile de familie nu au ce căuta pe un server. Verifică eticheta de confidențialitate din App Store și testează în modul Avion.</li><li><strong>Mod în serie.</strong> Storyboard-urile, sportul și tutorialele cer multe cadre.</li><li><strong>Formate și export.</strong> JPG, PNG și HEIC sunt suficiente. ZIP și PDF sunt rare, dar foarte utile.</li><li><strong>Preț clar.</strong> Ce e gratuit, dacă există abonament, dacă poți cumpăra o singură dată.</li></ol>",
+  "steps_title": "Cum testezi o aplicație pentru poze din video în 2 minute",
+  "steps": [
+    {
+      "name": "Deschide un clip real",
+      "text": "Alege un clip orizontal cu mișcare și partajează-l din Poze cu Video To Photo – Grab Frame. Se deschide ecranul de cadre.",
+      "shot": 0
+    },
+    {
+      "name": "Țintește un singur cadru",
+      "text": "Caută o clipire sau o minge în aer. Banda și previzualizarea mare te ajută. Atinge salvarea.",
+      "shot": 1
+    },
+    {
+      "name": "Salvează câteva și compară",
+      "text": "Salvează patru-cinci și mărește. Ar trebui să poți șterge cadrele ratate înainte de export.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă și verifică fișierul",
+      "text": "Exportă ca PNG și uită-te la informațiile pozei. Dimensiunile trebuie să fie ale video-ului, nu ale ecranului.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Ce oferă Video To Photo – Grab Frame</h2><table><thead><tr><th>Funcție</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Pornire din Partajează în Poze</td><td>Da, direct la ecranul de cadre</td></tr><tr><td>Sursă</td><td>Fișierul video</td></tr><tr><td>Mod în serie</td><td>Multe cadre într-o sesiune</td></tr><tr><td>Formate</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export</td><td>Fișiere, ZIP, PDF</td></tr><tr><td>Proiecte</td><td>Salvezi și revii mai târziu</td></tr><tr><td>Confidențialitate</td><td>100% pe dispozitiv, fără cont</td></tr><tr><td>Preț</td><td>Descărcare gratuită. Pro prin achiziție în aplicație (perioadă de probă gratuită, anual, o singură dată)</td></tr></tbody></table><h2>Când nu ai nevoie de aplicație</h2><p>O singură poză pe iOS 27? Ajunge Poze (pauză → ••• → salvare cadru ca poză). O notiță rapidă pe iOS mai vechi? Ajunge o captură de ecran.</p>",
+  "faq": [
+    {
+      "q": "Există o aplicație gratuită pentru poze din video?",
+      "a": "Video To Photo – Grab Frame se descarcă gratuit. Unele funcții sunt Pro, prin achiziție în aplicație (perioadă de probă gratuită, plan anual sau achiziție unică). Prețurile actuale sunt în App Store."
+    },
+    {
+      "q": "Aceste aplicații îmi încarcă clipul?",
+      "a": "Instrumentele online, da. Video To Photo – Grab Frame procesează totul pe iPhone și funcționează offline."
+    },
+    {
+      "q": "Merge cu clipuri 4K și cu încetinitorul?",
+      "a": "Da. Suportă 4K, 60 fps și încetinitor din bibliotecă. Cu cât filmarea e mai bună, cu atât cadrele sunt mai clare."
+    }
+  ],
+  "related": [
+    "poza-din-video-iphone",
+    "extragere-cadre-din-video",
+    "video-in-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

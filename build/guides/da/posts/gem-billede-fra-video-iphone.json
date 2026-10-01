@@ -1,0 +1,64 @@
+{
+  "slug": "gem-billede-fra-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "gem billede fra video iPhone",
+  "secondary_keywords": [
+    "gem billede fra video iphone",
+    "gem billede fra video",
+    "stillbillede fra video iphone"
+  ],
+  "title": "Gem billede fra video på iPhone som foto (iOS 27)",
+  "description": "Sådan gemmer du et billede fra en video som foto på iPhone: iOS 27-funktionen og en metode til ældre iOS eller flere billeder, som JPG, PNG eller HEIC.",
+  "h1": "Sådan gemmer du et billede fra en video på iPhone",
+  "nav_title": "Gem billede fra video",
+  "card_title": "Gem et billede fra en video som foto",
+  "excerpt": "Eksportér det rigtige billede til Fotos eller Arkiver uden at ændre den oprindelige video.",
+  "lead": "Du ved præcis, hvilket billede du vil have. Du vil bare have det som et almindeligt foto ved siden af de andre. Sådan gør du på iPhone.",
+  "quick_answer": "iOS 27 og nyere: åbn videoen i Fotos, sæt den på pause, og gem billedet via •••. Ældre iOS eller flere billeder, PNG, ZIP eller PDF: del videoen med Video To Photo – Grab Frame, gem billederne, og eksportér dem til Fotos eller Arkiver.",
+  "content_intro": "<h2>Metode 1: den indbyggede funktion i iOS 27</h2><ol><li>Åbn videoen i Fotos, og sæt den på pause på det ønskede billede (træk i båndet for at ramme præcist).</li><li>Tryk på <strong>•••</strong> øverst til højre.</li><li>Vælg at gemme billedet som foto (<em>Save Video Frame as Photo</em>).</li></ol><p>Du får et foto i videoens opløsning som HEIF eller JPG (afhængigt af kameraindstillingerne). Husk: det er <strong>ét billede ad gangen</strong>, og fotoet får <strong>videoens dato</strong>. Led efter det ved siden af videoen, ikke øverst i Seneste.</p><h2>Metode 2: flere billeder eller iOS 26 og ældre</h2><p>Ældre versioner har ingen indbygget funktion, kun skærmbillede (<a href=\"/da/guides/skaermbillede-af-video-iphone/\">hvorfor det mister kvalitet</a>). Også på iOS 27 er en app hurtigere, når du vil have en serie billeder, PNG eller ZIP/PDF.</p>",
+  "steps_title": "Sådan gemmer du et billede med Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Del videoen fra Fotos",
+      "text": "Åbn videoen, tryk på Del, og vælg appen. Billedskærmen åbner med det samme.",
+      "shot": 0
+    },
+    {
+      "name": "Find billedet, og gem",
+      "text": "Træk til øjeblikket, og tryk på gem. Tælleren viser, hvor mange billeder du har.",
+      "shot": 1
+    },
+    {
+      "name": "Vælg format",
+      "text": "Tryk på Eksportér. JPEG til deling, PNG tabsfrit, HEIC let og skarpt.",
+      "shot": 3
+    },
+    {
+      "name": "Gem i Fotos eller Arkiver",
+      "text": "Via Del-menuen gemmer du i biblioteket eller Arkiver, eller sender direkte i en samtale.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hvor havner det gemte billede?</h2><ul><li><strong>Fotobiblioteket</strong>: redigér, del og print som ethvert foto.</li><li><strong>Arkiver</strong>: iCloud Drive eller På min iPhone, praktisk til arbejdsdokumenter.</li><li><strong>Andre apps</strong>: Messenger, Instagram, mail via Del-menuen.</li></ul><h2>Flere billeder på én gang</h2><p>Gem alle de billeder, du skal bruge, før du eksporterer, og eksportér dem samlet som separate filer, <strong>ZIP</strong> eller <strong>PDF</strong>. Se også <a href=\"/da/guides/billeder-fra-video/\">billeder fra video</a>.</p><h2>Fortsæt senere</h2><p>Hver video gemmes som et projekt, så du kan fortsætte næste dag uden at finde videoen igen.</p>",
+  "faq": [
+    {
+      "q": "Kan Fotos-appen gemme et billede fra en video?",
+      "a": "Fra iOS 27, ja: pause og gem via •••. Ét billede ad gangen, som HEIF eller JPG. Før iOS 27 var der kun skærmbillede."
+    },
+    {
+      "q": "Bliver min oprindelige video ændret?",
+      "a": "Nej. Appen læser videoen og laver nye billedfiler. Videoen i Fotos forbliver den samme."
+    },
+    {
+      "q": "Virker det offline?",
+      "a": "Ja. Billederne hentes fra videoen på din iPhone, så du behøver ikke internet, og intet uploades."
+    }
+  ],
+  "related": [
+    "billede-fra-video-iphone",
+    "billeder-fra-video",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

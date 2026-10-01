@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Rehberler: iPhone'da videodan fotoğraf alma",
+    "description": "iPhone'da videodan fotoğraf alma rehberleri: ekran görüntüsünden daha net, kare kaydetme, çok kare çıkarma, videoyu PDF'e çevirme, kapak fotoğrafı ve JPG ya da PNG.",
+    "eyebrow": "Rehberler",
+    "h1": "iPhone'da videodan fotoğraf: tüm rehberler",
+    "intro": "Her rehber tek bir soruyu yanıtlar: iPhone kendi başına neyi yapabilir (ve neyi yapamaz), ve Video To Photo – Grab Frame ile en hızlı nasıl yapılır."
+  },
+  "labels": {
+    "home": "Ana sayfa",
+    "guides": "Rehberler",
+    "guide_eyebrow": "iPhone rehberi",
+    "quick_answer": "Kısa cevap",
+    "by": "Yazar:",
+    "updated": "Güncellendi",
+    "min_read": "dk okuma",
+    "faq_title": "Sık sorulan sorular",
+    "related": "İlgili rehberler",
+    "read_guide": "Rehberi oku",
+    "inline_cta": "Kendi videonla dene. Bir dakika sürer.",
+    "app_card_cta": "App Store'dan indir",
+    "app_card_fine": "Ücretsiz · uygulama içi satın alma · iOS 18.6+",
+    "app_card_bullets": ["Hassas kare seçimi", "JPG, PNG, HEIC", "ZIP ve PDF olarak toplu aktarma", "Çevrimdışı, yükleme ve hesap yok"],
+    "final_cta_title": "En iyi fotoğrafın bir videonun içinde.",
+    "final_cta_text": "iPhone'a tam kalitede kaydet. Yükleme yok, hesap yok, kurgu bilgisi gerekmez."
+  }
+}

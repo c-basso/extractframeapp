@@ -1,0 +1,64 @@
+{
+  "slug": "poza-clara-din-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "poză clară din video",
+  "secondary_keywords": [
+    "poză din video neclară",
+    "poză din video calitate bună",
+    "poză din video HD iphone"
+  ],
+  "title": "Poză clară dintr-un video: de ce iese neclară și soluția",
+  "description": "De ce poza scoasă dintr-un video e neclară și cum repari: alegi un cadru fix, filmezi în 4K și 60 fps, exporți în loc de captură de ecran, PNG sau HEIC.",
+  "h1": "Cum obții o poză clară dintr-un video",
+  "nav_title": "Poză clară din video",
+  "card_title": "Poză clară dintr-un video",
+  "excerpt": "De ce cadrele sunt neclare, ce faci după filmare și ce schimbi înainte.",
+  "lead": "Ai găsit momentul perfect, l-ai salvat și e neclar. Cadrele video sunt făcute pentru mișcare, nu pentru a fi privite fix. Cu cadrul și metoda potrivite pot arăta totuși ca o poză adevărată.",
+  "quick_answer": "Alege un cadru în care subiectul aproape nu se mișcă, salvează din fișierul video în loc de captură de ecran și exportă ca PNG sau HEIC, fără compresie în plus. Salvează 3–5 cadre vecine și păstrează-l pe cel mai clar. Clipurile următoare filmează-le în lumină bună, în 4K și 60 fps.",
+  "content_intro": "<h2>De ce poza dintr-un video iese neclară</h2><ul><li><strong>Mișcarea.</strong> Fiecare cadru e expus o fracțiune de secundă. Dacă subiectul se mișcă, se estompează.</li><li><strong>Captura de ecran.</strong> Clipul e micșorat la ecran și salvat din nou. Vezi <a href=\"/ro/guides/screenshot-video-iphone-fara-pierderea-calitatii/\">de ce captura pierde calitate</a>.</li><li><strong>Compresia video.</strong> Video-ul e puternic comprimat; unele cadre au mai puține detalii.</li><li><strong>Lumina slabă.</strong> Expunerea mai lungă și reducerea puternică a zgomotului șterg detaliile.</li></ul><h2>Ce faci după filmare</h2><table><thead><tr><th>Problemă</th><th>Soluție</th></tr></thead><tbody><tr><td>Subiect mișcat</td><td>Salvează mai multe cadre vecine și alege-l pe cel mai clar</td></tr><tr><td>Poză mică sau tăiată</td><td>Exportă din fișier, nu face captură</td></tr><tr><td>Blocuri de compresie</td><td>Exportă PNG sau HEIC și nu salva din nou</td></tr><tr><td>Ochi închiși</td><td>Glisează încet; cadrul bun e adesea la 1–2 distanță</td></tr></tbody></table>",
+  "steps_title": "Cum scoți cel mai clar cadru dintr-un video",
+  "steps": [
+    {
+      "name": "Deschide clipul",
+      "text": "Partajează-l din Poze cu Video To Photo – Grab Frame. Cadrele vin din fișier, nu de pe ecran.",
+      "shot": 0
+    },
+    {
+      "name": "Găsește momentul de liniște",
+      "text": "Glisează în jurul mișcării și caută „pauza”: vârful săriturii, clipa dinaintea zâmbetului.",
+      "shot": 1
+    },
+    {
+      "name": "Salvează o serie și compară",
+      "text": "Salvează 3–5 cadre în jurul momentului și mărește ochii, marginile sau textul. Șterge cadrele moi.",
+      "shot": 2
+    },
+    {
+      "name": "Exportă fără compresie în plus",
+      "text": "Exportă-l pe cel mai bun ca PNG (fără pierderi) sau HEIC (clar și ușor). JPG pentru trimis rapid.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Cum filmezi ca să ai cadre clare</h2><ul><li><strong>4K.</strong> Mai mulți pixeli, mai multe detalii și loc pentru decupare (Configurări → Cameră → Înregistrare video).</li><li><strong>60 fps la mișcare.</strong> Mai multe cadre din care alegi și mai puțină neclaritate pe cadru.</li><li><strong>Lumina.</strong> Lumina zilei sau o cameră luminoasă contează cel mai mult pentru claritate.</li><li><strong>Stabilitate.</strong> Sprijină-ți coatele sau folosește un trepied; tremuratul estompează fiecare cadru.</li></ul><h2>Și îmbunătățirea cu AI?</h2><p>Programele AI măresc imaginea, dar „inventează” detalii. Obține întâi cel mai bun cadru real la rezoluția video-ului și lasă mărirea pentru printuri mari. Despre formate, în ghidul <a href=\"/ro/guides/video-in-jpg-png/\">video în JPG sau PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Poate un cadru din video să fie la fel de bun ca o poză?",
+      "a": "Un clip 4K clar, în lumină bună, dă cadre greu de deosebit de o poză pe rețelele sociale. Poza adevărată are totuși avantaje, precum timpul de expunere mai scurt și procesarea foto."
+    },
+    {
+      "q": "Ce rezoluție are un cadru dintr-un video 4K?",
+      "a": "3840×2160 pixeli, aproximativ 8,3 megapixeli. La 1080p e 1920×1080, aproximativ 2 megapixeli."
+    },
+    {
+      "q": "Ce format păstrează cele mai multe detalii?",
+      "a": "PNG e fără pierderi. HEIC e foarte aproape, cu fișiere mult mai mici. JPG comprimă puțin, dar se deschide peste tot."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-fara-pierderea-calitatii",
+    "video-cadru-cu-cadru-iphone",
+    "video-in-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

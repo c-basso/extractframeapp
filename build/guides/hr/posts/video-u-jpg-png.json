@@ -1,0 +1,65 @@
+{
+  "slug": "video-u-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "video u jpg",
+    "video to png",
+    "video to heic",
+    "video to jpg converter"
+  ],
+  "title": "Video u JPG, PNG ili HEIC na iPhoneu",
+  "description": "Spremite kadrove iz videa u formatu JPG, PNG ili HEIC na iPhoneu. Koji format kada odabrati i kako izvesti u Datoteke, ZIP ili PDF.",
+  "h1": "Pretvaranje videa u JPG, PNG ili HEIC na iPhoneu",
+  "nav_title": "Video u JPG/PNG",
+  "card_title": "Video u JPG, PNG ili HEIC",
+  "excerpt": "Za što je koji format i kako izvesti kadrove.",
+  "lead": "Video se ne može jednostavno pretvoriti u jedan JPG: slika uvijek nastaje iz odabranog kadra. Pitanje je u kojem formatu ga spremiti: JPG, PNG ili HEIC. Svaki ima svoje mjesto.",
+  "quick_answer": "Odaberite kadar u aplikaciji Video To Photo – Grab Frame i izvezite ga u JPG (otvara se svugdje), PNG (bez gubitaka, za uređivanje) ili HEIC (male datoteke, za Apple uređaje). Više kadrova odjednom možete spremiti u Datoteke, ZIP ili PDF.",
+  "content_intro": "<h2>Koji format odabrati?</h2><table><thead><tr><th>Format</th><th>Prednost</th><th>Kada</th></tr></thead><tbody><tr><td>JPG</td><td>Radi svugdje</td><td>Dijeljenje, e-pošta, web</td></tr><tr><td>PNG</td><td>Bez gubitaka</td><td>Uređivanje, thumbnail, tekst na slici</td></tr><tr><td>HEIC</td><td>Mala datoteka</td><td>Knjižnica Foto, Apple uređaji</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p><p>Foto ne nudi PNG ni skupno spremanje. Za to treba aplikacija.</p>",
+  "steps_title": "Izvoz kadra u JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Odaberite kadrove",
+      "text": "Povucite traku i spremite željene kadrove. Jedan ili desetke.",
+      "shot": 1
+    },
+    {
+      "name": "Odaberite format",
+      "text": "Pri izvozu birajte između JPG, PNG i HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Spremite",
+      "text": "U Foto, Datoteke, ZIP ili PDF, ili ih podijelite izravno.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Otvaranje HEIC-a na Windowsu</h2><p>Stariji Windows i neke web-stranice ne podržavaju HEIC. Ako sliku ne šaljete na Apple uređaj, odaberite JPG.</p><h2>Zadržavaju li se metapodaci?</h2><p>Slika dobiva rezoluciju videa. Datum i lokacija ovise o izvornom videu i načinu izvoza. Ako je važno, provjerite podatke fotografije u aplikaciji Foto.</p>",
+  "faq": [
+    {
+      "q": "Kako pretvoriti video u JPG na iPhoneu?",
+      "a": "Odaberite kadar u aplikaciji Video To Photo – Grab Frame i izvezite ga kao JPG. Na iOS-u 27 i Foto sprema kadar u HEIF ili JPG."
+    },
+    {
+      "q": "PNG ili JPG?",
+      "a": "PNG za uređivanje i slike s tekstom, JPG za dijeljenje. PNG je veća datoteka, ali bez gubitka kvalitete."
+    },
+    {
+      "q": "Mogu li spremiti mnogo kadrova odjednom?",
+      "a": "Da, u skupnom načinu aplikacije Grab Frame, a zatim ih izvesti u ZIP ili PDF."
+    }
+  ],
+  "related": [
+    "spremiti-sliku-iz-videa-iphone",
+    "video-u-slike",
+    "video-u-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

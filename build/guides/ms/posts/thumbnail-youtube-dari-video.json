@@ -1,0 +1,64 @@
+{
+  "slug": "thumbnail-youtube-dari-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "cara buat thumbnail youtube",
+  "secondary_keywords": [
+    "thumbnail youtube",
+    "thumbnail youtube size",
+    "cara buat thumbnail youtube menarik"
+  ],
+  "title": "Cara Buat Thumbnail YouTube dari Video di iPhone",
+  "description": "Buat thumbnail YouTube, Instagram atau TikTok daripada bingkai terbaik video anda di iPhone: memilih bingkai, eksport PNG, saiz betul dan tip supaya diklik.",
+  "h1": "Cara buat thumbnail YouTube dari video di iPhone",
+  "nav_title": "Thumbnail YouTube",
+  "card_title": "Thumbnail YouTube daripada video sendiri",
+  "excerpt": "Memilih dan mengeksport bingkai terbaik untuk thumbnail.",
+  "lead": "Thumbnail menentukan sama ada orang klik video anda. Bahan terbaiknya selalu ada dalam video itu sendiri: wajah ekspresif, klimaks, detik yang jelas. Hanya perlu dicari dan disimpan dengan tajam.",
+  "quick_answer": "Buka video dalam Video To Photo – Grab Frame, cari bingkai yang tajam dan ekspresif, dan eksport ke PNG. Tambah teks dan potong (1280×720, 16:9) dalam penyunting kegemaran anda, kemudian muat naik ke YouTube.",
+  "content_intro": "<h2>Saiz yang disyorkan</h2><table><thead><tr><th>Platform</th><th>Saiz</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Hantaran Instagram</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p>",
+  "steps_title": "Thumbnail langkah demi langkah",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Cari klimaksnya",
+      "text": "Gerak bingkai demi bingkai dan cari wajah ekspresif atau detik yang kuat, tanpa kabur.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan beberapa calon",
+      "text": "Simpan tiga atau empat bingkai supaya ada pilihan.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport ke PNG",
+      "text": "PNG mengekalkan kualiti sebelum ditambah teks dan dipotong.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tip thumbnail yang menarik</h2><ul><li>Teks besar dan mudah dibaca: maksimum 3–5 perkataan.</li><li>Wajah dengan emosi: menonjol dalam senarai.</li><li>Kontras kuat, sedikit butiran.</li><li>Semak juga dalam saiz kecil, seperti dipaparkan di telefon.</li></ul><p>Guna video milik sendiri. Jangan muat naik bingkai kandungan orang lain tanpa kebenaran.</p>",
+  "faq": [
+    {
+      "q": "Apakah saiz thumbnail YouTube?",
+      "a": "1280×720 piksel, nisbah 16:9, maksimum 2 MB (JPG atau PNG)."
+    },
+    {
+      "q": "Bolehkah buat thumbnail daripada bingkai video?",
+      "a": "Boleh. Simpan bingkai dengan Video To Photo – Grab Frame dalam PNG, kemudian tambah teks dalam penyunting."
+    },
+    {
+      "q": "Kenapa thumbnail kabur?",
+      "a": "Bingkai yang dipilih sedang bergerak atau videonya beresolusi rendah. Pilih bingkai sebelahnya dan rakam dalam 4K."
+    }
+  ],
+  "related": [
+    "gambar-hd-dari-video",
+    "video-ke-jpg-png",
+    "cara-ambil-gambar-dari-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

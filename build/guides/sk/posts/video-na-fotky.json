@@ -1,0 +1,64 @@
+{
+  "slug": "video-na-fotky",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "video na fotky",
+  "secondary_keywords": [
+    "viac fotiek z videa",
+    "rozložiť video na fotky",
+    "video fotky"
+  ],
+  "title": "Video na fotky na iPhone: viac snímok naraz",
+  "description": "Získajte viac fotiek z videa naraz na iPhone, bez počítača a ffmpeg. Uložte len potrebné snímky ako fotky, ZIP alebo PDF.",
+  "h1": "Video na fotky na iPhone",
+  "nav_title": "Video na fotky",
+  "card_title": "Video na fotky: viac snímok naraz",
+  "excerpt": "Veľa snímok naraz, len tie, ktoré potrebujete.",
+  "lead": "Niekedy jedna fotka nestačí: celý skok, každý krok receptu, všetky scény do storyboardu. Rozložiť celé video na stovky fotiek len narobí neporiadok. Lepšie je vybrať len to, čo potrebujete.",
+  "quick_answer": "Otvorte video vo Video To Photo – Grab Frame, uložte toľko snímok, koľko chcete, a exportujte ich spolu: ako súbory, ZIP alebo PDF. Fotky v iOS 27 ukladajú vždy len jednu snímku.",
+  "content_intro": "<h2>Spôsoby, ako získať veľa fotiek</h2><table><thead><tr><th>Spôsob</th><th>Výhoda</th><th>Nevýhoda</th></tr></thead><tbody><tr><td>Screenshot za screenshotom</td><td>Bez aplikácie</td><td>Pomalé, nízke rozlíšenie</td></tr><tr><td>Fotky (iOS 27)</td><td>Vstavané</td><td>Vždy jedna snímka</td></tr><tr><td>ffmpeg na počítači</td><td>Všetky snímky</td><td>Tisíce fotiek, treba počítač</td></tr><tr><td>Grab Frame</td><td>Len vybrané, hromadný export</td><td>Niektoré funkcie Pro</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p>",
+  "steps_title": "Viac fotiek z jedného videa",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Ukladajte snímky postupne",
+      "text": "Posuňte sa ku každému okamihu a ťuknite na uložiť. Snímky sa zbierajú v zásobníku.",
+      "shot": 1
+    },
+    {
+      "name": "Prezrite a upracte",
+      "text": "Vymažte podobné alebo rozmazané snímky.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte všetko naraz",
+      "text": "Ako samostatné súbory, ZIP archív alebo PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Na čo sa hodí</h2><ul><li>Šport: fázy pohybu.</li><li>Recepty a návody: každý krok.</li><li>Storyboard: hlavné scény.</li><li>Rodina: najlepšie okamihy z narodenín.</li></ul><p>Projekty sa ukladajú, takže môžete pokračovať neskôr.</p>",
+  "faq": [
+    {
+      "q": "Dajú sa vytiahnuť všetky snímky z videa?",
+      "a": "Na počítači pomocou ffmpeg. Na iPhone je praktickejšie vybrať len potrebné snímky v Grab Frame."
+    },
+    {
+      "q": "Koľko snímok môžem uložiť?",
+      "a": "Koľko chcete. Pri veľa fotkách exportujte ako ZIP alebo PDF."
+    },
+    {
+      "q": "Môžem pokračovať neskôr?",
+      "a": "Áno. Každé video sa uloží ako projekt."
+    }
+  ],
+  "related": [
+    "aplikacia-fotka-z-videa",
+    "video-snimku-po-snimke-iphone",
+    "video-do-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "kvalitetna-slika-iz-videa",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "kvalitetna slika iz videa",
+  "secondary_keywords": [
+    "oštra slika iz videa",
+    "slika iz videa mutna",
+    "hdr video tamna slika"
+  ],
+  "title": "Kvalitetna slika iz videa na iPhoneu: zašto je mutna",
+  "description": "Zašto je slika iz videa mutna ili tamna i kako dobiti oštru fotografiju u punoj rezoluciji na iPhoneu: brzina, fps, HDR i pravi kadar.",
+  "h1": "Oštra, kvalitetna slika iz videa na iPhoneu",
+  "nav_title": "Kvalitetna slika",
+  "card_title": "Kvalitetna slika iz videa: zašto je mutna",
+  "excerpt": "Uzroci zamućenja, tamnih slika i niske rezolucije te rješenja.",
+  "lead": "Slika izvučena iz videa često je mekša od fotografije. Za to postoji razlog: video je napravljen za kontinuirani pokret, a ne za pojedinačne kadrove. S nekoliko postavki i pravim kadrom možete dobiti mnogo oštriju sliku.",
+  "quick_answer": "Odaberite kadar s najmanje pokreta, spremite ga iz datoteke videa (ne screenshotom) i snimajte u 4K pri 60 fps uz dobro svjetlo. Ako je slika tamna ili izblijedjela, uzrok je HDR video. Video To Photo – Grab Frame sprema kadar iz datoteke u punoj rezoluciji.",
+  "content_intro": "<h2>Zašto je slika mutna?</h2><table><thead><tr><th>Uzrok</th><th>Simptom</th><th>Rješenje</th></tr></thead><tbody><tr><td>Zamućenje pokreta</td><td>Razmazana ruka, lopta</td><td>Susjedni kadar, više svjetla, 60 fps</td></tr><tr><td>Screenshot</td><td>Rezolucija zaslona, kontrole</td><td>Spremanje iz datoteke</td></tr><tr><td>Kompresija</td><td>Kockasta područja</td><td>Izvorni video, a ne onaj s WhatsAppa ili Vibera</td></tr><tr><td>HDR video</td><td>Tamna ili izblijedjela slika</td><td>Vidi dolje</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p>",
+  "steps_title": "Oštra slika korak po korak",
+  "steps": [
+    {
+      "name": "Otvorite izvorni video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame. Radite s izvornom datotekom.",
+      "shot": 0
+    },
+    {
+      "name": "Pronađite najoštriji kadar",
+      "text": "Pomičite se kadar po kadar oko trenutka. Prethodni ili sljedeći kadar često je mnogo oštriji.",
+      "shot": 1
+    },
+    {
+      "name": "Usporedite uvećano",
+      "text": "Spremite dva ili tri kandidata i uvećajte oči ili rubove. Zadržite najbolji.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite u punoj rezoluciji",
+      "text": "PNG za maksimalnu kvalitetu, HEIC/JPG za manju veličinu.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Zašto je slika iz HDR videa tamna?</h2><p>iPhone prema zadanim postavkama snima u HDR-u (Dolby Vision). Kad kadar spremite kao standardnu fotografiju, svjetlina i boje mogu odstupati. Ako vam to smeta, isključite ga: <strong>Postavke → Kamera → Snimanje videa → HDR video</strong>.</p><h2>Savjeti za snimanje</h2><ul><li>4K, 60 fps: više i oštrijih kadrova.</li><li>Puno svjetla: kraća ekspozicija, manje zamućenja.</li><li>Usporeni video za brze pokrete.</li><li>Mirna ruka ili stativ.</li></ul><p>Slika ne može imati veću rezoluciju od videa: iz 4K oko 8 MP, iz 1080p oko 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Može li se iz videa dobiti kvalitetna slika?",
+      "a": "Da, ako je video oštar i kadar se sprema iz datoteke. Iz 4K dobivate oko 8 MP, dovoljno i za manji ispis."
+    },
+    {
+      "q": "Zašto je slika iz videa mutna?",
+      "a": "Najčešće zbog zamućenja pokreta ili screenshota. Odaberite susjedni kadar i spremite iz datoteke."
+    },
+    {
+      "q": "Zašto je slika tamna?",
+      "a": "Vjerojatno potječe iz HDR videa. Isključite HDR video u Postavke → Kamera → Snimanje videa za sljedeće snimke."
+    }
+  ],
+  "related": [
+    "kako-izvuci-sliku-iz-videa-iphone",
+    "video-frame-po-frame-iphone",
+    "video-u-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

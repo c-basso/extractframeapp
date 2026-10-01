@@ -1,0 +1,69 @@
+{
+  "slug": "jak-udelat-fotku-z-videa-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "jak udělat fotku z videa na iPhonu",
+  "secondary_keywords": [
+    "fotka z videa iphone",
+    "jak udělat fotku z videa",
+    "jak vytáhnout fotku z videa",
+    "jak udělat fotku z videa na mobilu"
+  ],
+  "title": "Jak udělat fotku z videa na iPhonu: 3 způsoby",
+  "description": "Jak udělat fotku z videa na iPhonu v dobré kvalitě: funkce iOS 27, snímek obrazovky, vyjmutí objektu a více fotek najednou jako JPG, PNG nebo HEIC.",
+  "h1": "Jak udělat fotku z videa na iPhonu",
+  "nav_title": "Fotka z videa (iPhone)",
+  "card_title": "Jak udělat fotku z videa na iPhonu",
+  "excerpt": "Všechny způsoby, jak dostat fotku z videa na iPhonu, a kdy který použít.",
+  "lead": "Natočili jste okamžik na video místo fotky. Nevadí: video je desítky fotek za sekundu. Ukážeme, jak z něj na iPhonu vytáhnout přesně tu jednu.",
+  "quick_answer": "Od iOS 27 video ve Fotkách pozastavte a snímek uložte přes ••• jako fotku (v rozlišení videa, po jednom). Na starším iOS, nebo když potřebujete více fotek, PNG, ZIP či PDF, otevřete video ve Video To Photo – Grab Frame, uložte snímky a vyexportujte je najednou.",
+  "content_intro": "<h2>Dá se na iPhonu udělat fotka z videa?</h2><p>Ano. Video se skládá z 24–60 statických obrázků za sekundu a každý snímek může být fotkou. Nejlepší způsob záleží na verzi iOS a na tom, kolik fotek potřebujete.</p><h2>Srovnání způsobů</h2><table><thead><tr><th>Způsob</th><th>Kvalita</th><th>Omezení</th><th>Nejlepší pro</th></tr></thead><tbody><tr><td><strong>Fotky → uložit snímek jako fotku</strong> (iOS 27+)</td><td>Rozlišení videa, HEIF nebo JPG</td><td>Jeden snímek najednou. Fotka dostane datum videa, takže se neobjeví nahoře v Nedávných</td><td>Rychle jedna fotka</td></tr><tr><td><strong>Snímek obrazovky</strong> (pauza a screenshot)</td><td>Rozlišení displeje, často s tlačítkem přehrávání nebo černými pruhy</td><td>Těžko se trefit do přesného snímku</td><td>Rychlá poznámka na starším iOS</td></tr><tr><td><strong>Vyjmutí objektu</strong> (iOS 17+, dlouhé podržení)</td><td>Jen objekt, bez pozadí</td><td>Není celý snímek</td><td>Nálepka s osobou či zvířetem</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Ze souboru videa</td><td>Potřebuje aplikaci (iOS 18.6+)</td><td>Více fotek, PNG, ZIP, PDF, starší iOS</td></tr></tbody></table><h3>Vestavěnou funkcí iOS 27</h3><ol><li>Pauza: otevřete video ve Fotkách, pozastavte ho ve správnou chvíli, klepněte na <strong>•••</strong> a zvolte uložení snímku jako fotky (<em>Save Video Frame as Photo</em>).</li><li>Snímek se uloží do knihovny jako fotka v rozlišení videa.</li><li>Fotka převezme datum a místo videa, takže ji hledejte vedle videa, ne nahoře.</li></ol><p>Na jednu fotku to stačí. Když chcete deset snímků ze stejného videa, PNG na úpravy nebo vše poslat jako ZIP či PDF, začne to být pracné.</p><h3>Proč snímek obrazovky není totéž</h3><p>Do iOS 26 je snímek obrazovky běžný způsob, ale ukládá displej, ne snímek. Vodorovné 4K video na svislém displeji je jen úzký pruh, musíte oříznout tlačítko přehrávání a trefit pauzu.</p>",
+  "steps_title": "Jak dostat více fotek z videa ve Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Sdílejte video do aplikace",
+      "text": "Otevřete video ve Fotkách, klepněte na Sdílet a vyberte aplikaci. Nebo otevřete Video To Photo – Grab Frame a vyberte video z knihovny.",
+      "shot": 0
+    },
+    {
+      "name": "Najděte okamžik a uložte ho",
+      "text": "Posouvejte pás snímků, dokud se okamžik neobjeví v náhledu, a klepněte na tlačítko uložení. Při pohybu uložte i snímky před a po.",
+      "shot": 1
+    },
+    {
+      "name": "Zkontrolujte snímky",
+      "text": "Otevřete náhled, přibližte obličeje nebo text a smažte rozmazané snímky. Nechte si jen ten nejostřejší.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte jako fotku",
+      "text": "Zvolte JPEG, PNG nebo HEIC a klepněte na Exportovat. Uložte do Fotek nebo Souborů, nebo rovnou pošlete přes WhatsApp, Messenger, Instagram či e-mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Tipy pro ostrou fotku</h2><ul><li><strong>Chyťte chvíli, kdy se pohyb zastaví.</strong> Vrchol skoku, okamžik před úsměvem: tam jsou snímky nejostřejší.</li><li><strong>Uložte tři, nechte jeden.</strong> Sousední snímky vypadají stejně, dokud je nepřiblížíte.</li><li><strong>Točte ve 4K nebo 60 fps.</strong> Více v návodu <a href=\"/cs/guides/kvalitni-fotka-z-videa/\">kvalitní fotka z videa</a>.</li><li><strong>Zvolte formát.</strong> JPG na posílání, PNG na úpravy, HEIC pro úsporu místa. Viz také <a href=\"/cs/guides/video-na-jpg-png/\">video na JPG nebo PNG</a>.</li></ul><h2>Mění nebo nahrává aplikace moje video?</h2><p>Ne. Video To Photo – Grab Frame pracuje s kopií v aplikaci a vše dělá na iPhonu. Originál ve Fotkách zůstává beze změny a nic nejde na server.</p>",
+  "faq": [
+    {
+      "q": "Umí iPhone sám uložit fotku z videa?",
+      "a": "Od iOS 27 ano. Pozastavte video ve Fotkách, klepněte na ••• a uložte snímek jako fotku. Po jednom, jako HEIF nebo JPG. Do iOS 26 je jedinou vestavěnou možností snímek obrazovky."
+    },
+    {
+      "q": "Kde najdu snímek uložený v iOS 27?",
+      "a": "V knihovně fotek, ale s datem a místem videa. Je tedy vedle původního videa, ne nahoře v Nedávných."
+    },
+    {
+      "q": "Je kvalita stejná jako u videa?",
+      "a": "Ano, pokud ukládáte snímek, ne snímek obrazovky. iOS 27 i Video To Photo – Grab Frame čtou snímek ze souboru videa. Rychlý pohyb může být rozmazaný, vyberte klidný okamžik."
+    },
+    {
+      "q": "Můžu z jednoho videa dostat více fotek?",
+      "a": "Ano. Uložte ve Video To Photo – Grab Frame každý okamžik a vyexportujte vše najednou jako samostatné soubory, ZIP nebo PDF."
+    }
+  ],
+  "related": [
+    "screenshot-videa-iphone-bez-ztraty-kvality",
+    "ulozit-snimek-z-videa-iphone",
+    "kvalitni-fotka-z-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "video-in-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video în JPG",
+  "secondary_keywords": [
+    "video in jpg",
+    "convertire video in jpg gratis",
+    "video in jpg iphone",
+    "video în PNG"
+  ],
+  "title": "Video în JPG, PNG sau HEIC pe iPhone (offline)",
+  "description": "Transformă cadrele dintr-un video în JPG, PNG sau HEIC pe iPhone, offline și la calitate maximă. Plus: ce format alegi pentru trimis, editat sau păstrat.",
+  "h1": "Video în JPG, PNG sau HEIC pe iPhone",
+  "nav_title": "Video în JPG, PNG, HEIC",
+  "card_title": "Cadre din video în JPG, PNG sau HEIC",
+  "excerpt": "Formatul potrivit pentru cadre și exportul fără convertor online.",
+  "lead": "Convertoarele online „video în JPG” îți cer să încarci tot fișierul, să aștepți și să descarci un teanc de imagini. Pe iPhone faci asta pe dispozitiv, doar cu cadrele de care ai nevoie și în formatul potrivit.",
+  "quick_answer": "Deschide clipul în Video To Photo – Grab Frame, salvează cadrele dorite, atinge Exportă și alege JPEG, PNG sau HEIC. JPG pentru trimis, PNG pentru editare fără pierderi, HEIC pentru fișiere mici și clare. Conversia are loc pe iPhone, fără încărcare.",
+  "content_intro": "<h2>JPG, PNG și HEIC: diferențele</h2><table><thead><tr><th>Format</th><th>Calitate</th><th>Mărime</th><th>Ideal pentru</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Foarte bună (cu pierderi)</td><td>Mică</td><td>WhatsApp, rețele sociale, e-mail, web. Se deschide peste tot</td></tr><tr><td><strong>PNG</strong></td><td>Fără pierderi</td><td>Cea mai mare</td><td>Editare, miniaturi cu text, colaje</td></tr><tr><td><strong>HEIC</strong></td><td>Excelentă</td><td>Cea mai mică la aceeași calitate</td><td>Biblioteca Apple, iPhone și Mac</td></tr></tbody></table><p>Nu știi? <strong>JPG</strong> pentru trimis, <strong>PNG</strong> pentru editat.</p><h2>De ce nu un convertor online?</h2><ul><li>Trebuie să încarci tot clipul: lent pe date mobile și nepotrivit pentru clipuri private.</li><li>Multe site-uri taie la intervale fixe: sute de imagini, dar poate nu momentul tău.</li><li>Versiunile gratuite au des limită sau filigran.</li></ul>",
+  "steps_title": "Cum transformi cadrele dintr-un video în JPG, PNG sau HEIC pe iPhone",
+  "steps": [
+    {
+      "name": "Deschide clipul",
+      "text": "Partajează-l din Poze cu Video To Photo – Grab Frame sau alege-l în aplicație.",
+      "shot": 0
+    },
+    {
+      "name": "Salvează cadrele",
+      "text": "Atinge salvarea la fiecare moment. Doar cadrele alese sunt convertite.",
+      "shot": 1
+    },
+    {
+      "name": "Alege JPEG, PNG sau HEIC",
+      "text": "Atinge Exportă și alege formatul imaginii sus.",
+      "shot": 3
+    },
+    {
+      "name": "Salvează ca fișiere, ZIP sau PDF",
+      "text": "Exportă imagini separate, ZIP sau PDF și salvează în Poze sau Fișiere ori partajează direct.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Ce format pentru ce?</h2><ul><li><strong>Thumbnail YouTube sau copertă TikTok</strong> → PNG, apoi text. Vezi <a href=\"/ro/guides/thumbnail-youtube-din-video/\">thumbnail YouTube din video</a>.</li><li><strong>Trimis pe Windows sau Android</strong> → JPG (HEIC nu se deschide peste tot).</li><li><strong>Print</strong> → PNG sau JPG de calitate mare dintr-un clip 4K.</li><li><strong>Arhivă cu multe cadre</strong> → HEIC într-un ZIP.</li><li><strong>Cadre într-un document</strong> → PDF, vezi <a href=\"/ro/guides/video-in-pdf/\">video în PDF</a>.</li></ul><h2>Conversia scade calitatea?</h2><p>PNG păstrează fiecare pixel al cadrului. JPG și HEIC comprimă, dar la calitate foto diferența abia se vede. Mult mai important decât formatul e să exporți din fișier, nu să faci captură de ecran.</p>",
+  "faq": [
+    {
+      "q": "Pot transforma gratuit un video în JPG pe iPhone?",
+      "a": "Video To Photo – Grab Frame se descarcă gratuit; funcțiile Pro sunt achiziții în aplicație. Cadrele sunt convertite pe iPhone, iar clipul nu se încarcă nicăieri."
+    },
+    {
+      "q": "Pot salva un cadru din video ca PNG?",
+      "a": "Da. Salvează cadrul, alege PNG la export și salvează ca fișier separat sau ZIP."
+    },
+    {
+      "q": "Se deschide HEIC pe Windows?",
+      "a": "Versiunile noi de Windows deschid HEIC cu o extensie, dar nu orice sistem. Pentru dispozitive non-Apple, JPG e alegerea sigură."
+    }
+  ],
+  "related": [
+    "poza-clara-din-video",
+    "video-in-pdf",
+    "thumbnail-youtube-din-video"
+  ],
+  "datePublished": "2026-10-01"
+}

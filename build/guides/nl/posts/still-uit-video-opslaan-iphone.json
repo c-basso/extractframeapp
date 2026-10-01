@@ -1,0 +1,65 @@
+{
+  "slug": "still-uit-video-opslaan-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "still uit video halen iPhone",
+  "secondary_keywords": [
+    "still uit video halen",
+    "stilstaand beeld uit video iphone",
+    "frame uit video halen iphone",
+    "afbeelding uit video halen iphone"
+  ],
+  "title": "Still uit video halen op iPhone en opslaan (iOS 27)",
+  "description": "Zo bewaar je een stilstaand beeld uit een video op je iPhone. De iOS 27-functie en een methode voor oudere iOS of meerdere frames, als JPG, PNG of HEIC.",
+  "h1": "Een still uit een video opslaan op je iPhone",
+  "nav_title": "Still uit video opslaan",
+  "card_title": "Een still uit een video opslaan",
+  "excerpt": "Het juiste frame naar Foto's of Bestanden exporteren, zonder de originele video aan te passen.",
+  "lead": "Je weet precies welk frame je wilt. Nu wil je het gewoon als foto bewaren, tussen je andere foto's. Zo doe je dat op iPhone.",
+  "quick_answer": "iOS 27 of later: open de video in Foto's, pauzeer en bewaar het frame via •••. Oudere iOS, of meerdere frames, PNG, ZIP of PDF: deel de video met Video To Photo – Grab Frame, bewaar de frames en exporteer naar Foto's of Bestanden.",
+  "content_intro": "<h2>Methode 1: de ingebouwde functie van iOS 27</h2><ol><li>Open de video in Foto's en pauzeer op het frame dat je wilt (schuif over de strook voor precisie).</li><li>Tik rechtsboven op <strong>•••</strong>.</li><li>Kies de optie om het frame als foto te bewaren (<em>Save Video Frame as Photo</em>).</li></ol><p>Je krijgt een foto in de resolutie van de video, als HEIF of JPG (afhankelijk van je camera-instellingen). Let op: het is <strong>één frame per keer</strong> en de foto krijgt de <strong>datum van de video</strong>. Zoek hem dus naast de video, niet bovenaan Recent.</p><h2>Methode 2: meerdere frames, of iOS 26 en ouder</h2><p>Oudere versies hebben geen ingebouwde functie, alleen een screenshot van het scherm (<a href=\"/nl/guides/screenshot-video-iphone-zonder-kwaliteitsverlies/\">waarom die kwaliteit verliest</a>). Ook op iOS 27 is een app sneller als je een reeks frames, PNG of ZIP/PDF wilt.</p>",
+  "steps_title": "Een still opslaan met Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Deel de video vanuit Foto's",
+      "text": "Open de video, tik op Deel en kies de app. Het frame-scherm opent direct.",
+      "shot": 0
+    },
+    {
+      "name": "Zoek het frame en bewaar",
+      "text": "Schuif naar het moment en tik op bewaren. De teller laat zien hoeveel frames je hebt.",
+      "shot": 1
+    },
+    {
+      "name": "Kies het formaat",
+      "text": "Tik op Exporteer. JPEG om te delen, PNG verliesvrij, HEIC compact en scherp.",
+      "shot": 3
+    },
+    {
+      "name": "Bewaar in Foto's of Bestanden",
+      "text": "Bewaar via het deelmenu in je bibliotheek of in Bestanden, of stuur het direct naar een chat.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Waar komt je still terecht?</h2><ul><li><strong>Fotobibliotheek</strong>: bewerken, delen en afdrukken zoals elke foto.</li><li><strong>Bestanden</strong>: iCloud Drive of Op mijn iPhone, handig voor werkdocumenten.</li><li><strong>Andere apps</strong>: WhatsApp, Instagram, mail en meer via het deelmenu.</li></ul><h2>Meerdere frames tegelijk</h2><p>Bewaar alle frames die je nodig hebt voordat je exporteert en exporteer ze samen als losse bestanden, <strong>ZIP</strong> of <strong>PDF</strong>. Zie ook <a href=\"/nl/guides/frames-uit-video-halen/\">frames uit een video halen</a>.</p><h2>Later verder</h2><p>Elke video wordt als project bewaard, zodat je de volgende dag verder kunt zonder de video opnieuw te zoeken.</p>",
+  "faq": [
+    {
+      "q": "Kan de Foto's-app een still uit een video bewaren?",
+      "a": "Vanaf iOS 27 wel: pauzeer en bewaar via •••. Eén frame per keer, als HEIF of JPG. Voor iOS 27 kon alleen een screenshot."
+    },
+    {
+      "q": "Wordt mijn originele video aangepast?",
+      "a": "Nee. De app leest de video en maakt nieuwe afbeeldingsbestanden. De video in Foto's blijft zoals hij was."
+    },
+    {
+      "q": "Werkt het offline?",
+      "a": "Ja. Frames worden op je iPhone uit de video gehaald, dus je hebt geen internet nodig en er wordt niets geüpload."
+    }
+  ],
+  "related": [
+    "foto-uit-video-halen-iphone",
+    "frames-uit-video-halen",
+    "video-naar-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Guías: cómo sacar fotos de un video en iPhone",
+    "description": "Guías paso a paso para iPhone: sacar fotos de un video sin perder calidad, guardar fotogramas, pasar un video a PDF, hacer miniaturas y convertir a JPG o PNG.",
+    "eyebrow": "Guías",
+    "h1": "Fotos de un video en iPhone: todas las guías",
+    "intro": "Cada guía responde a una pregunta concreta: qué puede hacer el propio iPhone (y qué no) y cómo hacerlo más rápido con Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Inicio",
+    "guides": "Guías",
+    "guide_eyebrow": "Guía para iPhone",
+    "quick_answer": "Respuesta rápida",
+    "by": "Por",
+    "updated": "actualizado el",
+    "min_read": "min de lectura",
+    "faq_title": "Preguntas frecuentes",
+    "related": "Guías relacionadas",
+    "read_guide": "Leer la guía",
+    "inline_cta": "Pruébalo con tu propio video: tardas un minuto.",
+    "app_card_cta": "Descargar en el App Store",
+    "app_card_fine": "Gratis · compras dentro de la app · iOS 18.6+",
+    "app_card_bullets": ["Selección precisa del fotograma", "JPG, PNG o HEIC", "Exportación por lotes a ZIP o PDF", "Sin conexión, sin subidas ni cuenta"],
+    "final_cta_title": "Tu mejor foto está escondida en un video.",
+    "final_cta_text": "Guárdala con toda su calidad en tu iPhone. Sin subir nada, sin cuenta y sin saber editar."
+  }
+}

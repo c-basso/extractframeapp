@@ -1,0 +1,65 @@
+{
+  "slug": "bilder-aus-video-extrahieren",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "Bilder aus Video extrahieren",
+  "secondary_keywords": [
+    "bilder aus video extrahieren iphone",
+    "alle frames aus video extrahieren",
+    "frame aus video extrahieren iphone",
+    "einzelbild aus video extrahieren"
+  ],
+  "title": "Bilder aus Video extrahieren auf dem iPhone – gleich mehrere",
+  "description": "So extrahierst du mehrere Bilder aus einem Video auf dem iPhone in einem Durchgang – ohne Computer oder ffmpeg. Als Einzelfotos, ZIP-Archiv oder PDF speichern.",
+  "h1": "Bilder aus einem Video auf dem iPhone extrahieren",
+  "nav_title": "Bilder aus Video extrahieren",
+  "card_title": "Mehrere Bilder aus einem Video extrahieren",
+  "excerpt": "Eine ganze Bildserie aus einem Video holen und gemeinsam exportieren – als Bilder, ZIP oder PDF.",
+  "lead": "Storyboards, Sportsequenzen, Vorher-nachher, Reaktionen – manchmal reicht ein Bild nicht. So holst du so viele heraus, wie du brauchst, direkt auf dem iPhone.",
+  "quick_answer": "Öffne das Video in Video To Photo – Grab Frame und tippe bei jedem gewünschten Moment auf Aufnehmen. Prüfe die Serie, lösche Überflüssiges und exportiere alles auf einmal: einzelne JPG, PNG oder HEIC, ein ZIP-Archiv oder ein PDF.",
+  "content_intro": "<h2>Alle Bilder – oder die richtigen?</h2><p>Ein 30-Sekunden-Video mit 30 fps hat 900 Bilder. Alle zu exportieren (wie ffmpeg oder VLC am Computer) ergibt Hunderte fast identische Dateien. Auf dem Handy ist es fast immer schneller, <strong>die wichtigen Bilder auszuwählen</strong> und nur diese zu exportieren.</p><table><thead><tr><th>Ziel</th><th>Bester Ansatz</th></tr></thead><tbody><tr><td>Storyboard oder Tutorial-Schritte</td><td>Ein Bild pro Szene oder Schritt</td></tr><tr><td>Sport, Bewegung</td><td>Bilder in gleichmäßigen Abständen</td></tr><tr><td>Das perfekte Foto finden</td><td>3–5 Nachbarbilder, das schärfste behalten</td></tr><tr><td>Jedes Bild für Animation oder Analyse</td><td>Besser Software am Computer (ffmpeg)</td></tr></tbody></table><p>Die integrierte Funktion in iOS 27 speichert ein Bild pro Vorgang – für Serien unpraktisch.</p>",
+  "steps_title": "Mehrere Bilder aus einem Video auf dem iPhone extrahieren",
+  "steps": [
+    {
+      "name": "Video öffnen",
+      "text": "Teile es aus Fotos mit der App oder wähle es in Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Jeden Moment aufnehmen",
+      "text": "Wische über den Streifen und tippe bei jedem Moment auf Aufnehmen. Der Zähler zeigt die Größe der Serie.",
+      "shot": 1
+    },
+    {
+      "name": "Serie prüfen",
+      "text": "Öffne die Bilder im Vollbild, prüfe die Schärfe und lösche Doppelte oder Verwackelte.",
+      "shot": 2
+    },
+    {
+      "name": "Gemeinsam exportieren",
+      "text": "Wähle JPEG, PNG oder HEIC und dann Dateien für einzelne Bilder, ZIP für eine Datei oder PDF für ein Dokument.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF oder einzelne Dateien?</h2><ul><li><strong>Einzelne Dateien</strong>: wenn du jedes Bild bearbeiten oder posten willst.</li><li><strong>ZIP</strong>: eine Datei für AirDrop, Mail, WhatsApp oder die Cloud.</li><li><strong>PDF</strong>: alle Bilder in einem Dokument für Storyboard, Notizen oder Abnahme. Siehe <a href=\"/de/guides/video-in-pdf-umwandeln/\">Video in PDF umwandeln</a>.</li></ul><h2>Tipps für Serien</h2><ul><li>Bei Bewegung Bilder in etwa gleichen Abständen nehmen.</li><li>Für Collagen als PNG exportieren, um JPEG nicht erneut zu komprimieren.</li><li>Das Projekt wird gespeichert – fehlende Bilder später ergänzen.</li></ul>",
+  "faq": [
+    {
+      "q": "Wie viele Bilder kann ich aus einem Video extrahieren?",
+      "a": "So viele du brauchst: Tippe bei jedem Moment auf Aufnehmen und exportiere die ganze Serie. Große Serien brauchen nur etwas länger beim Export."
+    },
+    {
+      "q": "Kann ich automatisch alle Frames extrahieren?",
+      "a": "Video To Photo – Grab Frame ist für die Auswahl von Bildern gemacht. Wenn du wirklich jedes Bild für Animation oder Analyse brauchst, ist Software am Computer wie ffmpeg besser."
+    },
+    {
+      "q": "Wie verschicke ich viele Bilder auf einmal?",
+      "a": "Exportiere ein ZIP-Archiv und sende eine Datei per AirDrop, Mail oder WhatsApp. Oder exportiere ein PDF."
+    }
+  ],
+  "related": [
+    "video-in-pdf-umwandeln",
+    "video-bild-fuer-bild-iphone",
+    "standbild-aus-video-speichern-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

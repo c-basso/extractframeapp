@@ -1,0 +1,64 @@
+{
+  "slug": "video-a-fotogrames",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "vídeo a fotogrames",
+  "secondary_keywords": [
+    "extreure fotogrames d'un vídeo",
+    "vídeo a fotos",
+    "diverses fotos d'un vídeo"
+  ],
+  "title": "Vídeo a fotogrames a l’iPhone: diverses fotos alhora",
+  "description": "Treu diverses fotos d’un vídeo alhora a l’iPhone, sense ordinador ni ffmpeg. Desa només els fotogrames que necessites com a fotos, ZIP o PDF.",
+  "h1": "Vídeo a fotogrames a l’iPhone",
+  "nav_title": "Vídeo a fotogrames",
+  "card_title": "Vídeo a fotogrames: diverses fotos alhora",
+  "excerpt": "Molts fotogrames alhora, només els que necessites.",
+  "lead": "De vegades una foto no n’hi ha prou: tot el salt, cada pas d’una recepta, totes les escenes d’un storyboard. Convertir tot el vídeo en centenars de fotos només crea desordre. Millor triar només el que necessites.",
+  "quick_answer": "Obre el vídeo a Video To Photo – Grab Frame, desa tants fotogrames com vulguis i exporta’ls junts: com a fitxers, ZIP o PDF. Fotos a iOS 27 només desa un fotograma cada vegada.",
+  "content_intro": "<h2>Maneres d’obtenir moltes fotos</h2><table><thead><tr><th>Manera</th><th>Avantatge</th><th>Inconvenient</th></tr></thead><tbody><tr><td>Captura rere captura</td><td>Sense app</td><td>Lent, baixa resolució</td></tr><tr><td>Fotos (iOS 27)</td><td>Integrat</td><td>Un fotograma cada vegada</td></tr><tr><td>ffmpeg a l’ordinador</td><td>Tots els fotogrames</td><td>Milers de fotos, cal ordinador</td></tr><tr><td>Grab Frame</td><td>Només els triats, exportació en lot</td><td>Algunes funcions són Pro</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p>",
+  "steps_title": "Diverses fotos d’un sol vídeo",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Desa els fotogrames en ordre",
+      "text": "Arrossega fins a cada moment i toca desar. Els fotogrames s’acumulen a la safata.",
+      "shot": 1
+    },
+    {
+      "name": "Revisa i neteja",
+      "text": "Elimina els fotogrames semblants o borrosos.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta-ho tot alhora",
+      "text": "Com a fitxers separats, arxiu ZIP o PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Útil per a</h2><ul><li>Esport: les fases del moviment.</li><li>Receptes i tutorials: cada pas.</li><li>Storyboards: les escenes principals.</li><li>Família: els millors moments de l’aniversari.</li></ul><p>Els projectes es desen, així que pots continuar més tard.</p>",
+  "faq": [
+    {
+      "q": "Puc extreure tots els fotogrames d’un vídeo?",
+      "a": "A l’ordinador, amb ffmpeg. A l’iPhone és més pràctic triar només els fotogrames que necessites a Grab Frame."
+    },
+    {
+      "q": "Quants fotogrames puc desar?",
+      "a": "Tants com vulguis. Per a moltes fotos, exporta en ZIP o PDF."
+    },
+    {
+      "q": "Puc continuar més tard?",
+      "a": "Sí. Cada vídeo es desa com a projecte."
+    }
+  ],
+  "related": [
+    "app-foto-dun-video",
+    "video-fotograma-a-fotograma-iphone",
+    "video-a-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

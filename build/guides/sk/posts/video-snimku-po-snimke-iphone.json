@@ -1,0 +1,64 @@
+{
+  "slug": "video-snimku-po-snimke-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video snímku po snímke iphone",
+  "secondary_keywords": [
+    "frame by frame iphone",
+    "zastaviť video na presnej snímke",
+    "prehrávanie po snímkach"
+  ],
+  "title": "Video snímku po snímke na iPhone: presný okamih",
+  "description": "Ako prechádzať video snímku po snímke na iPhone, nájsť presný okamih (strelu, žmurknutie, gól) a uložiť ho ako ostrú fotku.",
+  "h1": "Video snímku po snímke na iPhone",
+  "nav_title": "Snímku po snímke",
+  "card_title": "Video snímku po snímke na iPhone",
+  "excerpt": "Ako sa presne dostať k správnej snímke a uložiť ju.",
+  "lead": "Pri 30 fps má každá sekunda 30 snímok, pri 60 fps 60. Správny okamih je len v jednej z nich. Preto potrebujete prechádzať video snímku po snímke.",
+  "quick_answer": "Vo Fotkách pozastavte video a pomaly ťahajte pás snímok. Presnejšie to ide vo Video To Photo – Grab Frame: veľký náhľad, presný pás a okamžité uloženie snímky.",
+  "content_intro": "<h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p><h2>Fotky alebo Grab Frame?</h2><table><thead><tr><th></th><th>Fotky</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Snímku po snímke</td><td>Ťahanie pásu</td><td>Presný pás, veľký náhľad</td></tr><tr><td>Uloženie</td><td>iOS 27, jedna snímka</td><td>Hneď, viac snímok</td></tr><tr><td>Formáty</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Hľadanie presnej snímky",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Zdieľajte ho z Fotiek do Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Priblížte sa k okamihu",
+      "text": "Rýchlo potiahnite pás približne na správne miesto.",
+      "shot": 1
+    },
+    {
+      "name": "Pomaly, snímku po snímke",
+      "text": "Posúvajte pomaly a sledujte veľký náhľad.",
+      "shot": 3
+    },
+    {
+      "name": "Uložte",
+      "text": "Ťuknite na uložiť, keď je okamih dokonalý.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tipy</h2><ul><li>Spomalené video (120/240 fps) dáva oveľa viac snímok pri rýchlom pohybe.</li><li>Pri 60 fps je pohyb menej rozmazaný ako pri 30 fps.</li><li>Uložte pár susedných snímok a porovnajte ich.</li></ul>",
+  "faq": [
+    {
+      "q": "Vie iPhone prehrať video snímku po snímke?",
+      "a": "Vo Fotkách môžete video pozastaviť a ťahať pás. Presnejšie zobrazenie ponúkajú aplikácie ako Grab Frame."
+    },
+    {
+      "q": "Ako zastaviť video na presnej snímke?",
+      "a": "Pozastavte ho blízko okamihu a potom pomaly ťahajte pás snímok."
+    },
+    {
+      "q": "Funguje to so spomaleným videom?",
+      "a": "Áno. Spomalené video má viac snímok, takže máte väčší výber."
+    }
+  ],
+  "related": [
+    "fotka-z-videa-iphone",
+    "ostra-fotka-z-videa",
+    "video-na-fotky"
+  ],
+  "datePublished": "2026-10-01"
+}

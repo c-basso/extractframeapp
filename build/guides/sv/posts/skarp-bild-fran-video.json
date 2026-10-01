@@ -1,0 +1,64 @@
+{
+  "slug": "skarp-bild-fran-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "skarp bild från video",
+  "secondary_keywords": [
+    "bild från video suddig",
+    "bild från video hög kvalitet",
+    "hdr-video mörk bild"
+  ],
+  "title": "Skarp bild från video på iPhone: varför den blir suddig",
+  "description": "Varför bilden från en video blir suddig eller mörk, och hur du får en skarp bild i full upplösning på iPhone: slutare, fps, HDR och rätt bildruta.",
+  "h1": "Skarp bild i hög kvalitet från video på iPhone",
+  "nav_title": "Skarp bild",
+  "card_title": "Skarp bild från video: varför suddig",
+  "excerpt": "Orsaker till suddighet, mörka bilder och låg upplösning, och lösningarna.",
+  "lead": "En bild från en video är ofta mjukare än ett vanligt foto. Det finns en anledning: video är gjord för kontinuerlig rörelse, inte för enskilda bildrutor. Med några inställningar och rätt bildruta kan du få ett mycket skarpare resultat.",
+  "quick_answer": "Välj bildrutan med minst rörelse, spara den från videofilen (inte som skärmdump) och filma i 4K med 60 fps i bra ljus. Blir bilden mörk eller blek är HDR-video orsaken. Video To Photo – Grab Frame sparar bildrutan från filen i full upplösning.",
+  "content_intro": "<h2>Varför är bilden suddig?</h2><table><thead><tr><th>Orsak</th><th>Tecken</th><th>Lösning</th></tr></thead><tbody><tr><td>Rörelseoskärpa</td><td>Utsmetad hand, boll</td><td>Grannrutan, mer ljus, 60 fps</td></tr><tr><td>Skärmdump</td><td>Skärmupplösning, reglage</td><td>Spara från filen</td></tr><tr><td>Komprimering</td><td>Fyrkantiga partier</td><td>Originalvideon, inte från Messenger eller Snapchat</td></tr><tr><td>HDR-video</td><td>Mörk eller blek bild</td><td>Se nedan</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p>",
+  "steps_title": "Skarp bild steg för steg",
+  "steps": [
+    {
+      "name": "Öppna originalvideon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame. Använd originalfilen.",
+      "shot": 0
+    },
+    {
+      "name": "Hitta den skarpaste bildrutan",
+      "text": "Stega bildruta för bildruta runt ögonblicket. Rutan före eller efter är ofta mycket skarpare.",
+      "shot": 1
+    },
+    {
+      "name": "Jämför med zoom",
+      "text": "Spara två–tre kandidater och zooma in på ögonen eller kanterna. Behåll den bästa.",
+      "shot": 3
+    },
+    {
+      "name": "Exportera i full upplösning",
+      "text": "PNG för bäst kvalitet, HEIC/JPG för mindre filer.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Varför blir bilden från HDR-video mörk?</h2><p>iPhone filmar i HDR (Dolby Vision) som standard. När bildrutan sparas som ett vanligt foto kan ljusstyrka och färger avvika. Stör det dig, stäng av det: <strong>Inställningar → Kamera → Spela in video → HDR-video</strong>.</p><h2>Filmtips</h2><ul><li>4K, 60 fps: fler och skarpare bildrutor.</li><li>Mycket ljus: kortare slutartid, mindre oskärpa.</li><li>Slowmotion för snabba rörelser.</li><li>Stadig hand eller stativ.</li></ul><p>Bilden kan inte ha högre upplösning än videon: cirka 8 MP från 4K, cirka 2 MP från 1080p.</p>",
+  "faq": [
+    {
+      "q": "Kan man få en bild i hög kvalitet från en video?",
+      "a": "Ja, om videon är skarp och bildrutan sparas från filen. Från 4K får du cirka 8 MP, tillräckligt för mindre utskrifter."
+    },
+    {
+      "q": "Varför blir bilden från videon suddig?",
+      "a": "Oftast rörelseoskärpa eller skärmdump. Välj grannrutan och spara från filen."
+    },
+    {
+      "q": "Varför är bilden mörk?",
+      "a": "Troligen kommer den från HDR-video. Stäng av HDR-video under Inställningar → Kamera → Spela in video för nästa inspelning."
+    }
+  ],
+  "related": [
+    "ta-bild-fran-video-iphone",
+    "video-bildruta-for-bildruta-iphone",
+    "video-till-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

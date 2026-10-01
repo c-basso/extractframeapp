@@ -1,0 +1,64 @@
+{
+  "slug": "videodan-kaliteli-fotograf-alma",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "videodan kaliteli fotoğraf alma",
+  "secondary_keywords": [
+    "videodan kaliteli fotoğraf alma iphone",
+    "videodan net fotoğraf yakalama",
+    "videodan kaliteli ekran görüntüsü alma"
+  ],
+  "title": "Videodan Kaliteli Fotoğraf Alma: Bulanıklık Çözümü",
+  "description": "Videodan alınan fotoğraf neden bulanık olur ve nasıl düzeltilir: sabit kare seçmek, 4K ve 60 fps çekmek, ekran görüntüsü yerine dışa aktarmak, PNG veya HEIC.",
+  "h1": "Videodan kaliteli ve net fotoğraf alma",
+  "nav_title": "Videodan kaliteli fotoğraf",
+  "card_title": "Videodan kaliteli fotoğraf alma",
+  "excerpt": "Kareler neden bulanık, çekimden sonra ne yapılır ve çekimden önce ne değişir.",
+  "lead": "Mükemmel anı buldun, kaydettin ve bulanık. Video kareleri hareket için yapılır, durağan izlenmek için değil. Doğru kare ve doğru yöntemle yine de gerçek bir fotoğraf gibi görünebilirler.",
+  "quick_answer": "Öznenin neredeyse hareket etmediği bir kare seç, ekran görüntüsü yerine video dosyasından kaydet ve ek sıkıştırma olmadan PNG veya HEIC olarak aktar. 3–5 komşu kare kaydet ve en netini tut. Sonraki videoları iyi ışıkta, 4K ve 60 fps çek.",
+  "content_intro": "<h2>Videodan alınan fotoğraf neden bulanık</h2><ul><li><strong>Hareket.</strong> Her kare saniyenin bir kesri kadar pozlanır. Özne hareket ederse bulanıklaşır.</li><li><strong>Ekran görüntüsü.</strong> Video ekran boyutuna küçülür ve yeniden kaydedilir. Bkz. <a href=\"/tr/guides/videodan-ekran-goruntusu-alma-iphone/\">ekran görüntüsü neden kalite kaybeder</a>.</li><li><strong>Video sıkıştırma.</strong> Video yoğun sıkıştırılır; bazı karelerde daha az ayrıntı vardır.</li><li><strong>Az ışık.</strong> Uzun pozlama ve güçlü gürültü azaltma ayrıntıyı siler.</li></ul><h2>Çekimden sonra yapılabilecekler</h2><table><thead><tr><th>Sorun</th><th>Çözüm</th></tr></thead><tbody><tr><td>Özne hareketli</td><td>Birkaç komşu kare kaydet ve en netini seç</td></tr><tr><td>Fotoğraf küçük veya kesik</td><td>Ekran görüntüsü değil, dosyadan aktar</td></tr><tr><td>Sıkıştırma blokları</td><td>PNG veya HEIC aktar, yeniden kaydetme</td></tr><tr><td>Gözler kapalı</td><td>Yavaş kaydır; doğru kare genelde 1–2 kare ötededir</td></tr></tbody></table>",
+  "steps_title": "Videodan en net kareyi alma",
+  "steps": [
+    {
+      "name": "Videoyu aç",
+      "text": "Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş. Kareler ekrandan değil dosyadan gelir.",
+      "shot": 0
+    },
+    {
+      "name": "Durgun anı bul",
+      "text": "Hareketin etrafında kaydır ve \"duraksamayı\" ara: zıplamanın tepesi, gülümsemeden hemen önce.",
+      "shot": 1
+    },
+    {
+      "name": "Seri kaydet ve karşılaştır",
+      "text": "Anın etrafında 3–5 kare kaydet ve gözlere, kenarlara veya yazılara yakınlaştır. Yumuşak kareleri sil.",
+      "shot": 2
+    },
+    {
+      "name": "Ek sıkıştırma olmadan aktar",
+      "text": "En iyisini PNG (kayıpsız) veya HEIC (net ve hafif) olarak aktar. Hızlı göndermek için JPG.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Net kareler için nasıl çekilir</h2><ul><li><strong>4K.</strong> Daha çok piksel, daha çok ayrıntı ve kırpma payı (Ayarlar → Kamera → Video Kaydı).</li><li><strong>Harekette 60 fps.</strong> Seçecek daha çok kare ve kare başına daha az bulanıklık.</li><li><strong>Işık.</strong> Gün ışığı veya aydınlık bir oda netliği en çok etkileyen şeydir.</li><li><strong>Sabitlik.</strong> Dirseklerini yasla veya tripod kullan; titreme her kareyi bulanıklaştırır.</li></ul><h2>Peki yapay zekâyla iyileştirme?</h2><p>Yapay zekâ büyütücüler görüntüyü büyütür ama ayrıntı \"uydurur\". Önce video çözünürlüğünde gerçek en iyi kareyi al, büyütmeyi büyük baskılara bırak. Formatlar için <a href=\"/tr/guides/video-jpg-cevirme/\">videoyu JPG veya PNG'ye çevirme</a> rehberine bak.</p>",
+  "faq": [
+    {
+      "q": "Videodan alınan kare fotoğraf kadar iyi olabilir mi?",
+      "a": "İyi ışıkta çekilmiş net bir 4K video, sosyal medyada fotoğraftan zor ayırt edilen kareler verir. Gerçek fotoğrafın yine de daha kısa enstantane ve fotoğraf işleme gibi avantajları var."
+    },
+    {
+      "q": "4K videodan alınan karenin çözünürlüğü nedir?",
+      "a": "3840×2160 piksel, yaklaşık 8,3 megapiksel. 1080p'de 1920×1080, yaklaşık 2 megapiksel."
+    },
+    {
+      "q": "En çok ayrıntıyı hangi format korur?",
+      "a": "PNG kayıpsızdır. HEIC çok daha küçük dosyalarla çok yakındır. JPG biraz sıkıştırır ama her yerde açılır."
+    }
+  ],
+  "related": [
+    "videodan-ekran-goruntusu-alma-iphone",
+    "video-kare-kare-izleme-iphone",
+    "video-jpg-cevirme"
+  ],
+  "datePublished": "2026-10-01"
+}

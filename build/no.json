@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "no",
-    "title": "Video til bilde konverter app iPhone | Video To Photo",
-    "description": "Video til bilde på iPhone: lagre én ramme eller eksporter flere som JPG, PNG eller HEIC på sekunder — privat behandling på enheten, uten opplasting til skyen.",
-    "keywords": "video til bilde, video til foto, hent ut ramme fra video, bilderamme fra video, video til bilde konverter, iPhone ramme fra video, lagre ramme, jpg fra video, png fra video, heic fra video, batch eksport, del fra bilder",
+    "title": "Ta bilde fra video på iPhone – skarpt | Grab Frame",
+    "description": "Ta bilde fra video på iPhone i full kvalitet. Ikke skjermbilde, men det nøyaktige bildet som JPG, PNG eller HEIC, eller ZIP og PDF. Fungerer uten nett.",
+    "keywords": "bilde fra video, ta bilde fra video iphone, lagre bilde fra video, skjermbilde video iphone, video til bilde, stillbilde fra video, video to pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/no/",
-    "og_title": "Video til bilde konverter for iPhone",
-    "og_description": "Video til bilde på iPhone. Velg det nøyaktige øyeblikket og eksporter rammer som JPG, PNG eller HEIC — behandling på enheten, uten opplasting.",
+    "og_title": "Bilde fra video på iPhone — det nøyaktige bildet, skarpt",
+    "og_description": "Finn øyeblikket og lagre ett eller dusinvis av bilder som JPG, PNG eller HEIC, eller som ZIP og PDF. Alt på enheten.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "nb_NO",
     "twitter_url": "https://extractframeapp.com/no/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video til bilde på iPhone. Presise rammer, behandling på enheten, batch-eksport og formater JPG, PNG, HEIC.",
+    "twitter_title": "Bilde fra video — Grab Frame",
+    "twitter_description": "HD-bilder fra iPhone-videoene dine. JPG, PNG, HEIC, ZIP, PDF. Offline, uten opplasting.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/no/",
@@ -21,18 +21,25 @@
     "geo_placename": "Norge"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame-logo",
-    "title": "Hent ut bilderammer fra video på iPhone",
-    "subtitle": "Video til bilde og foto—lagre nøyaktige stillbilder på sekunder",
-    "entity_definition": "Video To Photo - Grab Frame er en iOS-app som gjør video om til stillbilder på iPhone. Velg det nøyaktige øyeblikket og eksporter rammer som JPG, PNG eller HEIC.",
-    "subheadline": "Åpne fra Bilder, spol til riktig øyeblikk, og lagre én eller flere rammer. Ingen konto, opplasting eller redigeringstidslinje.",
-    "download_alt": "Last ned i App Store",
-    "phone_text": "Trykk for å hente en ramme fra video",
-    "qr_alt": "QR-kode for å laste ned appen",
-    "qr_text": "Skann med iPhone for å laste ned"
+    "logo_alt": "Ikonet til Video To Photo – Grab Frame",
+    "title": "Bilde fra video på iPhone — det nøyaktige bildet, skarpt",
+    "title_html": "Ta <span class=\"grad-text\">bilde fra video</span>. Akkurat det bildet du vil ha, knivskarpt.",
+    "subtitle": "Dra til øyeblikket og lagre ett eller dusinvis av bilder. Eksporter som JPG, PNG eller HEIC. Alt skjer på iPhone: uten opplasting, uten konto.",
+    "entity_definition": "Video To Photo – Grab Frame er en iPhone-app som henter bilder fra videoer og lagrer dem som foto i høy oppløsning. All behandling skjer på enheten.",
+    "subheadline": "Del fra Bilder, finn øyeblikket, lagre. Ferdig.",
+    "download_alt": "Last ned Video To Photo – Grab Frame i App Store",
+    "phone_text": "Trykk for å ta bilde fra videoen",
+    "qr_alt": "QR-kode for å laste ned Video To Photo – Grab Frame",
+    "qr_text": "Skann med iPhone-kameraet for å installere",
+    "bullets": [
+      "Fungerer offline",
+      "JPG, PNG, HEIC",
+      "Eksport til ZIP og PDF",
+      "Ingen konto"
+    ]
   },
   "last_updated": {
-    "text": "Sist oppdatert: 16. juni 2026"
+    "text": "Sist oppdatert: 1. oktober 2026"
   },
   "features": {
     "title": "Hvorfor velge video til bilde på iPhone",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Slik henter du ut en ramme fra video på iPhone",
-    "subtitle": "Enkle trinn for å lagre perfekte stillbilder fra klippene dine",
-    "placeholder_line1": "📱 Demovideo kommer snart",
-    "placeholder_line2": "Trinn 1: Åpne fra Bilder > Trinn 2: Spol til øyeblikk > Trinn 3: Ta ramme(r) > Trinn 4: Eksporter JPG/PNG/HEIC"
+    "title": "Slik tar du bilde fra video på iPhone",
+    "subtitle": "Fire steg, omtrent ett minutt. Ingenting å lære."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Åpne fra Bilder",
-        "text": "Del en video fra Bilder til {{app_info.name}}, eller åpne appen først og velg klippet ditt."
+        "name": "Del videoen fra Bilder",
+        "text": "Åpne videoen i Bilder, trykk på Del og velg appen. Eller åpne appen og velg videoen. Bildevisningen åpnes med en gang."
       },
       {
-        "name": "Finn det nøyaktige øyeblikket",
-        "text": "Bruk spolekontrollen for å bevege deg ramme for ramme og stopp på bildet du vil ha."
+        "name": "Finn øyeblikket og lagre",
+        "text": "Dra bildestripen til bildet du vil ha, og trykk på lagre. Gjenta for hvert bilde du vil ha."
       },
       {
-        "name": "Ta én eller flere rammer",
-        "text": "Fang én ramme eller merk flere øyeblikk for batch-eksport."
+        "name": "Behold bare de beste",
+        "text": "Åpne bildene i fullskjerm, zoom inn for å sjekke skarpheten og slett de uskarpe."
       },
       {
-        "name": "Eksporter og lagre",
-        "text": "Lagre rammer som JPG, PNG eller HEIC, eller eksporter som ZIP eller PDF."
+        "name": "Eksporter og del",
+        "text": "Velg JPEG, PNG eller HEIC og lagre som separate filer, ZIP eller PDF."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "FAQ: video til bilde på iPhone",
+    "eyebrow": "Spørsmål og svar",
+    "title": "Bilde fra video på iPhone: vanlige spørsmål",
+    "learn_more": "Les mer",
     "items": [
       {
-        "question": "Hvordan henter jeg ut en ramme fra video på iPhone?",
-        "answer": "Åpne et klipp i Video To Photo - Grab Frame, spol til det nøyaktige øyeblikket, og fang stillbildet. Eksporter deretter som JPG, PNG eller HEIC."
+        "question": "Hvordan tar jeg bilde fra video på iPhone?",
+        "answer": "Fra iOS 27 åpner du videoen i Bilder, setter den på pause og lagrer bildet som foto fra •••-menyen (ett om gangen). På eldre iOS, eller hvis du vil ha mange bilder som JPG, PNG, HEIC, ZIP eller PDF, bruker du Video To Photo – Grab Frame.",
+        "url": "/no/guides/ta-bilde-fra-video-iphone/"
       },
       {
-        "question": "Kan jeg eksportere mer enn én ramme om gangen?",
-        "answer": "Ja. Du kan velge flere øyeblikk og eksportere flere rammer i én batch."
+        "question": "Hvorfor blir skjermbilde av video så dårlig?",
+        "answer": "Et skjermbilde tar bilde av skjermen: et 4K-bilde krymper til skjermstørrelse, avspillingskontroller eller svarte kanter blir med, og HDR-video blir mørk. Lagre bildet fra filen med Bilder i iOS 27 eller Video To Photo – Grab Frame, og eksporter som PNG eller HEIC.",
+        "url": "/no/guides/skjermbilde-video-iphone/"
       },
       {
-        "question": "Hvilke formater kan jeg eksportere?",
-        "answer": "Appen støtter JPG, PNG og HEIC. Du kan også eksportere som ZIP eller PDF."
+        "question": "Hvordan lagrer jeg et bilde fra en video?",
+        "answer": "Del videoen fra Bilder til Video To Photo – Grab Frame, finn bildet, lagre det og trykk på Eksporter. Det havner i Bilder eller Filer. Originalvideoen forblir uendret.",
+        "url": "/no/guides/lagre-bilde-fra-video-iphone/"
       },
       {
-        "question": "Laster appen opp videoene mine?",
-        "answer": "Nei. Rammeuttrekk skjer på enheten — videoer og bilder forblir på iPhone."
+        "question": "Hva bør jeg se etter i en app som tar bilder fra video?",
+        "answer": "Fire ting: presist bildevalg, eksport i videoens oppløsning, behandling på enheten og masseeksport. Video To Photo – Grab Frame har alt dette og eksporterer til JPG, PNG, HEIC, ZIP eller PDF.",
+        "url": "/no/guides/app-bilde-fra-video/"
       },
       {
-        "question": "Kan jeg fortsette senere?",
-        "answer": "Ja. Du kan lagre økter som prosjekter og åpne dem igjen senere."
+        "question": "Kan jeg ta flere bilder fra en video samtidig?",
+        "answer": "Ja. Lagre så mange bilder du vil fra én video og eksporter dem samlet som filer, ZIP eller PDF. Å velge bare bildene du trenger går raskere enn å sortere hundrevis av like bilder.",
+        "url": "/no/guides/video-til-bilder/"
       },
       {
-        "question": "Er Video To Photo - Grab Frame gratis?",
-        "answer": "Appen er gratis å laste ned; avanserte funksjoner er tilgjengelige via kjøp i appen."
+        "question": "Hvordan ser jeg en video bilde for bilde på iPhone?",
+        "answer": "Sett videoen på pause i Bilder og dra bildestripen sakte. I Video To Photo – Grab Frame drar du med en stor forhåndsvisning og lagrer riktig bilde med en gang.",
+        "url": "/no/guides/video-bilde-for-bilde-iphone/"
       },
       {
-        "question": "Hvem er appen for?",
-        "answer": "Den er nyttig for innholdsskapere, lærere og alle som vil fange et bestemt øyeblikk fra video som et stillbilde."
+        "question": "Hvordan får jeg et skarpt bilde fra video?",
+        "answer": "Velg et bilde med lite bevegelse, film helst i 4K eller 60 fps, og eksporter fra filen i stedet for å ta skjermbilde. Eksporter som PNG eller HEIC, og sammenlign nabobildene for å beholde det skarpeste.",
+        "url": "/no/guides/skarpt-bilde-fra-video/"
       },
       {
-        "question": "Finnes det en video til bilde-konverter for iPhone?",
-        "answer": "Ja. Video To Photo - Grab Frame fungerer som video til bilde-konverter: åpne et klipp, spol til det nøyaktige øyeblikket og lagre rammer som JPG, PNG eller HEIC — alt på iPhone."
+        "question": "Hvordan gjør jeg video om til JPG eller PNG på iPhone?",
+        "answer": "Med Video To Photo – Grab Frame lagrer du valgte bilder som JPG, PNG eller HEIC. JPG til deling, PNG til tapsfri redigering, HEIC til små og skarpe filer.",
+        "url": "/no/guides/video-til-jpg-png/"
+      },
+      {
+        "question": "Hvordan lager jeg PDF fra en video?",
+        "answer": "Lagre de viktige bildene i Video To Photo – Grab Frame og velg PDF ved eksport. Du får én PDF med bildene, perfekt til storyboard, notater og rapporter.",
+        "url": "/no/guides/video-til-pdf/"
+      },
+      {
+        "question": "Hvordan lager jeg YouTube-thumbnail fra video på iPhone?",
+        "answer": "Lagre et skarpt og uttrykksfullt bilde som PNG og legg til tekst i favorittredigeringsappen din. Last det så opp som YouTube-thumbnail eller cover på TikTok og Instagram.",
+        "url": "/no/guides/youtube-thumbnail-fra-video/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video til bilde konverter",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Bilde fra video — bildeapp for iPhone",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto og video"
   },
   "footer": {
     "cta_text": "📱 Last ned Video To Photo - Grab Frame",
-    "privacy_text": "Personvernerklæring",
+    "privacy_text": "Personvern",
     "terms_text": "Vilkår for bruk",
-    "support_text": "Støtte",
-    "developer_info": "Utviklet av Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Alle rettigheter reservert."
+    "support_text": "Kundestøtte",
+    "developer_info": "Utvikler: Vladimir Ivakhnenko (c-basso). Bildene behandles på enheten og sendes aldri til en server.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Guider",
+    "blog_text": "Blogg"
   },
   "floating_cta": {
-    "text": "📱 Ta perfekte bilderammer fra video på iPhone"
+    "text": "📱 Det perfekte bildet fra hvilken som helst video"
   },
   "seo_chapter": {
     "title": "Slik gjør du video om til bilder på iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Gå til innhold",
+    "ratings": "vurderinger"
+  },
+  "nav": {
+    "how": "Slik fungerer det",
+    "screenshots": "Skjermbilder",
+    "guides": "Guider",
+    "faq": "Spørsmål"
+  },
+  "download": {
+    "title": "Én app, én oppgave: bilder fra video",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Akkurat det øyeblikket du vil ha",
+        "description": "Dra bildestripen og stopp der du vil. Et smil, toppen av hoppet, et bilde uten lukkede øyne."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Ekte bilder, ikke skjermbilder",
+        "description": "Rett fra videofilen: uten avspillingsknapp, svarte kanter eller skjermens størrelsesgrense."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Så mange du vil",
+        "description": "Lagre alle bildene du liker på én gang, sammenlign og behold de beste."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Velg format og måte: separate filer, ZIP-arkiv eller PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100 % på enheten",
+        "description": "Videoene dine forlater aldri iPhone. Uten opplasting og konto, fungerer i flymodus."
+      },
+      {
+        "icon": "💾",
+        "title": "Prosjekter",
+        "description": "Hver video lagres som et prosjekt. Åpne det senere og fortsett."
+      }
+    ],
+    "meta_labels": {
+      "version": "Versjon",
+      "size": "Størrelse",
+      "requires": "Krever",
+      "price": "Pris",
+      "price_value": "Gratis · kjøp i appen",
+      "category": "Kategori",
+      "category_value": "Foto og video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Skjermbilder",
+    "title": "Fra video til bilde på seks skjermer",
+    "subtitle": "Akkurat som i App Store. Dette er den ekte appen.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: det beste øyeblikket fra hvilken som helst video",
+        "title": "Det beste øyeblikket",
+        "caption": "Fra hvilken som helst video i biblioteket."
+      },
+      {
+        "alt": "Knapp for å lagre bilde og brett med 4 lagrede bilder",
+        "title": "Lagre alt du liker",
+        "caption": "Trykk på Grab This Frame så ofte du vil."
+      },
+      {
+        "alt": "Forhåndsvisning som forstørrer et lagret bilde",
+        "title": "Behold bare de beste",
+        "caption": "Zoom inn før eksport."
+      },
+      {
+        "alt": "Eksportvisning med JPEG, PNG, HEIC og Filer, ZIP eller PDF",
+        "title": "Velg format",
+        "caption": "JPEG, PNG eller HEIC. Filer, ZIP eller PDF."
+      },
+      {
+        "alt": "iOS-delemenyen med en ZIP-fil med bilder",
+        "title": "Lagre og del",
+        "caption": "Til Filer eller via Del-menyen."
+      },
+      {
+        "alt": "Prosjektliste med varighet, antall bilder og fps",
+        "title": "Flere prosjekter",
+        "caption": "Kom tilbake senere og fortsett."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Slik fungerer det",
+    "cta": "Last ned gratis"
+  },
+  "guides_section": {
+    "eyebrow": "Guider",
+    "title": "Guider: bilde fra video på iPhone",
+    "subtitle": "Svar på de mest søkte spørsmålene og den raskeste måten på iPhone.",
+    "read_more": "Les guiden",
+    "all_text": "Alle guider"
+  },
+  "cta": {
+    "title": "Det beste bildet ditt ligger i en video.",
+    "text": "Lagre det på sekunder, i full kvalitet, bare med iPhone. Uten opplasting."
+  },
+  "sticky": {
+    "text": "HD-bilder fra hvilken som helst video"
   }
 }

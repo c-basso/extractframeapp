@@ -1,0 +1,65 @@
+{
+  "slug": "video-en-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "vidéo en PDF",
+  "secondary_keywords": [
+    "convertir vidéo en pdf",
+    "vidéo en pdf gratuit",
+    "images d'une vidéo en pdf",
+    "storyboard d'une vidéo"
+  ],
+  "title": "Transformer une vidéo en PDF sur iPhone, sans rien envoyer",
+  "description": "Transformer une vidéo en PDF sur iPhone : choisissez les images clés et réunissez-les dans un seul PDF pour un storyboard, des notes ou une validation.",
+  "h1": "Comment transformer une vidéo en PDF sur iPhone",
+  "nav_title": "Vidéo en PDF",
+  "card_title": "Transformer les images d'une vidéo en PDF",
+  "excerpt": "Les moments clés d'une vidéo dans un seul PDF propre : storyboard, cours ou validation.",
+  "lead": "Un PDF des images clés est le moyen le plus rapide de montrer ce qui se passe dans une vidéo à quelqu'un qui ne la regardera pas : un client qui valide un montage, un élève qui révise un cours, une équipe qui valide un storyboard.",
+  "quick_answer": "Ouvrez la vidéo dans Video To Photo – Grab Frame, capturez chaque moment clé, touchez Exporter, choisissez un format d'image et PDF comme format d'enregistrement. Vous obtenez un PDF de ces images, prêt pour AirDrop, WhatsApp, e-mail ou Fichiers.",
+  "content_intro": "<h2>Que veut dire « vidéo en PDF » ?</h2><p>Un PDF ne lit pas de vidéo : transformer une vidéo en PDF, c'est enregistrer des <strong>images fixes</strong> et les réunir dans un document. Tout l'enjeu est de choisir <em>lesquelles</em> : un PDF de 900 images identiques ne sert à rien, un PDF des 12 moments clés vaut de l'or.</p><h2>À quoi ça sert</h2><ul><li><strong>Storyboards et découpages</strong> : une image par scène pour planifier ou présenter.</li><li><strong>Notes de cours</strong> : diapositives et tableau d'un cours filmé.</li><li><strong>Validations client</strong> : commenter un PDF est plus simple que chercher dans une vidéo.</li><li><strong>Analyse sportive</strong> : les phases clés d'un geste dans l'ordre.</li><li><strong>Modes d'emploi</strong> : un enregistrement d'écran transformé en étapes.</li></ul>",
+  "steps_title": "Transformer les images d'une vidéo en PDF sur iPhone",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo",
+      "text": "Partagez-la depuis Photos vers Video To Photo – Grab Frame, ou choisissez-la dans l'app.",
+      "shot": 0
+    },
+    {
+      "name": "Capturez les moments clés",
+      "text": "Parcourez la vidéo et touchez capturer à chaque scène, diapositive ou étape voulue dans le document.",
+      "shot": 1
+    },
+    {
+      "name": "Choisissez PDF à l'export",
+      "text": "Touchez Exporter, choisissez JPEG, PNG ou HEIC pour les images et PDF comme format d'enregistrement.",
+      "shot": 3
+    },
+    {
+      "name": "Partagez ou enregistrez le PDF",
+      "text": "Enregistrez-le dans Fichiers ou envoyez-le par AirDrop, WhatsApp ou e-mail depuis le menu de partage.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Conseils pour un PDF propre</h2><ul><li>Capturez les images dans l'ordre, du début à la fin.</li><li>Choisissez des moments où le texte à l'écran est entier et sans transition.</li><li>Pour des diapositives ou du petit texte, choisissez PNG.</li><li>Le projet est enregistré : ajoutez des images et réexportez quand vous voulez.</li></ul><h2>PDF ou ZIP ?</h2><p><strong>PDF</strong> quand il faut lire et commenter les images dans l'ordre. <strong>ZIP</strong> quand il faut les fichiers séparés, par exemple pour du graphisme. Les deux dans <a href=\"/fr/guides/extraire-toutes-les-images-d-une-video/\">extraire les images d'une vidéo</a>.</p>",
+  "faq": [
+    {
+      "q": "Peut-on transformer une vidéo en PDF sans l'envoyer sur internet ?",
+      "a": "Oui. Video To Photo – Grab Frame crée le PDF sur l'iPhone à partir des images capturées ; la vidéo ne quitte pas l'appareil."
+    },
+    {
+      "q": "Dans quel ordre les images apparaissent-elles dans le PDF ?",
+      "a": "Le PDF contient les images que vous avez capturées : capturez-les du début à la fin pour que le document suive l'ordre de la vidéo."
+    },
+    {
+      "q": "Comment faire un storyboard d'une vidéo sur téléphone ?",
+      "a": "Capturez une image par plan ou par scène et exportez en PDF. Vous obtenez un storyboard simple à annoter avec Annotation ou n'importe quelle app PDF."
+    }
+  ],
+  "related": [
+    "extraire-toutes-les-images-d-une-video",
+    "convertir-video-en-jpg-png",
+    "application-extraire-photo-video"
+  ],
+  "datePublished": "2026-09-30"
+}

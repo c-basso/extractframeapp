@@ -1,0 +1,64 @@
+{
+  "slug": "billeder-fra-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "billeder fra video",
+  "secondary_keywords": [
+    "tag billeder fra video",
+    "video til billeder",
+    "lave video om til billeder"
+  ],
+  "title": "Billeder fra video på iPhone: mange på én gang",
+  "description": "Tag mange billeder fra en video på én gang på iPhone, uden computer eller ffmpeg. Vælg kun de billeder, du skal bruge, og gem dem som fotos, ZIP eller PDF.",
+  "h1": "Sådan tager du flere billeder fra en video på iPhone",
+  "nav_title": "Billeder fra video",
+  "card_title": "Flere billeder fra en video",
+  "excerpt": "En serie billeder fra én video, eksporteret som billeder, ZIP eller PDF.",
+  "lead": "Storyboard, sportsserie, før og efter, reaktionssamling: nogle gange er ét billede ikke nok. Sådan får du så mange billeder ud af en video, som du vil, kun med din iPhone.",
+  "quick_answer": "Åbn videoen i Video To Photo – Grab Frame, og tryk på gem ved hvert øjeblik, du vil have. Tjek billederne, slet de dårlige, og eksportér det hele på én gang som separate JPG-, PNG- eller HEIC-filer, som ZIP eller som PDF.",
+  "content_intro": "<h2>Alle billeder, eller kun de gode?</h2><p>En video på 30 sekunder i 30 fps har 900 billeder. Eksporterer du dem alle, som med ffmpeg eller VLC på computeren, får du hundredvis af næsten ens filer. På telefonen er det som regel hurtigere <strong>kun at vælge de billeder, du skal bruge</strong>.</p><table><thead><tr><th>Formål</th><th>Fremgangsmåde</th></tr></thead><tbody><tr><td>Storyboard, trin-for-trin-vejledning</td><td>Ét billede pr. scene eller trin</td></tr><tr><td>Sport, bevægelsesanalyse</td><td>Billeder med jævne mellemrum</td></tr><tr><td>Find det bedste foto</td><td>Det skarpeste af 3–5 nabobilleder</td></tr><tr><td>Alle billeder til animation eller analyse</td><td>Program på computeren (ffmpeg)</td></tr></tbody></table><p>Den indbyggede funktion i iOS 27 gemmer ét billede ad gangen og passer derfor ikke til serier.</p>",
+  "steps_title": "Sådan tager du flere billeder fra en video på iPhone",
+  "steps": [
+    {
+      "name": "Åbn videoen",
+      "text": "Del den fra Fotos til appen, eller vælg den i Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Gem hvert øjeblik",
+      "text": "Træk i båndet, og tryk på gem ved hvert øjeblik. Tælleren holder styr på antallet.",
+      "shot": 1
+    },
+    {
+      "name": "Tjek billederne",
+      "text": "Åbn dem i fuld skærm, tjek skarpheden, og slet dubletter eller slørede billeder.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér det hele",
+      "text": "Vælg JPEG, PNG eller HEIC. Enkelte billeder til Arkiver, ZIP som én fil, PDF som dokument.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF eller separate filer?</h2><ul><li><strong>Separate filer</strong>: redigér eller del ét ad gangen.</li><li><strong>ZIP</strong>: én fil til AirDrop, mail, Messenger eller cloud.</li><li><strong>PDF</strong>: storyboard, noter, dokument til godkendelse. Se <a href=\"/da/guides/video-til-pdf/\">video til PDF</a>.</li></ul><h2>Tips til serier</h2><ul><li>Vælg billeder med lige store mellemrum, så bevægelsen er let at følge.</li><li>Til en collage eksporterer du PNG og undgår ekstra JPEG-komprimering.</li><li>Projektet er gemt, så du kan tilføje manglende billeder senere.</li></ul>",
+  "faq": [
+    {
+      "q": "Hvor mange billeder kan jeg tage fra én video?",
+      "a": "Så mange, du har brug for. Tryk på gem ved hvert øjeblik, og eksportér dem samlet. Ved mange billeder tager eksporten lidt længere tid."
+    },
+    {
+      "q": "Kan jeg eksportere alle billeder automatisk?",
+      "a": "Video To Photo – Grab Frame er lavet til at vælge billeder. Har du virkelig brug for hvert billede til animation eller analyse, er et computerprogram som ffmpeg bedre."
+    },
+    {
+      "q": "Hvordan sender jeg mange billeder på én gang?",
+      "a": "Eksportér som ZIP, og send én fil via AirDrop, mail eller Messenger. Eller eksportér som PDF."
+    }
+  ],
+  "related": [
+    "video-til-pdf",
+    "video-billede-for-billede-iphone",
+    "gem-billede-fra-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

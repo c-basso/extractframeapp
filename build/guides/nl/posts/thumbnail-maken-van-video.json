@@ -1,0 +1,65 @@
+{
+  "slug": "thumbnail-maken-van-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "thumbnail maken van video",
+  "secondary_keywords": [
+    "thumbnail maken youtube",
+    "thumbnail maken gratis",
+    "youtube thumbnail maken iphone",
+    "cover reels maken"
+  ],
+  "title": "Thumbnail maken van een video op iPhone (YouTube, gratis)",
+  "description": "Maak een thumbnail of cover van je eigen video op iPhone: kies het beste frame, bewaar het scherp, voeg tekst toe en upload naar YouTube, TikTok of Reels.",
+  "h1": "Een thumbnail maken van een video op iPhone",
+  "nav_title": "Thumbnail van video",
+  "card_title": "Thumbnail of cover maken van een video",
+  "excerpt": "Het frame vinden dat klikken oplevert, het scherp bewaren en gebruiken als cover voor YouTube, TikTok of Reels.",
+  "lead": "De beste thumbnail zit meestal al in je video: een echte uitdrukking, een echt moment. De kunst is dat frame te vinden en het scherp genoeg eruit te halen voor tekst, bijsnijden en compressie.",
+  "quick_answer": "Open de video in Video To Photo – Grab Frame, bewaar 2–3 scherpe, expressieve momenten en exporteer de beste als PNG. Voeg in je favoriete editor grote tekst toe (1280×720 voor YouTube, 9:16 voor Shorts, TikTok en Reels) en upload als thumbnail of cover.",
+  "content_intro": "<h2>Wat maakt een goed thumbnail-frame?</h2><ul><li><strong>Een duidelijk gezicht of onderwerp</strong>: dichtbij, scherp, liefst in de camera kijkend.</li><li><strong>Emotie</strong>: verbazing, een lach of concentratie werkt beter dan een neutraal gezicht.</li><li><strong>Ruimte voor tekst</strong>: een rustig deel voor een paar woorden.</li><li><strong>Scherpte</strong>: thumbnails zijn klein, elke onscherpte valt op.</li></ul><h2>Thumbnail-formaten</h2><table><thead><tr><th>Platform</th><th>Verhouding</th><th>Formaat</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagram-raster</td><td>bijgesneden tot 1:1 / 4:5</td><td>Onderwerp in het midden</td></tr></tbody></table><p>Een frame uit een 1080p- of 4K-video is al groter dan dat. Het belangrijkste is dat je uit het bestand exporteert, geen screenshot maakt.</p>",
+  "steps_title": "Een thumbnail maken van een video op iPhone",
+  "steps": [
+    {
+      "name": "Open de afgewerkte video",
+      "text": "Deel hem vanuit Foto's met Video To Photo – Grab Frame of kies hem in de app.",
+      "shot": 0
+    },
+    {
+      "name": "Bewaar drie kandidaten",
+      "text": "Zoek de sterkste momenten en bewaar ze. Uitdrukkingen veranderen snel, dus bewaar ook de buren.",
+      "shot": 1
+    },
+    {
+      "name": "Kies de scherpste",
+      "text": "Zoom in de voorbeeldweergave in op het gezicht en verwijder wazige frames of dichte ogen.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer als PNG en voeg tekst toe",
+      "text": "Exporteer als PNG zodat bewerken geen kwaliteit kost, voeg een korte titel toe en upload als thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Zo upload je de thumbnail</h2><ul><li><strong>YouTube:</strong> bewerk de videodetails in de YouTube- of YouTube Studio-app en kies een aangepaste thumbnail uit je foto's (geverifieerd account nodig).</li><li><strong>TikTok:</strong> tik vóór het plaatsen op Cover bewerken en kies een afbeelding.</li><li><strong>Instagram Reels:</strong> voeg via Cover bewerken een afbeelding uit je filmrol toe.</li></ul><h2>Tips voor meer klikken</h2><ul><li>Weinig tekst, maximaal een paar woorden.</li><li>Sterk contrast tussen onderwerp, tekst en achtergrond.</li><li>Een herkenbare stijl voor je hele kanaal.</li><li>Test twee frames: wissel na een paar dagen van thumbnail en vergelijk.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan ik een frame uit mijn eigen video als YouTube-thumbnail gebruiken?",
+      "a": "Ja. Bewaar het frame, voeg eventueel tekst toe en upload het als aangepaste thumbnail. 1280×720 als JPG of PNG werkt het best."
+    },
+    {
+      "q": "Moet ik de thumbnail als JPG of PNG exporteren?",
+      "a": "PNG tijdens het bewerken, zodat tekst scherp blijft. De uiteindelijke thumbnail mag JPG zijn als je een kleiner bestand wilt."
+    },
+    {
+      "q": "Waarom is mijn thumbnail wazig?",
+      "a": "Meestal door een screenshot of een frame met beweging. Exporteer het frame uit het bestand en kies een moment waarop het onderwerp stilstaat."
+    }
+  ],
+  "related": [
+    "scherpe-foto-uit-video",
+    "video-naar-jpg-png",
+    "foto-uit-video-halen-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

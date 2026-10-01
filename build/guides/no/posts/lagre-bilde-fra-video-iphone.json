@@ -1,0 +1,64 @@
+{
+  "slug": "lagre-bilde-fra-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "lagre bilde fra video iphone",
+  "secondary_keywords": [
+    "lagre bilde fra video",
+    "stillbilde fra video",
+    "hente bilde fra video"
+  ],
+  "title": "Lagre bilde fra video på iPhone",
+  "description": "Lagre ett bilde fra en video som foto på iPhone: finn øyeblikket, lagre det i full oppløsning og eksporter til Bilder eller Filer. Videoen forblir uendret.",
+  "h1": "Slik lagrer du bilde fra video på iPhone",
+  "nav_title": "Lagre bilde",
+  "card_title": "Slik lagrer du bilde fra video",
+  "excerpt": "Ett bilde, full oppløsning, lagret i Bilder eller Filer.",
+  "lead": "Noen ganger trenger du bare ett bilde: til profilen, et kort eller en melding. Slik lagrer du et bilde fra video på iPhone, akkurat der du trenger det.",
+  "quick_answer": "Del videoen fra Bilder til Video To Photo – Grab Frame, finn bildet, lagre det og trykk på Eksporter. Bildet havner i Bilder eller Filer. På iOS 27 kan også Bilder gjøre det: sett på pause, ••• → lagre bilde som foto.",
+  "content_intro": "<h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p><h2>Hvor lagres bildet?</h2><table><thead><tr><th>Sted</th><th>Til</th></tr></thead><tbody><tr><td>Bilder (Nylige)</td><td>Deling, album, iCloud</td></tr><tr><td>Filer</td><td>Jobb, utskrift, datamaskin</td></tr><tr><td>Del</td><td>Rett til Messenger, Snapchat, e-post</td></tr></tbody></table>",
+  "steps_title": "Lagre bilde fra video",
+  "steps": [
+    {
+      "name": "Åpne videoen i appen",
+      "text": "Trykk på Del → Video To Photo – Grab Frame i Bilder, eller åpne appen og velg videoen.",
+      "shot": 0
+    },
+    {
+      "name": "Finn bildet",
+      "text": "Dra bildestripen til du kommer til riktig øyeblikk.",
+      "shot": 1
+    },
+    {
+      "name": "Lagre bildet",
+      "text": "Trykk på lagre-knappen. Bildet dukker opp i brettet.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter",
+      "text": "Velg format og sted: Bilder, Filer eller Del.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Beholder bildet datoen?</h2><p>På iOS 27 lagrer Bilder bildet med videoens dato. Etter eksport fra appen kan du sjekke bildeinformasjonen hvis datoen er viktig.</p><h2>Vanlige feil</h2><ul><li>Bilde i bevegelse: velg bildet ved siden av.</li><li>Komprimert kopi: bruk originalvideoen.</li></ul>",
+  "faq": [
+    {
+      "q": "Hvor lagres bildet fra videoen?",
+      "a": "I Bilder, blant de nyeste, eller i Filer hvis du velger det."
+    },
+    {
+      "q": "Kan jeg lagre som PNG?",
+      "a": "Ja, i Video To Photo – Grab Frame. Bilder på iOS 27 lagrer som HEIF eller JPG."
+    },
+    {
+      "q": "Trenger jeg internett?",
+      "a": "Nei. Alt skjer på iPhone."
+    }
+  ],
+  "related": [
+    "ta-bilde-fra-video-iphone",
+    "video-til-bilder",
+    "video-til-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

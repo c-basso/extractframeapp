@@ -1,0 +1,64 @@
+{
+  "slug": "salvar-frame-de-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "salvar frame de vídeo no iPhone",
+  "secondary_keywords": [
+    "salvar frame de video como foto iphone",
+    "exportar fotograma de video iphone",
+    "como salvar uma foto de um video no iphone"
+  ],
+  "title": "Como salvar um frame de vídeo como foto no iPhone (iOS 27)",
+  "description": "Salve um frame de vídeo como foto no iPhone: a opção do iOS 27 e o jeito para iOS antigos ou vários frames, em JPG, PNG ou HEIC, no Fotos ou no Arquivos.",
+  "h1": "Como salvar um frame de vídeo no iPhone",
+  "nav_title": "Salvar frame de vídeo",
+  "card_title": "Salvar um frame de vídeo como foto",
+  "excerpt": "Exporte um frame exato para o Fotos ou o Arquivos sem mexer no vídeo original.",
+  "lead": "Você sabe exatamente qual frame quer. Falta salvar como uma foto normal, junto das outras. Veja como fazer no iPhone.",
+  "quick_answer": "No iOS 27 ou mais recente: abra o vídeo no Fotos, pause, toque em «•••» e salve o frame como foto. Em iOS anteriores, ou para vários frames, PNG, ZIP ou PDF: compartilhe o vídeo com o Video To Photo – Grab Frame, capture o frame, toque em Exportar e salve no Fotos ou no Arquivos.",
+  "content_intro": "<h2>Opção 1: nativa, no iOS 27</h2><ol><li>Abra o vídeo no Fotos e pause no frame (deslize a barra para mais precisão).</li><li>Toque em <strong>«•••»</strong> no canto superior direito.</li><li>Escolha salvar o frame como foto (<em>Save Video Frame as Photo</em>).</li></ol><p>O frame é salvo na resolução do vídeo em HEIF ou JPG (conforme o formato da câmera). Fique atento: salva <strong>um frame por vez</strong>, e a foto recebe a <strong>data do vídeo original</strong> — procure perto do vídeo, não no topo dos Recentes.</p><h2>Opção 2: vários frames, ou iOS 26 e anteriores</h2><p>Nas versões mais antigas não dá para exportar um frame de forma nativa: sobra o print, que salva a tela e não o frame (veja <a href=\"/pt/guides/print-de-video-iphone-sem-perder-qualidade/\">por que o print perde qualidade</a>). E mesmo no iOS 27, um app é mais rápido para uma sequência, PNG, ZIP ou PDF.</p>",
+  "steps_title": "Como salvar um frame de vídeo com o Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Compartilhe o vídeo pelo Fotos",
+      "text": "Abra o vídeo, toque em Compartilhar e escolha o app. Ele já abre no modo de captura.",
+      "shot": 0
+    },
+    {
+      "name": "Ache o frame e capture",
+      "text": "Deslize pela faixa até o momento exato e toque no botão de captura. O contador mostra quantos você já tem.",
+      "shot": 1
+    },
+    {
+      "name": "Escolha o formato",
+      "text": "Toque em Exportar. JPEG para compartilhar, PNG sem perda, HEIC leve e com alta qualidade.",
+      "shot": 3
+    },
+    {
+      "name": "Salve no Fotos ou no Arquivos",
+      "text": "Pelo menu Compartilhar, salve na fototeca, no Arquivos ou mande direto numa conversa.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Para onde vai o frame salvo?</h2><ul><li><strong>Fototeca</strong>: como qualquer foto, pronta para editar, compartilhar ou imprimir.</li><li><strong>Arquivos</strong>: iCloud Drive ou No Meu iPhone, prático para trabalho.</li><li><strong>Qualquer app</strong>: WhatsApp, Instagram, Mensagens ou e-mail pelo menu Compartilhar.</li></ul><h2>Vários frames de uma vez</h2><p>Capture todos os que precisar antes de exportar: em imagens separadas, num <strong>ZIP</strong> ou num <strong>PDF</strong>. Veja <a href=\"/pt/guides/extrair-frames-de-video/\">como extrair frames de vídeo</a>.</p><h2>Continue depois</h2><p>Cada vídeo vira um projeto: volte amanhã e salve mais frames sem procurar o vídeo de novo.</p>",
+  "faq": [
+    {
+      "q": "O app Fotos consegue salvar um frame de vídeo?",
+      "a": "Consegue, a partir do iOS 27: pause, «•••» e salvar frame como foto. Um por vez, em HEIF ou JPG. Antes do iOS 27, só dá para tirar print."
+    },
+    {
+      "q": "O vídeo original é alterado?",
+      "a": "Não. O app lê o vídeo e cria um arquivo de imagem novo. O vídeo no Fotos continua igual."
+    },
+    {
+      "q": "Funciona sem internet?",
+      "a": "Funciona. Os frames são extraídos no iPhone: não precisa de internet e nada é enviado."
+    }
+  ],
+  "related": [
+    "como-tirar-foto-de-video-no-iphone",
+    "extrair-frames-de-video",
+    "converter-video-para-jpg"
+  ],
+  "datePublished": "2026-09-30"
+}

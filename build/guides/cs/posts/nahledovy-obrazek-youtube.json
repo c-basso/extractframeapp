@@ -1,0 +1,64 @@
+{
+  "slug": "nahledovy-obrazek-youtube",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "náhledový obrázek YouTube",
+  "secondary_keywords": [
+    "náhledový obrázek youtube",
+    "youtube náhledový obrázek velikost",
+    "obálka reels z videa"
+  ],
+  "title": "Náhledový obrázek YouTube z videa na iPhonu",
+  "description": "Náhledový obrázek nebo obálka z vlastního videa na iPhonu: vyberte nejlepší snímek, uložte ho ostře, přidejte text a nahrajte na YouTube, TikTok či Reels.",
+  "h1": "Jak udělat náhledový obrázek z videa na iPhonu",
+  "nav_title": "Náhledový obrázek YouTube",
+  "card_title": "Náhledový obrázek nebo obálka z videa",
+  "excerpt": "Najděte snímek, který přinese kliknutí, uložte ho ostře a použijte jako obálku na YouTube, TikToku či Reels.",
+  "lead": "Nejlepší náhledový obrázek už obvykle je ve vašem videu: skutečný výraz, skutečný okamžik. Trik je najít ten snímek a dostat ho dost ostrý, aby vydržel text, ořez i kompresi.",
+  "quick_answer": "Otevřete video ve Video To Photo – Grab Frame, uložte 2–3 ostré a výrazné okamžiky a nejlepší vyexportujte jako PNG. V oblíbeném editoru přidejte velký text (1280×720 pro YouTube, 9:16 pro Shorts, TikTok a Reels) a nahrajte jako náhled nebo obálku.",
+  "content_intro": "<h2>Jaký snímek se hodí na náhled?</h2><ul><li><strong>Jasná tvář nebo objekt</strong>: zblízka, ostře, ideálně s pohledem do kamery.</li><li><strong>Emoce</strong>: překvapení, úsměv nebo soustředění fungují lépe než neutrální tvář.</li><li><strong>Místo na text</strong>: klidná plocha na pár slov.</li><li><strong>Ostrost</strong>: náhledy jsou malé, každé rozmazání je vidět.</li></ul><h2>Velikosti náhledů</h2><table><thead><tr><th>Platforma</th><th>Poměr</th><th>Velikost</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Mřížka Instagramu</td><td>ořez na 1:1 / 4:5</td><td>Objekt uprostřed</td></tr></tbody></table><p>Snímek z 1080p nebo 4K videa je už větší. Hlavní je exportovat ze souboru, ne dělat screenshot.</p>",
+  "steps_title": "Jak udělat náhledový obrázek z videa na iPhonu",
+  "steps": [
+    {
+      "name": "Otevřete hotové video",
+      "text": "Nasdílejte ho z Fotek do Video To Photo – Grab Frame, nebo ho vyberte v aplikaci.",
+      "shot": 0
+    },
+    {
+      "name": "Uložte tři kandidáty",
+      "text": "Najděte nejsilnější okamžiky a uložte je. Výrazy se mění rychle, uložte i sousední snímky.",
+      "shot": 1
+    },
+    {
+      "name": "Vyberte nejostřejší",
+      "text": "V náhledu přibližte obličej a smažte rozmazané snímky nebo zavřené oči.",
+      "shot": 2
+    },
+    {
+      "name": "Exportujte PNG a přidejte text",
+      "text": "Exportujte jako PNG, aby úpravy nesnižovaly kvalitu, přidejte krátký titulek a nahrajte jako náhled.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Jak náhled nahrát</h2><ul><li><strong>YouTube:</strong> upravte podrobnosti videa v aplikaci YouTube nebo YouTube Studio a zvolte vlastní miniaturu z fotek (nutný ověřený účet).</li><li><strong>TikTok:</strong> před zveřejněním klepněte na Upravit obálku a vyberte obrázek.</li><li><strong>Instagram Reels:</strong> v Upravit obálku přidejte obrázek z galerie.</li></ul><h2>Tipy na víc kliknutí</h2><ul><li>Málo textu, nejvýš pár slov.</li><li>Silný kontrast mezi objektem, textem a pozadím.</li><li>Poznatelný styl na celém kanálu.</li><li>Otestujte dva snímky: po pár dnech náhled vyměňte a porovnejte.</li></ul>",
+  "faq": [
+    {
+      "q": "Můžu použít snímek z vlastního videa jako náhled na YouTube?",
+      "a": "Ano. Uložte snímek, případně přidejte text a nahrajte ho jako vlastní miniaturu. Nejlépe 1280×720 jako JPG nebo PNG."
+    },
+    {
+      "q": "Jakou velikost má náhledový obrázek YouTube?",
+      "a": "1280×720 pixelů (16:9), JPG nebo PNG. Obálka pro Shorts, TikTok a Reels má poměr 9:16, tedy 1080×1920."
+    },
+    {
+      "q": "Proč je můj náhled rozmazaný?",
+      "a": "Nejčastěji kvůli screenshotu nebo snímku v pohybu. Exportujte snímek ze souboru a vyberte chvíli, kdy se objekt nehýbe."
+    }
+  ],
+  "related": [
+    "kvalitni-fotka-z-videa",
+    "video-na-jpg-png",
+    "jak-udelat-fotku-z-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

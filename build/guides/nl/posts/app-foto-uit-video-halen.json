@@ -1,0 +1,64 @@
+{
+  "slug": "app-foto-uit-video-halen",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "app foto uit video halen",
+  "secondary_keywords": [
+    "app foto uit video halen iphone",
+    "beste app foto uit video",
+    "gratis app foto uit video"
+  ],
+  "title": "App om een foto uit een video te halen: zo kies je (iPhone)",
+  "description": "Waar let je op bij een app om foto's uit video's te halen? Zes criteria: precisie, resolutie, privacy, batch-export, formaten en prijs, plus een test van 2 minuten.",
+  "h1": "De juiste app kiezen om een foto uit een video te halen",
+  "nav_title": "App foto uit video",
+  "card_title": "Een app kiezen om foto's uit video te halen",
+  "excerpt": "Zes criteria voor een goede frame-app en een checklist van twee minuten.",
+  "lead": "Zoek in de App Store op 'foto uit video' en je krijgt een lange rij vergelijkbare apps. De basis is overal hetzelfde; het verschil zit in de details. Hoe precies je een frame kiest, hoe groot het beeld is, en of je video het internet op gaat.",
+  "quick_answer": "Een goede app laat je het exacte frame kiezen, bewaart uit het videobestand in plaats van het scherm, werkt op je toestel, bewaart meerdere frames tegelijk en exporteert in meerdere formaten. Video To Photo – Grab Frame doet dat allemaal, plus ZIP- en PDF-export en projecten die je later hervat.",
+  "content_intro": "<h2>Heb je nog een app nodig met iOS 27?</h2><p>Sinds iOS 27 bewaart Foto's één gepauzeerd frame. Voor oudere iOS, of voor veel frames, PNG en ZIP/PDF, blijft een app handiger.</p><h2>Zes criteria voor een goede app</h2><ol><li><strong>Precieze frame-keuze.</strong> Een framestrook of schuifregelaar waarmee je precies op het moment uitkomt.</li><li><strong>Echte export.</strong> Uit het bestand, niet van het scherm. Test met een liggende 4K-video en controleer de afmetingen.</li><li><strong>Verwerking op het toestel.</strong> Je familievideo's horen niet op een server. Check het privacylabel in de App Store en test in vliegtuigmodus.</li><li><strong>Batch.</strong> Storyboards, sport en tutorials vragen om veel frames.</li><li><strong>Formaten en export.</strong> JPG, PNG en HEIC zijn genoeg. ZIP en PDF zijn zeldzaam maar erg handig.</li><li><strong>Duidelijke prijs.</strong> Wat is gratis, is er een abonnement, kun je eenmalig kopen?</li></ol>",
+  "steps_title": "Een foto-uit-video-app testen in twee minuten",
+  "steps": [
+    {
+      "name": "Open een echte video",
+      "text": "Kies een liggende video met beweging en deel hem vanuit Foto's met Video To Photo – Grab Frame. Het frame-scherm opent.",
+      "shot": 0
+    },
+    {
+      "name": "Mik op één frame",
+      "text": "Zoek een knipoog of een bal in de lucht. Met de strook en de grote voorbeeldweergave lukt dat makkelijk. Tik op bewaren.",
+      "shot": 1
+    },
+    {
+      "name": "Bewaar er een paar en vergelijk",
+      "text": "Bewaar er vier of vijf en zoom in. Je moet mislukte frames kunnen verwijderen voordat je exporteert.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer en controleer het bestand",
+      "text": "Exporteer als PNG en bekijk de info van de foto. De afmetingen moeten die van de video zijn, niet van je scherm.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Wat Video To Photo – Grab Frame biedt</h2><table><thead><tr><th>Functie</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Starten vanuit Deel in Foto's</td><td>Ja, direct naar het frame-scherm</td></tr><tr><td>Bron</td><td>Het videobestand</td></tr><tr><td>Batch</td><td>Veel frames per sessie</td></tr><tr><td>Formaten</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export</td><td>Bestanden, ZIP, PDF</td></tr><tr><td>Projecten</td><td>Bewaren en later hervatten</td></tr><tr><td>Privacy</td><td>100% op het toestel, geen account</td></tr><tr><td>Prijs</td><td>Gratis downloaden. Pro via in-app aankoop (gratis proefperiode, jaarlijks, eenmalig)</td></tr></tbody></table><h2>Wanneer je geen app nodig hebt</h2><p>Eén foto op iOS 27? Dan is Foto's genoeg (pauzeren → ••• → frame als foto bewaren). Een snelle notitie op oudere iOS? Dan volstaat een screenshot.</p>",
+  "faq": [
+    {
+      "q": "Is er een gratis app om een foto uit een video te halen?",
+      "a": "Video To Photo – Grab Frame is gratis te downloaden. Sommige functies zijn Pro, via in-app aankoop (gratis proefperiode, jaarabonnement of eenmalige aankoop). Kijk in de App Store voor de actuele prijzen."
+    },
+    {
+      "q": "Uploaden deze apps mijn video?",
+      "a": "Online tools wel. Video To Photo – Grab Frame verwerkt alles op je iPhone en werkt offline."
+    },
+    {
+      "q": "Werkt het met 4K- en slow-motionvideo?",
+      "a": "Ja. 4K, 60 fps en slow motion uit je bibliotheek worden ondersteund. Hoe beter de opname, hoe scherper de frames."
+    }
+  ],
+  "related": [
+    "foto-uit-video-halen-iphone",
+    "frames-uit-video-halen",
+    "video-naar-pdf"
+  ],
+  "datePublished": "2026-09-30"
+}

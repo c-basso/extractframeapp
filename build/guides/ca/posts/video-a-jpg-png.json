@@ -1,0 +1,65 @@
+{
+  "slug": "video-a-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "vídeo a jpg",
+    "video to png",
+    "video to heic",
+    "video to jpg converter"
+  ],
+  "title": "Vídeo a JPG, PNG o HEIC a l’iPhone",
+  "description": "Desa fotogrames d’un vídeo en JPG, PNG o HEIC a l’iPhone. Quin format triar en cada cas i com exportar-los a Fitxers, ZIP o PDF.",
+  "h1": "Convertir un vídeo a JPG, PNG o HEIC a l’iPhone",
+  "nav_title": "Vídeo a JPG/PNG",
+  "card_title": "Vídeo a JPG, PNG o HEIC",
+  "excerpt": "Per a què serveix cada format i com exportar els fotogrames.",
+  "lead": "Un vídeo no es pot convertir directament en un sol JPG: la foto sempre surt d’un fotograma triat. La pregunta és en quin format desar-lo: JPG, PNG o HEIC. Cadascun té el seu lloc.",
+  "quick_answer": "Tria el fotograma a Video To Photo – Grab Frame i exporta’l en JPG (s’obre a tot arreu), PNG (sense pèrdua, per editar) o HEIC (fitxers petits, per a dispositius Apple). Pots desar diversos fotogrames alhora a Fitxers, ZIP o PDF.",
+  "content_intro": "<h2>Quin format triar?</h2><table><thead><tr><th>Format</th><th>Avantatge</th><th>Quan</th></tr></thead><tbody><tr><td>JPG</td><td>Funciona a tot arreu</td><td>Compartir, correu, web</td></tr><tr><td>PNG</td><td>Sense pèrdua</td><td>Edició, miniatura, text sobre la imatge</td></tr><tr><td>HEIC</td><td>Fitxer petit</td><td>Fototeca, dispositius Apple</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p><p>Fotos no ofereix ni PNG ni desar en lot. Per a això cal una app.</p>",
+  "steps_title": "Exportar fotogrames en JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Tria els fotogrames",
+      "text": "Arrossega la tira i desa els fotogrames que vulguis. Un o desenes.",
+      "shot": 1
+    },
+    {
+      "name": "Tria el format",
+      "text": "En exportar, tria JPG, PNG o HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Desa",
+      "text": "A Fotos, Fitxers, ZIP o PDF, o comparteix-ho directament.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Obrir HEIC a Windows</h2><p>Les versions antigues de Windows i alguns webs no admeten HEIC. Si la foto no va a un dispositiu Apple, tria JPG.</p><h2>Es conserven les metadades?</h2><p>La foto rep la resolució del vídeo. La data i la ubicació depenen del vídeo d’origen i de com l’exportes. Si és important, revisa la informació de la foto a Fotos.</p>",
+  "faq": [
+    {
+      "q": "Com converteixo un vídeo a JPG a l’iPhone?",
+      "a": "Tria un fotograma a Video To Photo – Grab Frame i exporta’l com a JPG. A iOS 27, Fotos també desa un fotograma en HEIF o JPG."
+    },
+    {
+      "q": "PNG o JPG?",
+      "a": "PNG per editar i per a imatges amb text, JPG per compartir. El PNG pesa més, però no perd qualitat."
+    },
+    {
+      "q": "Puc desar molts fotogrames alhora?",
+      "a": "Sí, amb el mode en lot de Grab Frame, i després exportar en ZIP o PDF."
+    }
+  ],
+  "related": [
+    "desar-foto-dun-video",
+    "video-a-fotogrames",
+    "video-a-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

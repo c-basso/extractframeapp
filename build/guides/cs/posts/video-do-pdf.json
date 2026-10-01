@@ -1,0 +1,64 @@
+{
+  "slug": "video-do-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video do PDF",
+  "secondary_keywords": [
+    "video do pdf",
+    "převod videa do pdf",
+    "storyboard z videa"
+  ],
+  "title": "Video do PDF na iPhonu: snímky v jednom souboru",
+  "description": "Převeďte video do PDF na iPhonu: vyberte klíčové snímky a spojte je do jednoho PDF pro storyboard, poznámky nebo schvalování. Offline, bez nahrávání.",
+  "h1": "Jak převést video do PDF na iPhonu",
+  "nav_title": "Video do PDF",
+  "card_title": "Snímky z videa v jednom PDF",
+  "excerpt": "Důležité okamžiky videa v jednom PDF: storyboard, poznámky, schvalování.",
+  "lead": "PDF s klíčovými snímky je nejrychlejší způsob, jak ukázat obsah videa někomu, kdo se na něj dívat nebude. Klientovi, který schvaluje střih, studentovi, který opakuje přednášku, týmu, který schvaluje storyboard.",
+  "quick_answer": "Otevřete video ve Video To Photo – Grab Frame a v každém důležitém okamžiku uložte snímek. Klepněte na Exportovat, zvolte formát obrázku a pak PDF. Dostanete jedno PDF se snímky, připravené k odeslání přes AirDrop, WhatsApp, e-mail nebo Soubory.",
+  "content_intro": "<h2>Co znamená „video do PDF“?</h2><p>PDF video nepřehraje. Převést video do PDF znamená uložit <strong>statické obrázky</strong> a spojit je do jednoho dokumentu. Klíčové je, <em>které snímky vyberete</em>: PDF s 900 podobnými snímky je k ničemu, PDF s 12 klíčovými je k nezaplacení.</p><h2>Hodí se pro</h2><ul><li><strong>Storyboard nebo seznam záběrů</strong>: jeden snímek na scénu, pro prezentace.</li><li><strong>Poznámky z přednášky</strong>: slidy a tabule z nahrané hodiny.</li><li><strong>Schvalování s klientem</strong>: komentáře v PDF jsou jednodušší než hledání časů.</li><li><strong>Sportovní analýzu</strong>: fáze pohybu po sobě.</li><li><strong>Návody</strong>: záznam obrazovky jako postup krok za krokem.</li></ul>",
+  "steps_title": "Jak spojit snímky z videa do PDF na iPhonu",
+  "steps": [
+    {
+      "name": "Otevřete video",
+      "text": "Nasdílejte ho z Fotek do Video To Photo – Grab Frame, nebo ho vyberte v aplikaci.",
+      "shot": 0
+    },
+    {
+      "name": "Uložte klíčové snímky",
+      "text": "Projděte video a u každé scény, slidu nebo kroku klepněte na uložení.",
+      "shot": 1
+    },
+    {
+      "name": "Při exportu zvolte PDF",
+      "text": "Klepněte na Exportovat, zvolte JPEG, PNG nebo HEIC a pak PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Sdílejte nebo uložte PDF",
+      "text": "Uložte do Souborů nebo pošlete přes AirDrop, WhatsApp či e-mail z nabídky Sdílet.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tipy pro úhledné PDF</h2><ul><li>Ukládejte snímky popořadě, od začátku do konce.</li><li>Vybírejte snímky, kde je vidět celý text a nejsou uprostřed přechodu.</li><li>Na slidy a drobný text použijte PNG.</li><li>Projekt zůstává uložený, snímky můžete později přidat a exportovat znovu.</li></ul><h2>PDF, nebo ZIP?</h2><p><strong>PDF</strong> na čtení popořadě a komentování, <strong>ZIP</strong>, když potřebujete samostatné soubory, třeba na grafiku. Obojí popisuje návod <a href=\"/cs/guides/snimky-z-videa/\">snímky z videa</a>.</p>",
+  "faq": [
+    {
+      "q": "Můžu převést video do PDF bez nahrání na internet?",
+      "a": "Ano. Video To Photo – Grab Frame vytvoří PDF na iPhonu z uložených snímků; video zařízení neopustí."
+    },
+    {
+      "q": "V jakém pořadí jsou snímky v PDF?",
+      "a": "PDF obsahuje snímky, které jste uložili. Ukládejte je od začátku do konce a dokument bude odpovídat videu."
+    },
+    {
+      "q": "Jak udělat storyboard z videa na telefonu?",
+      "a": "Uložte jeden snímek na záběr nebo scénu a exportujte jako PDF: to je jednoduchý storyboard. Poznámky přidáte přes Značky nebo PDF aplikaci."
+    }
+  ],
+  "related": [
+    "snimky-z-videa",
+    "video-na-jpg-png",
+    "aplikace-fotka-z-videa"
+  ],
+  "datePublished": "2026-10-01"
+}

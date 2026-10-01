@@ -1,0 +1,65 @@
+{
+  "slug": "zapisac-klatke-z-filmu-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "jak zapisać klatkę z filmu iPhone",
+  "secondary_keywords": [
+    "jak zapisać klatkę z filmu jako zdjęcie iphone",
+    "klatka z filmu jako zdjęcie iphone",
+    "stopklatka z filmu iphone",
+    "jak wyodrębnić zdjęcie z filmu iphone"
+  ],
+  "title": "Jak zapisać klatkę z filmu jako zdjęcie na iPhonie",
+  "description": "Jak zapisać stopklatkę z filmu jako zdjęcie na iPhonie: funkcja iOS 27 oraz sposób na starszy iOS i wiele klatek, jako JPG, PNG lub HEIC.",
+  "h1": "Jak zapisać klatkę z filmu jako zdjęcie na iPhonie",
+  "nav_title": "Klatka z filmu jako zdjęcie",
+  "card_title": "Klatka z filmu jako zdjęcie",
+  "excerpt": "Wyeksportuj właściwą klatkę do Zdjęć lub Plików, bez zmieniania oryginalnego filmu.",
+  "lead": "Wiesz dokładnie, której klatki potrzebujesz. Chcesz ją po prostu mieć jako zwykłe zdjęcie, obok innych. Oto jak zrobić to na iPhonie.",
+  "quick_answer": "iOS 27 lub nowszy: otwórz film w Zdjęciach, zatrzymaj i zapisz klatkę przez •••. Starszy iOS albo wiele klatek, PNG, ZIP lub PDF: udostępnij film aplikacji Video To Photo – Grab Frame, zapisz klatki i wyeksportuj je do Zdjęć lub Plików.",
+  "content_intro": "<h2>Sposób 1: wbudowana funkcja iOS 27</h2><ol><li>Otwórz film w Zdjęciach i zatrzymaj na klatce, którą chcesz (przesuwaj pasek, by trafić dokładnie).</li><li>Stuknij <strong>•••</strong> w prawym górnym rogu.</li><li>Wybierz opcję zapisania klatki jako zdjęcia (<em>Save Video Frame as Photo</em>).</li></ol><p>Dostajesz zdjęcie w rozdzielczości filmu, jako HEIF lub JPG (zależnie od ustawień aparatu). Pamiętaj: to <strong>jedna klatka naraz</strong>, a zdjęcie dostaje <strong>datę filmu</strong>. Szukaj go obok filmu, a nie na górze Ostatnich.</p><h2>Sposób 2: wiele klatek lub iOS 26 i starszy</h2><p>Starsze wersje nie mają wbudowanej funkcji, tylko zrzut ekranu (<a href=\"/pl/guides/zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci/\">dlaczego traci jakość</a>). Również na iOS 27 aplikacja jest szybsza, gdy chcesz serii klatek, PNG albo ZIP/PDF.</p>",
+  "steps_title": "Jak zapisać klatkę w Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Udostępnij film ze Zdjęć",
+      "text": "Otwórz film, stuknij Udostępnij i wybierz aplikację. Ekran klatek otwiera się od razu.",
+      "shot": 0
+    },
+    {
+      "name": "Znajdź klatkę i zapisz",
+      "text": "Przesuń do momentu i stuknij zapis. Licznik pokazuje, ile klatek masz.",
+      "shot": 1
+    },
+    {
+      "name": "Wybierz format",
+      "text": "Stuknij Eksportuj. JPEG do wysyłania, PNG bezstratnie, HEIC lekko i ostro.",
+      "shot": 3
+    },
+    {
+      "name": "Zapisz w Zdjęciach lub Plikach",
+      "text": "Przez menu udostępniania zapisz w bibliotece lub Plikach albo wyślij prosto do rozmowy.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Gdzie trafia zapisana klatka?</h2><ul><li><strong>Biblioteka zdjęć</strong>: edytuj, udostępniaj i drukuj jak każde zdjęcie.</li><li><strong>Pliki</strong>: iCloud Drive lub Na iPhonie, wygodne do dokumentów.</li><li><strong>Inne aplikacje</strong>: Messenger, WhatsApp, Instagram, e-mail przez menu udostępniania.</li></ul><h2>Wiele klatek naraz</h2><p>Przed eksportem zapisz wszystkie potrzebne klatki i wyeksportuj je razem jako osobne pliki, <strong>ZIP</strong> lub <strong>PDF</strong>. Zobacz też <a href=\"/pl/guides/wycinanie-klatek-z-filmu/\">wycinanie klatek z filmu</a>.</p><h2>Kontynuuj później</h2><p>Każdy film zapisuje się jako projekt, więc następnego dnia kontynuujesz bez szukania filmu od nowa.</p>",
+  "faq": [
+    {
+      "q": "Czy aplikacja Zdjęcia zapisze klatkę z filmu?",
+      "a": "Od iOS 27 tak: zatrzymaj i zapisz przez •••. Jedna klatka naraz, jako HEIF lub JPG. Przed iOS 27 był tylko zrzut ekranu."
+    },
+    {
+      "q": "Czy mój oryginalny film zostanie zmieniony?",
+      "a": "Nie. Aplikacja czyta film i tworzy nowe pliki obrazów. Film w Zdjęciach pozostaje taki sam."
+    },
+    {
+      "q": "Czy to działa offline?",
+      "a": "Tak. Klatki są wyciągane z filmu na iPhonie, więc nie potrzebujesz internetu i nic nie jest wysyłane."
+    }
+  ],
+  "related": [
+    "jak-zrobic-zdjecie-z-filmu-iphone",
+    "wycinanie-klatek-z-filmu",
+    "film-na-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

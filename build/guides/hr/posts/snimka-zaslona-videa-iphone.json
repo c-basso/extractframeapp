@@ -1,0 +1,64 @@
+{
+  "slug": "snimka-zaslona-videa-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot videa",
+  "secondary_keywords": [
+    "snimka zaslona videa iphone",
+    "kako slikati ekran na iphone",
+    "screenshot videa mutan"
+  ],
+  "title": "Screenshot videa na iPhoneu bez gubitka kvalitete",
+  "description": "Zašto je screenshot videa mutan, mali ili taman, i kako umjesto toga spremiti pravi kadar iz videa u punoj rezoluciji na iPhoneu, bez kontrola i crnih rubova.",
+  "h1": "Screenshot videa na iPhoneu bez gubitka kvalitete",
+  "nav_title": "Screenshot videa",
+  "card_title": "Screenshot videa bez gubitka kvalitete",
+  "excerpt": "Zašto je snimka zaslona lošija od kadra i kako to izbjeći.",
+  "lead": "Najbrži način da zadržite trenutak iz videa je snimka zaslona: bočna tipka i tipka za pojačavanje glasnoće istovremeno. No rezultat je često razočaravajući. Evo zašto, i što učiniti umjesto toga.",
+  "quick_answer": "Screenshot sprema zaslon, a ne video: rezolucija pada, ostaju kontrole, a HDR video postaje taman. Za punu kvalitetu spremite kadar iz datoteke: na iOS-u 27 u aplikaciji Foto (••• → spremi kadar), ili u aplikaciji Video To Photo – Grab Frame u formatu PNG ili HEIC.",
+  "content_intro": "<h2>Screenshot ili pravi kadar?</h2><table><thead><tr><th></th><th>Screenshot</th><th>Kadar iz datoteke</th></tr></thead><tbody><tr><td>Rezolucija</td><td>Zaslon</td><td>Video (do 4K)</td></tr><tr><td>Kontrole, rubovi</td><td>Često</td><td>Nikad</td></tr><tr><td>Točan trenutak</td><td>Teško</td><td>Kadar po kadar</td></tr><tr><td>HDR video</td><td>Taman ili izblijedio</td><td>Ispravna konverzija</td></tr></tbody></table><h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p>",
+  "steps_title": "Pravi kadar umjesto screenshota",
+  "steps": [
+    {
+      "name": "Podijelite video",
+      "text": "U aplikaciji Foto dodirnite Podijeli i odaberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Zaustavite se na kadru",
+      "text": "Povucite traku kadrova. Velik pregled pokazuje točno ono što će se spremiti.",
+      "shot": 1
+    },
+    {
+      "name": "Spremite",
+      "text": "Dodirnite gumb za spremanje. Možete spremiti i više kadrova.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite u PNG ili HEIC",
+      "text": "PNG za maksimalnu kvalitetu, HEIC za manje datoteke.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Ako ipak radite screenshot</h2><ul><li>Okrenite iPhone vodoravno za vodoravni video.</li><li>Pričekajte da kontrole nestanu.</li><li>Obrežite crne rubove u aplikaciji Foto.</li></ul><p>Čak i tada slika ima samo rezoluciju zaslona.</p>",
+  "faq": [
+    {
+      "q": "Kako napraviti screenshot na iPhoneu?",
+      "a": "Istovremeno pritisnite bočnu tipku i tipku za pojačavanje glasnoće. Na iPhoneu s tipkom Početna: bočna tipka i tipka Početna."
+    },
+    {
+      "q": "Zašto je screenshot videa mutan?",
+      "a": "Jer sprema zaslon, a ne video. Kadar se smanjuje, a pokret u tom trenutku može biti zamućen."
+    },
+    {
+      "q": "Zašto je screenshot HDR videa taman?",
+      "a": "HDR video prikazuje se s većom svjetlinom nego što ju standardna slika može zadržati. Spremanje kadra iz datoteke daje bolji rezultat."
+    }
+  ],
+  "related": [
+    "kako-izvuci-sliku-iz-videa-iphone",
+    "kvalitetna-slika-iz-videa",
+    "video-u-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

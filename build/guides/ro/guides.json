@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Ghiduri: poză din video pe iPhone",
+    "description": "Ghiduri pentru poze din video pe iPhone: mai clar decât o captură de ecran, salvarea cadrului, extragerea cadrelor, video în PDF, thumbnail-uri și JPG sau PNG.",
+    "eyebrow": "Ghiduri",
+    "h1": "Poză din video pe iPhone: toate ghidurile",
+    "intro": "Fiecare ghid răspunde la o întrebare: ce poate face iPhone-ul singur (și ce nu) și cum faci cel mai repede cu Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Acasă",
+    "guides": "Ghiduri",
+    "guide_eyebrow": "Ghid iPhone",
+    "quick_answer": "Răspuns scurt",
+    "by": "Autor:",
+    "updated": "Actualizat",
+    "min_read": "min de citit",
+    "faq_title": "Întrebări frecvente",
+    "related": "Ghiduri similare",
+    "read_guide": "Citește ghidul",
+    "inline_cta": "Încearcă pe un clip de-al tău. Durează un minut.",
+    "app_card_cta": "Descarcă din App Store",
+    "app_card_fine": "Gratuit · achiziții în aplicație · iOS 18.6+",
+    "app_card_bullets": ["Alegere precisă a cadrului", "JPG, PNG, HEIC", "Export în serie ZIP și PDF", "Offline, fără încărcare sau cont"],
+    "final_cta_title": "Cea mai bună poză a ta e într-un video.",
+    "final_cta_text": "Salveaz-o la calitate maximă pe iPhone. Fără încărcare, fără cont, fără cunoștințe de montaj."
+  }
+}

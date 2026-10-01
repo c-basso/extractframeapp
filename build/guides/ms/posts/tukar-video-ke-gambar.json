@@ -1,0 +1,64 @@
+{
+  "slug": "tukar-video-ke-gambar",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "cara tukar video ke gambar",
+  "secondary_keywords": [
+    "video ke gambar",
+    "ubah video ke gambar",
+    "convert video ke gambar"
+  ],
+  "title": "Cara Tukar Video ke Gambar di iPhone",
+  "description": "Ambil banyak gambar daripada video serentak di iPhone, tanpa komputer dan ffmpeg. Simpan hanya bingkai yang diperlukan sebagai foto, ZIP atau PDF.",
+  "h1": "Cara tukar video ke gambar di iPhone",
+  "nav_title": "Video ke gambar",
+  "card_title": "Cara tukar video ke gambar",
+  "excerpt": "Banyak bingkai serentak, hanya yang anda perlukan.",
+  "lead": "Kadangkala satu gambar tidak cukup: seluruh lompatan, setiap langkah resipi, semua babak untuk papan cerita. Menukar seluruh video kepada ratusan gambar hanya menyusahkan. Lebih baik pilih yang anda perlukan sahaja.",
+  "quick_answer": "Buka video dalam Video To Photo – Grab Frame, simpan seberapa banyak bingkai yang anda mahu dan eksport serentak: sebagai fail, ZIP atau PDF. Apl Foto di iOS 27 hanya menyimpan satu bingkai pada satu masa.",
+  "content_intro": "<h2>Cara mendapatkan banyak gambar</h2><table><thead><tr><th>Cara</th><th>Kelebihan</th><th>Kekurangan</th></tr></thead><tbody><tr><td>Screenshot berulang</td><td>Tanpa apl</td><td>Lambat, resolusi rendah</td></tr><tr><td>Foto (iOS 27)</td><td>Terbina dalam</td><td>Satu bingkai pada satu masa</td></tr><tr><td>ffmpeg di komputer</td><td>Semua bingkai</td><td>Ribuan gambar, perlu komputer</td></tr><tr><td>Grab Frame</td><td>Hanya yang dipilih, eksport pukal</td><td>Sesetengah ciri Pro</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p>",
+  "steps_title": "Banyak gambar daripada satu video",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Simpan bingkai mengikut urutan",
+      "text": "Seret ke setiap detik dan ketik simpan. Bingkai terkumpul dalam dulang.",
+      "shot": 1
+    },
+    {
+      "name": "Semak dan kemaskan",
+      "text": "Padam bingkai yang serupa atau kabur.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport serentak",
+      "text": "Sebagai fail berasingan, arkib ZIP atau PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Berguna untuk</h2><ul><li>Sukan: fasa pergerakan.</li><li>Resipi dan tutorial: setiap langkah.</li><li>Papan cerita: babak utama.</li><li>Keluarga: detik terbaik hari jadi.</li></ul><p>Projek disimpan, jadi anda boleh sambung kemudian.</p>",
+  "faq": [
+    {
+      "q": "Bolehkah semua bingkai video diambil?",
+      "a": "Di komputer, dengan ffmpeg. Di iPhone lebih praktikal memilih bingkai yang diperlukan sahaja dalam Grab Frame."
+    },
+    {
+      "q": "Berapa banyak bingkai boleh disimpan?",
+      "a": "Seberapa banyak yang anda mahu. Untuk banyak gambar, eksport sebagai ZIP atau PDF."
+    },
+    {
+      "q": "Boleh sambung kemudian?",
+      "a": "Boleh. Setiap video disimpan sebagai projek."
+    }
+  ],
+  "related": [
+    "aplikasi-ambil-gambar-dari-video",
+    "video-frame-demi-frame-iphone",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

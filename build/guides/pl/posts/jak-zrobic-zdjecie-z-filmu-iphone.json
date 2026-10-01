@@ -1,0 +1,69 @@
+{
+  "slug": "jak-zrobic-zdjecie-z-filmu-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "jak zrobić zdjęcie z filmu iPhone",
+  "secondary_keywords": [
+    "zdjęcie z filmu iphone",
+    "jak wyciągnąć zdjęcie z filmu iphone",
+    "jak zapisać zdjęcie z filmu iphone",
+    "czy da się zrobić zdjęcie z filmu iphone"
+  ],
+  "title": "Jak zrobić zdjęcie z filmu na iPhonie: 3 sposoby",
+  "description": "Jak zrobić zdjęcie z filmu na iPhonie w dobrej jakości: funkcja iOS 27, zrzut ekranu, wycinanie obiektu i wiele zdjęć naraz jako JPG, PNG lub HEIC.",
+  "h1": "Jak zrobić zdjęcie z filmu na iPhonie",
+  "nav_title": "Zdjęcie z filmu (iPhone)",
+  "card_title": "Jak zrobić zdjęcie z filmu na iPhonie",
+  "excerpt": "Wszystkie sposoby na wyciągnięcie zdjęcia z filmu na iPhonie i kiedy którego użyć.",
+  "lead": "Nagrałeś film zamiast zrobić zdjęcie. Nic straconego: film to dziesiątki zdjęć na sekundę. Oto jak wyciągnąć z niego to jedno na iPhonie.",
+  "quick_answer": "Od iOS 27 zatrzymujesz film w Zdjęciach i zapisujesz klatkę przez ••• jako zdjęcie (w rozdzielczości filmu, jedną naraz). Na starszym iOS albo gdy potrzebujesz wielu zdjęć, PNG, ZIP lub PDF, otwórz film w Video To Photo – Grab Frame, zapisz klatki i wyeksportuj je razem.",
+  "content_intro": "<h2>Czy da się zrobić zdjęcie z filmu na iPhonie?</h2><p>Tak. Film składa się z 24–60 nieruchomych obrazów na sekundę i każda klatka może być zdjęciem. Najlepsza metoda zależy od wersji iOS i od tego, ile zdjęć potrzebujesz.</p><h2>Porównanie metod</h2><table><thead><tr><th>Metoda</th><th>Jakość</th><th>Ograniczenie</th><th>Najlepsze do</th></tr></thead><tbody><tr><td><strong>Zdjęcia → zapis klatki jako zdjęcia</strong> (iOS 27+)</td><td>Rozdzielczość filmu, HEIF lub JPG</td><td>Jedna klatka naraz. Zdjęcie dostaje datę filmu, więc nie pojawia się na górze Ostatnich</td><td>Szybko jedno zdjęcie</td></tr><tr><td><strong>Zrzut ekranu</strong> (pauza i screenshot)</td><td>Rozdzielczość ekranu, często z przyciskiem odtwarzania lub czarnymi pasami</td><td>Trudno zatrzymać się na dokładnej klatce</td><td>Szybka notatka na starszym iOS</td></tr><tr><td><strong>Wycięcie obiektu</strong> (iOS 17+, długie przytrzymanie)</td><td>Tylko obiekt, bez tła</td><td>Brak pełnej klatki</td><td>Naklejka z osobą lub zwierzakiem</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Z pliku wideo</td><td>Wymaga aplikacji (iOS 18.6+)</td><td>Wiele zdjęć, PNG, ZIP, PDF, starszy iOS</td></tr></tbody></table><h3>Wbudowaną funkcją iOS 27</h3><ol><li>Zatrzymaj: otwórz film w aplikacji Zdjęcia, zatrzymaj w odpowiednim momencie, stuknij <strong>•••</strong> i wybierz opcję zapisania klatki jako zdjęcia (<em>Save Video Frame as Photo</em>).</li><li>Klatka trafia do biblioteki jako zdjęcie w rozdzielczości filmu.</li><li>Zdjęcie dziedziczy datę i miejsce filmu, więc szukaj go obok filmu, a nie na górze.</li></ol><p>Do jednego zdjęcia to wystarczy. Gdy chcesz dziesięć klatek z tego samego filmu, PNG do edycji albo wysłać wszystko jako ZIP lub PDF, robi się uciążliwie.</p><h3>Dlaczego zrzut ekranu to nie to samo</h3><p>Do iOS 26 zrzut ekranu to typowy sposób, ale zapisuje ekran, a nie klatkę. Poziomy film 4K na pionowym ekranie to wąski pasek, trzeba wycinać przycisk odtwarzania i trafić z pauzą.</p>",
+  "steps_title": "Jak wyciągnąć wiele zdjęć z filmu w Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Udostępnij film aplikacji",
+      "text": "Otwórz film w Zdjęciach, stuknij Udostępnij i wybierz aplikację. Albo otwórz Video To Photo – Grab Frame i wybierz film z biblioteki.",
+      "shot": 0
+    },
+    {
+      "name": "Znajdź moment i zapisz",
+      "text": "Przesuwaj pasek klatek, aż moment pojawi się w podglądzie, i stuknij przycisk zapisu. Przy ruchu zapisz też klatki przed i po.",
+      "shot": 1
+    },
+    {
+      "name": "Sprawdź klatki",
+      "text": "Otwórz podgląd, powiększ twarze lub tekst i usuń rozmazane klatki. Zostaw tylko najostrzejszą.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportuj jako zdjęcie",
+      "text": "Wybierz JPEG, PNG lub HEIC i stuknij Eksportuj. Zapisz w Zdjęciach lub Plikach albo wyślij od razu przez Messengera, WhatsAppa, Instagram lub e-mail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Wskazówki dla ostrego zdjęcia</h2><ul><li><strong>Łap moment, gdy ruch się zatrzymuje.</strong> Szczyt skoku, chwila przed uśmiechem: tam klatki są najostrzejsze.</li><li><strong>Zapisz trzy, zostaw jedną.</strong> Sąsiednie klatki wyglądają tak samo, dopóki ich nie powiększysz.</li><li><strong>Nagrywaj w 4K lub 60 kl./s.</strong> Więcej w poradniku <a href=\"/pl/guides/ostre-zdjecie-z-filmu/\">ostre zdjęcie z filmu</a>.</li><li><strong>Wybierz format.</strong> JPG do wysyłania, PNG do edycji, HEIC dla oszczędności miejsca. Zobacz też <a href=\"/pl/guides/film-na-jpg-png/\">film na JPG lub PNG</a>.</li></ul><h2>Czy aplikacja zmienia lub wysyła mój film?</h2><p>Nie. Video To Photo – Grab Frame pracuje na kopii w aplikacji i robi wszystko na iPhonie. Oryginał w Zdjęciach pozostaje bez zmian i nic nie trafia na serwer.</p>",
+  "faq": [
+    {
+      "q": "Czy iPhone sam zapisze zdjęcie z filmu?",
+      "a": "Od iOS 27 tak. Zatrzymaj film w Zdjęciach, stuknij ••• i zapisz klatkę jako zdjęcie. Jedna naraz, jako HEIF lub JPG. Do iOS 26 jedyną wbudowaną opcją jest zrzut ekranu."
+    },
+    {
+      "q": "Gdzie jest klatka zapisana w iOS 27?",
+      "a": "W bibliotece zdjęć, ale z datą i miejscem filmu. Jest więc obok oryginalnego filmu, a nie na górze Ostatnich."
+    },
+    {
+      "q": "Czy jakość jest taka jak w filmie?",
+      "a": "Tak, jeśli zapisujesz klatkę zamiast robić zrzut ekranu. Zarówno iOS 27, jak i Video To Photo – Grab Frame czytają klatkę z pliku wideo. Szybki ruch może być rozmazany, więc wybierz spokojny moment."
+    },
+    {
+      "q": "Czy mogę wyciągnąć kilka zdjęć z jednego filmu?",
+      "a": "Tak. Zapisz w Video To Photo – Grab Frame każdy moment i wyeksportuj je razem jako osobne pliki, ZIP lub PDF."
+    }
+  ],
+  "related": [
+    "zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci",
+    "zapisac-klatke-z-filmu-iphone",
+    "ostre-zdjecie-z-filmu"
+  ],
+  "datePublished": "2026-10-01"
+}

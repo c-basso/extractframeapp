@@ -1,0 +1,64 @@
+{
+  "slug": "cara-screenshot-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "cara screenshot video di iphone",
+  "secondary_keywords": [
+    "cara screenshot video",
+    "tangkapan skrin video iphone",
+    "screenshot video kabur"
+  ],
+  "title": "Cara Screenshot Video di iPhone Tanpa Hilang Kualiti",
+  "description": "Kenapa screenshot video kabur, kecil atau gelap, dan cara simpan bingkai sebenar daripada video dalam resolusi penuh di iPhone, tanpa kawalan dan jalur hitam.",
+  "h1": "Cara screenshot video di iPhone tanpa hilang kualiti",
+  "nav_title": "Screenshot video",
+  "card_title": "Screenshot video tanpa hilang kualiti",
+  "excerpt": "Kenapa screenshot lebih teruk daripada bingkai sebenar dan cara mengelaknya.",
+  "lead": "Cara terpantas menyimpan detik daripada video ialah screenshot: butang sisi dan naikkan kelantangan serentak. Tetapi hasilnya selalu mengecewakan. Inilah sebabnya, dan apa yang patut dibuat.",
+  "quick_answer": "Screenshot menyimpan skrin, bukan video: resolusi jatuh, kawalan turut terakam dan video HDR jadi gelap. Untuk kualiti penuh, simpan bingkai daripada fail: di iOS 27 melalui apl Foto (••• → simpan bingkai), atau dalam Video To Photo – Grab Frame dalam PNG atau HEIC.",
+  "content_intro": "<h2>Screenshot atau bingkai sebenar?</h2><table><thead><tr><th></th><th>Screenshot</th><th>Bingkai daripada fail</th></tr></thead><tbody><tr><td>Resolusi</td><td>Skrin</td><td>Video (hingga 4K)</td></tr><tr><td>Kawalan, jalur</td><td>Kerap</td><td>Tidak pernah</td></tr><tr><td>Detik tepat</td><td>Sukar</td><td>Bingkai demi bingkai</td></tr><tr><td>Video HDR</td><td>Gelap atau pudar</td><td>Penukaran betul</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p>",
+  "steps_title": "Bingkai sebenar, bukan screenshot",
+  "steps": [
+    {
+      "name": "Kongsi video",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Berhenti pada bingkai",
+      "text": "Seret jalur bingkai. Pratonton besar menunjukkan tepat apa yang akan disimpan.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan",
+      "text": "Ketik butang simpan. Anda juga boleh menyimpan banyak bingkai.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport ke PNG atau HEIC",
+      "text": "PNG untuk kualiti maksimum, HEIC untuk fail lebih kecil.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Jika masih mahu screenshot</h2><ul><li>Pusingkan iPhone untuk video mendatar.</li><li>Tunggu sehingga kawalan hilang.</li><li>Potong jalur hitam dalam apl Foto.</li></ul><p>Walaupun begitu, resolusinya tetap terhad kepada skrin.</p>",
+  "faq": [
+    {
+      "q": "Bagaimana cara screenshot di iPhone?",
+      "a": "Tekan butang sisi dan butang naikkan kelantangan serentak. Pada iPhone dengan butang Utama: butang sisi dan butang Utama."
+    },
+    {
+      "q": "Kenapa screenshot video kabur?",
+      "a": "Kerana yang disimpan ialah skrin, bukan video. Bingkai mengecil, dan pergerakan pada detik itu boleh kabur."
+    },
+    {
+      "q": "Kenapa screenshot video HDR gelap?",
+      "a": "Video HDR dipaparkan dengan kecerahan lebih tinggi daripada yang boleh disimpan foto biasa. Menyimpan bingkai daripada fail memberi hasil lebih baik."
+    }
+  ],
+  "related": [
+    "cara-ambil-gambar-dari-video-iphone",
+    "gambar-hd-dari-video",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

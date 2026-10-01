@@ -1,0 +1,69 @@
+{
+  "slug": "screenshot-video-iphone-zonder-kwaliteitsverlies",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot video iPhone",
+  "secondary_keywords": [
+    "screenshot video iphone",
+    "iphone video screenshot donker",
+    "screenshot video iphone wazig",
+    "foto uit video halen zonder screenshot"
+  ],
+  "title": "Screenshot van video op iPhone zonder kwaliteitsverlies",
+  "description": "Waarom een screenshot van een video op je iPhone wazig of donker wordt, en twee manieren om het echte frame in volle kwaliteit te bewaren.",
+  "h1": "Screenshot van een video op iPhone: waarom hij wazig is en hoe het beter kan",
+  "nav_title": "Screenshot van video",
+  "card_title": "Screenshot van video zonder kwaliteitsverlies",
+  "excerpt": "Waarom videoscreenshots wazig of donker zijn en hoe je een scherp frame op ware grootte bewaart.",
+  "lead": "Pauzeren, zijknop en volume omhoog, bijsnijden… en toch ziet het er slechter uit dan de video. Dat verbeeld je je niet: een screenshot legt het scherm vast, niet de video.",
+  "quick_answer": "Een screenshot kan nooit scherper zijn dan je scherm. Op iOS 27 of later pauzeer je in Foto's en bewaar je het frame via •••. Op oudere iOS, of voor meerdere frames en PNG, open je de video in Video To Photo – Grab Frame en exporteer je. In beide gevallen krijg je het echte frame, zonder afspeelknop of zwarte balken.",
+  "content_intro": "<h2>Zo maak je een screenshot van een video (de gewone manier)</h2><ol><li>Speel de video af in Foto's en pauzeer.</li><li>Tik op het scherm om de bediening te verbergen.</li><li>Druk tegelijk op de <strong>zijknop</strong> en <strong>volume omhoog</strong> (met thuisknop: thuisknop + zijknop).</li><li>Open de miniatuur, snijd de zwarte balken weg en tik op Gereed.</li></ol><h2>Waarom de kwaliteit achteruitgaat</h2><ul><li><strong>Schermresolutie, niet videoresolutie.</strong> Een liggende 4K-video (3840×2160) is op een staand scherm een smalle strook. Na het bijsnijden blijft maar een fractie van de pixels over.</li><li><strong>Moeilijk om op het juiste frame te stoppen.</strong> Pauzeren met je vinger landt vaak op een knipper- of bewegingsframe.</li><li><strong>Overbodige elementen en extra compressie.</strong> Afspeelknop, ondertitels, tijdbalk, plus opnieuw opslaan bij het bijsnijden.</li></ul><h3>Waarom het screenshot donkerder is</h3><p>De iPhone filmt standaard in <strong>HDR</strong>, en HDR-video wordt op het scherm feller weergegeven. Een screenshot wordt als gewone afbeelding bewaard en kan daardoor donkerder of fletser lijken dan de afgespeelde video. Wil je dat verschil bij nieuwe video's niet, zet dan HDR-video uit via Instellingen → Camera → Video-opname.</p><blockquote><p>De oplossing is niet een beter screenshot, maar helemaal geen screenshot.</p></blockquote><h2>Methode 1: Foto's in iOS 27</h2><p>Pauzeer: open de video in Foto's, pauzeer op het juiste moment, tik op <strong>•••</strong> en kies de optie om het frame als foto te bewaren (<em>Save Video Frame as Photo</em>). Je krijgt een HEIF of JPG in de resolutie van de video, één per keer, met de datum van de video.</p><h2>Methode 2: een app (elke iOS, meerdere frames)</h2><p>Heb je iOS 26 of ouder, of wil je meerdere frames, PNG, ZIP of PDF? Een frame-app leest de frames direct uit het videobestand en exporteert ze in één keer.</p>",
+  "steps_title": "Een frame uit een iPhone-video bewaren zonder screenshot",
+  "steps": [
+    {
+      "name": "Open de video in de app",
+      "text": "Tik in Foto's op Deel en kies de app, of open Video To Photo – Grab Frame en kies de video.",
+      "shot": 0
+    },
+    {
+      "name": "Stop op het juiste frame",
+      "text": "Schuif langzaam over de framestrook en stop zodra het moment in de grote voorbeeldweergave staat. Geen gedoe met de pauzeknop.",
+      "shot": 1
+    },
+    {
+      "name": "Bewaar het frame",
+      "text": "Het komt in het bakje onderaan. Bewaar ook de frames ervoor en erna en vergelijk ze.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer als PNG of HEIC",
+      "text": "PNG is verliesvrij, HEIC is scherp en klein. Bewaar in Foto's of Bestanden.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Screenshot versus geëxporteerd frame</h2><table><thead><tr><th></th><th>Screenshot</th><th>Frame uit bestand</th></tr></thead><tbody><tr><td>Resolutie</td><td>Maximaal je scherm</td><td>Gelijk aan de video</td></tr><tr><td>Exact moment</td><td>Geluk</td><td>Kiezen met de framestrook</td></tr><tr><td>Afspeelknop, zwarte balken</td><td>Vaak, bijsnijden nodig</td><td>Nooit</td></tr><tr><td>Meerdere frames</td><td>Eén voor één</td><td>Samen exporteren, ZIP, PDF</td></tr><tr><td>Formaat</td><td>PNG-screenshot</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Zo krijg je het scherpste resultaat</h2><p>Een frame wordt nooit scherper dan de video. Stille momenten, goed licht en een hoge resolutie geven het mooiste resultaat. Meer in <a href=\"/nl/guides/scherpe-foto-uit-video/\">een scherpe foto uit een video halen</a>.</p>",
+  "faq": [
+    {
+      "q": "Waarom is een screenshot van een video wazig?",
+      "a": "Omdat het scherm wordt vastgelegd: de video is verkleind tot de weergavegrootte en je pauzeert vaak op een bewegend frame. Een frame uit het bestand lost beide op."
+    },
+    {
+      "q": "Waarom is mijn iPhone-screenshot van een video donker?",
+      "a": "HDR-video wordt op het scherm feller weergegeven, maar een screenshot wordt als gewone afbeelding bewaard. Voor nieuwe video's kun je HDR-video uitzetten via Instellingen → Camera → Video-opname."
+    },
+    {
+      "q": "Kan ik een foto uit een video bewaren zonder screenshot?",
+      "a": "Ja. Vanaf iOS 27 via het •••-menu in Foto's. Op elke versie haal je met Video To Photo – Grab Frame het frame direct uit het videobestand."
+    },
+    {
+      "q": "Welk formaat behoudt de meeste kwaliteit?",
+      "a": "PNG is verliesvrij en bewaart elke pixel. HEIC komt dicht in de buurt met kleinere bestanden. JPG is het lichtst en werkt overal."
+    }
+  ],
+  "related": [
+    "foto-uit-video-halen-iphone",
+    "scherpe-foto-uit-video",
+    "video-naar-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

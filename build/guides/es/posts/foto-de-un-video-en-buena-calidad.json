@@ -1,0 +1,65 @@
+{
+  "slug": "foto-de-un-video-en-buena-calidad",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "foto de un video en buena calidad",
+  "secondary_keywords": [
+    "como sacar una foto de buena calidad de un video",
+    "sacar fotos de un video sin perder calidad",
+    "extraer fotogramas de un video alta calidad",
+    "video a foto hd"
+  ],
+  "title": "Cómo sacar una foto de buena calidad de un video en iPhone",
+  "description": "Por qué las fotos sacadas de un video salen borrosas y cómo evitarlo: fotograma sin movimiento, 4K y 60 fps, extraer en vez de capturar y exportar en PNG o HEIC.",
+  "h1": "Cómo sacar una foto de buena calidad de un video",
+  "nav_title": "Foto de un video en buena calidad",
+  "card_title": "Foto de un video en buena calidad",
+  "excerpt": "Por qué los fotogramas se ven borrosos, qué puedes arreglar después de grabar y qué cambiar antes.",
+  "lead": "Encontraste el momento perfecto, lo guardaste… y está borroso. Los fotogramas de video están pensados para el movimiento, no para mirarlos quietos, pero con el fotograma y el método adecuados parecen fotos de verdad.",
+  "quick_answer": "Elige un fotograma en el que el sujeto casi no se mueva, guárdalo desde el archivo en lugar de hacer captura y expórtalo en PNG o HEIC sin compresión extra. Guarda 3–5 fotogramas seguidos y quédate con el más nítido. Para los próximos videos, graba en 4K y a 60 fps con buena luz.",
+  "content_intro": "<h2>Por qué las fotos de un video salen borrosas</h2><ul><li><strong>Movimiento.</strong> Cada fotograma se expone una fracción de segundo; si el sujeto se mueve, sale movido.</li><li><strong>Captura de pantalla.</strong> Reduce el video al tamaño de la pantalla y lo vuelve a guardar. Ver <a href=\"/es/guides/captura-de-video-iphone-sin-perder-calidad/\">por qué la captura pierde calidad</a>.</li><li><strong>Compresión del video.</strong> El video está muy comprimido y algunos fotogramas tienen menos detalle.</li><li><strong>Poca luz.</strong> Con poca luz la cámara expone más tiempo y reduce más ruido: se pierde detalle.</li></ul><h2>Qué puedes arreglar después de grabar</h2><table><thead><tr><th>Problema</th><th>Solución</th></tr></thead><tbody><tr><td>Sujeto movido</td><td>Guarda varios fotogramas seguidos y elige el nítido</td></tr><tr><td>Foto pequeña o recortada</td><td>Extrae del archivo, no hagas captura</td></tr><tr><td>Bloques de compresión</td><td>Exporta en PNG o HEIC y evita volver a guardar</td></tr><tr><td>Ojos cerrados</td><td>Avanza despacio: el bueno suele estar a 1–2 fotogramas</td></tr></tbody></table>",
+  "steps_title": "Cómo conseguir el fotograma más nítido de un video",
+  "steps": [
+    {
+      "name": "Abre el video",
+      "text": "Compártelo desde Fotos con Video To Photo – Grab Frame para que el fotograma salga del archivo, no de la pantalla.",
+      "shot": 0
+    },
+    {
+      "name": "Busca el momento quieto",
+      "text": "Desliza alrededor de la acción y busca los picos: el punto alto de un salto, la pausa antes de una risa.",
+      "shot": 1
+    },
+    {
+      "name": "Guarda una ráfaga y compara",
+      "text": "Captura 3–5 fotogramas seguidos, amplía ojos, bordes o texto en la vista previa y borra los blandos.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta sin compresión extra",
+      "text": "El mejor, en PNG (sin pérdidas) o HEIC (calidad en poco espacio). JPG solo para enviar rápido.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Graba para sacar mejores fotos después</h2><ul><li><strong>4K.</strong> Más píxeles, más detalle y margen para recortar (Ajustes → Cámara → Grabar video).</li><li><strong>60 fps para acción.</strong> Más fotogramas entre los que elegir y menos movimiento en cada uno.</li><li><strong>Luz.</strong> Luz de día o una habitación bien iluminada es lo que más mejora la nitidez.</li><li><strong>Estabilidad.</strong> Apoya los codos o usa trípode: el temblor desenfoca todos los fotogramas.</li></ul><h2>¿Y si lo mejoro con IA?</h2><p>Los reescaladores con IA agrandan la imagen pero inventan detalles. Primero consigue el mejor fotograma real, a la resolución del video, y mejóralo solo si necesitas una impresión grande. Sobre formatos: <a href=\"/es/guides/convertir-video-a-jpg-png/\">convertir video a JPG o PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "¿Una foto sacada de un video puede verse como una foto normal?",
+      "a": "De un video 4K nítido y con buena luz, el fotograma se parece mucho a una foto, sobre todo para redes sociales. Una foto de verdad sigue teniendo ventajas, como una exposición más corta y un procesado pensado para fotos."
+    },
+    {
+      "q": "¿Qué resolución tiene un fotograma de un video 4K?",
+      "a": "3840 × 2160 píxeles, unos 8,3 megapíxeles. Un fotograma de 1080p tiene 1920 × 1080, unos 2 megapíxeles."
+    },
+    {
+      "q": "¿Qué formato conserva más detalle?",
+      "a": "PNG no tiene pérdidas. HEIC da casi la misma calidad en mucho menos espacio. JPG comprime un poco pero es compatible con todo."
+    }
+  ],
+  "related": [
+    "captura-de-video-iphone-sin-perder-calidad",
+    "video-fotograma-a-fotograma-iphone",
+    "convertir-video-a-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

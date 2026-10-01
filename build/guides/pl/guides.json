@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Poradniki: zdjęcie z filmu na iPhonie",
+    "description": "Poradniki, jak zrobić zdjęcie z filmu na iPhonie: ostrzej niż zrzut ekranu, zapis klatki, wycinanie klatek, film do PDF, miniatury i konwersja na JPG lub PNG.",
+    "eyebrow": "Poradniki",
+    "h1": "Zdjęcie z filmu na iPhonie: wszystkie poradniki",
+    "intro": "Każdy poradnik odpowiada na jedno pytanie: co potrafi sam iPhone (a czego nie) i jak zrobić to najszybciej w Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Strona główna",
+    "guides": "Poradniki",
+    "guide_eyebrow": "Poradnik iPhone",
+    "quick_answer": "Krótka odpowiedź",
+    "by": "Autor:",
+    "updated": "Aktualizacja",
+    "min_read": "min czytania",
+    "faq_title": "Często zadawane pytania",
+    "related": "Powiązane poradniki",
+    "read_guide": "Czytaj poradnik",
+    "inline_cta": "Wypróbuj na własnym filmie. To zajmie minutę.",
+    "app_card_cta": "Pobierz z App Store",
+    "app_card_fine": "Za darmo · zakupy w aplikacji · iOS 18.6+",
+    "app_card_bullets": ["Precyzyjny wybór klatki", "JPG, PNG, HEIC", "Eksport zbiorczy do ZIP i PDF", "Offline, bez wysyłania i konta"],
+    "final_cta_title": "Twoje najlepsze zdjęcie jest w filmie.",
+    "final_cta_text": "Zapisz je w pełnej jakości na iPhonie. Bez wysyłania, bez konta, bez umiejętności montażu."
+  }
+}

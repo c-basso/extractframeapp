@@ -1,0 +1,65 @@
+{
+  "slug": "chup-anh-tu-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "chụp ảnh từ video trên iPhone",
+  "secondary_keywords": [
+    "chụp ảnh từ video trên iphone",
+    "chụp ảnh từ video iphone",
+    "lưu khung hình video thành ảnh",
+    "lấy ảnh từ video trên iphone"
+  ],
+  "title": "Chụp ảnh từ video trên iPhone và lưu thành ảnh",
+  "description": "Cách lưu một khung hình từ video thành ảnh trên iPhone: tính năng iOS 27 và cách cho iOS cũ hoặc nhiều khung hình, dạng JPG, PNG hoặc HEIC.",
+  "h1": "Cách chụp ảnh từ video và lưu thành ảnh trên iPhone",
+  "nav_title": "Chụp ảnh từ video",
+  "card_title": "Lưu khung hình video thành ảnh",
+  "excerpt": "Xuất đúng khung hình vào Ảnh hoặc Tệp mà không sửa video gốc.",
+  "lead": "Bạn biết chính xác mình muốn khung hình nào. Bạn chỉ muốn có nó như một bức ảnh bình thường, cạnh những ảnh khác. Đây là cách làm trên iPhone.",
+  "quick_answer": "iOS 27 trở lên: mở video trong Ảnh, tạm dừng rồi lưu khung hình qua •••. iOS cũ hơn hoặc cần nhiều khung hình, PNG, ZIP hay PDF: chia sẻ video sang Video To Photo – Grab Frame, lưu khung hình rồi xuất vào Ảnh hoặc Tệp.",
+  "content_intro": "<h2>Cách 1: tính năng có sẵn của iOS 27</h2><ol><li>Mở video trong Ảnh và tạm dừng ở khung hình bạn muốn (kéo dải khung hình để chọn thật chính xác).</li><li>Chạm <strong>•••</strong> ở góc trên bên phải.</li><li>Chọn lưu khung hình thành ảnh (<em>Save Video Frame as Photo</em>).</li></ol><p>Bạn nhận một ảnh với độ phân giải video, dạng HEIF hoặc JPG (tùy cài đặt camera). Lưu ý: <strong>mỗi lần một khung hình</strong>, và ảnh mang <strong>ngày của video</strong>. Hãy tìm cạnh video, không phải ở đầu mục Gần đây.</p><h2>Cách 2: nhiều khung hình hoặc iOS 26 trở xuống</h2><p>Phiên bản cũ không có tính năng có sẵn, chỉ có chụp màn hình (<a href=\"/vi/guides/chup-man-hinh-video-iphone/\">vì sao bị mất chất lượng</a>). Ngay cả trên iOS 27, ứng dụng vẫn nhanh hơn khi bạn cần một loạt khung hình, PNG hoặc ZIP/PDF.</p>",
+  "steps_title": "Cách lưu khung hình bằng Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Chia sẻ video từ Ảnh",
+      "text": "Mở video, chạm Chia sẻ rồi chọn ứng dụng. Màn hình khung hình mở ngay.",
+      "shot": 0
+    },
+    {
+      "name": "Tìm khung hình và lưu",
+      "text": "Kéo đến khoảnh khắc rồi chạm lưu. Bộ đếm cho biết bạn có bao nhiêu khung hình.",
+      "shot": 1
+    },
+    {
+      "name": "Chọn định dạng",
+      "text": "Chạm Xuất. JPEG để gửi, PNG không mất chất lượng, HEIC nhẹ và nét.",
+      "shot": 3
+    },
+    {
+      "name": "Lưu vào Ảnh hoặc Tệp",
+      "text": "Từ menu chia sẻ, lưu vào thư viện hoặc Tệp, hay gửi thẳng vào cuộc trò chuyện.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Khung hình đã lưu đi đâu?</h2><ul><li><strong>Thư viện ảnh</strong>: chỉnh sửa, chia sẻ và in như mọi ảnh.</li><li><strong>Tệp</strong>: iCloud Drive hoặc Trên iPhone, tiện cho tài liệu công việc.</li><li><strong>Ứng dụng khác</strong>: Zalo, Messenger, Instagram, email qua menu chia sẻ.</li></ul><h2>Nhiều khung hình cùng lúc</h2><p>Trước khi xuất, hãy lưu mọi khung hình cần thiết rồi xuất cùng lúc dạng tệp riêng, <strong>ZIP</strong> hoặc <strong>PDF</strong>. Xem thêm <a href=\"/vi/guides/tach-anh-tu-video/\">tách ảnh từ video</a>.</p><h2>Làm tiếp sau</h2><p>Mỗi video được lưu thành một dự án, nên hôm sau bạn làm tiếp mà không cần tìm lại video.</p>",
+  "faq": [
+    {
+      "q": "Ứng dụng Ảnh có lưu khung hình từ video được không?",
+      "a": "Từ iOS 27 thì được: tạm dừng rồi lưu qua •••. Mỗi lần một khung hình, dạng HEIF hoặc JPG. Trước iOS 27 chỉ có chụp màn hình."
+    },
+    {
+      "q": "Video gốc của tôi có bị thay đổi không?",
+      "a": "Không. Ứng dụng đọc video và tạo tệp ảnh mới. Video trong Ảnh vẫn giữ nguyên."
+    },
+    {
+      "q": "Có dùng offline được không?",
+      "a": "Được. Khung hình được lấy từ video ngay trên iPhone, không cần internet và không có gì bị tải lên."
+    }
+  ],
+  "related": [
+    "cat-anh-tu-video-tren-iphone",
+    "tach-anh-tu-video",
+    "chuyen-video-sang-jpg"
+  ],
+  "datePublished": "2026-10-01"
+}

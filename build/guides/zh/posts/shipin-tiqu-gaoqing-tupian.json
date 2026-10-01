@@ -1,0 +1,64 @@
+{
+  "slug": "shipin-tiqu-gaoqing-tupian",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "视频截图高清",
+  "secondary_keywords": [
+    "视频截图 高清",
+    "视频提取高清图片",
+    "视频截图模糊怎么办"
+  ],
+  "title": "视频截图不清晰？从视频提取高清图片的方法",
+  "description": "为什么从视频截出的图片会模糊，以及如何改善：选静止的帧、用 4K 和 60 fps 拍摄、从文件导出而不是截屏、使用 PNG 或 HEIC。",
+  "h1": "如何从视频提取高清图片",
+  "nav_title": "视频提取高清图片",
+  "card_title": "从视频提取高清图片",
+  "excerpt": "为什么帧会模糊，拍完后能做什么，拍之前该改什么。",
+  "lead": "你找到了完美的瞬间，保存下来，却是糊的。视频帧是为动态画面设计的，不是为静止观看设计的。但只要选对帧、用对方法，它也能像真正的照片。",
+  "quick_answer": "选择主体几乎静止的一帧，从视频文件保存而不是截屏，然后导出为不再额外压缩的 PNG 或 HEIC。保存相邻 3–5 帧，留下最清晰的。以后拍视频时，尽量在光线充足的地方用 4K、60 fps。",
+  "content_intro": "<h2>视频截出的图为什么模糊</h2><ul><li><strong>运动模糊。</strong>每一帧的曝光只有几十分之一秒，主体在动就会糊。</li><li><strong>截屏。</strong>视频被缩小到屏幕尺寸再保存一次。见<a href=\"/zh/guides/iphone-shipin-jietu/\">为什么截屏会损失画质</a>。</li><li><strong>视频压缩。</strong>视频压缩率很高，有些帧细节较少。</li><li><strong>光线不足。</strong>曝光时间更长、降噪更强，细节会丢失。</li></ul><h2>拍完之后能做什么</h2><table><thead><tr><th>问题</th><th>解决办法</th></tr></thead><tbody><tr><td>主体运动模糊</td><td>保存相邻多帧，选最清晰的</td></tr><tr><td>图片太小或被裁切</td><td>从文件导出，不要截屏</td></tr><tr><td>压缩色块</td><td>导出 PNG 或 HEIC，不要反复保存</td></tr><tr><td>闭眼</td><td>慢慢拖动，好的那一帧往往就在 1–2 帧之外</td></tr></tbody></table>",
+  "steps_title": "从视频中提取最清晰的一帧",
+  "steps": [
+    {
+      "name": "打开视频",
+      "text": "从“照片”共享到 Video To Photo – Grab Frame。帧来自文件，而不是屏幕。",
+      "shot": 0
+    },
+    {
+      "name": "找到静止的瞬间",
+      "text": "在动作前后拖动，寻找“停顿”：跳跃的最高点、笑之前的一刻。",
+      "shot": 1
+    },
+    {
+      "name": "连续保存并比较",
+      "text": "在该瞬间附近保存 3–5 帧，放大眼睛、边缘或文字，删掉发虚的。",
+      "shot": 2
+    },
+    {
+      "name": "不额外压缩地导出",
+      "text": "把最好的导出为 PNG（无损）或 HEIC（清晰又小）。需要快速发送时用 JPG。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>怎么拍才能提取清晰的帧</h2><ul><li><strong>4K。</strong>像素越多，细节越多，也更有裁剪余地（设置 → 相机 → 录制视频）。</li><li><strong>有动作时用 60 fps。</strong>可选的帧更多，每帧的拖影更少。</li><li><strong>光线。</strong>日光或明亮的室内对清晰度影响最大。</li><li><strong>稳定。</strong>撑住手肘或用三脚架，抖动会让每一帧都模糊。</li></ul><h2>用 AI 变清晰呢？</h2><p>AI 放大工具能把图片放大，但会“脑补”细节。先拿到与视频同分辨率的最佳真实帧，只有大尺寸打印时再放大。格式选择见<a href=\"/zh/guides/shipin-zhuan-tupian/\">视频转 JPG / PNG 图片</a>。</p>",
+  "faq": [
+    {
+      "q": "视频帧能和照片一样好吗？",
+      "a": "在光线充足下拍摄的清晰 4K 视频，其帧在社交媒体上几乎看不出和照片的区别。不过真正的照片仍有优势，比如更短的快门时间和照片专用的处理。"
+    },
+    {
+      "q": "4K 视频的一帧是多少分辨率？",
+      "a": "3840×2160 像素，约 830 万像素。1080p 则是 1920×1080，约 200 万像素。"
+    },
+    {
+      "q": "哪种格式保留细节最多？",
+      "a": "PNG 无损。HEIC 画质接近但文件小得多。JPG 会轻微压缩，但哪里都能打开。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-jietu",
+    "shipin-zhuzhen-iphone",
+    "shipin-zhuan-tupian"
+  ],
+  "datePublished": "2026-10-01"
+}

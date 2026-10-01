@@ -1,0 +1,64 @@
+{
+  "slug": "chuyen-video-sang-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "chuyển video sang PDF",
+  "secondary_keywords": [
+    "đổi video sang pdf",
+    "video có chuyển sang pdf được không",
+    "chuyển video mp4 sang pdf"
+  ],
+  "title": "Chuyển video sang PDF trên iPhone: không cần tải lên",
+  "description": "Chuyển video sang PDF trên iPhone: chọn khung hình quan trọng và gộp thành một PDF làm storyboard, ghi chú bài giảng hay tài liệu duyệt. Offline, không tải lên.",
+  "h1": "Cách chuyển video sang PDF trên iPhone",
+  "nav_title": "Chuyển video sang PDF",
+  "card_title": "Gộp khung hình video thành PDF",
+  "excerpt": "Khoảnh khắc quan trọng của video trong một PDF: storyboard, ghi chú, duyệt nội dung.",
+  "lead": "PDF gồm các khung hình chính là cách nhanh nhất để cho người không xem video biết trong đó có gì. Khách hàng duyệt bản dựng, sinh viên ôn bài giảng, nhóm duyệt storyboard.",
+  "quick_answer": "Mở video trong Video To Photo – Grab Frame và lưu một khung hình ở mỗi khoảnh khắc quan trọng. Chạm Xuất, chọn định dạng ảnh rồi chọn PDF. Bạn nhận một PDF gồm các khung hình, sẵn sàng gửi qua AirDrop, Zalo, email hoặc Tệp.",
+  "content_intro": "<h2>\"Video có chuyển sang PDF được không?\"</h2><p>PDF không phát được video. Chuyển video sang PDF nghĩa là lưu các <strong>ảnh tĩnh</strong> rồi gộp vào một tài liệu. Mấu chốt là <em>chọn khung hình nào</em>: PDF 900 khung hình giống nhau thì vô dụng, PDF 12 khung hình chính thì rất giá trị.</p><h2>Hữu ích cho</h2><ul><li><strong>Storyboard hoặc danh sách cảnh quay</strong>: mỗi cảnh một khung hình, cho pitch và thuyết trình.</li><li><strong>Ghi chú bài giảng</strong>: slide và bảng từ buổi học đã quay.</li><li><strong>Khách hàng duyệt</strong>: ghi chú trên PDF dễ hơn tìm mốc thời gian.</li><li><strong>Phân tích thể thao</strong>: các giai đoạn của động tác theo thứ tự.</li><li><strong>Hướng dẫn sử dụng</strong>: biến video quay màn hình thành các bước.</li></ul>",
+  "steps_title": "Cách gộp khung hình video thành PDF trên iPhone",
+  "steps": [
+    {
+      "name": "Mở video",
+      "text": "Chia sẻ từ Ảnh sang Video To Photo – Grab Frame hoặc chọn trong ứng dụng.",
+      "shot": 0
+    },
+    {
+      "name": "Lưu khung hình chính",
+      "text": "Xem qua video và chạm lưu ở mỗi cảnh, slide hoặc bước.",
+      "shot": 1
+    },
+    {
+      "name": "Chọn PDF khi xuất",
+      "text": "Chạm Xuất, chọn JPEG, PNG hoặc HEIC rồi chọn PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Chia sẻ hoặc lưu PDF",
+      "text": "Lưu vào Tệp hoặc gửi qua AirDrop, Zalo, email từ menu chia sẻ.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Mẹo cho PDF gọn gàng</h2><ul><li>Lưu khung hình theo thứ tự từ đầu đến cuối.</li><li>Chọn khung hình thấy rõ toàn bộ chữ và không nằm giữa hiệu ứng chuyển cảnh.</li><li>Dùng PNG cho slide và chữ nhỏ.</li><li>Dự án được lưu, nên có thể thêm khung hình rồi xuất lại sau.</li></ul><h2>PDF hay ZIP?</h2><p><strong>PDF</strong> để đọc theo thứ tự và ghi chú, <strong>ZIP</strong> khi cần tệp riêng, ví dụ cho thiết kế. Cả hai được mô tả trong <a href=\"/vi/guides/tach-anh-tu-video/\">tách ảnh từ video</a>.</p>",
+  "faq": [
+    {
+      "q": "Có chuyển video sang PDF mà không tải lên mạng được không?",
+      "a": "Được. Video To Photo – Grab Frame tạo PDF trên iPhone từ các khung hình bạn lưu; video không rời khỏi máy."
+    },
+    {
+      "q": "Khung hình trong PDF theo thứ tự nào?",
+      "a": "PDF chứa các khung hình bạn đã lưu. Lưu từ đầu đến cuối thì tài liệu sẽ theo đúng thứ tự video."
+    },
+    {
+      "q": "Làm storyboard từ video trên điện thoại thế nào?",
+      "a": "Lưu mỗi cảnh quay một khung hình rồi xuất PDF: đó là một storyboard đơn giản. Ghi chú thêm bằng Đánh dấu hoặc ứng dụng PDF."
+    }
+  ],
+  "related": [
+    "tach-anh-tu-video",
+    "chuyen-video-sang-jpg",
+    "app-cat-anh-tu-video"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "malinaw-na-picture-mula-sa-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "malinaw na picture mula sa video",
+  "secondary_keywords": [
+    "how to get clear picture from video iphone",
+    "how to get high quality picture from video iphone",
+    "video to picture hd"
+  ],
+  "title": "Malinaw na Picture mula sa Video: Bakit Malabo at Solusyon",
+  "description": "Bakit malabo ang picture mula sa video at paano ito ayusin: kalmadong frame, 4K at 60 fps, export imbes na screenshot, at PNG o HEIC.",
+  "h1": "Paano makakuha ng malinaw na picture mula sa video",
+  "nav_title": "Malinaw na picture mula sa video",
+  "card_title": "Malinaw na picture mula sa video",
+  "excerpt": "Bakit malabo ang mga frame, ano ang magagawa pagkatapos mag-record at ano ang babaguhin bago mag-record.",
+  "lead": "Nahanap mo ang perpektong sandali, na-save mo, at malabo pala. Ginawa ang mga frame ng video para sa galaw, hindi para titigan nang nakatigil. Pero sa tamang frame at tamang paraan, puwede itong magmukhang totoong picture.",
+  "quick_answer": "Pumili ng frame kung saan halos hindi gumagalaw ang subject, i-save mula sa video file imbes na screenshot, at i-export bilang PNG o HEIC nang walang dagdag na compression. Mag-save ng 3–5 magkakatabing frame at itira ang pinakamalinaw. Sa susunod, mag-record sa maliwanag na lugar, 4K at 60 fps.",
+  "content_intro": "<h2>Bakit malabo ang picture mula sa video</h2><ul><li><strong>Galaw.</strong> Bawat frame ay naka-expose nang bahagi lang ng isang segundo. Kung gumagalaw ang subject, lumalabo ito.</li><li><strong>Screenshot.</strong> Lumiliit ang video sa laki ng screen at nase-save ulit. Tingnan ang <a href=\"/fil/guides/paano-mag-screenshot-ng-video-sa-iphone/\">bakit bumababa ang kalidad ng screenshot</a>.</li><li><strong>Compression ng video.</strong> Malakas ang compression ng video; may mga frame na kulang sa detalye.</li><li><strong>Kulang sa ilaw.</strong> Mas mahabang exposure at malakas na noise reduction ang nagbubura ng detalye.</li></ul><h2>Ano ang magagawa pagkatapos mag-record</h2><table><thead><tr><th>Problema</th><th>Solusyon</th></tr></thead><tbody><tr><td>Gumalaw ang subject</td><td>Mag-save ng ilang katabing frame at piliin ang pinakamalinaw</td></tr><tr><td>Maliit o putol ang picture</td><td>I-export mula sa file, hindi screenshot</td></tr><tr><td>Mga kahon ng compression</td><td>I-export bilang PNG o HEIC at huwag nang i-save ulit</td></tr><tr><td>Nakapikit</td><td>Mag-drag nang dahan-dahan; madalas 1–2 frame lang ang layo ng maganda</td></tr></tbody></table>",
+  "steps_title": "Paano kunin ang pinakamalinaw na frame mula sa video",
+  "steps": [
+    {
+      "name": "Buksan ang video",
+      "text": "I-share mula sa Photos papunta sa Video To Photo – Grab Frame. Galing sa file ang mga frame, hindi sa screen.",
+      "shot": 0
+    },
+    {
+      "name": "Hanapin ang tahimik na sandali",
+      "text": "Mag-drag sa paligid ng galaw at hanapin ang \"pause\": tuktok ng talon, bago ngumiti.",
+      "shot": 1
+    },
+    {
+      "name": "Mag-save ng serye at ikumpara",
+      "text": "Mag-save ng 3–5 frame sa paligid ng sandali at i-zoom ang mata, gilid o text. Burahin ang malalambot na frame.",
+      "shot": 2
+    },
+    {
+      "name": "I-export nang walang dagdag na compression",
+      "text": "I-export ang pinakamaganda bilang PNG (lossless) o HEIC (malinaw at magaan). JPG para sa mabilis na pagpapadala.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Paano mag-record para sa malinaw na frame</h2><ul><li><strong>4K.</strong> Mas maraming pixel, mas maraming detalye at may puwang para mag-crop (Settings → Camera → Record Video).</li><li><strong>60 fps kapag may galaw.</strong> Mas maraming frame na mapagpipilian at mas kaunting labo bawat frame.</li><li><strong>Ilaw.</strong> Liwanag ng araw o maliwanag na kuwarto ang pinakamalaking epekto sa linaw.</li><li><strong>Katatagan.</strong> Isandal ang siko o gumamit ng tripod; pinalalabo ng nginig ang bawat frame.</li></ul><h2>Paano ang AI enhancement?</h2><p>Pinapalaki ng AI upscaler ang image pero \"nag-iimbento\" ito ng detalye. Kunin muna ang pinakamagandang totoong frame sa resolution ng video, at sa malalaking print na lang gamitin ang pagpapalaki. Para sa format, tingnan ang <a href=\"/fil/guides/video-to-jpg-png/\">video to JPG o PNG</a>.</p>",
+  "faq": [
+    {
+      "q": "Puwede bang kasingganda ng picture ang frame mula sa video?",
+      "a": "Ang malinaw na 4K video sa magandang ilaw ay nagbibigay ng frame na mahirap ihiwalay sa picture sa social media. May kalamangan pa rin ang totoong picture, gaya ng mas maikling shutter speed at photo processing."
+    },
+    {
+      "q": "Ano ang resolution ng frame mula sa 4K video?",
+      "a": "3840×2160 pixel, mga 8.3 megapixel. Sa 1080p, 1920×1080, mga 2 megapixel."
+    },
+    {
+      "q": "Anong format ang may pinakamaraming detalye?",
+      "a": "Lossless ang PNG. Halos kapareho ang HEIC na mas maliit ang file. Bahagyang nagko-compress ang JPG pero bumubukas kahit saan."
+    }
+  ],
+  "related": [
+    "paano-mag-screenshot-ng-video-sa-iphone",
+    "video-frame-by-frame-iphone",
+    "video-to-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

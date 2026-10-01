@@ -1,0 +1,64 @@
+{
+  "slug": "video-slicica-za-slicico-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video sličica za sličico iphone",
+  "secondary_keywords": [
+    "frame by frame iphone",
+    "ustaviti video na točni sličici",
+    "predvajanje po sličicah"
+  ],
+  "title": "Video sličica za sličico na iPhonu: točen trenutek",
+  "description": "Kako pregledovati video sličico za sličico na iPhonu, najti točen trenutek (strel, mežik, gol) in ga shraniti kot ostro fotografijo.",
+  "h1": "Video sličica za sličico na iPhonu",
+  "nav_title": "Sličica za sličico",
+  "card_title": "Video sličica za sličico na iPhonu",
+  "excerpt": "Kako natančno priti do prave sličice in jo shraniti.",
+  "lead": "Pri 30 fps ima vsaka sekunda 30 sličic, pri 60 fps 60. Pravi trenutek je le v eni od njih. Zato potrebujete pregled sličico za sličico.",
+  "quick_answer": "V Fotografijah ustavite video in počasi vlecite trak sličic. Natančneje gre v Video To Photo – Grab Frame: velik predogled, natančen trak in takojšnje shranjevanje sličice.",
+  "content_intro": "<h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p><h2>Fotografije ali Grab Frame?</h2><table><thead><tr><th></th><th>Fotografije</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Sličica za sličico</td><td>Vlečenje traku</td><td>Natančen trak, velik predogled</td></tr><tr><td>Shranjevanje</td><td>iOS 27, ena sličica</td><td>Takoj, več sličic</td></tr><tr><td>Formati</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Iskanje točne sličice",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "Delite ga iz Fotografij v Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Približajte se trenutku",
+      "text": "Hitro povlecite trak približno na pravo mesto.",
+      "shot": 1
+    },
+    {
+      "name": "Počasi, sličica za sličico",
+      "text": "Premikajte počasi in spremljajte velik predogled.",
+      "shot": 3
+    },
+    {
+      "name": "Shranite",
+      "text": "Tapnite shrani, ko je trenutek popoln.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Nasveti</h2><ul><li>Počasni posnetek (120/240 fps) da veliko več sličic pri hitrem gibanju.</li><li>Pri 60 fps je gibanje manj zamegljeno kot pri 30 fps.</li><li>Shranite nekaj sosednjih sličic in jih primerjajte.</li></ul>",
+  "faq": [
+    {
+      "q": "Ali iPhone lahko predvaja video sličico za sličico?",
+      "a": "V Fotografijah lahko video ustavite in vlečete trak. Natančnejši pogled ponujajo aplikacije, kot je Grab Frame."
+    },
+    {
+      "q": "Kako ustavim video na točni sličici?",
+      "a": "Ustavite ga blizu trenutka, nato počasi vlecite trak sličic."
+    },
+    {
+      "q": "Deluje s počasnimi posnetki?",
+      "a": "Da. Počasni posnetek ima več sličic, zato imate večjo izbiro."
+    }
+  ],
+  "related": [
+    "slika-iz-videa-iphone",
+    "ostra-slika-iz-videa",
+    "video-v-slike"
+  ],
+  "datePublished": "2026-10-01"
+}

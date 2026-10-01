@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-z-videa",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail size",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "náhľad na youtube z videa",
+    "miniatúra youtube"
+  ],
+  "title": "YouTube thumbnail z videa na iPhone",
+  "description": "Vytvorte thumbnail na YouTube, Instagram alebo TikTok z najlepšej snímky vlastného videa na iPhone: export do PNG, správna veľkosť a tipy na viac kliknutí.",
+  "h1": "Ako vytvoriť YouTube thumbnail z videa na iPhone",
+  "nav_title": "YouTube thumbnail",
+  "card_title": "YouTube thumbnail z vlastného videa",
+  "excerpt": "Výber a export najlepšej snímky na thumbnail.",
+  "lead": "Thumbnail rozhoduje o tom, či niekto klikne na video. Najlepší základ je často priamo vo videu: výrazná tvár, vrchol, jasný okamih. Stačí ho nájsť a ostro uložiť.",
+  "quick_answer": "Otvorte video vo Video To Photo – Grab Frame, nájdite ostrú a výraznú snímku a exportujte ju do PNG. Text a orezanie (1280×720, 16:9) pridajte v obľúbenom editore a potom nahrajte na YouTube.",
+  "content_intro": "<h2>Odporúčané rozmery</h2><table><thead><tr><th>Platforma</th><th>Rozmer</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Príspevok na Instagrame</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p>",
+  "steps_title": "Thumbnail krok za krokom",
+  "steps": [
+    {
+      "name": "Otvorte video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Nájdite vrchol",
+      "text": "Prechádzajte snímku po snímke a hľadajte výraznú tvár alebo silný okamih bez rozmazania.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte viac kandidátov",
+      "text": "Uložte tri-štyri snímky, aby ste mali z čoho vyberať.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte do PNG",
+      "text": "PNG zachová kvalitu pred pridaním textu a orezaním.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tipy na dobrý thumbnail</h2><ul><li>Veľký, čitateľný text: najviac 3–5 slov.</li><li>Tvár s emóciou: vyniká v zozname.</li><li>Silný kontrast, málo detailov.</li><li>Skontrolujte ho aj v malej veľkosti, ako sa zobrazí v mobile.</li></ul><p>Používajte vlastné videá. Snímky z cudzieho obsahu nezverejňujte bez povolenia.</p>",
+  "faq": [
+    {
+      "q": "Aký veľký má byť YouTube thumbnail?",
+      "a": "1280×720 pixelov, pomer 16:9, najviac 2 MB (JPG alebo PNG)."
+    },
+    {
+      "q": "Dá sa thumbnail urobiť zo snímky videa?",
+      "a": "Áno. Uložte snímku pomocou Video To Photo – Grab Frame do PNG a potom pridajte text v editore."
+    },
+    {
+      "q": "Prečo je thumbnail rozmazaný?",
+      "a": "Vybrali ste snímku v pohybe alebo má video nízke rozlíšenie. Vyberte susednú snímku a natáčajte v 4K."
+    }
+  ],
+  "related": [
+    "ostra-fotka-z-videa",
+    "video-do-jpg-png",
+    "fotka-z-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

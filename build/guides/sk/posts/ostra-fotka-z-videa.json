@@ -1,0 +1,64 @@
+{
+  "slug": "ostra-fotka-z-videa",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "ostrá fotka z videa",
+  "secondary_keywords": [
+    "fotka z videa v kvalite",
+    "rozmazaná fotka z videa",
+    "hdr video tmavá fotka"
+  ],
+  "title": "Ostrá fotka z videa na iPhone: prečo je rozmazaná",
+  "description": "Prečo je fotka z videa rozmazaná alebo tmavá a ako získať ostrú fotku v plnom rozlíšení na iPhone: uzávierka, fps, HDR a správna snímka.",
+  "h1": "Ostrá a kvalitná fotka z videa na iPhone",
+  "nav_title": "Ostrá fotka",
+  "card_title": "Ostrá fotka z videa: prečo je rozmazaná",
+  "excerpt": "Príčiny rozmazania, tmavých fotiek a nízkeho rozlíšenia a ich riešenia.",
+  "lead": "Fotka z videa je často mäkšia ako bežná fotka. Má to dôvod: video je robené pre plynulý pohyb, nie pre jednotlivé snímky. S niekoľkými nastaveniami a správnou snímkou však dosiahnete oveľa ostrejší výsledok.",
+  "quick_answer": "Vyberte snímku s najmenším pohybom, uložte ju zo súboru videa (nie screenshotom) a natáčajte v 4K pri 60 fps a dobrom svetle. Ak je fotka tmavá alebo vyblednutá, príčinou je HDR video. Video To Photo – Grab Frame ukladá snímku zo súboru v plnom rozlíšení.",
+  "content_intro": "<h2>Prečo je fotka rozmazaná?</h2><table><thead><tr><th>Príčina</th><th>Prejav</th><th>Riešenie</th></tr></thead><tbody><tr><td>Pohybová neostrosť</td><td>Rozmazaná ruka, lopta</td><td>Susedná snímka, viac svetla, 60 fps</td></tr><tr><td>Screenshot</td><td>Rozlíšenie displeja, ovládanie</td><td>Uloženie zo súboru</td></tr><tr><td>Kompresia</td><td>Štvorčekové plochy</td><td>Pôvodné video, nie z Messengera či WhatsAppu</td></tr><tr><td>HDR video</td><td>Tmavá alebo vyblednutá fotka</td><td>Pozrite nižšie</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p>",
+  "steps_title": "Ostrá fotka krok za krokom",
+  "steps": [
+    {
+      "name": "Otvorte pôvodné video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame. Pracujte s pôvodným súborom.",
+      "shot": 0
+    },
+    {
+      "name": "Nájdite najostrejšiu snímku",
+      "text": "Prechádzajte snímku po snímke okolo okamihu. Predchádzajúca alebo nasledujúca snímka je často oveľa ostrejšia.",
+      "shot": 1
+    },
+    {
+      "name": "Porovnajte priblížením",
+      "text": "Uložte dve-tri kandidátky a priblížte oči alebo hrany. Nechajte si najlepšiu.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte v plnom rozlíšení",
+      "text": "PNG pre najvyššiu kvalitu, HEIC/JPG pre menšiu veľkosť.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Prečo je fotka z HDR videa tmavá?</h2><p>iPhone predvolene natáča v HDR (Dolby Vision). Keď snímku uložíte ako bežnú fotku, jas a farby sa môžu líšiť. Ak vám to prekáža, vypnite to: <strong>Nastavenia → Fotoaparát → Nahrávanie videa → HDR video</strong>.</p><h2>Tipy na natáčanie</h2><ul><li>4K, 60 fps: viac a ostrejších snímok.</li><li>Veľa svetla: kratšia expozícia, menej rozmazania.</li><li>Spomalené video na rýchly pohyb.</li><li>Pevná ruka alebo statív.</li></ul><p>Fotka nemôže mať vyššie rozlíšenie ako video: zo 4K približne 8 MP, z 1080p približne 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Dá sa z videa získať kvalitná fotka?",
+      "a": "Áno, ak je video ostré a snímka sa ukladá zo súboru. Zo 4K získate približne 8 MP, čo stačí aj na menšiu tlač."
+    },
+    {
+      "q": "Prečo je fotka z videa rozmazaná?",
+      "a": "Najčastejšie kvôli pohybovej neostrosti alebo screenshotu. Vyberte susednú snímku a uložte zo súboru."
+    },
+    {
+      "q": "Prečo je fotka tmavá?",
+      "a": "Pravdepodobne pochádza z HDR videa. Pre ďalšie nahrávky vypnite HDR video v Nastavenia → Fotoaparát → Nahrávanie videa."
+    }
+  ],
+  "related": [
+    "fotka-z-videa-iphone",
+    "video-snimku-po-snimke-iphone",
+    "video-do-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

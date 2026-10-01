@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-voor-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video frame voor frame iPhone",
+  "secondary_keywords": [
+    "video frame by frame iphone",
+    "video beeld voor beeld afspelen iphone",
+    "iphone video vertragen frame"
+  ],
+  "title": "Video frame voor frame bekijken op iPhone en frames bewaren",
+  "description": "Zo loop je op je iPhone frame voor frame door een video om het exacte moment te vinden (swing, knipoog, doelpunt) en bewaar je dat frame als scherpe foto.",
+  "h1": "Een video frame voor frame bekijken op iPhone",
+  "nav_title": "Frame voor frame (iPhone)",
+  "card_title": "Video frame voor frame op iPhone",
+  "excerpt": "Het exacte moment in een video vinden en als foto bewaren.",
+  "lead": "Een swing, een doelpunt, een trick, een knipoog. Met afspelen en pauzeren zie je het niet; je moet vrijwel frame voor frame door de video. Zo doe je dat op iPhone, en zo bewaar je het frame.",
+  "quick_answer": "Pauzeer in Foto's en schuif langzaam over de framestrook. Op iOS 27 bewaar je het frame daarna via •••. Wil je meerdere momenten verzamelen, schuif dan in Video To Photo – Grab Frame met een grote voorbeeldweergave en bewaar elk moment.",
+  "content_intro": "<h2>Frame voor frame in de Foto's-app</h2><ol><li>Open de video en pauzeer.</li><li>Raak de framestrook onderaan aan en schuif langzaam naar links of rechts.</li><li>Houd de strook even vast om in te zoomen en nauwkeuriger te schuiven.</li></ol><p>Op iOS 27 of later tik je op <strong>•••</strong> om het gevonden frame als foto te bewaren. Op oudere iOS heb je alleen <a href=\"/nl/guides/screenshot-video-iphone-zonder-kwaliteitsverlies/\">een screenshot met kwaliteitsverlies</a>; met een app bewaar je op elke versie meerdere momenten.</p><h2>Waarom langzaam schuiven?</h2><p>Bij 30 fps duurt een frame 33 milliseconden, bij 60 fps 17. Een knipoog, het moment dat de bal geraakt wordt of een gezichtsuitdrukking verandert binnen twee frames. Het verschil tussen de beste foto en een mislukte is vaak één frame.</p>",
+  "steps_title": "Frame voor frame zoeken en het juiste frame bewaren",
+  "steps": [
+    {
+      "name": "Open de video in de app",
+      "text": "Deel hem vanuit Foto's met Video To Photo – Grab Frame. Je ziet een grote voorbeeldweergave en de framestrook.",
+      "shot": 0
+    },
+    {
+      "name": "Schuif langzaam",
+      "text": "Beweeg je vinger in kleine stapjes en kijk naar de voorbeeldweergave. Ga heen en weer rond de beweging.",
+      "shot": 1
+    },
+    {
+      "name": "Bewaar ook de buren",
+      "text": "Tik op bewaren, schuif een beetje en bewaar opnieuw. Vergelijk ze en houd de beste.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer de beste",
+      "text": "Exporteer als PNG of HEIC om de details te behouden, voor analyse, trainingsnotities of social media.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Wanneer frame voor frame handig is</h2><ul><li><strong>Sport</strong>: golf- en tennisswing, techniek, sprongen. Bewaar de sleutelframes en bekijk ze als PDF.</li><li><strong>Kinderen en huisdieren</strong>: dat ene frame waarop iedereen in de camera kijkt.</li><li><strong>Tutorials en schermopnames</strong>: één stap als referentiebeeld.</li><li><strong>Twijfelgevallen</strong>: wat gebeurde er echt bij dat doelpunt?</li></ul><h2>Film zo dat het later makkelijk is</h2><p>Film op <strong>60 fps</strong> (Instellingen → Camera → Video-opname): dubbel zoveel momenten en minder bewegingsonscherpte per frame. Slow motion geeft er nog meer. Zie ook <a href=\"/nl/guides/scherpe-foto-uit-video/\">een scherpe foto uit een video halen</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan ik in de Foto's-app frame voor frame door een video?",
+      "a": "Er is geen knop voor één frame, maar door te pauzeren en langzaam over de strook te schuiven kom je er heel dicht bij. Op iOS 27 bewaar je dat frame via •••."
+    },
+    {
+      "q": "Hoe bewaar ik het frame dat ik gevonden heb?",
+      "a": "Op iOS 27 via ••• in Foto's. Op elke versie zoek je hetzelfde moment in Video To Photo – Grab Frame, bewaar je het en exporteer je als JPG, PNG of HEIC."
+    },
+    {
+      "q": "Moet ik op 60 fps filmen?",
+      "a": "Ja. Je krijgt twee keer zoveel frames als bij 30 fps en elk frame is minder wazig, dus je vindt makkelijker een scherp moment."
+    }
+  ],
+  "related": [
+    "scherpe-foto-uit-video",
+    "frames-uit-video-halen",
+    "foto-uit-video-halen-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "video-na-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video na JPG",
+  "secondary_keywords": [
+    "video na jpg",
+    "převod videa na jpg",
+    "video na png",
+    "video na obrázky"
+  ],
+  "title": "Video na JPG, PNG nebo HEIC na iPhonu (offline)",
+  "description": "Převeďte snímky z videa na JPG, PNG nebo HEIC na iPhonu offline a v plné kvalitě. A který formát zvolit na posílání, úpravy či archiv.",
+  "h1": "Video na JPG, PNG nebo HEIC na iPhonu",
+  "nav_title": "Video na JPG, PNG, HEIC",
+  "card_title": "Snímky z videa na JPG, PNG nebo HEIC",
+  "excerpt": "Správný formát pro snímky a export bez online převodníku.",
+  "lead": "Online převodníky „video na JPG“ chtějí nahrát celý soubor, čekat a stáhnout hromadu obrázků. Na iPhonu to uděláte v zařízení, jen s potřebnými snímky a ve formátu, který se hodí.",
+  "quick_answer": "Otevřete video ve Video To Photo – Grab Frame, uložte požadované snímky, klepněte na Exportovat a zvolte JPEG, PNG nebo HEIC. JPG na posílání, PNG na bezeztrátové úpravy, HEIC pro malé a ostré soubory. Převod probíhá na iPhonu, bez nahrávání.",
+  "content_intro": "<h2>JPG, PNG a HEIC: rozdíly</h2><table><thead><tr><th>Formát</th><th>Kvalita</th><th>Velikost</th><th>Nejlepší pro</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Velmi dobrá (ztrátová)</td><td>Malá</td><td>WhatsApp, sítě, e-mail, web. Otevře se všude</td></tr><tr><td><strong>PNG</strong></td><td>Bezeztrátová</td><td>Největší</td><td>Úpravy, náhledy s textem, koláže</td></tr><tr><td><strong>HEIC</strong></td><td>Výborná</td><td>Nejmenší při stejné kvalitě</td><td>Knihovna Apple, iPhone a Mac</td></tr></tbody></table><p>Nevíte? <strong>JPG</strong> na posílání, <strong>PNG</strong> na úpravy.</p><h2>Proč ne online převodník?</h2><ul><li>Musíte nahrát celé video: pomalé na mobilních datech a nevhodné pro soukromá videa.</li><li>Mnoho webů řeže v pevných intervalech: stovky obrázků, ale možná bez vašeho okamžiku.</li><li>Bezplatné verze mívají limit nebo vodoznak.</li></ul>",
+  "steps_title": "Jak převést snímky z videa na JPG, PNG nebo HEIC na iPhonu",
+  "steps": [
+    {
+      "name": "Otevřete video",
+      "text": "Nasdílejte ho z Fotek do Video To Photo – Grab Frame, nebo ho vyberte v aplikaci.",
+      "shot": 0
+    },
+    {
+      "name": "Uložte snímky",
+      "text": "V každém okamžiku klepněte na uložení. Převádějí se jen vybrané snímky.",
+      "shot": 1
+    },
+    {
+      "name": "Zvolte JPEG, PNG nebo HEIC",
+      "text": "Klepněte na Exportovat a nahoře vyberte formát obrázku.",
+      "shot": 3
+    },
+    {
+      "name": "Uložte jako soubory, ZIP nebo PDF",
+      "text": "Exportujte samostatné obrázky, ZIP nebo PDF a uložte do Fotek či Souborů, nebo rovnou sdílejte.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Jaký formát na co?</h2><ul><li><strong>Náhledový obrázek YouTube nebo obálka TikToku</strong> → PNG, pak text. Viz <a href=\"/cs/guides/nahledovy-obrazek-youtube/\">náhledový obrázek YouTube z videa</a>.</li><li><strong>Posílání na Windows nebo Android</strong> → JPG (HEIC se všude neotevře).</li><li><strong>Tisk</strong> → PNG nebo kvalitní JPG ze 4K videa.</li><li><strong>Archiv mnoha snímků</strong> → HEIC v ZIP.</li><li><strong>Snímky v dokumentu</strong> → PDF, viz <a href=\"/cs/guides/video-do-pdf/\">video do PDF</a>.</li></ul><h2>Snižuje převod kvalitu?</h2><p>PNG zachová každý pixel snímku. JPG a HEIC komprimují, ale ve fotografické kvalitě je rozdíl sotva vidět. Mnohem důležitější než formát je exportovat ze souboru, ne dělat screenshot.</p>",
+  "faq": [
+    {
+      "q": "Dá se na iPhonu převést video na JPG zdarma?",
+      "a": "Video To Photo – Grab Frame se stahuje zdarma; funkce Pro jsou nákupem v aplikaci. Snímky se převádějí na iPhonu a video se nikam nenahrává."
+    },
+    {
+      "q": "Můžu uložit snímek z videa jako PNG?",
+      "a": "Ano. Uložte snímek, při exportu zvolte PNG a uložte jako samostatný soubor nebo ZIP."
+    },
+    {
+      "q": "Otevře se HEIC ve Windows?",
+      "a": "Novější Windows HEIC s rozšířením otevřou, ale ne každý systém. Pro zařízení mimo Apple je jistější JPG."
+    }
+  ],
+  "related": [
+    "kvalitni-fotka-z-videa",
+    "video-do-pdf",
+    "nahledovy-obrazek-youtube"
+  ],
+  "datePublished": "2026-10-01"
+}

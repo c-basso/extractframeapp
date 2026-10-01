@@ -1,0 +1,64 @@
+{
+  "slug": "video-a-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "vídeo a pdf",
+    "fotogrames a pdf",
+    "storyboard d'un vídeo"
+  ],
+  "title": "Vídeo a PDF a l’iPhone: storyboard, guia, apunts",
+  "description": "Desa fotogrames d’un vídeo en un sol PDF a l’iPhone: per a un storyboard, una guia pas a pas, apunts de classe o un informe. Sense ordinador.",
+  "h1": "Fotogrames d’un vídeo en un sol PDF a l’iPhone",
+  "nav_title": "Vídeo a PDF",
+  "card_title": "Fotogrames d’un vídeo en un PDF",
+  "excerpt": "Storyboard, guia o apunts en un PDF, directament del vídeo.",
+  "lead": "De vegades no necessites una foto, sinó un document: els passos d’una recepta, unes instruccions de muntatge, les diapositives d’una classe o un storyboard. Llavors el més pràctic és que els fotogrames vagin a un sol PDF, en ordre.",
+  "quick_answer": "Obre el vídeo a Video To Photo – Grab Frame, desa els fotogrames importants i exporta en PDF. Els fotogrames queden en ordre cronològic en un sol fitxer que pots enviar o imprimir.",
+  "content_intro": "<h2>Per a què serveix un PDF d’un vídeo?</h2><table><thead><tr><th>Ús</th><th>Exemple</th></tr></thead><tbody><tr><td>Guia</td><td>Recepta, muntatge de mobles, tutorial d’una app</td></tr><tr><td>Storyboard</td><td>Pel·lícula, anunci, vídeo per a xarxes</td></tr><tr><td>Apunts</td><td>Diapositives d’una classe o un webinar</td></tr><tr><td>Informe</td><td>Documentar danys, errors o feina feta</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p><p>Fotos desa d’un en un i no fa PDF.</p>",
+  "steps_title": "Exportar fotogrames a PDF",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Desa els fotogrames importants",
+      "text": "Recorre el vídeo i desa els passos o les escenes. Com a projecte, el pots continuar després.",
+      "shot": 1
+    },
+    {
+      "name": "Revisa l’ordre",
+      "text": "Repassa els fotogrames i elimina els que sobren.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta en PDF",
+      "text": "Tria l’exportació en PDF i desa a Fitxers o comparteix.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Consells</h2><ul><li>Un pas, un fotograma: no desis imatges gairebé iguals.</li><li>En tutorials de gravacions de pantalla, el text s’ha de llegir: evita fotogrames en moviment.</li><li>Si el PDF pesa molt, envia un ZIP o menys fotogrames.</li></ul>",
+  "faq": [
+    {
+      "q": "Puc convertir un vídeo a PDF?",
+      "a": "El vídeo en si, no; els seus fotogrames, sí. Video To Photo – Grab Frame crea un PDF amb els fotogrames triats."
+    },
+    {
+      "q": "Cal ordinador?",
+      "a": "No. Tot passa a l’iPhone, sense internet."
+    },
+    {
+      "q": "Quants fotogrames hi caben en un PDF?",
+      "a": "Tants com triïs. Amb molts fotogrames el fitxer pot ser gran, així que val la pena seleccionar."
+    }
+  ],
+  "related": [
+    "video-a-fotogrames",
+    "video-a-jpg-png",
+    "app-foto-dun-video"
+  ],
+  "datePublished": "2026-10-01"
+}

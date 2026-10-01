@@ -1,0 +1,65 @@
+{
+  "slug": "video-v-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to jpg",
+  "secondary_keywords": [
+    "video v jpg",
+    "video to png",
+    "video to heic",
+    "video to jpg converter"
+  ],
+  "title": "Video v JPG, PNG ali HEIC na iPhonu",
+  "description": "Shranite sličice iz videa kot JPG, PNG ali HEIC na iPhonu. Kdaj izbrati kateri format in kako izvoziti v Datoteke, ZIP ali PDF.",
+  "h1": "Pretvorba videa v JPG, PNG ali HEIC na iPhonu",
+  "nav_title": "Video v JPG/PNG",
+  "card_title": "Video v JPG, PNG ali HEIC",
+  "excerpt": "Za kaj je kateri format in kako izvoziti sličice.",
+  "lead": "Videa ni mogoče preprosto pretvoriti v en JPG: slika vedno nastane iz izbrane sličice. Vprašanje je, v katerem formatu jo shraniti: JPG, PNG ali HEIC. Vsak ima svoje mesto.",
+  "quick_answer": "Izberite sličico v Video To Photo – Grab Frame in jo izvozite v JPG (odpre se povsod), PNG (brez izgub, za urejanje) ali HEIC (majhne datoteke, za naprave Apple). Več sličic naenkrat shranite v Datoteke, ZIP ali PDF.",
+  "content_intro": "<h2>Kateri format izbrati?</h2><table><thead><tr><th>Format</th><th>Prednost</th><th>Kdaj</th></tr></thead><tbody><tr><td>JPG</td><td>Deluje povsod</td><td>Deljenje, e-pošta, splet</td></tr><tr><td>PNG</td><td>Brez izgub</td><td>Urejanje, thumbnail, besedilo na sliki</td></tr><tr><td>HEIC</td><td>Majhna datoteka</td><td>Knjižnica Fotografije, naprave Apple</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p><p>Fotografije ne ponujajo ne PNG ne skupinskega shranjevanja. Za to potrebujete aplikacijo.</p>",
+  "steps_title": "Izvoz sličic v JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Izberite sličice",
+      "text": "Vlecite trak in shranite želene sličice. Eno ali desetine.",
+      "shot": 1
+    },
+    {
+      "name": "Izberite format",
+      "text": "Pri izvozu izberite JPG, PNG ali HEIC.",
+      "shot": 3
+    },
+    {
+      "name": "Shranite",
+      "text": "V Fotografije, Datoteke, ZIP ali PDF ali neposredno delite.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Odpiranje HEIC v sistemu Windows</h2><p>Starejši Windows in nekatere spletne strani HEIC ne podpirajo. Če slike ne pošiljate na napravo Apple, izberite JPG.</p><h2>Se metapodatki ohranijo?</h2><p>Slika dobi ločljivost videa. Datum in lokacija sta odvisna od izvornega videa in načina izvoza. Če je pomembno, preverite podatke o fotografiji v Fotografijah.</p>",
+  "faq": [
+    {
+      "q": "Kako pretvorim video v JPG na iPhonu?",
+      "a": "Izberite sličico v Video To Photo – Grab Frame in jo izvozite kot JPG. V iOS 27 tudi Fotografije shranijo sličico v HEIF ali JPG."
+    },
+    {
+      "q": "PNG ali JPG?",
+      "a": "PNG za urejanje in slike z besedilom, JPG za deljenje. PNG je večji, a brez izgube kakovosti."
+    },
+    {
+      "q": "Lahko shranim veliko sličic naenkrat?",
+      "a": "Da, v skupinskem načinu Grab Frame, nato jih izvozite v ZIP ali PDF."
+    }
+  ],
+  "related": [
+    "shraniti-sliko-iz-videa",
+    "video-v-slike",
+    "video-v-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

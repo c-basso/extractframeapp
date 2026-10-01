@@ -1,0 +1,65 @@
+{
+  "slug": "miniatura-youtube-z-filmu",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "miniatura YouTube z filmu",
+  "secondary_keywords": [
+    "miniatura youtube",
+    "miniatura youtube wymiary",
+    "miniatura youtube shorts",
+    "okładka reels z filmu"
+  ],
+  "title": "Miniatura YouTube z filmu na iPhonie: jak zrobić",
+  "description": "Zrób miniaturę lub okładkę z własnego filmu na iPhonie: wybierz najlepszą klatkę, zapisz ją ostro, dodaj tekst i wgraj na YouTube, TikToka lub Reels.",
+  "h1": "Jak zrobić miniaturę z filmu na iPhonie",
+  "nav_title": "Miniatura YouTube z filmu",
+  "card_title": "Miniatura lub okładka z filmu",
+  "excerpt": "Znajdź klatkę, która przyciąga kliknięcia, zapisz ją ostro i użyj jako okładki na YouTube, TikToka lub Reels.",
+  "lead": "Najlepsza miniatura zwykle już jest w twoim filmie: prawdziwa mina, prawdziwy moment. Sztuka polega na tym, by znaleźć tę klatkę i wyciągnąć ją na tyle ostro, by zniosła tekst, kadrowanie i kompresję.",
+  "quick_answer": "Otwórz film w Video To Photo – Grab Frame, zapisz 2–3 ostre, wyraziste momenty i wyeksportuj najlepszy jako PNG. W ulubionym edytorze dodaj duży tekst (1280×720 na YouTube, 9:16 na Shorts, TikToka i Reels) i wgraj jako miniaturę lub okładkę.",
+  "content_intro": "<h2>Co tworzy dobrą klatkę na miniaturę?</h2><ul><li><strong>Wyraźna twarz lub obiekt</strong>: blisko, ostro, najlepiej patrząc w obiektyw.</li><li><strong>Emocja</strong>: zaskoczenie, uśmiech czy skupienie działają lepiej niż neutralna twarz.</li><li><strong>Miejsce na tekst</strong>: spokojny fragment na kilka słów.</li><li><strong>Ostrość</strong>: miniatury są małe, każde rozmycie rzuca się w oczy.</li></ul><h2>Wymiary miniatur</h2><table><thead><tr><th>Platforma</th><th>Proporcje</th><th>Rozmiar</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Siatka Instagrama</td><td>przycięte do 1:1 / 4:5</td><td>Obiekt na środku</td></tr></tbody></table><p>Klatka z filmu 1080p lub 4K jest już większa. Najważniejsze, by eksportować z pliku, a nie robić zrzutu ekranu.</p>",
+  "steps_title": "Jak zrobić miniaturę z filmu na iPhonie",
+  "steps": [
+    {
+      "name": "Otwórz gotowy film",
+      "text": "Udostępnij go ze Zdjęć aplikacji Video To Photo – Grab Frame albo wybierz w aplikacji.",
+      "shot": 0
+    },
+    {
+      "name": "Zapisz trzech kandydatów",
+      "text": "Znajdź najmocniejsze momenty i zapisz je. Miny zmieniają się szybko, więc zapisz też sąsiednie klatki.",
+      "shot": 1
+    },
+    {
+      "name": "Wybierz najostrzejszą",
+      "text": "Powiększ twarz w podglądzie i usuń rozmazane klatki lub zamknięte oczy.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportuj PNG i dodaj tekst",
+      "text": "Eksportuj jako PNG, by edycja nie obniżała jakości, dodaj krótki tytuł i wgraj jako miniaturę.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Jak wgrać miniaturę</h2><ul><li><strong>YouTube:</strong> edytuj szczegóły filmu w aplikacji YouTube lub YouTube Studio i wybierz niestandardową miniaturę ze zdjęć (wymagane zweryfikowane konto).</li><li><strong>TikTok:</strong> przed publikacją stuknij Edytuj okładkę i wybierz obraz.</li><li><strong>Instagram Reels:</strong> w Edytuj okładkę dodaj obraz z rolki aparatu.</li></ul><h2>Wskazówki na więcej kliknięć</h2><ul><li>Mało tekstu, najwyżej kilka słów.</li><li>Mocny kontrast między obiektem, tekstem i tłem.</li><li>Rozpoznawalny styl na całym kanale.</li><li>Testuj dwie klatki: po kilku dniach zmień miniaturę i porównaj.</li></ul>",
+  "faq": [
+    {
+      "q": "Czy mogę użyć klatki z własnego filmu jako miniatury YouTube?",
+      "a": "Tak. Zapisz klatkę, ewentualnie dodaj tekst i wgraj jako niestandardową miniaturę. Najlepiej 1280×720 jako JPG lub PNG."
+    },
+    {
+      "q": "Jakie wymiary ma miniatura YouTube?",
+      "a": "1280×720 pikseli (16:9), jako JPG lub PNG. Dla Shorts, TikToka i Reels okładka ma proporcje 9:16, czyli 1080×1920."
+    },
+    {
+      "q": "Dlaczego moja miniatura jest rozmazana?",
+      "a": "Najczęściej przez zrzut ekranu lub klatkę w ruchu. Wyeksportuj klatkę z pliku i wybierz moment, gdy obiekt się nie rusza."
+    }
+  ],
+  "related": [
+    "ostre-zdjecie-z-filmu",
+    "film-na-jpg-png",
+    "jak-zrobic-zdjecie-z-filmu-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

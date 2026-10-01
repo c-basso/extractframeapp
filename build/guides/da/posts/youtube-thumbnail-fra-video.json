@@ -1,0 +1,65 @@
+{
+  "slug": "youtube-thumbnail-fra-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "YouTube thumbnail fra video",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "youtube thumbnail size",
+    "youtube thumbnail maker",
+    "reels cover fra video"
+  ],
+  "title": "YouTube-thumbnail fra video på iPhone: sådan gør du",
+  "description": "Lav en thumbnail eller et cover af din egen video på iPhone: vælg det bedste billede, gem det skarpt, tilføj tekst, og upload til YouTube, TikTok eller Reels.",
+  "h1": "Sådan laver du en thumbnail fra en video på iPhone",
+  "nav_title": "YouTube-thumbnail fra video",
+  "card_title": "Thumbnail eller cover fra en video",
+  "excerpt": "Find billedet, der giver klik, gem det skarpt, og brug det som cover på YouTube, TikTok eller Reels.",
+  "lead": "Den bedste thumbnail findes som regel allerede i din video: et ægte udtryk, et ægte øjeblik. Kunsten er at finde billedet og få det ud skarpt nok til at klare tekst, beskæring og komprimering.",
+  "quick_answer": "Åbn videoen i Video To Photo – Grab Frame, gem 2–3 skarpe og udtryksfulde øjeblikke, og eksportér det bedste som PNG. Tilføj stor tekst i din foretrukne editor (1280×720 til YouTube, 9:16 til Shorts, TikTok og Reels), og upload som thumbnail eller cover.",
+  "content_intro": "<h2>Hvad gør et godt thumbnail-billede?</h2><ul><li><strong>Et tydeligt ansigt eller motiv</strong>: tæt på, skarpt, gerne med blikket i kameraet.</li><li><strong>Følelse</strong>: overraskelse, smil eller koncentration virker bedre end et neutralt ansigt.</li><li><strong>Plads til tekst</strong>: et roligt område til et par ord.</li><li><strong>Skarphed</strong>: thumbnails er små, al sløring ses.</li></ul><h2>Thumbnail-størrelser</h2><table><thead><tr><th>Platform</th><th>Format</th><th>Størrelse</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagram-gitter</td><td>beskåret til 1:1 / 4:5</td><td>Motivet i midten</td></tr></tbody></table><p>Et billede fra en 1080p- eller 4K-video er allerede større. Det vigtigste er at eksportere fra filen, ikke tage et skærmbillede.</p>",
+  "steps_title": "Sådan laver du en thumbnail fra en video på iPhone",
+  "steps": [
+    {
+      "name": "Åbn den færdige video",
+      "text": "Del den fra Fotos til Video To Photo – Grab Frame, eller vælg den i appen.",
+      "shot": 0
+    },
+    {
+      "name": "Gem tre kandidater",
+      "text": "Find de stærkeste øjeblikke, og gem dem. Udtryk skifter hurtigt, så gem også nabobillederne.",
+      "shot": 1
+    },
+    {
+      "name": "Vælg det skarpeste",
+      "text": "Zoom ind på ansigtet i forhåndsvisningen, og slet slørede billeder eller lukkede øjne.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér PNG, og tilføj tekst",
+      "text": "Eksportér som PNG, så redigering ikke koster kvalitet, tilføj en kort titel, og upload som thumbnail.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Sådan uploader du thumbnailen</h2><ul><li><strong>YouTube:</strong> redigér videoens detaljer i YouTube- eller YouTube Studio-appen, og vælg en tilpasset thumbnail fra dine fotos (kræver bekræftet konto).</li><li><strong>TikTok:</strong> før du slår op, trykker du på Rediger cover og vælger et billede.</li><li><strong>Instagram Reels:</strong> under Rediger cover tilføjer du et billede fra kamerarullen.</li></ul><h2>Tips til flere klik</h2><ul><li>Lidt tekst, højst et par ord.</li><li>Stærk kontrast mellem motiv, tekst og baggrund.</li><li>En genkendelig stil på hele kanalen.</li><li>Test to billeder: skift thumbnail efter et par dage, og sammenlign.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan jeg bruge et billede fra min egen video som YouTube-thumbnail?",
+      "a": "Ja. Gem billedet, tilføj eventuelt tekst, og upload det som tilpasset thumbnail. Bedst er 1280×720 som JPG eller PNG."
+    },
+    {
+      "q": "Hvad er størrelsen på en YouTube-thumbnail?",
+      "a": "1280×720 pixels (16:9), JPG eller PNG. Cover til Shorts, TikTok og Reels er i 9:16, altså 1080×1920."
+    },
+    {
+      "q": "Hvorfor er min thumbnail sløret?",
+      "a": "Oftest på grund af et skærmbillede eller et billede i bevægelse. Eksportér billedet fra filen, og vælg et øjeblik, hvor motivet står stille."
+    }
+  ],
+  "related": [
+    "skarpt-billede-fra-video",
+    "video-til-jpg-png",
+    "billede-fra-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

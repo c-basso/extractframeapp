@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Mga gabay: picture mula sa video sa iPhone",
+    "description": "Mga gabay sa pagkuha ng picture sa video sa iPhone: mas malinaw kaysa screenshot, pag-save ng frame, maraming frame, video to PDF, thumbnail at JPG o PNG.",
+    "eyebrow": "Mga gabay",
+    "h1": "Picture mula sa video sa iPhone: lahat ng gabay",
+    "intro": "Bawat gabay ay sumasagot sa isang tanong: ano ang kaya ng iPhone mismo (at ano ang hindi), at paano ito pinakamabilis gawin gamit ang Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Home",
+    "guides": "Mga gabay",
+    "guide_eyebrow": "Gabay sa iPhone",
+    "quick_answer": "Maikling sagot",
+    "by": "Ni",
+    "updated": "Na-update",
+    "min_read": "min basahin",
+    "faq_title": "Mga madalas itanong",
+    "related": "Kaugnay na gabay",
+    "read_guide": "Basahin ang gabay",
+    "inline_cta": "Subukan sa sarili mong video. Isang minuto lang.",
+    "app_card_cta": "I-download sa App Store",
+    "app_card_fine": "Libre · may in-app purchase · iOS 18.6+",
+    "app_card_bullets": ["Tumpak na pagpili ng frame", "JPG, PNG, HEIC", "Batch export sa ZIP at PDF", "Offline, walang upload o account"],
+    "final_cta_title": "Nasa video ang pinakamaganda mong picture.",
+    "final_cta_text": "I-save ito sa iPhone sa buong kalidad. Walang upload, walang account, hindi kailangang marunong mag-edit."
+  }
+}

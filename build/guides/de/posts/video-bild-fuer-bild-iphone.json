@@ -1,0 +1,64 @@
+{
+  "slug": "video-bild-fuer-bild-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "Video Bild für Bild ansehen iPhone",
+  "secondary_keywords": [
+    "iphone video bild für bild",
+    "video bild für bild ansehen iphone",
+    "video einzelbild weiterschalten iphone"
+  ],
+  "title": "Video auf dem iPhone Bild für Bild ansehen und speichern",
+  "description": "So siehst du ein Video auf dem iPhone Bild für Bild an, um den exakten Moment zu finden – Schwung, Blinzeln, Tor – und speicherst dieses Bild als Foto.",
+  "h1": "Video auf dem iPhone Bild für Bild ansehen",
+  "nav_title": "Video Bild für Bild",
+  "card_title": "Video Bild für Bild auf dem iPhone",
+  "excerpt": "Finde den exakten Moment in einem Video – und speichere ihn als Foto.",
+  "lead": "Einen Schwung, einen Zieleinlauf, einen Trick oder ein Blinzeln prüfst du nicht mit Play und Pause. Du musst fast Bild für Bild durchs Video. So geht das auf dem iPhone – und so behältst du das gefundene Bild.",
+  "quick_answer": "Pausiere das Video in Fotos und wische langsam über den Bildstreifen; ab iOS 27 speicherst du das Bild dann über „•••“. Um mehrere Momente in einem Durchgang zu sammeln, öffne das Video in Video To Photo – Grab Frame, wische über den Streifen, beobachte die große Vorschau und nimm jeden Moment auf.",
+  "content_intro": "<h2>Bild für Bild in Fotos</h2><ol><li>Öffne das Video und pausiere.</li><li>Berühre den Bildstreifen unten und wische langsam nach links oder rechts.</li><li>Halte den Finger kurz auf dem Streifen, damit er sich für mehr Präzision vergrößert.</li></ol><p>Hast du den Moment unter iOS 27 oder neuer gefunden, tippe auf <strong>„•••“</strong> und sichere das Bild als Foto. Auf älterem iOS bleibt nur der <a href=\"/de/guides/screenshot-video-iphone-ohne-qualitaetsverlust/\">Screenshot, der Qualität verliert</a> – mit einer App sicherst du in jeder Version mehrere Momente.</p><h2>Warum langsam wichtig ist</h2><p>Bei 30 fps dauert jedes Bild 33 ms, bei 60 fps 17 ms. Ein Blinzeln, der Ballkontakt oder ein Gesichtsausdruck ändern sich innerhalb von zwei Bildern – zwischen Top-Foto und Fehlgriff liegt oft nur eines.</p>",
+  "steps_title": "Ein Video durchgehen und das gewünschte Bild speichern",
+  "steps": [
+    {
+      "name": "Video in der App öffnen",
+      "text": "Teile es aus Fotos mit Video To Photo – Grab Frame. Du siehst eine große Vorschau und den Bildstreifen.",
+      "shot": 0
+    },
+    {
+      "name": "Langsam über den Streifen wischen",
+      "text": "Bewege den Finger in kleinen Schritten und beobachte die Vorschau. Geh rund um die Aktion vor und zurück.",
+      "shot": 1
+    },
+    {
+      "name": "Bild und Nachbarn aufnehmen",
+      "text": "Tippe auf Aufnehmen, rücke ein Stück weiter und nimm erneut auf. Vergleiche in der Vorschau und behalte das beste.",
+      "shot": 2
+    },
+    {
+      "name": "Das beste exportieren",
+      "text": "Exportiere als PNG oder HEIC, um Details für Analyse, Trainingsnotizen oder Social Media zu erhalten.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Wofür Bild für Bild nützlich ist</h2><ul><li><strong>Sport</strong>: Golf- oder Tennisschwung, Lauftechnik, Sprünge. Speichere die Schlüsselphasen und mach ein PDF zur Analyse.</li><li><strong>Kinder und Haustiere</strong>: das eine Bild, auf dem alle in die Kamera schauen.</li><li><strong>Tutorials und Bildschirmaufnahmen</strong>: den exakten Schritt als Referenzbild festhalten.</li><li><strong>Szenen prüfen</strong>: was im Ziel wirklich passiert ist.</li></ul><h2>Für später besser filmen</h2><p>Aufnahmen mit <strong>60 fps</strong> (Einstellungen → Kamera → Video aufnehmen) liefern doppelt so viele Momente und weniger Bewegungsunschärfe pro Bild. Zeitlupe noch mehr. Mehr unter <a href=\"/de/guides/foto-aus-video-gute-qualitaet/\">Foto aus Video in guter Qualität</a>.</p>",
+  "faq": [
+    {
+      "q": "Kann die Fotos-App ein Video Bild für Bild abspielen?",
+      "a": "Es gibt keine Einzelbild-Tasten, aber Pausieren und langsames Wischen über den Streifen kommt nah heran. Ab iOS 27 kannst du danach das Bild über „•••“ speichern."
+    },
+    {
+      "q": "Wie speichere ich das gefundene Bild?",
+      "a": "Unter iOS 27 über „•••“ in Fotos. In jeder Version: Video in Video To Photo – Grab Frame öffnen, denselben Moment finden, aufnehmen und als JPG, PNG oder HEIC exportieren."
+    },
+    {
+      "q": "Ist 60 fps besser?",
+      "a": "Ja: doppelt so viele Bilder wie bei 30 fps, jedes weniger verwackelt – ein scharfer Moment ist leichter zu finden."
+    }
+  ],
+  "related": [
+    "foto-aus-video-gute-qualitaet",
+    "bilder-aus-video-extrahieren",
+    "foto-aus-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

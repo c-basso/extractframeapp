@@ -1,0 +1,64 @@
+{
+  "slug": "video-kare-kare-izleme-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "iPhone video kare kare izleme",
+  "secondary_keywords": [
+    "videodan kare kare fotoğraf alma",
+    "iphone video kare kare ilerletme",
+    "video frame by frame iphone"
+  ],
+  "title": "iPhone'da Videoyu Kare Kare İzleme ve Kareyi Kaydetme",
+  "description": "iPhone'da videoyu kare kare ilerletip tam anı (vuruş, göz kırpma, gol) bulma ve o kareyi net bir fotoğraf olarak kaydetme.",
+  "h1": "iPhone'da video kare kare nasıl izlenir",
+  "nav_title": "Kare kare (iPhone)",
+  "card_title": "iPhone'da videoyu kare kare izleme",
+  "excerpt": "Videodaki tam anı bul ve fotoğraf olarak kaydet.",
+  "lead": "Bir vuruş, bir gol, bir hareket, bir göz kırpma. Oynat ve duraklatla göremezsin; videoda neredeyse kare kare ilerlemen gerekir. iPhone'da nasıl yapılır ve kare nasıl kaydedilir, anlatıyoruz.",
+  "quick_answer": "Videoyu Fotoğraflar'da duraklat ve kare şeridinde yavaşça kaydır. iOS 27'de ardından kareyi ••• ile kaydedebilirsin. Birden fazla an toplamak istiyorsan Video To Photo – Grab Frame'de büyük önizlemeyle kaydır ve her anı kaydet.",
+  "content_intro": "<h2>Fotoğraflar uygulamasında kare kare</h2><ol><li>Videoyu aç ve duraklat.</li><li>Alttaki kare şeridine dokun ve yavaşça sağa sola kaydır.</li><li>Şeride bir an basılı tut; şerit büyür, daha hassas kaydırırsın.</li></ol><p>iOS 27 ve sonrasında bulduğun kareyi fotoğraf olarak kaydetmek için <strong>•••</strong> simgesine dokun. Eski iOS'ta sadece <a href=\"/tr/guides/videodan-ekran-goruntusu-alma-iphone/\">kalite kaybettiren ekran görüntüsü</a> var; uygulama her sürümde birden fazla anı kaydeder.</p><h2>Neden yavaş?</h2><p>30 fps'de bir kare 33 milisaniye, 60 fps'de 17 milisaniye sürer. Göz kırpma, topa vuruş ya da bir ifade iki karede değişir. En iyi fotoğrafla kötüsü arasındaki fark çoğu zaman tek karedir.</p>",
+  "steps_title": "Doğru kareyi bulup kaydetme",
+  "steps": [
+    {
+      "name": "Videoyu uygulamada aç",
+      "text": "Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş. Büyük bir önizleme ve kare şeridi görürsün.",
+      "shot": 0
+    },
+    {
+      "name": "Yavaşça kaydır",
+      "text": "Parmağını küçük adımlarla oynat ve önizlemeyi izle. Hareketin etrafında ileri geri git.",
+      "shot": 1
+    },
+    {
+      "name": "Komşuları da kaydet",
+      "text": "Kaydet'e dokun, biraz kaydır ve yeniden kaydet. Karşılaştır ve en iyisini tut.",
+      "shot": 2
+    },
+    {
+      "name": "En iyisini dışa aktar",
+      "text": "Ayrıntıları korumak için PNG veya HEIC olarak aktar; analiz, antrenman notu veya sosyal medya için.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kare kare ne zaman işe yarar</h2><ul><li><strong>Spor</strong>: golf ve tenis vuruşu, teknik, atlayışlar. Anahtar kareleri kaydet ve PDF olarak incele.</li><li><strong>Çocuklar ve evcil hayvanlar</strong>: herkesin kameraya baktığı o tek kare.</li><li><strong>Eğitimler ve ekran kayıtları</strong>: bir adımı referans görüntü olarak.</li><li><strong>Tartışmalı anlar</strong>: o golde gerçekte ne oldu?</li></ul><h2>İşini kolaylaştıracak çekim</h2><p><strong>60 fps</strong> çek (Ayarlar → Kamera → Video Kaydı): iki kat fazla an ve kare başına daha az bulanıklık. Ağır çekim daha da fazlasını verir. Ayrıca bkz. <a href=\"/tr/guides/videodan-kaliteli-fotograf-alma/\">videodan kaliteli fotoğraf alma</a>.</p>",
+  "faq": [
+    {
+      "q": "Fotoğraflar uygulamasında video kare kare ilerletilebilir mi?",
+      "a": "Tek kare düğmesi yok ama duraklatıp şeritte yavaşça kaydırmak neredeyse aynı sonucu verir. iOS 27'de o kareyi ••• ile kaydedersin."
+    },
+    {
+      "q": "Bulduğum kareyi nasıl kaydederim?",
+      "a": "iOS 27'de Fotoğraflar'daki ••• ile. Her sürümde aynı anı Video To Photo – Grab Frame'de bul, kaydet ve JPG, PNG veya HEIC olarak aktar."
+    },
+    {
+      "q": "60 fps mi çekmeliyim?",
+      "a": "Evet. 30 fps'e göre iki kat kare olur ve her kare daha az bulanıktır; net bir an bulmak kolaylaşır."
+    }
+  ],
+  "related": [
+    "videodan-kaliteli-fotograf-alma",
+    "videodan-fotograf-cikarma",
+    "videodan-fotograf-alma-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

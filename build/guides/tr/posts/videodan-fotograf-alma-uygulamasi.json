@@ -1,0 +1,64 @@
+{
+  "slug": "videodan-fotograf-alma-uygulamasi",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "videodan fotoğraf alma uygulaması",
+  "secondary_keywords": [
+    "videodan fotoğraf alma programı",
+    "videodan resim alma programı",
+    "ücretsiz videodan fotoğraf alma uygulaması"
+  ],
+  "title": "Videodan Fotoğraf Alma Uygulaması: iPhone'da Nasıl Seçilir",
+  "description": "Videodan fotoğraf alma uygulaması seçerken nelere bakılır: hassasiyet, çözünürlük, gizlilik, toplu dışa aktarma, formatlar ve fiyat, ayrıca 2 dakikalık test.",
+  "h1": "iPhone için videodan fotoğraf alma uygulaması nasıl seçilir",
+  "nav_title": "Videodan fotoğraf uygulaması",
+  "card_title": "Videodan fotoğraf alma uygulaması seçimi",
+  "excerpt": "İyi bir kare uygulamasının altı ölçütü ve 2 dakikalık kontrol listesi.",
+  "lead": "App Store'da \"videodan fotoğraf\" diye ara, birbirine benzeyen uzun bir liste çıkar. Temel aynı; fark ayrıntılarda. Kareyi ne kadar hassas seçtiğin, görüntünün ne kadar büyük olduğu ve videonun internete gidip gitmediği.",
+  "quick_answer": "İyi bir uygulama tam kareyi seçmeni sağlar, ekrandan değil video dosyasından kaydeder, cihazda çalışır, birden fazla kareyi aynı anda kaydeder ve birkaç formatta dışa aktarır. Video To Photo – Grab Frame bunların hepsini yapar; ayrıca ZIP ve PDF dışa aktarma ve sonra dönebileceğin projeler sunar.",
+  "content_intro": "<h2>iOS 27 varken uygulamaya gerek var mı?</h2><p>iOS 27'den itibaren Fotoğraflar duraklatılmış tek bir kareyi kaydediyor. Eski iOS'ta ya da çok sayıda kare, PNG ve ZIP/PDF için uygulama daha pratik.</p><h2>İyi bir uygulamanın altı ölçütü</h2><ol><li><strong>Hassas kare seçimi.</strong> Tam ana denk gelen bir kare şeridi veya kaydırıcı.</li><li><strong>Gerçek dışa aktarma.</strong> Ekrandan değil dosyadan. Yatay 4K bir videoyla dene ve boyutlara bak.</li><li><strong>Cihazda işleme.</strong> Aile videolarının sunucuda işi yok. App Store'daki gizlilik etiketine bak ve uçak modunda dene.</li><li><strong>Toplu mod.</strong> Storyboard, spor ve eğitim videoları çok kare ister.</li><li><strong>Formatlar ve dışa aktarma.</strong> JPG, PNG ve HEIC yeterli. ZIP ve PDF nadir ama çok kullanışlı.</li><li><strong>Net fiyat.</strong> Ne ücretsiz, abonelik var mı, tek seferlik satın alınabiliyor mu.</li></ol>",
+  "steps_title": "Videodan fotoğraf uygulamasını 2 dakikada test etme",
+  "steps": [
+    {
+      "name": "Gerçek bir video aç",
+      "text": "Hareketli yatay bir video seç ve Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş. Kare ekranı açılır.",
+      "shot": 0
+    },
+    {
+      "name": "Tek bir kareyi hedefle",
+      "text": "Bir göz kırpma veya havadaki bir top bul. Şerit ve büyük önizleme işi kolaylaştırır. Kaydet'e dokun.",
+      "shot": 1
+    },
+    {
+      "name": "Birkaç kare kaydet ve karşılaştır",
+      "text": "Dört beş kare kaydet ve yakınlaştır. Dışa aktarmadan önce kötü kareleri silebilmelisin.",
+      "shot": 2
+    },
+    {
+      "name": "Dışa aktar ve dosyayı kontrol et",
+      "text": "PNG olarak dışa aktar ve fotoğraf bilgilerine bak. Boyutlar ekranın değil, videonun boyutları olmalı.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Video To Photo – Grab Frame neler sunar</h2><table><thead><tr><th>Özellik</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Fotoğraflar'da Paylaş'tan başlatma</td><td>Evet, doğrudan kare ekranına</td></tr><tr><td>Kaynak</td><td>Video dosyası</td></tr><tr><td>Toplu mod</td><td>Tek oturumda çok kare</td></tr><tr><td>Formatlar</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Dışa aktarma</td><td>Dosyalar, ZIP, PDF</td></tr><tr><td>Projeler</td><td>Kaydet ve sonra devam et</td></tr><tr><td>Gizlilik</td><td>%100 cihazda, hesap yok</td></tr><tr><td>Fiyat</td><td>Ücretsiz indirme. Pro uygulama içi satın almayla (ücretsiz deneme, yıllık, tek seferlik)</td></tr></tbody></table><h2>Uygulamaya ne zaman gerek yok</h2><p>iOS 27'de tek bir fotoğraf mı? Fotoğraflar yeter (duraklat → ••• → kareyi fotoğraf olarak kaydet). Eski iOS'ta hızlı bir not mu? Ekran görüntüsü yeter.</p>",
+  "faq": [
+    {
+      "q": "Ücretsiz bir videodan fotoğraf alma uygulaması var mı?",
+      "a": "Video To Photo – Grab Frame ücretsiz indirilir. Bazı özellikler Pro'dur ve uygulama içi satın almayla gelir (ücretsiz deneme, yıllık plan veya tek seferlik satın alma). Güncel fiyatlar App Store'da."
+    },
+    {
+      "q": "Bu uygulamalar videomu yükler mi?",
+      "a": "Çevrimiçi araçlar yükler. Video To Photo – Grab Frame her şeyi iPhone'da işler ve çevrimdışı çalışır."
+    },
+    {
+      "q": "4K ve ağır çekim videolarla çalışır mı?",
+      "a": "Evet. Arşivdeki 4K, 60 fps ve ağır çekim videoları destekler. Çekim ne kadar iyiyse kareler o kadar net olur."
+    }
+  ],
+  "related": [
+    "videodan-fotograf-alma-iphone",
+    "videodan-fotograf-cikarma",
+    "video-pdf-donusturme"
+  ],
+  "datePublished": "2026-10-01"
+}

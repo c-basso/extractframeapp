@@ -1,0 +1,65 @@
+{
+  "slug": "shipin-tiqu-tupian-app",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "视频提取图片软件",
+  "secondary_keywords": [
+    "视频提取图片软件",
+    "视频截图软件",
+    "视频转图片工具",
+    "iphone 视频截图 app"
+  ],
+  "title": "视频提取图片软件怎么选（iPhone 篇）",
+  "description": "挑选视频提取图片 App 要看什么：取帧精度、分辨率、隐私、批量导出、格式和价格，另附 2 分钟自测方法。",
+  "h1": "iPhone 视频提取图片 App 怎么选",
+  "nav_title": "视频提取图片软件",
+  "card_title": "视频提取图片 App 怎么选",
+  "excerpt": "好用的取帧 App 的 6 个标准，以及 2 分钟检查清单。",
+  "lead": "在 App Store 搜“视频截图”，会出来一长串差不多的 App。基础功能都一样，差别在细节：能不能精准选帧、导出的图片有多大、视频会不会被传到网上。",
+  "quick_answer": "好的 App 能精确选中某一帧，从视频文件而不是屏幕保存，在设备端处理，一次保存多帧，并支持多种格式导出。Video To Photo – Grab Frame 全都做到，还支持导出 ZIP 和 PDF，并可保存项目稍后继续。",
+  "content_intro": "<h2>有了 iOS 27 还需要 App 吗？</h2><p>iOS 27 起，“照片”可以保存一张暂停中的帧。但在旧版 iOS，或需要大量帧、PNG 和 ZIP/PDF 时，App 更方便。</p><h2>好 App 的 6 个标准</h2><ol><li><strong>精确选帧。</strong>有帧条或滑块，能准确停在想要的瞬间。</li><li><strong>真正的提取。</strong>从文件而不是屏幕保存。用横屏 4K 视频测试并查看尺寸。</li><li><strong>设备端处理。</strong>家庭视频不该上传到服务器。查看 App Store 的隐私标签，并在飞行模式下试用。</li><li><strong>批量模式。</strong>分镜、运动和教程都需要很多帧。</li><li><strong>格式与导出。</strong>JPG、PNG、HEIC 就够了。ZIP 和 PDF 不常见，但非常实用。</li><li><strong>价格透明。</strong>哪些免费、是否订阅、能否一次性买断。</li></ol>",
+  "steps_title": "2 分钟测试一款视频提取图片 App",
+  "steps": [
+    {
+      "name": "打开一段真实视频",
+      "text": "选一段有动作的横屏视频，从“照片”共享到 Video To Photo – Grab Frame，帧提取界面会打开。",
+      "shot": 0
+    },
+    {
+      "name": "瞄准某一帧",
+      "text": "找一个眨眼或球在空中的瞬间。帧条和大预览让这变得容易。轻点保存。",
+      "shot": 1
+    },
+    {
+      "name": "多存几张对比",
+      "text": "保存 4–5 帧并放大查看。导出前应该能删除失败的帧。",
+      "shot": 2
+    },
+    {
+      "name": "导出并检查文件",
+      "text": "导出为 PNG，查看照片信息。尺寸应该和视频一致，而不是屏幕尺寸。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Video To Photo – Grab Frame 的功能</h2><table><thead><tr><th>功能</th><th>Grab Frame</th></tr></thead><tbody><tr><td>从“照片”的共享启动</td><td>支持，直接进入取帧界面</td></tr><tr><td>来源</td><td>视频文件</td></tr><tr><td>批量</td><td>一次会话保存多帧</td></tr><tr><td>格式</td><td>JPEG、PNG、HEIC</td></tr><tr><td>导出</td><td>文件、ZIP、PDF</td></tr><tr><td>项目</td><td>保存后稍后继续</td></tr><tr><td>隐私</td><td>100% 设备端，无需账号</td></tr><tr><td>价格</td><td>免费下载。Pro 通过 App 内购买（免费试用、按年、买断）</td></tr></tbody></table><h2>什么时候不需要 App</h2><p>iOS 27 上只要一张？用“照片”就够了（暂停 → ••• → 将帧存储为照片）。旧版 iOS 上临时记一下？截屏就够了。</p>",
+  "faq": [
+    {
+      "q": "有免费的视频提取图片 App 吗？",
+      "a": "Video To Photo – Grab Frame 可免费下载。部分功能属于 Pro，通过 App 内购买（免费试用、年度订阅或一次性买断）。最新价格以 App Store 为准。"
+    },
+    {
+      "q": "这类 App 会上传我的视频吗？",
+      "a": "在线工具会。Video To Photo – Grab Frame 所有处理都在 iPhone 上完成，可离线使用。"
+    },
+    {
+      "q": "支持 4K 和慢动作视频吗？",
+      "a": "支持图库中的 4K、60 fps 和慢动作视频。拍摄质量越高，提取的帧越清晰。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-jiequ-zhaopian",
+    "shipin-tiqu-zhen",
+    "shipin-zhuan-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

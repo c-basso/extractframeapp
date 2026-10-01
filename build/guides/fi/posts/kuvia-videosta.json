@@ -1,0 +1,64 @@
+{
+  "slug": "kuvia-videosta",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "kuvia videosta",
+  "secondary_keywords": [
+    "kuvia videosta",
+    "monta kuvaa videosta",
+    "ruudut videosta kuviksi"
+  ],
+  "title": "Kuvia videosta iPhonella: monta kerralla",
+  "description": "Ota videosta monta kuvaa kerralla iPhonella ilman tietokonetta tai ffmpegiä. Valitse vain tarvitsemasi ruudut ja tallenna ne kuvina, ZIPinä tai PDF:nä.",
+  "h1": "Näin otat videosta monta kuvaa iPhonella",
+  "nav_title": "Kuvia videosta",
+  "card_title": "Monta kuvaa videosta",
+  "excerpt": "Ruutusarja yhdestä videosta, vietynä kuvina, ZIPinä tai PDF:nä.",
+  "lead": "Kuvakäsikirjoitus, urheilusarja, ennen ja jälkeen, reaktiokooste: joskus yksi kuva ei riitä. Näin saat videosta niin monta ruutua kuin haluat, pelkällä iPhonella.",
+  "quick_answer": "Avaa video Video To Photo – Grab Framessa ja napauta tallenna jokaisen haluamasi hetken kohdalla. Tarkista ruudut, poista huonot ja vie kaikki kerralla erillisinä JPG-, PNG- tai HEIC-tiedostoina, ZIPinä tai PDF:nä.",
+  "content_intro": "<h2>Kaikki ruudut vai vain hyvät?</h2><p>30 sekunnin videossa 30 fps:llä on 900 ruutua. Jos viet ne kaikki kuten ffmpegillä tai VLC:llä tietokoneella, saat satoja lähes samanlaisia tiedostoja. Puhelimella on yleensä nopeampaa <strong>valita vain tarvitsemasi ruudut</strong>.</p><table><thead><tr><th>Tavoite</th><th>Tapa</th></tr></thead><tbody><tr><td>Kuvakäsikirjoitus, vaiheittainen ohje</td><td>Yksi ruutu kohtausta tai vaihetta kohden</td></tr><tr><td>Urheilu, liikeanalyysi</td><td>Ruudut tasaisin välein</td></tr><tr><td>Paras kuva</td><td>Tarkin 3–5 vierekkäisestä ruudusta</td></tr><tr><td>Kaikki ruudut animaatioon tai analyysiin</td><td>Tietokoneohjelma (ffmpeg)</td></tr></tbody></table><p>iOS 27:n sisäänrakennettu toiminto tallentaa yhden ruudun kerrallaan, joten se ei sovi sarjoihin.</p>",
+  "steps_title": "Näin otat videosta monta ruutua iPhonella",
+  "steps": [
+    {
+      "name": "Avaa video",
+      "text": "Jaa se Kuvista sovellukseen tai valitse se Video To Photo – Grab Framessa.",
+      "shot": 0
+    },
+    {
+      "name": "Tallenna jokainen hetki",
+      "text": "Vedä nauhaa ja napauta tallenna jokaisen hetken kohdalla. Laskuri pitää kirjaa.",
+      "shot": 1
+    },
+    {
+      "name": "Tarkista ruudut",
+      "text": "Avaa koko näytölle, tarkista terävyys ja poista kaksoiskappaleet ja epätarkat ruudut.",
+      "shot": 2
+    },
+    {
+      "name": "Vie kaikki",
+      "text": "Valitse JPEG, PNG tai HEIC. Erilliset kuvat Tiedostoihin, ZIP yhtenä tiedostona, PDF asiakirjana.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF vai erilliset tiedostot?</h2><ul><li><strong>Erilliset tiedostot</strong>: muokkaa tai julkaise yksi kerrallaan.</li><li><strong>ZIP</strong>: yksi tiedosto AirDropiin, sähköpostiin, WhatsAppiin tai pilveen.</li><li><strong>PDF</strong>: kuvakäsikirjoitus, muistiinpanot, hyväksyttävä asiakirja. Katso <a href=\"/fi/guides/video-pdf/\">video PDF:ksi</a>.</li></ul><h2>Vinkkejä sarjoihin</h2><ul><li>Valitse ruudut tasaisin välein, niin liike on helppo seurata.</li><li>Kollaasiin vie PNG, niin vältät ylimääräisen JPEG-pakkauksen.</li><li>Projekti pysyy tallessa, joten voit lisätä puuttuvat ruudut myöhemmin.</li></ul>",
+  "faq": [
+    {
+      "q": "Montako ruutua yhdestä videosta voi ottaa?",
+      "a": "Niin monta kuin tarvitset. Napauta tallenna jokaisen hetken kohdalla ja vie ne yhdessä. Monen ruudun vienti kestää hieman pidempään."
+    },
+    {
+      "q": "Voinko viedä kaikki ruudut automaattisesti?",
+      "a": "Video To Photo – Grab Frame on tehty ruutujen valitsemiseen. Jos tarvitset todella jokaisen ruudun animaatioon tai analyysiin, tietokoneohjelma kuten ffmpeg sopii paremmin."
+    },
+    {
+      "q": "Miten lähetän monta ruutua kerralla?",
+      "a": "Vie ZIPinä ja lähetä yksi tiedosto AirDropilla, sähköpostilla tai WhatsAppilla. Tai vie PDF:nä."
+    }
+  ],
+  "related": [
+    "video-pdf",
+    "video-kuva-kuvalta-iphone",
+    "still-kuva-videosta-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

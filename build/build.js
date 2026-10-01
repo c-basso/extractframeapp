@@ -24,7 +24,7 @@ const {
 } = require('./constants');
 const { readImageDimensions } = require('./lib/imageDimensions');
 const { buildBlog } = require('./blog/build-blog');
-const { buildGuides, loadGuides, guideCards } = require('./guides/build-guides');
+const { buildGuides, loadGuides, guideCards, GUIDE_LOCALES } = require('./guides/build-guides');
 const { renderTemplate } = require('./template-engine');
 const { loadTemplate, escapeHtml } = require('./lib/partials');
 const { siteLinks, screenshots, appFacts } = require('./lib/site-context');
@@ -142,6 +142,7 @@ function prepareLandingContext(data, lang, guides) {
     const homeUrl = isDefault ? '/' : `/${lang}/`;
 
     data.site = siteLinks(homeUrl);
+    if (GUIDE_LOCALES[lang]) data.site.guides_url = GUIDE_LOCALES[lang].prefix;
     data.labels = { skip: 'Skip to content', ratings: '', ...(data.labels || {}) };
     data.nav = data.nav ? { ...data.nav, prefix: '' } : {};
     data.sticky = data.sticky || { text: String((data.floating_cta && data.floating_cta.text) || '').replace(/^\W+\s*/u, '') };
@@ -217,8 +218,7 @@ function prepareLandingContext(data, lang, guides) {
     const buildDateIso = new Date(buildTimestamp).toISOString().slice(0, 10);
     const currentYear = new Date(buildTimestamp).getFullYear();
     const template = loadTemplate(path.join(__dirname, 'template.html'));
-    const guides = loadGuides();
-    let enData = null;
+    const localeData = {};
 
     for (const lang of LANGUAGES) {
         try {
@@ -352,10 +352,8 @@ function prepareLandingContext(data, lang, guides) {
                 data.footer.copyright = data.footer.copyright.replace(/\{year\}/g, String(currentYear));
             }
 
-            prepareLandingContext(data, lang, lang === DEFAULT_LANGUAGE ? guides : []);
-            if (lang === DEFAULT_LANGUAGE) {
-                enData = data;
-            }
+            prepareLandingContext(data, lang, GUIDE_LOCALES[lang] ? loadGuides(lang) : []);
+            localeData[lang] = data;
 
             const result = renderTemplate(template, data, lang, { eachFirst: true });
             fs.writeFileSync(outputPath, result, 'utf8');
@@ -368,7 +366,7 @@ function prepareLandingContext(data, lang, guides) {
 
     let guideUrls = [];
     try {
-        guideUrls = await buildGuides({ buildTimestamp, buildDateIso, en: enData });
+        guideUrls = await buildGuides({ buildTimestamp, buildDateIso, localeData });
     } catch (error) {
         console.error('❌ Error building guides:', error.message);
         process.exit(1);

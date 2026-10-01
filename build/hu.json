@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "hu",
-    "title": "Videóból képpé konverter app iPhone | Video To Photo",
-    "description": "Videó képpé iPhone-on: mentse el egy képkockát vagy exportáljon többet JPG, PNG vagy HEIC-ben másodpercek alatt — feldolgozás az eszközön, feltöltés nélkül.",
-    "keywords": "videó képpé, videó fotó átalakító, képkocka videóból, képkocka kivonó, iPhone képkocka, képkocka mentése, jpg videóból, png videóból, heic videóból, kötegelt export, megosztás fotókból",
+    "title": "Kép kivágása videóból iPhone-on – éles | Grab Frame",
+    "description": "Vágjon ki képet videóból iPhone-on teljes minőségben. Nem képernyőkép, hanem pontos kocka JPG, PNG vagy HEIC formátumban, ZIP-ben vagy PDF-ben. Offline.",
+    "keywords": "kép kivágása videóból, videóból kép iphone, kép mentése videóból, képkocka kivágása videóból, videóból fotó, képernyőkép videóról, video to jpg",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/hu/",
-    "og_title": "Videó képpé iPhone-ra",
-    "og_description": "Videó képpé iPhone-on. Válassza ki a pontos pillanatot, és exportáljon képkockákat JPG, PNG vagy HEIC formátumban — feldolgozás az eszközön, feltöltés nélkül.",
+    "og_title": "Kép videóból iPhone-on — a pontos kocka, élesen",
+    "og_description": "Keresse meg a pillanatot, és mentsen egy vagy több tucat kockát JPG, PNG vagy HEIC formátumban, vagy ZIP-ben és PDF-ben. Minden az eszközön.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "hu_HU",
     "twitter_url": "https://extractframeapp.com/hu/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Videó képpé iPhone-on. Pontos képkockák, feldolgozás az eszközön, kötegelt export és JPG, PNG, HEIC formátumok.",
+    "twitter_title": "Kép videóból — Grab Frame",
+    "twitter_description": "HD-fotók iPhone-videóiból. JPG, PNG, HEIC, ZIP, PDF. Offline, feltöltés nélkül.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/hu/",
@@ -21,18 +21,25 @@
     "geo_placename": "Magyarország"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame logó",
-    "title": "Képkockák kivonása videóból iPhone-on",
-    "subtitle": "Videó képpé—mentse el a pontos állóképeket klipjeiből másodpercek alatt",
-    "entity_definition": "A Video To Photo - Grab Frame egy iOS alkalmazás, amely iPhone-on videókat alakít állóképekké. Válassza ki a pontos pillanatot, és exportáljon képkockákat JPG, PNG vagy HEIC formátumban.",
-    "subheadline": "Nyissa meg a Fotókból, tekerjen a megfelelő pillanathoz, és mentse el egy vagy több képkockát. Nincs szükség fiókra, feltöltésre és szerkesztő idővonalra.",
-    "download_alt": "Letöltés az App Store-ból",
-    "phone_text": "Koppintson képkocka mentéséhez videóból",
-    "qr_alt": "QR-kód az alkalmazás letöltéséhez",
-    "qr_text": "Olvassa be iPhone-nal a letöltéshez"
+    "logo_alt": "A Video To Photo – Grab Frame app ikonja",
+    "title": "Kép kivágása videóból iPhone-on — a pontos kocka, élesen",
+    "title_html": "Vágjon ki <span class=\"grad-text\">képet videóból</span>. Pontosan a kívánt kockát, élesen.",
+    "subtitle": "Húzza a csúszkát a pillanathoz, és mentsen egy vagy több tucat kockát. Exportáljon JPG, PNG vagy HEIC formátumba. Minden az iPhone-on történik: feltöltés és fiók nélkül.",
+    "entity_definition": "A Video To Photo – Grab Frame egy iPhone-app, amely képkockákat vág ki videókból, és nagy felbontású fotóként menti őket. Minden feldolgozás az eszközön történik.",
+    "subheadline": "Megosztás a Fotókból, pillanat kiválasztása, mentés. Kész.",
+    "download_alt": "Video To Photo – Grab Frame letöltése az App Store-ból",
+    "phone_text": "Koppintson, és vágjon ki képet a videóból",
+    "qr_alt": "QR-kód a Video To Photo – Grab Frame letöltéséhez",
+    "qr_text": "Olvassa be az iPhone kamerájával a telepítéshez",
+    "bullets": [
+      "Offline működik",
+      "JPG, PNG, HEIC",
+      "Exportálás ZIP-be és PDF-be",
+      "Fiók nélkül"
+    ]
   },
   "last_updated": {
-    "text": "Utolsó frissítés: 2026. június 16."
+    "text": "Utolsó frissítés: 2026. október 1."
   },
   "features": {
     "title": "Miért választják a videó képpé alkalmazást",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Hogyan vonjon ki képkockát videóból iPhone-on",
-    "subtitle": "Egyszerű lépések a tökéletes állóképek mentéséhez klipjeiből",
-    "placeholder_line1": "📱 Bemutató videó hamarosan",
-    "placeholder_line2": "1. lépés: Megnyitás a Fotókból > 2. lépés: Tekerés a pillanathoz > 3. lépés: Képkocka(k) rögzítése > 4. lépés: Export JPG/PNG/HEIC"
+    "title": "Így vághat ki képet videóból iPhone-on",
+    "subtitle": "Négy lépés, kb. egy perc. Nincs mit megtanulni."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Megnyitás a Fotókból",
-        "text": "Ossza meg a videót a Fotókból a {{app_info.name}} alkalmazással, vagy nyissa meg először az alkalmazást, és válassza ki a klipet."
+        "name": "Ossza meg a videót a Fotókból",
+        "text": "Nyissa meg a videót a Fotókban, koppintson a Megosztás gombra, és válassza az appot. Vagy nyissa meg az appot, és válasszon videót. A képkocka-nézet azonnal megnyílik."
       },
       {
-        "name": "A pontos pillanat megtalálása",
-        "text": "Használja a csúszkát képkockánkénti léptetéshez, és álljon meg a kívánt állóképen."
+        "name": "Keresse meg a pillanatot és mentse",
+        "text": "Húzza a képkockasávot a kívánt kockára, és koppintson a mentésre. Ismételje meg minden kívánt kockánál."
       },
       {
-        "name": "Egy vagy több képkocka rögzítése",
-        "text": "Rögzítsen egy képkockát, vagy jelöljön meg több pillanatot kötegelt exporthoz."
+        "name": "Csak a legjobbakat tartsa meg",
+        "text": "Nyissa meg a kockákat teljes képernyőn, nagyítson rá az élesség ellenőrzéséhez, és törölje a homályosakat."
       },
       {
-        "name": "Exportálás és mentés",
-        "text": "Mentse a képkockákat JPG, PNG vagy HEIC formátumban, vagy exportáljon ZIP-ként vagy PDF-ként."
+        "name": "Exportáljon és osszon meg",
+        "text": "Válasszon JPEG, PNG vagy HEIC formátumot, és mentse külön fájlokként, ZIP-ben vagy PDF-ben."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "GYIK: videó képpé iPhone-on",
+    "eyebrow": "GYIK",
+    "title": "Kép videóból iPhone-on: gyakori kérdések",
+    "learn_more": "Bővebben",
     "items": [
       {
-        "question": "Hogyan vonok ki képkockát videóból iPhone-on?",
-        "answer": "Nyisson meg egy klipet a Video To Photo - Grab Frame alkalmazásban, tekerjen a pontos pillanathoz, és rögzítse a képkockát. Ezután exportálja JPG, PNG vagy HEIC formátumban."
+        "question": "Hogyan vághatok ki képet videóból iPhone-on?",
+        "answer": "iOS 27-től nyissa meg a videót a Fotókban, állítsa meg, és mentse a kockát fotóként a ••• menüből (egyszerre egyet). Régebbi iOS-en, vagy ha sok képet szeretne JPG, PNG, HEIC, ZIP vagy PDF formátumban, használja a Video To Photo – Grab Frame-et.",
+        "url": "/hu/guides/kep-kivagasa-videobol-iphone/"
       },
       {
-        "question": "Exportálhatok egyszerre több képkockát?",
-        "answer": "Igen. Több pillanatot is kiválaszthat, és egy kötegben exportálhat több képkockát."
+        "question": "Miért olyan rossz a képernyőkép a videóról?",
+        "answer": "A képernyőkép a kijelzőt rögzíti: a 4K-s kocka a kijelző méretére zsugorodik, rajta maradnak a lejátszásvezérlők vagy fekete sávok, a HDR-videó pedig sötét lesz. Mentse a kockát a fájlból az iOS 27 Fotók appjával vagy a Video To Photo – Grab Frame-mel, és exportáljon PNG-be vagy HEIC-be.",
+        "url": "/hu/guides/kepernyokep-videorol-iphone/"
       },
       {
-        "question": "Milyen formátumokban exportálhatok?",
-        "answer": "Az alkalmazás támogatja a JPG, PNG és HEIC formátumokat. Exportálhat ZIP-ként vagy PDF-ként is."
+        "question": "Hogyan menthetek el egy képet a videóból?",
+        "answer": "Ossza meg a videót a Fotókból a Video To Photo – Grab Frame-mel, keresse meg a kockát, mentse, és koppintson az Exportálásra. A kép a Fotókba vagy a Fájlokba kerül. Az eredeti videó nem változik.",
+        "url": "/hu/guides/kep-mentese-videobol-iphone/"
       },
       {
-        "question": "Feltölti az alkalmazás a videóimat?",
-        "answer": "Nem. A kivonás az eszközön történik — a videók és képek az iPhone-ján maradnak."
+        "question": "Mire figyeljek egy képkivágó appnál?",
+        "answer": "Négy dologra: pontos kockaválasztás, exportálás a videó felbontásában, feldolgozás az eszközön és csoportos exportálás. A Video To Photo – Grab Frame mindet tudja, és JPG, PNG, HEIC, ZIP vagy PDF formátumba exportál.",
+        "url": "/hu/guides/alkalmazas-kep-videobol/"
       },
       {
-        "question": "Folytathatom később?",
-        "answer": "Igen. A munkameneteket projektként mentheti, és később újranyithatja."
+        "question": "Kivághatok egyszerre több képet egy videóból?",
+        "answer": "Igen. Egy videóból annyi kockát menthet, amennyit csak szeretne, és együtt exportálhatja fájlokként, ZIP-ben vagy PDF-ben. Csak a szükséges kockák kiválasztása gyorsabb, mint több száz hasonló kép átválogatása.",
+        "url": "/hu/guides/kepkockak-videobol/"
       },
       {
-        "question": "Ingyenes a Video To Photo - Grab Frame?",
-        "answer": "Az alkalmazás ingyenesen letölthető; a haladó funkciók alkalmazáson belüli vásárlásokkal érhetők el."
+        "question": "Hogyan nézhetem meg a videót képkockánként iPhone-on?",
+        "answer": "Állítsa meg a videót a Fotókban, és húzza lassan a képkockasávot. A Video To Photo – Grab Frame-ben nagy előnézettel húzhatja, és azonnal mentheti a megfelelő kockát.",
+        "url": "/hu/guides/video-kepkockankent-iphone/"
       },
       {
-        "question": "Kinek szól ez az alkalmazás?",
-        "answer": "Tartalomkészítőknek, oktatóknak és mindenkinek, aki egy adott videópillanatot szeretne állóképként elmenteni."
+        "question": "Hogyan kaphatok éles képet videóból?",
+        "answer": "Válasszon kevés mozgást tartalmazó kockát, lehetőleg 4K-ban vagy 60 fps-sel rögzítsen, és a fájlból exportáljon képernyőkép helyett. Exportáljon PNG-be vagy HEIC-be, és hasonlítsa össze a szomszédos kockákat, hogy a legélesebbet tartsa meg.",
+        "url": "/hu/guides/eles-kep-videobol/"
       },
       {
-        "question": "Van videó képpé alkalmazás iPhone-ra?",
-        "answer": "Igen. A Video To Photo - Grab Frame videót alakít képpé: nyisson meg egy klipet, tekerjen a pontos pillanathoz, és mentse el a képkockákat JPG, PNG vagy HEIC formátumban — mindezt iPhone-ján."
+        "question": "Hogyan alakíthatok videót JPG- vagy PNG-képpé iPhone-on?",
+        "answer": "A Video To Photo – Grab Frame-mel a kiválasztott kockákat JPG, PNG vagy HEIC formátumban mentheti. JPG megosztáshoz, PNG veszteségmentes szerkesztéshez, HEIC kis és éles fájlokhoz.",
+        "url": "/hu/guides/video-jpg-png/"
+      },
+      {
+        "question": "Hogyan készíthetek PDF-et videóból?",
+        "answer": "Mentse a fontos kockákat a Video To Photo – Grab Frame-ben, és exportáláskor válassza a PDF-et. Egyetlen PDF-et kap a kockákból: storyboardhoz, jegyzetekhez és jelentésekhez ideális.",
+        "url": "/hu/guides/video-pdf/"
+      },
+      {
+        "question": "Hogyan készíthetek YouTube bélyegképet videóból iPhone-on?",
+        "answer": "Mentsen egy éles, kifejező kockát PNG-ként, és adjon hozzá szöveget a kedvenc szerkesztőjében. Ezután töltse fel YouTube bélyegképként vagy TikTok-, illetve Instagram-borítóként.",
+        "url": "/hu/guides/youtube-belyegkep-videobol/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Videó képpé",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Kép videóból — képkocka-app iPhone-ra",
     "application_category": "PhotoApplication",
     "application_sub_category": "Fotó és videó"
   },
   "footer": {
-    "cta_text": "📱 Töltse le a Video To Photo - Grab Frame alkalmazást",
+    "cta_text": "📱 Video To Photo - Grab Frame letöltése",
     "privacy_text": "Adatvédelmi irányelvek",
     "terms_text": "Felhasználási feltételek",
     "support_text": "Támogatás",
-    "developer_info": "Fejlesztette Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Minden jog fenntartva."
+    "developer_info": "Fejlesztő: Vladimir Ivakhnenko (c-basso). A kockák feldolgozása az eszközön történik, soha nem kerülnek szerverre.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Útmutatók",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Rögzítsen tökéletes képkockákat videóból iPhone-on"
+    "text": "📱 A tökéletes kocka bármelyik videóból"
   },
   "seo_chapter": {
     "title": "Hogyan alakítson videót fotókká iPhone-on",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Ugrás a tartalomra",
+    "ratings": "értékelés"
+  },
+  "nav": {
+    "how": "Hogyan működik",
+    "screenshots": "Képernyőképek",
+    "guides": "Útmutatók",
+    "faq": "GYIK"
+  },
+  "download": {
+    "title": "Egy app, egy feladat: képek videóból",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Pontosan a kívánt pillanat",
+        "description": "Húzza a képkockasávot, és álljon meg ott, ahol szeretne. Egy mosoly, az ugrás csúcsa, egy kép csukott szemek nélkül."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Valódi kockák, nem képernyőképek",
+        "description": "Közvetlenül a videófájlból: lejátszásgomb, fekete sávok és kijelzőméret-korlát nélkül."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Annyit, amennyit szeretne",
+        "description": "Mentse egyszerre az összes tetsző kockát, hasonlítsa össze őket, és tartsa meg a legjobbakat."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Válasszon formátumot és módot: külön fájlok, ZIP-archívum vagy PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% az eszközön",
+        "description": "A videói nem hagyják el az iPhone-t. Feltöltés és fiók nélkül, repülőgép-üzemmódban is működik."
+      },
+      {
+        "icon": "💾",
+        "title": "Projektek",
+        "description": "Minden videó projektként mentődik. Később megnyithatja és folytathatja."
+      }
+    ],
+    "meta_labels": {
+      "version": "Verzió",
+      "size": "Méret",
+      "requires": "Követelmény",
+      "price": "Ár",
+      "price_value": "Ingyenes · alkalmazáson belüli vásárlások",
+      "category": "Kategória",
+      "category_value": "Fotó és videó"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Képernyőképek",
+    "title": "Videóból fotó hat képernyőn",
+    "subtitle": "Pontosan úgy, mint az App Store-ban. Ez a valódi app.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: a legjobb pillanat bármelyik videóból",
+        "title": "A legjobb pillanat",
+        "caption": "A könyvtár bármelyik videójából."
+      },
+      {
+        "alt": "Kockamentés gomb és tálca 4 mentett kockával",
+        "title": "Mentsen el mindent, ami tetszik",
+        "caption": "Koppintson a Grab This Frame gombra, ahányszor csak akar."
+      },
+      {
+        "alt": "Előnézet, amely nagyítja a mentett kockát",
+        "title": "Csak a legjobbakat tartsa meg",
+        "caption": "Nagyítson rá exportálás előtt."
+      },
+      {
+        "alt": "Exportálási nézet JPEG, PNG, HEIC és Fájlok, ZIP vagy PDF lehetőséggel",
+        "title": "Válasszon formátumot",
+        "caption": "JPEG, PNG vagy HEIC. Fájlok, ZIP vagy PDF."
+      },
+      {
+        "alt": "Az iOS Megosztás menüje a kockák ZIP-fájljával",
+        "title": "Mentés és megosztás",
+        "caption": "A Fájlokba vagy a Megosztás menün keresztül."
+      },
+      {
+        "alt": "Projektlista időtartammal, kockaszámmal és fps-sel",
+        "title": "Több projekt",
+        "caption": "Térjen vissza később, és folytassa."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Hogyan működik",
+    "cta": "Ingyenes letöltés"
+  },
+  "guides_section": {
+    "eyebrow": "Útmutatók",
+    "title": "Útmutatók: kép videóból iPhone-on",
+    "subtitle": "Válaszok a leggyakoribb kérdésekre és a leggyorsabb módszer iPhone-on.",
+    "read_more": "Elolvasom",
+    "all_text": "Minden útmutató"
+  },
+  "cta": {
+    "title": "A legjobb fotója egy videóban van.",
+    "text": "Mentse ki másodpercek alatt, teljes minőségben, csak az iPhone-jával. Feltöltés nélkül."
+  },
+  "sticky": {
+    "text": "HD-fotók bármelyik videóból"
   }
 }

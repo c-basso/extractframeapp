@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "sv",
-    "title": "Video till foto konverter app iPhone | Video To Photo",
-    "description": "Video till foto-konverter för iPhone: spara en bildruta eller exportera flera som JPG, PNG eller HEIC på sekunder — bearbetning på enheten, utan uppladdning.",
-    "keywords": "video till foto, video till foto konverter, video till bild, bildruta från video, iPhone bildruta video, spara bildruta, jpg från video, png från video, heic från video, batchexport, dela från bilder",
+    "title": "Ta bild från video på iPhone – skarpt | Grab Frame",
+    "description": "Ta en bild från en video på iPhone i full kvalitet. Ingen skärmdump, utan exakt bildruta som JPG, PNG eller HEIC, eller ZIP och PDF. Fungerar utan nät.",
+    "keywords": "bild från video, ta bild från video iphone, spara bild från video, skärmdump video iphone, stillbild från video, ta ut bilder från video, video to pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/sv/",
-    "og_title": "Video till foto konverter för iPhone",
-    "og_description": "Video till foto-konverter för iPhone. Välj exakt ögonblick och exportera bildrutor som JPG, PNG eller HEIC — bearbetning på enheten, utan uppladdning.",
+    "og_title": "Bild från video på iPhone — exakt bildruta, skarpt",
+    "og_description": "Hitta ögonblicket och spara en eller dussintals bildrutor som JPG, PNG eller HEIC, eller som ZIP och PDF. Allt på enheten.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "sv_SE",
     "twitter_url": "https://extractframeapp.com/sv/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video till foto-konverter för iPhone. Exakta bildrutor, bearbetning på enheten, batchexport och format JPG, PNG, HEIC.",
+    "twitter_title": "Bild från video — Grab Frame",
+    "twitter_description": "HD-bilder från dina iPhone-videor. JPG, PNG, HEIC, ZIP, PDF. Offline, utan uppladdning.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/sv/",
@@ -21,18 +21,25 @@
     "geo_placename": "Sverige"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame-logotyp",
-    "title": "Extrahera bildrutor från video på iPhone",
-    "subtitle": "Video till foto och bild—spara exakta stillbilder på sekunder",
-    "entity_definition": "Video To Photo - Grab Frame är en iOS-app som förvandlar videor till stillbilder på din iPhone. Välj exakt ögonblick och exportera bildrutor som JPG, PNG eller HEIC.",
-    "subheadline": "Öppna från Bilder, skrolla till rätt ögonblick och spara en eller flera bildrutor. Inget konto, ingen uppladdning och ingen redigeringstidslinje.",
-    "download_alt": "Ladda ner i App Store",
-    "phone_text": "Tryck för att spara en bildruta från video",
-    "qr_alt": "QR-kod för att ladda ner appen",
-    "qr_text": "Skanna med din iPhone för att ladda ner"
+    "logo_alt": "Ikonen för Video To Photo – Grab Frame",
+    "title": "Bild från video på iPhone — exakt bildruta, skarpt",
+    "title_html": "Ta <span class=\"grad-text\">bild från video</span>. Exakt den bildruta du vill ha, knivskarpt.",
+    "subtitle": "Dra till ögonblicket och spara en eller dussintals bildrutor. Exportera som JPG, PNG eller HEIC. Allt sker på iPhone: utan uppladdning, utan konto.",
+    "entity_definition": "Video To Photo – Grab Frame är en iPhone-app som tar ut bildrutor ur videor och sparar dem som foton i hög upplösning. All behandling sker på enheten.",
+    "subheadline": "Dela från Bilder, hitta ögonblicket, spara. Klart.",
+    "download_alt": "Hämta Video To Photo – Grab Frame i App Store",
+    "phone_text": "Tryck för att ta bild från videon",
+    "qr_alt": "QR-kod för att hämta Video To Photo – Grab Frame",
+    "qr_text": "Skanna med iPhone-kameran för att installera",
+    "bullets": [
+      "Fungerar offline",
+      "JPG, PNG, HEIC",
+      "Export till ZIP och PDF",
+      "Inget konto"
+    ]
   },
   "last_updated": {
-    "text": "Senast uppdaterad: 16 juni 2026"
+    "text": "Senast uppdaterad: 1 oktober 2026"
   },
   "features": {
     "title": "Varför välja video till foto på iPhone",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Så extraherar du en bildruta från video på iPhone",
-    "subtitle": "Enkla steg för att spara perfekta stillbilder från dina klipp",
-    "placeholder_line1": "📱 Demovideo kommer snart",
-    "placeholder_line2": "Steg 1: Öppna från Bilder > Steg 2: Skrolla till ögonblick > Steg 3: Fånga bildruta(r) > Steg 4: Exportera JPG/PNG/HEIC"
+    "title": "Så tar du bild från video på iPhone",
+    "subtitle": "Fyra steg, ungefär en minut. Inget att lära sig."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Öppna från Bilder",
-        "text": "Dela en video från Bilder till {{app_info.name}}, eller öppna appen först och välj ditt klipp."
+        "name": "Dela videon från Bilder",
+        "text": "Öppna videon i Bilder, tryck på Dela och välj appen. Eller öppna appen och välj videon. Bildrutevyn öppnas direkt."
       },
       {
-        "name": "Hitta exakt ögonblick",
-        "text": "Använd skrollreglaget för att gå bildruta för bildruta och stanna på den stillbild du vill ha."
+        "name": "Hitta ögonblicket och spara",
+        "text": "Dra bildruteremsan till den bildruta du vill ha och tryck på spara. Upprepa för varje bildruta du vill ha."
       },
       {
-        "name": "Fånga en eller flera bildrutor",
-        "text": "Fånga en bildruta eller markera flera ögonblick för batchexport."
+        "name": "Behåll bara de bästa",
+        "text": "Öppna bildrutorna i helskärm, zooma in för att kolla skärpan och radera de suddiga."
       },
       {
-        "name": "Exportera och spara",
-        "text": "Spara dina stillbilder som JPG, PNG eller HEIC, eller exportera som ZIP eller PDF."
+        "name": "Exportera och dela",
+        "text": "Välj JPEG, PNG eller HEIC och spara som separata filer, ZIP eller PDF."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "FAQ: video till foto på iPhone",
+    "eyebrow": "Frågor och svar",
+    "title": "Bild från video på iPhone: vanliga frågor",
+    "learn_more": "Läs mer",
     "items": [
       {
-        "question": "Hur extraherar jag en bildruta från en video på iPhone?",
-        "answer": "Öppna ett klipp i Video To Photo - Grab Frame, skrolla till exakt ögonblick och fånga stillbilden. Exportera sedan som JPG, PNG eller HEIC."
+        "question": "Hur tar man en bild från en video på iPhone?",
+        "answer": "Från iOS 27 öppnar du videon i Bilder, pausar och sparar bildrutan som foto från •••-menyn (en i taget). På äldre iOS, eller om du vill ha många bilder som JPG, PNG, HEIC, ZIP eller PDF, använder du Video To Photo – Grab Frame.",
+        "url": "/sv/guides/ta-bild-fran-video-iphone/"
       },
       {
-        "question": "Kan jag exportera fler än en bildruta i taget?",
-        "answer": "Ja. Du kan välja flera ögonblick och exportera flera bildrutor i en batch."
+        "question": "Varför blir en skärmdump av video så dålig?",
+        "answer": "En skärmdump fångar skärmen: en 4K-bildruta krymper till skärmstorlek, uppspelningsreglage eller svarta kanter följer med och HDR-video blir mörk. Spara bildrutan från filen med Bilder i iOS 27 eller Video To Photo – Grab Frame, och exportera som PNG eller HEIC.",
+        "url": "/sv/guides/skarmdump-video-iphone/"
       },
       {
-        "question": "Vilka format kan jag exportera?",
-        "answer": "Appen stöder JPG, PNG och HEIC. Du kan också exportera som ZIP eller PDF."
+        "question": "Hur sparar jag en bild från en video?",
+        "answer": "Dela videon från Bilder till Video To Photo – Grab Frame, hitta bildrutan, spara den och tryck på Exportera. Den hamnar i Bilder eller Filer. Originalvideon förblir orörd.",
+        "url": "/sv/guides/spara-bild-fran-video-iphone/"
       },
       {
-        "question": "Laddar appen upp mina videor?",
-        "answer": "Nej. Extraktion sker på enheten — dina videor och bilder stannar på din iPhone."
+        "question": "Vad ska jag titta efter i en app som tar bilder från video?",
+        "answer": "Fyra saker: exakt val av bildruta, export i videons upplösning, behandling på enheten och massexport. Video To Photo – Grab Frame har allt detta och exporterar till JPG, PNG, HEIC, ZIP eller PDF.",
+        "url": "/sv/guides/app-bild-fran-video/"
       },
       {
-        "question": "Kan jag fortsätta senare?",
-        "answer": "Ja. Du kan spara sessioner som projekt och öppna dem igen."
+        "question": "Kan jag ta ut flera bilder från en video samtidigt?",
+        "answer": "Ja. Spara så många bildrutor du vill från en video och exportera dem tillsammans som filer, ZIP eller PDF. Att välja bara de bildrutor du behöver går snabbare än att sortera hundratals likadana bilder.",
+        "url": "/sv/guides/ta-ut-bilder-fran-video/"
       },
       {
-        "question": "Är Video To Photo - Grab Frame gratis?",
-        "answer": "Appen är gratis att ladda ner; avancerade funktioner finns via köp i appen."
+        "question": "Hur stegar jag igenom en video bildruta för bildruta på iPhone?",
+        "answer": "Pausa videon i Bilder och dra bildruteremsan långsamt. I Video To Photo – Grab Frame drar du med en stor förhandsvisning och sparar rätt bildruta direkt.",
+        "url": "/sv/guides/video-bildruta-for-bildruta-iphone/"
       },
       {
-        "question": "Vem passar appen för?",
-        "answer": "För innehållsskapare, lärare och alla som vill fånga ett specifikt ögonblick från video som stillbild."
+        "question": "Hur får jag en skarp bild från en video?",
+        "answer": "Välj en bildruta med lite rörelse, filma helst i 4K eller 60 fps och exportera från filen i stället för att ta en skärmdump. Exportera som PNG eller HEIC och jämför grannrutorna för att behålla den skarpaste.",
+        "url": "/sv/guides/skarp-bild-fran-video/"
       },
       {
-        "question": "Finns det en video till foto-konverter för iPhone?",
-        "answer": "Ja. Video To Photo - Grab Frame fungerar som video till foto-konverter: öppna ett klipp, skrolla till exakt ögonblick och spara bildrutor som JPG, PNG eller HEIC — allt på din iPhone."
+        "question": "Hur gör jag om en video till JPG eller PNG på iPhone?",
+        "answer": "Med Video To Photo – Grab Frame sparar du valda bildrutor som JPG, PNG eller HEIC. JPG för delning, PNG för förlustfri redigering, HEIC för små och skarpa filer.",
+        "url": "/sv/guides/video-till-jpg-png/"
+      },
+      {
+        "question": "Hur gör jag en PDF från en video?",
+        "answer": "Spara de viktiga bildrutorna i Video To Photo – Grab Frame och välj PDF vid export. Du får en PDF med bildrutorna, perfekt för storyboard, anteckningar och rapporter.",
+        "url": "/sv/guides/video-till-pdf/"
+      },
+      {
+        "question": "Hur gör jag en YouTube-thumbnail från video på iPhone?",
+        "answer": "Spara en skarp och uttrycksfull bildruta som PNG och lägg till text i din favoritredigerare. Ladda sedan upp den som YouTube-thumbnail eller omslag på TikTok och Instagram.",
+        "url": "/sv/guides/youtube-thumbnail-fran-video/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video till foto konverter",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Bild från video — bildruteapp för iPhone",
     "application_category": "PhotoApplication",
-    "application_sub_category": "Bilder och video"
+    "application_sub_category": "Foto och video"
   },
   "footer": {
-    "cta_text": "📱 Ladda ner Video To Photo - Grab Frame",
+    "cta_text": "📱 Hämta Video To Photo - Grab Frame",
     "privacy_text": "Integritetspolicy",
     "terms_text": "Användarvillkor",
     "support_text": "Support",
-    "developer_info": "Utvecklad av Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Alla rättigheter förbehållna."
+    "developer_info": "Utvecklare: Vladimir Ivakhnenko (c-basso). Bildrutorna behandlas på enheten och skickas aldrig till en server.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Guider",
+    "blog_text": "Blogg"
   },
   "floating_cta": {
-    "text": "📱 Fånga perfekta bildrutor från video på iPhone"
+    "text": "📱 Den perfekta bildrutan från vilken video som helst"
   },
   "seo_chapter": {
     "title": "Så förvandlar du video till foton på iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Hoppa till innehållet",
+    "ratings": "betyg"
+  },
+  "nav": {
+    "how": "Så fungerar det",
+    "screenshots": "Skärmbilder",
+    "guides": "Guider",
+    "faq": "Frågor"
+  },
+  "download": {
+    "title": "En app, en uppgift: bilder från video",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Exakt det ögonblick du vill ha",
+        "description": "Dra bildruteremsan och stanna där du vill. Ett leende, toppen av hoppet, en bild utan slutna ögon."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Riktiga bildrutor, inte skärmdumpar",
+        "description": "Direkt från videofilen: utan uppspelningsknapp, svarta kanter eller skärmens storleksgräns."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Så många du vill",
+        "description": "Spara alla bildrutor du gillar på en gång, jämför och behåll de bästa."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Välj format och sätt: separata filer, ZIP-arkiv eller PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100 % på enheten",
+        "description": "Dina videor lämnar aldrig iPhone. Utan uppladdning och konto, fungerar i flygplansläge."
+      },
+      {
+        "icon": "💾",
+        "title": "Projekt",
+        "description": "Varje video sparas som ett projekt. Öppna det senare och fortsätt."
+      }
+    ],
+    "meta_labels": {
+      "version": "Version",
+      "size": "Storlek",
+      "requires": "Kräver",
+      "price": "Pris",
+      "price_value": "Gratis · köp i appen",
+      "category": "Kategori",
+      "category_value": "Foto och video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Skärmbilder",
+    "title": "Från video till bild på sex skärmar",
+    "subtitle": "Precis som i App Store. Det här är den riktiga appen.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: det bästa ögonblicket från vilken video som helst",
+        "title": "Det bästa ögonblicket",
+        "caption": "Från vilken video som helst i biblioteket."
+      },
+      {
+        "alt": "Knapp för att spara bildruta och fack med 4 sparade bildrutor",
+        "title": "Spara allt du gillar",
+        "caption": "Tryck på Grab This Frame så ofta du vill."
+      },
+      {
+        "alt": "Förhandsvisning som förstorar en sparad bildruta",
+        "title": "Behåll bara de bästa",
+        "caption": "Zooma in före export."
+      },
+      {
+        "alt": "Exportvy med JPEG, PNG, HEIC och Filer, ZIP eller PDF",
+        "title": "Välj format",
+        "caption": "JPEG, PNG eller HEIC. Filer, ZIP eller PDF."
+      },
+      {
+        "alt": "iOS Dela-meny med en ZIP-fil med bildrutor",
+        "title": "Spara och dela",
+        "caption": "Till Filer eller via Dela-menyn."
+      },
+      {
+        "alt": "Projektlista med längd, antal bildrutor och fps",
+        "title": "Flera projekt",
+        "caption": "Kom tillbaka senare och fortsätt."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Så fungerar det",
+    "cta": "Hämta gratis"
+  },
+  "guides_section": {
+    "eyebrow": "Guider",
+    "title": "Guider: bild från video på iPhone",
+    "subtitle": "Svar på de mest sökta frågorna och det snabbaste sättet på iPhone.",
+    "read_more": "Läs guiden",
+    "all_text": "Alla guider"
+  },
+  "cta": {
+    "title": "Din bästa bild finns i en video.",
+    "text": "Spara den på sekunder, i full kvalitet, bara med iPhone. Utan uppladdning."
+  },
+  "sticky": {
+    "text": "HD-bilder från vilken video som helst"
   }
 }

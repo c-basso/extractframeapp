@@ -1,0 +1,65 @@
+{
+  "slug": "video-naar-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video naar JPG",
+  "secondary_keywords": [
+    "video naar jpg iphone",
+    "video naar png",
+    "video omzetten naar foto",
+    "video naar afbeelding"
+  ],
+  "title": "Video naar JPG, PNG of HEIC op iPhone (offline)",
+  "description": "Zet frames uit een video om naar JPG, PNG of HEIC op je iPhone, offline en in volle kwaliteit. Plus welk formaat je kiest om te delen, te bewerken of te bewaren.",
+  "h1": "Video naar JPG, PNG of HEIC op je iPhone",
+  "nav_title": "Video naar JPG, PNG, HEIC",
+  "card_title": "Frames uit video naar JPG, PNG of HEIC",
+  "excerpt": "Het juiste formaat voor je frames en hoe je exporteert zonder online converter.",
+  "lead": "Online 'video naar JPG'-converters laten je het hele bestand uploaden, wachten en een stapel afbeeldingen downloaden. Op iPhone doe je het op je toestel, met alleen de frames die je wilt, in het formaat dat bij je doel past.",
+  "quick_answer": "Open de video in Video To Photo – Grab Frame, bewaar de frames die je wilt, tik op Exporteer en kies JPEG, PNG of HEIC. JPG om te delen, PNG om verliesvrij te bewerken, HEIC voor klein en scherp. De omzetting gebeurt op je iPhone, zonder upload.",
+  "content_intro": "<h2>JPG, PNG en HEIC: het verschil</h2><table><thead><tr><th>Formaat</th><th>Kwaliteit</th><th>Grootte</th><th>Ideaal voor</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Heel goed (lossy)</td><td>Klein</td><td>WhatsApp, social media, mail, web. Opent overal</td></tr><tr><td><strong>PNG</strong></td><td>Verliesvrij</td><td>Grootst</td><td>Bewerken, thumbnails met tekst, collages</td></tr><tr><td><strong>HEIC</strong></td><td>Uitstekend</td><td>Kleinst bij gelijke kwaliteit</td><td>Apple-fotobibliotheek, iPhone en Mac</td></tr></tbody></table><p>Twijfel je? <strong>JPG</strong> om te versturen, <strong>PNG</strong> om te bewerken.</p><h2>Waarom geen online converter?</h2><ul><li>Je moet de hele video uploaden: traag op mobiel en niet ideaal voor privévideo's.</li><li>Veel sites knippen op vaste intervallen: honderden beelden, maar misschien niet jouw moment.</li><li>Gratis versies hebben vaak een limiet of watermerk.</li></ul>",
+  "steps_title": "Frames uit een video naar JPG, PNG of HEIC op iPhone",
+  "steps": [
+    {
+      "name": "Open de video",
+      "text": "Deel hem vanuit Foto's met Video To Photo – Grab Frame of kies hem in de app.",
+      "shot": 0
+    },
+    {
+      "name": "Bewaar de frames",
+      "text": "Tik bij elk moment op bewaren. Alleen de gekozen frames worden omgezet.",
+      "shot": 1
+    },
+    {
+      "name": "Kies JPEG, PNG of HEIC",
+      "text": "Tik op Exporteer en kies bovenaan het afbeeldingsformaat.",
+      "shot": 3
+    },
+    {
+      "name": "Bewaar als bestanden, ZIP of PDF",
+      "text": "Exporteer als losse afbeeldingen, ZIP of PDF en bewaar in Foto's of Bestanden, of deel direct.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Welk formaat voor welk doel?</h2><ul><li><strong>YouTube-thumbnail of TikTok-cover</strong> → PNG, dan tekst toevoegen. Zie <a href=\"/nl/guides/thumbnail-maken-van-video/\">thumbnail maken van een video</a>.</li><li><strong>Naar Windows of Android sturen</strong> → JPG (HEIC opent niet overal).</li><li><strong>Afdrukken</strong> → PNG of JPG van hoge kwaliteit uit een 4K-video.</li><li><strong>Veel frames archiveren</strong> → HEIC in een ZIP.</li><li><strong>Frames in een document</strong> → PDF, zie <a href=\"/nl/guides/video-naar-pdf/\">video naar PDF</a>.</li></ul><h2>Verlies je kwaliteit bij het omzetten?</h2><p>PNG bewaart elke pixel van het frame. JPG en HEIC comprimeren, maar op fotokwaliteit zie je het verschil nauwelijks. Veel belangrijker dan het formaat is dat je uit het bestand exporteert en geen screenshot maakt.</p>",
+  "faq": [
+    {
+      "q": "Kan ik op iPhone gratis een video naar JPG omzetten?",
+      "a": "Video To Photo – Grab Frame is gratis te downloaden; Pro-functies zijn een in-app aankoop. De frames worden op je iPhone omgezet en de video wordt niet geüpload."
+    },
+    {
+      "q": "Kan ik een frame uit een video als PNG bewaren?",
+      "a": "Ja. Bewaar het frame, kies PNG bij het exporteren en bewaar als los bestand of als ZIP."
+    },
+    {
+      "q": "Opent HEIC op Windows?",
+      "a": "Nieuwere Windows-versies openen HEIC met een extensie, maar niet elk systeem. Voor niet-Apple-apparaten is JPG de veilige keuze."
+    }
+  ],
+  "related": [
+    "scherpe-foto-uit-video",
+    "video-naar-pdf",
+    "thumbnail-maken-van-video"
+  ],
+  "datePublished": "2026-09-30"
+}

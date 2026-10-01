@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-iz-videa",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail size",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "naslovna slika videa",
+    "thumbnail iz videa"
+  ],
+  "title": "YouTube thumbnail iz videa na iPhonu",
+  "description": "Naredite thumbnail za YouTube, Instagram ali TikTok iz najboljše sličice lastnega videa na iPhonu: izvoz v PNG, prava velikost in nasveti za več klikov.",
+  "h1": "Kako narediti YouTube thumbnail iz videa na iPhonu",
+  "nav_title": "YouTube thumbnail",
+  "card_title": "YouTube thumbnail iz lastnega videa",
+  "excerpt": "Izbira in izvoz najboljše sličice za thumbnail.",
+  "lead": "Thumbnail odloča, ali bo kdo kliknil na video. Najboljša osnova je pogosto v samem videu: izrazit obraz, vrhunec, jasen trenutek. Le poiskati ga morate in ga ostro shraniti.",
+  "quick_answer": "Odprite video v Video To Photo – Grab Frame, poiščite ostro in izrazito sličico ter jo izvozite v PNG. Besedilo in obrez (1280×720, 16:9) dodajte v priljubljenem urejevalniku, nato naložite na YouTube.",
+  "content_intro": "<h2>Priporočene velikosti</h2><table><thead><tr><th>Platforma</th><th>Velikost</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Objava na Instagramu</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p>",
+  "steps_title": "Thumbnail korak za korakom",
+  "steps": [
+    {
+      "name": "Odprite video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Poiščite vrhunec",
+      "text": "Premikajte se sličico za sličico in iščite izrazit obraz ali močan trenutek brez zameglitve.",
+      "shot": 1
+    },
+    {
+      "name": "Shranite več kandidatk",
+      "text": "Shranite tri ali štiri sličice, da imate izbiro.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite v PNG",
+      "text": "PNG ohrani kakovost pred dodajanjem besedila in obrezovanjem.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Nasveti za dober thumbnail</h2><ul><li>Veliko, berljivo besedilo: največ 3–5 besed.</li><li>Obraz s čustvom: izstopa na seznamu.</li><li>Močan kontrast, malo podrobnosti.</li><li>Preverite ga tudi v majhni velikosti, kot je prikazan na telefonu.</li></ul><p>Uporabljajte lastne videe. Sličic iz tuje vsebine ne objavljajte brez dovoljenja.</p>",
+  "faq": [
+    {
+      "q": "Kakšna je velikost YouTube thumbnaila?",
+      "a": "1280×720 slikovnih pik, razmerje 16:9, največ 2 MB (JPG ali PNG)."
+    },
+    {
+      "q": "Ali lahko thumbnail naredim iz sličice videa?",
+      "a": "Da. Shranite sličico z Video To Photo – Grab Frame v PNG in nato dodajte besedilo v urejevalniku."
+    },
+    {
+      "q": "Zakaj je thumbnail zamegljen?",
+      "a": "Izbrali ste sličico v gibanju ali ima video nizko ločljivost. Izberite sosednjo sličico in snemajte v 4K."
+    }
+  ],
+  "related": [
+    "ostra-slika-iz-videa",
+    "video-v-jpg-png",
+    "slika-iz-videa-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

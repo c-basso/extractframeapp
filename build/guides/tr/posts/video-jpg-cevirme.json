@@ -1,0 +1,65 @@
+{
+  "slug": "video-jpg-cevirme",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video JPG çevirme",
+  "secondary_keywords": [
+    "video jpg çevirme",
+    "video jpg dönüştürücü",
+    "videoyu fotoğrafa çevirme",
+    "video png çevirme"
+  ],
+  "title": "iPhone'da Videoyu JPG, PNG veya HEIC'e Çevirme (Çevrimdışı)",
+  "description": "iPhone'da video karelerini çevrimdışı ve tam kalitede JPG, PNG veya HEIC'e çevir. Ayrıca göndermek, düzenlemek ve saklamak için hangi format seçilir.",
+  "h1": "iPhone'da videoyu JPG, PNG veya HEIC'e çevirme",
+  "nav_title": "Video JPG, PNG, HEIC",
+  "card_title": "Video karelerini JPG, PNG veya HEIC'e çevirme",
+  "excerpt": "Kareler için doğru format ve çevrimiçi dönüştürücü olmadan dışa aktarma.",
+  "lead": "Çevrimiçi \"video JPG dönüştürücüler\" tüm dosyayı yüklemeni, beklemeni ve bir yığın görüntü indirmeni ister. iPhone'da bunu cihazda, sadece istediğin karelerle ve amaca uygun formatta yaparsın.",
+  "quick_answer": "Videoyu Video To Photo – Grab Frame'de aç, istediğin kareleri kaydet, Dışa Aktar'a dokun ve JPEG, PNG veya HEIC seç. Göndermek için JPG, kayıpsız düzenleme için PNG, küçük ve net dosyalar için HEIC. Dönüştürme iPhone'da olur, yükleme gerekmez.",
+  "content_intro": "<h2>JPG, PNG ve HEIC farkı</h2><table><thead><tr><th>Format</th><th>Kalite</th><th>Boyut</th><th>En uygun</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Çok iyi (kayıplı)</td><td>Küçük</td><td>WhatsApp, sosyal medya, e-posta, web. Her yerde açılır</td></tr><tr><td><strong>PNG</strong></td><td>Kayıpsız</td><td>En büyük</td><td>Düzenleme, yazılı kapaklar, kolajlar</td></tr><tr><td><strong>HEIC</strong></td><td>Mükemmel</td><td>Aynı kalitede en küçük</td><td>Apple arşivi, iPhone ve Mac</td></tr></tbody></table><p>Emin değil misin? Göndermek için <strong>JPG</strong>, düzenlemek için <strong>PNG</strong>.</p><h2>Neden çevrimiçi dönüştürücü değil?</h2><ul><li>Tüm videoyu yüklemen gerekir: mobil veride yavaş ve özel videolar için uygun değil.</li><li>Birçok site sabit aralıklarla keser: yüzlerce görüntü, ama belki senin anın yok.</li><li>Ücretsiz sürümlerde çoğu zaman sınır veya filigran olur.</li></ul>",
+  "steps_title": "iPhone'da video karelerini JPG, PNG veya HEIC'e çevirme",
+  "steps": [
+    {
+      "name": "Videoyu aç",
+      "text": "Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş veya uygulamada seç.",
+      "shot": 0
+    },
+    {
+      "name": "Kareleri kaydet",
+      "text": "Her anda kaydet'e dokun. Sadece seçilen kareler dönüştürülür.",
+      "shot": 1
+    },
+    {
+      "name": "JPEG, PNG veya HEIC seç",
+      "text": "Dışa Aktar'a dokun ve üstten görüntü formatını seç.",
+      "shot": 3
+    },
+    {
+      "name": "Dosya, ZIP veya PDF olarak kaydet",
+      "text": "Ayrı görüntü, ZIP veya PDF olarak aktar ve Fotoğraflar'a veya Dosyalar'a kaydet ya da hemen paylaş.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Hangi iş için hangi format?</h2><ul><li><strong>YouTube kapak fotoğrafı veya TikTok kapağı</strong> → PNG, sonra yazı. Bkz. <a href=\"/tr/guides/youtube-kapak-fotografi-yapma/\">YouTube kapak fotoğrafı yapma</a>.</li><li><strong>Windows veya Android'e gönderme</strong> → JPG (HEIC her yerde açılmaz).</li><li><strong>Baskı</strong> → 4K videodan PNG veya yüksek kaliteli JPG.</li><li><strong>Çok kare arşivi</strong> → ZIP içinde HEIC.</li><li><strong>Belgede kareler</strong> → PDF, bkz. <a href=\"/tr/guides/video-pdf-donusturme/\">videoyu PDF'e dönüştürme</a>.</li></ul><h2>Dönüştürme kaliteyi düşürür mü?</h2><p>PNG karenin her pikselini korur. JPG ve HEIC sıkıştırır ama fotoğraf kalitesinde fark neredeyse görünmez. Formattan çok daha önemlisi ekran görüntüsü yerine dosyadan aktarmaktır.</p>",
+  "faq": [
+    {
+      "q": "iPhone'da videoyu ücretsiz JPG'ye çevirebilir miyim?",
+      "a": "Video To Photo – Grab Frame ücretsiz indirilir; Pro özellikler uygulama içi satın almadır. Kareler iPhone'da dönüştürülür ve video yüklenmez."
+    },
+    {
+      "q": "Videodan bir kareyi PNG olarak kaydedebilir miyim?",
+      "a": "Evet. Kareyi kaydet, dışa aktarırken PNG seç ve ayrı dosya ya da ZIP olarak kaydet."
+    },
+    {
+      "q": "HEIC Windows'ta açılır mı?",
+      "a": "Yeni Windows sürümleri bir uzantıyla açar ama her sistem açamaz. Apple dışı cihazlar için JPG daha güvenli seçimdir."
+    }
+  ],
+  "related": [
+    "videodan-kaliteli-fotograf-alma",
+    "video-pdf-donusturme",
+    "youtube-kapak-fotografi-yapma"
+  ],
+  "datePublished": "2026-10-01"
+}

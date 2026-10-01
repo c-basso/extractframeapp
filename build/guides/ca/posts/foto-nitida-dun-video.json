@@ -1,0 +1,64 @@
+{
+  "slug": "foto-nitida-dun-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "foto nítida d'un vídeo",
+  "secondary_keywords": [
+    "foto de qualitat d'un vídeo",
+    "foto borrosa d'un vídeo",
+    "vídeo hdr foto fosca"
+  ],
+  "title": "Foto nítida d’un vídeo a l’iPhone: per què surt borrosa",
+  "description": "Per què la foto treta d’un vídeo surt borrosa o fosca, i com obtenir-ne una de nítida a resolució completa a l’iPhone: obturació, fps, HDR i el fotograma bo.",
+  "h1": "Una foto nítida i de qualitat d’un vídeo a l’iPhone",
+  "nav_title": "Foto nítida",
+  "card_title": "Foto nítida d’un vídeo: per què surt borrosa",
+  "excerpt": "Causes i solucions de les fotos borroses, fosques i de baixa resolució.",
+  "lead": "Una foto treta d’un vídeo sovint és més suau que una foto normal. Té una raó: el vídeo està pensat per al moviment continu, no per a fotogrames sols. Amb uns quants ajustos i el fotograma bo, el resultat pot ser molt més nítid.",
+  "quick_answer": "Tria el fotograma amb menys moviment, desa’l des del fitxer del vídeo (no amb una captura) i grava en 4K a 60 fps amb bona llum. Si la foto surt fosca o esvaïda, la causa és el vídeo HDR. Video To Photo – Grab Frame desa el fotograma des del fitxer a resolució completa.",
+  "content_intro": "<h2>Per què la foto surt borrosa?</h2><table><thead><tr><th>Causa</th><th>Símptoma</th><th>Solució</th></tr></thead><tbody><tr><td>Moviment</td><td>Mà o pilota borrosa</td><td>Fotograma veí, més llum, 60 fps</td></tr><tr><td>Captura</td><td>Resolució de pantalla, controls</td><td>Desar des del fitxer</td></tr><tr><td>Compressió</td><td>Zones quadriculades</td><td>Vídeo original, no el de WhatsApp o Telegram</td></tr><tr><td>Vídeo HDR</td><td>Foto fosca o esvaïda</td><td>Mira més avall</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p>",
+  "steps_title": "Una foto nítida pas a pas",
+  "steps": [
+    {
+      "name": "Obre el vídeo original",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame. Fes servir el fitxer original.",
+      "shot": 0
+    },
+    {
+      "name": "Troba el fotograma més nítid",
+      "text": "Avança fotograma a fotograma al voltant del moment. L’anterior o el següent sovint és molt més nítid.",
+      "shot": 1
+    },
+    {
+      "name": "Compara ampliant",
+      "text": "Desa’n dos o tres candidats i amplia els ulls o les vores. Queda’t el millor.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta a resolució completa",
+      "text": "PNG per a la màxima qualitat, HEIC/JPG per a una mida menor.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Per què la foto d’un vídeo HDR surt fosca?</h2><p>L’iPhone grava en HDR (Dolby Vision) per defecte. Quan el fotograma es desa com a foto normal, la brillantor i els colors poden canviar. Si et molesta, desactiva-ho: <strong>Configuració → Càmera → Gravació de vídeo → Vídeo HDR</strong>.</p><h2>Consells per gravar</h2><ul><li>4K, 60 fps: més fotogrames i més nítids.</li><li>Molta llum: exposició més curta, menys moviment.</li><li>Càmera lenta per als moviments ràpids.</li><li>Mà ferma o trípode.</li></ul><p>La foto no pot tenir més resolució que el vídeo: uns 8 MP des de 4K, uns 2 MP des de 1080p.</p>",
+  "faq": [
+    {
+      "q": "Es pot treure una foto de qualitat d’un vídeo?",
+      "a": "Sí, si el vídeo és nítid i el fotograma es desa des del fitxer. Des de 4K obtens uns 8 MP, prou per a impressions petites."
+    },
+    {
+      "q": "Per què la foto del vídeo surt borrosa?",
+      "a": "Normalment pel moviment o per una captura. Tria el fotograma veí i desa’l des del fitxer."
+    },
+    {
+      "q": "Per què la foto surt fosca?",
+      "a": "Probablement ve d’un vídeo HDR. Desactiva el Vídeo HDR a Configuració → Càmera → Gravació de vídeo per a les properes gravacions."
+    }
+  ],
+  "related": [
+    "treure-foto-dun-video-iphone",
+    "video-fotograma-a-fotograma-iphone",
+    "video-a-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

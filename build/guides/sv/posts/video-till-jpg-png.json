@@ -1,0 +1,65 @@
+{
+  "slug": "video-till-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video jpg converter",
+  "secondary_keywords": [
+    "video till jpg",
+    "video to png",
+    "video to heic",
+    "video jpg hd"
+  ],
+  "title": "Video till JPG, PNG eller HEIC på iPhone",
+  "description": "Spara bildrutor från video som JPG, PNG eller HEIC på iPhone. När du ska välja vilket format, och hur du exporterar till Filer, ZIP eller PDF.",
+  "h1": "Gör om video till JPG, PNG eller HEIC på iPhone",
+  "nav_title": "Video till JPG/PNG",
+  "card_title": "Video till JPG, PNG eller HEIC",
+  "excerpt": "Vad varje format passar till, och hur du exporterar bildrutorna.",
+  "lead": "En video kan inte göras om till en enda JPG direkt: bilden kommer alltid från en vald bildruta. Frågan är vilket format du sparar i: JPG, PNG eller HEIC. Alla har sin plats.",
+  "quick_answer": "Välj bildrutan i Video To Photo – Grab Frame och exportera som JPG (öppnas överallt), PNG (förlustfritt, för redigering) eller HEIC (små filer, för Apple-enheter). Flera bildrutor kan sparas samtidigt i Filer, ZIP eller PDF.",
+  "content_intro": "<h2>Vilket format ska du välja?</h2><table><thead><tr><th>Format</th><th>Fördel</th><th>När</th></tr></thead><tbody><tr><td>JPG</td><td>Fungerar överallt</td><td>Delning, e-post, webb</td></tr><tr><td>PNG</td><td>Förlustfritt</td><td>Redigering, thumbnail, text på bilden</td></tr><tr><td>HEIC</td><td>Liten fil</td><td>Bildbiblioteket, Apple-enheter</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p><p>Bilder erbjuder varken PNG eller massexport. För det behöver du en app.</p>",
+  "steps_title": "Exportera bildrutor som JPG/PNG/HEIC",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Tryck på Dela i Bilder och välj Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Välj bildrutorna",
+      "text": "Dra remsan och spara de bildrutor du vill ha. En eller dussintals.",
+      "shot": 1
+    },
+    {
+      "name": "Välj format",
+      "text": "Välj mellan JPG, PNG och HEIC vid export.",
+      "shot": 3
+    },
+    {
+      "name": "Spara",
+      "text": "I Bilder, Filer, ZIP eller PDF, eller dela direkt.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Öppna HEIC i Windows</h2><p>Äldre Windows och vissa webbplatser stöder inte HEIC. Ska bilden inte till en Apple-enhet, välj JPG.</p><h2>Behålls metadata?</h2><p>Bilden får videons upplösning. Datum och plats beror på källvideon och exportsättet. Är det viktigt, kontrollera bildinformationen i Bilder.</p>",
+  "faq": [
+    {
+      "q": "Hur gör jag om en video till JPG på iPhone?",
+      "a": "Välj en bildruta i Video To Photo – Grab Frame och exportera som JPG. På iOS 27 sparar även Bilder en bildruta som HEIF eller JPG."
+    },
+    {
+      "q": "PNG eller JPG?",
+      "a": "PNG för redigering och bilder med text, JPG för delning. PNG ger större filer, men utan kvalitetsförlust."
+    },
+    {
+      "q": "Kan jag spara många bildrutor samtidigt?",
+      "a": "Ja, i massläget i Grab Frame, och sedan exportera som ZIP eller PDF."
+    }
+  ],
+  "related": [
+    "spara-bild-fran-video-iphone",
+    "ta-ut-bilder-fran-video",
+    "video-till-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

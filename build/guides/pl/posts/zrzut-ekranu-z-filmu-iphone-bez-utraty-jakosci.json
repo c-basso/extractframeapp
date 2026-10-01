@@ -1,0 +1,69 @@
+{
+  "slug": "zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "zrzut ekranu z filmu iPhone",
+  "secondary_keywords": [
+    "zrzut ekranu z filmu",
+    "jak zrobić zrzut ekranu z filmu",
+    "zrzut ekranu filmu ciemny iphone",
+    "zdjęcie z filmu bez zrzutu ekranu"
+  ],
+  "title": "Zrzut ekranu z filmu na iPhonie bez utraty jakości",
+  "description": "Dlaczego zrzut ekranu z filmu na iPhonie jest rozmazany lub ciemny i dwa sposoby, by zapisać prawdziwą klatkę w pełnej jakości.",
+  "h1": "Zrzut ekranu z filmu na iPhonie: dlaczego jest rozmazany i jak zrobić to lepiej",
+  "nav_title": "Zrzut ekranu z filmu",
+  "card_title": "Zrzut ekranu z filmu bez utraty jakości",
+  "excerpt": "Dlaczego zrzuty z filmu są rozmazane lub ciemne i jak zapisać ostrą klatkę w pełnym rozmiarze.",
+  "lead": "Pauza, boczny przycisk i głośniej, przycięcie… a i tak wygląda gorzej niż film. To nie złudzenie: zrzut ekranu zapisuje ekran, a nie film.",
+  "quick_answer": "Zrzut ekranu nigdy nie będzie ostrzejszy niż ekran. Na iOS 27 lub nowszym zatrzymaj film w Zdjęciach i zapisz klatkę przez •••. Na starszym iOS, albo dla wielu klatek i PNG, otwórz film w Video To Photo – Grab Frame i wyeksportuj. W obu przypadkach dostajesz prawdziwą klatkę, bez przycisku odtwarzania i czarnych pasów.",
+  "content_intro": "<h2>Jak zrobić zrzut ekranu z filmu (zwykły sposób)</h2><ol><li>Odtwórz film w Zdjęciach i zatrzymaj.</li><li>Stuknij ekran, by ukryć przyciski.</li><li>Naciśnij jednocześnie <strong>boczny przycisk</strong> i <strong>zwiększanie głośności</strong> (z przyciskiem Początek: Początek + boczny).</li><li>Otwórz miniaturkę, przytnij czarne pasy i stuknij Gotowe.</li></ol><h2>Dlaczego jakość spada</h2><ul><li><strong>Rozdzielczość ekranu, nie filmu.</strong> Poziomy film 4K (3840×2160) na pionowym ekranie to wąski pasek. Po przycięciu zostaje ułamek pikseli.</li><li><strong>Trudno trafić w klatkę.</strong> Pauza palcem często ląduje na mrugnięciu lub poruszonej klatce.</li><li><strong>Zbędne elementy i ponowna kompresja.</strong> Przycisk odtwarzania, napisy, pasek czasu i ponowny zapis przy przycinaniu.</li></ul><h3>Dlaczego zrzut jest ciemniejszy</h3><p>iPhone domyślnie nagrywa w <strong>HDR</strong>, a film HDR jest wyświetlany jaśniej. Zrzut ekranu zapisuje się jako zwykły obraz i może wyglądać ciemniej lub bladziej niż odtwarzany film. Jeśli nie chcesz tej różnicy w nowych nagraniach, wyłącz Wideo HDR w Ustawienia → Aparat → Nagrywanie wideo.</p><blockquote><p>Rozwiązaniem nie jest lepszy zrzut ekranu, tylko brak zrzutu ekranu.</p></blockquote><h2>Sposób 1: Zdjęcia w iOS 27</h2><p>Zatrzymaj: otwórz film w aplikacji Zdjęcia, zatrzymaj w odpowiednim momencie, stuknij <strong>•••</strong> i wybierz opcję zapisania klatki jako zdjęcia (<em>Save Video Frame as Photo</em>). Dostajesz HEIF lub JPG w rozdzielczości filmu, jedną klatkę naraz, z datą filmu.</p><h2>Sposób 2: aplikacja (każdy iOS, wiele klatek)</h2><p>Masz iOS 26 lub starszy, albo chcesz wielu klatek, PNG, ZIP lub PDF? Aplikacja do klatek czyta je bezpośrednio z pliku wideo i eksportuje razem.</p>",
+  "steps_title": "Jak zapisać klatkę z filmu na iPhonie bez zrzutu ekranu",
+  "steps": [
+    {
+      "name": "Otwórz film w aplikacji",
+      "text": "W Zdjęciach stuknij Udostępnij i wybierz aplikację albo otwórz Video To Photo – Grab Frame i wybierz film.",
+      "shot": 0
+    },
+    {
+      "name": "Zatrzymaj się na właściwej klatce",
+      "text": "Przesuwaj powoli pasek klatek i zatrzymaj się, gdy moment jest w dużym podglądzie. Bez walki z przyciskiem pauzy.",
+      "shot": 1
+    },
+    {
+      "name": "Zapisz klatkę",
+      "text": "Trafia do tacki na dole. Zapisz też klatki przed i po i porównaj je.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportuj jako PNG lub HEIC",
+      "text": "PNG jest bezstratny, HEIC ostry i lekki. Zapisz w Zdjęciach lub Plikach.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Zrzut ekranu a wyeksportowana klatka</h2><table><thead><tr><th></th><th>Zrzut ekranu</th><th>Klatka z pliku</th></tr></thead><tbody><tr><td>Rozdzielczość</td><td>Maksymalnie ekran</td><td>Jak w filmie</td></tr><tr><td>Dokładny moment</td><td>Kwestia szczęścia</td><td>Wybór paskiem klatek</td></tr><tr><td>Przycisk odtwarzania, pasy</td><td>Często, trzeba przycinać</td><td>Nigdy</td></tr><tr><td>Wiele klatek</td><td>Po jednej</td><td>Razem, ZIP, PDF</td></tr><tr><td>Format</td><td>Zrzut PNG</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Jak uzyskać najostrzejszy wynik</h2><p>Klatka nigdy nie będzie ostrzejsza niż film. Spokojne momenty, dobre światło i wysoka rozdzielczość dają najlepszy efekt. Więcej w poradniku <a href=\"/pl/guides/ostre-zdjecie-z-filmu/\">ostre zdjęcie z filmu</a>.</p>",
+  "faq": [
+    {
+      "q": "Dlaczego zrzut ekranu z filmu jest rozmazany?",
+      "a": "Bo zapisuje ekran: film jest pomniejszony do rozmiaru wyświetlania, a pauza często trafia na poruszoną klatkę. Klatka z pliku rozwiązuje oba problemy."
+    },
+    {
+      "q": "Dlaczego zrzut ekranu z filmu na iPhonie jest ciemny?",
+      "a": "Film HDR jest wyświetlany jaśniej, a zrzut zapisuje się jako zwykły obraz. W nowych nagraniach możesz wyłączyć Wideo HDR w Ustawienia → Aparat → Nagrywanie wideo."
+    },
+    {
+      "q": "Czy mogę zapisać zdjęcie z filmu bez zrzutu ekranu?",
+      "a": "Tak. Od iOS 27 przez menu ••• w Zdjęciach. Na każdej wersji Video To Photo – Grab Frame wyciąga klatkę bezpośrednio z pliku wideo."
+    },
+    {
+      "q": "Który format zachowuje najwięcej jakości?",
+      "a": "PNG jest bezstratny i zachowuje każdy piksel. HEIC jest bardzo bliski przy mniejszych plikach. JPG jest najlżejszy i działa wszędzie."
+    }
+  ],
+  "related": [
+    "jak-zrobic-zdjecie-z-filmu-iphone",
+    "ostre-zdjecie-z-filmu",
+    "film-na-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

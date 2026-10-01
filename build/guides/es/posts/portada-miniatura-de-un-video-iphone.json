@@ -1,0 +1,65 @@
+{
+  "slug": "portada-miniatura-de-un-video-iphone",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "portada o miniatura de un video en iPhone",
+  "secondary_keywords": [
+    "como hacer una portada de un video",
+    "como hacer portada de video para youtube",
+    "hacer miniatura de un video",
+    "sacar miniatura de un video"
+  ],
+  "title": "Cómo hacer una portada o miniatura de un video en iPhone",
+  "description": "Cómo hacer una portada o miniatura con tu video en iPhone: elige el mejor fotograma, guárdalo en alta calidad, añade texto y súbelo a YouTube o TikTok.",
+  "h1": "Cómo hacer una portada o miniatura de un video en iPhone",
+  "nav_title": "Portada o miniatura de un video",
+  "card_title": "Portada o miniatura de tu video en iPhone",
+  "excerpt": "Encuentra el fotograma que consigue clics, guárdalo nítido y conviértelo en portada para YouTube, TikTok o Reels.",
+  "lead": "La mejor portada suele estar ya en tu video: una emoción real, un momento real. El truco es encontrar ese fotograma y sacarlo lo bastante nítido para aguantar texto, recortes y compresión.",
+  "quick_answer": "Abre tu video en Video To Photo – Grab Frame, busca un momento nítido y expresivo, captura dos o tres opciones y exporta la mejor en PNG. Añade texto grande en cualquier editor (1280 × 720 para YouTube, 9:16 para Shorts, TikTok y Reels) y súbela como miniatura o portada.",
+  "content_intro": "<h2>Cómo debe ser el fotograma de la portada</h2><ul><li><strong>Cara o sujeto claros</strong>: cerca, nítido y mejor mirando a cámara.</li><li><strong>Emoción</strong>: sorpresa, risa o concentración funcionan mejor que una cara neutra.</li><li><strong>Espacio para texto</strong>: una zona tranquila donde quepan unas palabras.</li><li><strong>Nitidez</strong>: las miniaturas son pequeñas y cualquier desenfoque se nota.</li></ul><h2>Tamaños de portada</h2><table><thead><tr><th>Plataforma</th><th>Formato</th><th>Tamaño</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280 × 720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080 × 1920</td></tr><tr><td>Cuadrícula de Instagram</td><td>Se recorta a 1:1 / 4:5</td><td>Deja el sujeto centrado</td></tr></tbody></table><p>Un fotograma de un video 1080p o 4K ya supera estos tamaños; lo importante es extraerlo del archivo y no hacer captura.</p>",
+  "steps_title": "Cómo hacer una portada con tu video en iPhone",
+  "steps": [
+    {
+      "name": "Abre tu video terminado",
+      "text": "Compártelo desde Fotos con Video To Photo – Grab Frame o elígelo dentro de la app.",
+      "shot": 0
+    },
+    {
+      "name": "Captura 3 opciones",
+      "text": "Busca momentos fuertes y captúralos. Las expresiones cambian rápido: guarda también los fotogramas vecinos.",
+      "shot": 1
+    },
+    {
+      "name": "Elige el más nítido",
+      "text": "Amplía las caras en la vista previa y borra los que estén movidos o con ojos cerrados.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta en PNG y añade texto",
+      "text": "Exporta en PNG para mantener la calidad al editar, añade un titular corto y súbelo como portada.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Cómo subir la portada</h2><ul><li><strong>YouTube:</strong> en YouTube o YouTube Studio, edita los detalles del video y elige una miniatura personalizada de tus fotos (requiere cuenta verificada).</li><li><strong>TikTok:</strong> antes de publicar, toca «Editar portada» y elige la imagen.</li><li><strong>Instagram Reels:</strong> toca «Editar portada» y añádela desde tu carrete.</li></ul><h2>Trucos que suben los clics</h2><ul><li>De tres a cinco palabras de texto, no más.</li><li>Mucho contraste entre sujeto, texto y fondo.</li><li>Un estilo coherente en todo el canal.</li><li>Prueba dos fotogramas: cambia la portada a los pocos días y compara.</li></ul>",
+  "faq": [
+    {
+      "q": "¿Puedo usar un fotograma de mi video como miniatura de YouTube?",
+      "a": "Sí. Guarda el fotograma, añade texto si quieres y súbelo como miniatura personalizada. Lo ideal es una imagen de 1280 × 720 en JPG o PNG."
+    },
+    {
+      "q": "¿Exporto la portada en JPG o PNG?",
+      "a": "Exporta el fotograma en PNG mientras editas para que el texto quede nítido. La portada final puedes guardarla en JPG si necesitas un archivo más ligero."
+    },
+    {
+      "q": "¿Por qué mi miniatura se ve borrosa?",
+      "a": "Casi siempre es una captura o un fotograma con movimiento. Extrae el fotograma del archivo y elige un momento en el que el sujeto esté quieto."
+    }
+  ],
+  "related": [
+    "foto-de-un-video-en-buena-calidad",
+    "convertir-video-a-jpg-png",
+    "como-sacar-una-foto-de-un-video-en-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

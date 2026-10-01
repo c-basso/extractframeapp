@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-po-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video frame by frame iphone",
+  "secondary_keywords": [
+    "video frame po frame",
+    "zaustaviti video na kadru",
+    "kadar po kadar iphone"
+  ],
+  "title": "Video frame po frame na iPhoneu: točan trenutak",
+  "description": "Kako pregledavati video kadar po kadar na iPhoneu, pronaći točan trenutak (udarac, treptaj, gol) i spremiti ga kao oštru fotografiju.",
+  "h1": "Video frame po frame na iPhoneu",
+  "nav_title": "Frame po frame",
+  "card_title": "Video frame po frame na iPhoneu",
+  "excerpt": "Kako precizno doći do pravog kadra i spremiti ga.",
+  "lead": "Pri 30 fps svaka sekunda ima 30 kadrova, pri 60 fps njih 60. Pravi trenutak traje samo jedan od njih. Za to vam treba pregled kadar po kadar.",
+  "quick_answer": "U aplikaciji Foto zaustavite video i polako povucite traku kadrova. Preciznije je u aplikaciji Video To Photo – Grab Frame: velik pregled, precizna traka i trenutačno spremanje kadra.",
+  "content_intro": "<h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p><h2>Foto ili aplikacija?</h2><table><thead><tr><th></th><th>Foto</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Pregled kadar po kadar</td><td>Povlačenje trake</td><td>Precizna traka, velik pregled</td></tr><tr><td>Spremanje</td><td>iOS 27, jedan kadar</td><td>Odmah, više kadrova</td></tr><tr><td>Formati</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Pronalaženje točnog kadra",
+  "steps": [
+    {
+      "name": "Otvorite video",
+      "text": "Podijelite ga iz aplikacije Foto s aplikacijom Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Približite se trenutku",
+      "text": "Brzo povucite traku do otprilike pravog mjesta.",
+      "shot": 1
+    },
+    {
+      "name": "Polako, kadar po kadar",
+      "text": "Pomičite se polako i pratite velik pregled.",
+      "shot": 3
+    },
+    {
+      "name": "Spremite",
+      "text": "Dodirnite spremanje kad je trenutak savršen.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Savjeti</h2><ul><li>Usporeni video (120/240 fps) daje mnogo više kadrova za brze pokrete.</li><li>Pri 60 fps pokret je manje zamućen nego pri 30 fps.</li><li>Spremite nekoliko susjednih kadrova i usporedite ih.</li></ul>",
+  "faq": [
+    {
+      "q": "Može li iPhone pregledavati video kadar po kadar?",
+      "a": "U aplikaciji Foto možete zaustaviti video i povlačiti traku. Precizniji pregled nude aplikacije poput Grab Frame."
+    },
+    {
+      "q": "Kako zaustaviti video na točnom kadru?",
+      "a": "Zaustavite ga blizu trenutka, a zatim polako povucite traku kadrova."
+    },
+    {
+      "q": "Radi li s usporenim videom?",
+      "a": "Da. Usporeni video ima više kadrova i daje veći izbor."
+    }
+  ],
+  "related": [
+    "kako-izvuci-sliku-iz-videa-iphone",
+    "kvalitetna-slika-iz-videa",
+    "video-u-slike"
+  ],
+  "datePublished": "2026-10-01"
+}

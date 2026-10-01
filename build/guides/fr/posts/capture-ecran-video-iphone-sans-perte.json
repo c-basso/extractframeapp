@@ -1,0 +1,64 @@
+{
+  "slug": "capture-ecran-video-iphone-sans-perte",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "capture d'écran vidéo iPhone sans perte de qualité",
+  "secondary_keywords": [
+    "capture d'écran vidéo iphone",
+    "capture d'écran vidéo iphone 15",
+    "capturer une image d'une vidéo iphone"
+  ],
+  "title": "Capture d'écran d'une vidéo iPhone sans perte de qualité",
+  "description": "Pourquoi une capture d'écran de vidéo sur iPhone est floue et recadrée, et comment enregistrer la vraie image de la vidéo en pleine qualité à la place.",
+  "h1": "Capture d'écran d'une vidéo sur iPhone sans perte de qualité",
+  "nav_title": "Capture vidéo sans perte",
+  "card_title": "Capture d'écran d'une vidéo iPhone sans perte",
+  "excerpt": "Pourquoi les captures de vidéo sont floues, et comment garder une image nette en taille réelle sans capture.",
+  "lead": "Pause, bouton latéral et volume, recadrage… et le résultat reste moins beau que la vidéo. Ce n'est pas une impression : une capture d'écran photographie l'écran, pas la vidéo.",
+  "quick_answer": "Une capture ne peut pas être plus nette que votre écran : mieux vaut l'éviter. Sous iOS 27+, mettez la vidéo en pause dans Photos, touchez « ••• » et enregistrez l'image comme photo. Sur un iOS plus ancien, ou pour plusieurs images ou du PNG, ouvrez la vidéo dans Video To Photo – Grab Frame et exportez l'image. Dans les deux cas, c'est la vraie image, sans commandes ni bandes noires.",
+  "content_intro": "<h2>Faire une capture d'écran d'une vidéo sur iPhone (méthode classique)</h2><ol><li>Lisez la vidéo dans Photos et mettez en pause.</li><li>Touchez l'écran pour masquer les commandes.</li><li>Appuyez en même temps sur le <strong>bouton latéral</strong> et <strong>volume +</strong> (iPhone avec bouton principal : principal + latéral).</li><li>Ouvrez la vignette, recadrez les bandes noires et touchez OK.</li></ol><h2>Pourquoi la capture perd en qualité</h2><ul><li><strong>Résolution de l'écran, pas de la vidéo.</strong> Une vidéo 4K horizontale (3840 × 2160) sur un écran vertical n'occupe qu'une bande ; après recadrage, il ne reste qu'une petite partie de la résolution réelle.</li><li><strong>Difficile de viser juste.</strong> La pause au doigt est imprécise : on tombe souvent sur un clignement ou un flou.</li><li><strong>Éléments en trop et recompression.</strong> Commandes, sous-titres, barre de lecture, et un nouvel enregistrement au recadrage.</li></ul><blockquote><p>La solution n'est pas une meilleure capture, c'est de ne pas faire de capture.</p></blockquote><h2>Méthode 1 : Photos sous iOS 27</h2><p>Ouvrez la vidéo dans Photos, mettez en pause au bon moment, touchez <strong>« ••• »</strong> et choisissez d'enregistrer l'image comme photo (<em>Save Video Frame as Photo</em>). L'image est enregistrée à la résolution de la vidéo en HEIF ou JPG, une à la fois, avec la date de la vidéo.</p><h2>Méthode 2 : une app (tout iOS, plusieurs images)</h2><p>Sous iOS 26 ou avant, ou pour plusieurs images, du PNG, un ZIP ou un PDF, une app de capture d'images lit les images directement dans le fichier vidéo et les exporte en une fois.</p>",
+  "steps_title": "Enregistrer une image de vidéo sur iPhone sans capture d'écran",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo dans l'app",
+      "text": "Dans Photos, touchez Partager et choisissez l'app — ou ouvrez Video To Photo – Grab Frame et sélectionnez la vidéo.",
+      "shot": 0
+    },
+    {
+      "name": "Arrêtez-vous sur l'image exacte",
+      "text": "Faites glisser lentement la bande d'images jusqu'à ce que le grand aperçu montre le moment. Pas de course contre la pause.",
+      "shot": 1
+    },
+    {
+      "name": "Capturez l'image",
+      "text": "Elle rejoint le bandeau. Capturez aussi deux voisines et comparez dans l'aperçu.",
+      "shot": 2
+    },
+    {
+      "name": "Exportez en PNG ou HEIC",
+      "text": "PNG sans perte, HEIC haute qualité et léger. Enregistrez dans Photos ou Fichiers.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Capture d'écran ou image extraite</h2><table><thead><tr><th></th><th>Capture d'écran</th><th>Image du fichier</th></tr></thead><tbody><tr><td>Résolution</td><td>Limitée à l'écran</td><td>Celle de la vidéo</td></tr><tr><td>Moment exact</td><td>Au hasard</td><td>Bande d'images</td></tr><tr><td>Commandes et bandes</td><td>Souvent, recadrage nécessaire</td><td>Jamais</td></tr><tr><td>Plusieurs images</td><td>Une capture à la fois</td><td>Export par lots, ZIP ou PDF</td></tr><tr><td>Format</td><td>Capture PNG</td><td>JPG, PNG ou HEIC</td></tr></tbody></table><h2>Pour l'image la plus nette</h2><p>Une image ne peut pas être plus nette que la vidéo. Les meilleures viennent de moments immobiles, avec une bonne lumière et une résolution élevée. Voir <a href=\"/fr/guides/photo-de-qualite-depuis-une-video/\">une photo de bonne qualité à partir d'une vidéo</a>.</p>",
+  "faq": [
+    {
+      "q": "Pourquoi ma capture d'écran de vidéo est-elle floue ?",
+      "a": "Parce qu'elle capture l'écran : la vidéo est réduite à la zone qu'elle occupe, et la pause tombe souvent sur une image floue. Enregistrer l'image du fichier règle les deux problèmes."
+    },
+    {
+      "q": "Peut-on enregistrer une image de vidéo sans capture d'écran sur iPhone ?",
+      "a": "Oui. Sous iOS 27 ou plus récent, via le menu « ••• » de Photos. Sur toutes les versions, avec Video To Photo – Grab Frame, qui extrait les images directement du fichier vidéo."
+    },
+    {
+      "q": "Quel format garde le plus de qualité ?",
+      "a": "PNG est sans perte et garde chaque pixel. HEIC offre presque la même qualité pour moins de place. JPG est le plus léger et le plus compatible."
+    }
+  ],
+  "related": [
+    "extraire-une-photo-d-une-video-iphone",
+    "photo-de-qualite-depuis-une-video",
+    "convertir-video-en-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

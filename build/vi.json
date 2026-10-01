@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "vi",
-    "title": "Video thành ảnh / hình ảnh iPhone | Video To Photo",
-    "description": "Ứng dụng video thành ảnh trên iPhone: lưu một khung hoặc xuất nhiều khung JPG, PNG hoặc HEIC trong vài giây — xử lý trên thiết bị, không tải video lên.",
-    "keywords": "video thành ảnh, lấy ảnh từ video, trích khung hình video, video thành hình ảnh, iPhone khung hình video, lưu khung hình, jpg từ video, png từ video, heic từ video, xuất hàng loạt, chia sẻ từ ảnh",
+    "title": "Cắt ảnh từ video trên iPhone – nét | Grab Frame",
+    "description": "Cắt ảnh từ video trên iPhone với chất lượng đầy đủ. Không phải chụp màn hình mà là đúng khung hình, lưu JPG, PNG, HEIC hoặc ZIP và PDF. Offline, không tải lên.",
+    "keywords": "cắt ảnh từ video, cắt ảnh từ video trên iphone, chụp ảnh từ video, tách ảnh từ video, chụp màn hình video iphone, chuyển video thành ảnh, chuyển video sang pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/vi/",
-    "og_title": "Video thành ảnh cho iPhone",
-    "og_description": "Video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình JPG, PNG hoặc HEIC — xử lý trên thiết bị, không tải video lên.",
+    "og_title": "Cắt ảnh từ video trên iPhone — đúng khung hình, thật nét",
+    "og_description": "Tìm khoảnh khắc và lưu một hoặc hàng chục khung hình dạng JPG, PNG hoặc HEIC, hay xuất ZIP hoặc PDF. Tất cả trên máy.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "vi_VN",
     "twitter_url": "https://extractframeapp.com/vi/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Video thành ảnh trên iPhone. Khung hình chính xác, xử lý trên thiết bị, xuất hàng loạt và định dạng JPG, PNG, HEIC.",
+    "twitter_title": "Cắt ảnh từ video — Grab Frame",
+    "twitter_description": "Ảnh HD từ video trên iPhone. JPG, PNG, HEIC, ZIP, PDF. Offline, không tải lên.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/vi/",
@@ -21,18 +21,25 @@
     "geo_placename": "Việt Nam"
   },
   "hero": {
-    "logo_alt": "Logo Video To Photo - Grab Frame",
-    "title": "Trích khung hình từ video trên iPhone",
-    "subtitle": "Video thành ảnh và hình ảnh—lưu ảnh tĩnh chính xác từ clip trong vài giây",
-    "entity_definition": "Video To Photo - Grab Frame là ứng dụng iOS biến video thành ảnh trên iPhone. Chọn đúng khoảnh khắc và xuất khung hình dưới dạng JPG, PNG hoặc HEIC.",
-    "subheadline": "Mở từ Ảnh, tua đến đúng thời điểm và lưu một hoặc nhiều khung hình. Không cần tài khoản, tải lên hay timeline chỉnh sửa.",
-    "download_alt": "Tải trên App Store",
+    "logo_alt": "Biểu tượng ứng dụng Video To Photo – Grab Frame",
+    "title": "Cắt ảnh từ video trên iPhone — đúng khung hình, thật nét",
+    "title_html": "Cắt <span class=\"grad-text\">ảnh từ video</span>. Đúng khung hình, nét hoàn hảo.",
+    "subtitle": "Kéo đến khoảnh khắc và lưu một hoặc hàng chục khung hình. Xuất JPG, PNG hoặc HEIC. Mọi thứ diễn ra trên iPhone: không tải lên, không cần tài khoản.",
+    "entity_definition": "Video To Photo – Grab Frame là ứng dụng iPhone lấy khung hình từ video và lưu thành ảnh độ phân giải cao. Mọi xử lý diễn ra trên máy.",
+    "subheadline": "Chia sẻ từ Ảnh, tìm khoảnh khắc, lưu. Xong.",
+    "download_alt": "Tải Video To Photo – Grab Frame trên App Store",
     "phone_text": "Chạm để lấy khung hình từ video",
-    "qr_alt": "Mã QR tải ứng dụng",
-    "qr_text": "Quét bằng iPhone để tải"
+    "qr_alt": "Mã QR tải Video To Photo – Grab Frame",
+    "qr_text": "Quét bằng camera iPhone để cài đặt",
+    "bullets": [
+      "Dùng offline",
+      "JPG, PNG, HEIC",
+      "Xuất ZIP và PDF",
+      "Không cần tài khoản"
+    ]
   },
   "last_updated": {
-    "text": "Cập nhật lần cuối: 16 tháng 6, 2026"
+    "text": "Cập nhật lần cuối: 1 tháng 10, 2026"
   },
   "features": {
     "title": "Vì sao chọn video thành ảnh trên iPhone",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Cách trích khung hình từ video trên iPhone",
-    "subtitle": "Các bước đơn giản để lưu ảnh hoàn hảo từ clip",
-    "placeholder_line1": "📱 Video demo sắp có",
-    "placeholder_line2": "Bước 1: Mở từ Ảnh > Bước 2: Tua đến thời điểm > Bước 3: Lấy khung hình > Bước 4: Xuất JPG/PNG/HEIC"
+    "title": "Cách cắt ảnh từ video trên iPhone",
+    "subtitle": "Bốn bước, khoảng một phút. Không cần học gì."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Mở từ Ảnh",
-        "text": "Chia sẻ video từ Ảnh sang {{app_info.name}}, hoặc mở ứng dụng trước rồi chọn clip."
+        "name": "Chia sẻ video từ Ảnh",
+        "text": "Mở video trong Ảnh, chạm Chia sẻ và chọn ứng dụng. Hoặc mở ứng dụng rồi chọn video. Màn hình khung hình mở ngay."
       },
       {
-        "name": "Tìm đúng khoảnh khắc",
-        "text": "Dùng thanh tua để di chuyển từng khung và dừng ở ảnh tĩnh bạn muốn."
+        "name": "Tìm khoảnh khắc và lưu",
+        "text": "Kéo dải khung hình đến khung bạn muốn rồi chạm lưu. Lặp lại cho mỗi khung hình cần lấy."
       },
       {
-        "name": "Lấy một hoặc nhiều khung",
-        "text": "Chụp một khung hoặc đánh dấu nhiều khoảnh khắc để xuất hàng loạt."
+        "name": "Chỉ giữ tấm đẹp nhất",
+        "text": "Mở khung hình toàn màn hình, phóng to kiểm tra độ nét và xóa tấm bị nhòe."
       },
       {
-        "name": "Xuất và lưu",
-        "text": "Lưu ảnh dưới dạng JPG, PNG hoặc HEIC, hoặc xuất ZIP hoặc PDF."
+        "name": "Xuất và chia sẻ",
+        "text": "Chọn JPEG, PNG hoặc HEIC rồi lưu thành tệp riêng, ZIP hoặc PDF."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "Câu hỏi thường gặp: video thành ảnh trên iPhone",
+    "eyebrow": "FAQ",
+    "title": "Cắt ảnh từ video trên iPhone: câu hỏi thường gặp",
+    "learn_more": "Tìm hiểu thêm",
     "items": [
       {
-        "question": "Làm sao trích khung hình từ video trên iPhone?",
-        "answer": "Mở clip trong Video To Photo - Grab Frame, tua đến đúng thời điểm và chụp ảnh tĩnh. Sau đó xuất dưới dạng JPG, PNG hoặc HEIC."
+        "question": "Cách cắt ảnh từ video trên iPhone?",
+        "answer": "Từ iOS 27, mở video trong Ảnh, tạm dừng rồi lưu khung hình thành ảnh qua ••• (mỗi lần một ảnh). Trên iOS cũ hoặc khi cần nhiều ảnh dạng JPG, PNG, HEIC, ZIP hay PDF, hãy dùng Video To Photo – Grab Frame.",
+        "url": "/vi/guides/cat-anh-tu-video-tren-iphone/"
       },
       {
-        "question": "Có xuất nhiều khung cùng lúc không?",
-        "answer": "Có. Bạn có thể chọn nhiều khoảnh khắc và xuất nhiều khung trong một lần."
+        "question": "Vì sao chụp màn hình video lại mờ?",
+        "answer": "Chụp màn hình lưu màn hình: khung hình 4K bị thu nhỏ về màn hình, dính nút phát hoặc viền đen, video HDR còn bị tối. Hãy lưu khung hình từ tệp bằng Ảnh trên iOS 27 hoặc Video To Photo – Grab Frame rồi xuất PNG hay HEIC.",
+        "url": "/vi/guides/chup-man-hinh-video-iphone/"
       },
       {
-        "question": "Xuất được những định dạng nào?",
-        "answer": "Ứng dụng hỗ trợ JPG, PNG và HEIC. Cũng có thể xuất ZIP hoặc PDF."
+        "question": "Làm sao lưu một khung hình từ video thành ảnh?",
+        "answer": "Chia sẻ video từ Ảnh sang Video To Photo – Grab Frame, tìm khung hình, lưu rồi chạm Xuất. Ảnh vào Ảnh hoặc Tệp. Video gốc không đổi.",
+        "url": "/vi/guides/chup-anh-tu-video-iphone/"
       },
       {
-        "question": "Ứng dụng có tải video của tôi lên không?",
-        "answer": "Không. Trích xuất chạy trên thiết bị — video và ảnh vẫn ở trên iPhone của bạn."
+        "question": "Chọn app cắt ảnh từ video cần xem gì?",
+        "answer": "Bốn điều: chọn khung hình chính xác, xuất ở độ phân giải video, xử lý trên máy và xuất hàng loạt. Video To Photo – Grab Frame có đủ và xuất JPG, PNG, HEIC, ZIP hoặc PDF.",
+        "url": "/vi/guides/app-cat-anh-tu-video/"
       },
       {
-        "question": "Có tiếp tục sau không?",
-        "answer": "Có. Bạn có thể lưu phiên thành dự án và mở lại sau."
+        "question": "Có tách nhiều ảnh từ video cùng lúc được không?",
+        "answer": "Được. Lưu bao nhiêu khung hình tùy ý từ một video rồi xuất cùng lúc dạng tệp, ZIP hoặc PDF. Chỉ chọn khung hình cần nhanh hơn lọc hàng trăm ảnh gần giống nhau.",
+        "url": "/vi/guides/tach-anh-tu-video/"
       },
       {
-        "question": "Video To Photo - Grab Frame có miễn phí không?",
-        "answer": "Tải miễn phí; tính năng nâng cao qua mua trong ứng dụng."
+        "question": "Xem video từng khung hình trên iPhone thế nào?",
+        "answer": "Tạm dừng video trong Ảnh và kéo chậm dải khung hình. Trong Video To Photo – Grab Frame, bạn kéo với bản xem trước lớn và lưu ngay khung hình cần.",
+        "url": "/vi/guides/xem-video-tung-khung-hinh-iphone/"
       },
       {
-        "question": "Ứng dụng dành cho ai?",
-        "answer": "Người sáng tạo nội dung, giáo viên và bất kỳ ai muốn lưu khoảnh khắc cụ thể từ video thành ảnh."
+        "question": "Làm sao cắt ảnh từ video thật nét?",
+        "answer": "Chọn khung hình ít chuyển động, nếu được hãy quay 4K hoặc 60 fps, và xuất từ tệp thay vì chụp màn hình. Xuất PNG hoặc HEIC rồi so sánh các khung hình liền kề để giữ tấm nét nhất.",
+        "url": "/vi/guides/cat-anh-tu-video-net/"
       },
       {
-        "question": "Có ứng dụng chuyển video thành ảnh trên iPhone không?",
-        "answer": "Có. Video To Photo - Grab Frame chuyển video thành ảnh: mở clip, tua đến đúng thời điểm và lưu khung hình JPG, PNG hoặc HEIC — tất cả trên iPhone của bạn."
+        "question": "Chuyển video sang JPG hoặc PNG trên iPhone thế nào?",
+        "answer": "Trong Video To Photo – Grab Frame, khung hình đã chọn được lưu dạng JPG, PNG hoặc HEIC. JPG để gửi, PNG để chỉnh sửa không mất chất lượng, HEIC cho tệp nhỏ mà nét.",
+        "url": "/vi/guides/chuyen-video-sang-jpg/"
+      },
+      {
+        "question": "Làm PDF từ video thế nào?",
+        "answer": "Lưu các khung hình chính trong Video To Photo – Grab Frame và chọn PDF khi xuất. Bạn nhận một PDF gồm các khung hình, tiện cho storyboard, ghi chú và báo cáo.",
+        "url": "/vi/guides/chuyen-video-sang-pdf/"
+      },
+      {
+        "question": "Làm thumbnail YouTube từ video bằng iPhone thế nào?",
+        "answer": "Lưu một khung hình nét và giàu cảm xúc dạng PNG, rồi thêm chữ trong ứng dụng chỉnh ảnh bạn thích. Sau đó tải lên làm thumbnail YouTube hoặc ảnh bìa TikTok, Instagram.",
+        "url": "/vi/guides/lam-thumbnail-youtube/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Video thành ảnh",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Cắt ảnh từ video — ứng dụng lấy khung hình cho iPhone",
     "application_category": "PhotoApplication",
-    "application_sub_category": "Ảnh và video"
+    "application_sub_category": "Ảnh & Video"
   },
   "footer": {
     "cta_text": "📱 Tải Video To Photo - Grab Frame",
     "privacy_text": "Chính sách quyền riêng tư",
     "terms_text": "Điều khoản sử dụng",
     "support_text": "Hỗ trợ",
-    "developer_info": "Phát triển bởi Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Đã đăng ký bản quyền."
+    "developer_info": "Phát triển bởi Vladimir Ivakhnenko (c-basso). Khung hình được xử lý trên máy và không bao giờ bị tải lên.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Hướng dẫn",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Lấy khung hình hoàn hảo từ video trên iPhone"
+    "text": "📱 Khung hình hoàn hảo từ mọi video"
   },
   "seo_chapter": {
     "title": "Cách biến video thành ảnh trên iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Chuyển đến nội dung",
+    "ratings": "đánh giá"
+  },
+  "nav": {
+    "how": "Cách dùng",
+    "screenshots": "Ảnh màn hình",
+    "guides": "Hướng dẫn",
+    "faq": "FAQ"
+  },
+  "download": {
+    "title": "Một ứng dụng, một việc: lấy ảnh từ video",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Đúng khoảnh khắc",
+        "description": "Kéo dải khung hình và dừng ở bất cứ đâu. Nụ cười, đỉnh cú nhảy, tấm ảnh không ai nhắm mắt."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Khung hình thật, không phải ảnh chụp màn hình",
+        "description": "Lấy trực tiếp từ tệp video: không nút phát, không viền đen, không bị giới hạn bởi màn hình."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Bao nhiêu cũng được",
+        "description": "Lưu cùng lúc mọi khung hình bạn thích, so sánh và giữ những tấm đẹp nhất."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Chọn định dạng và cách nhận: tệp riêng, tệp nén ZIP hoặc PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% trên máy",
+        "description": "Video không rời khỏi iPhone. Không tải lên, không tài khoản, dùng được cả ở chế độ máy bay."
+      },
+      {
+        "icon": "💾",
+        "title": "Dự án",
+        "description": "Mỗi video được lưu thành dự án. Mở lại sau và làm tiếp."
+      }
+    ],
+    "meta_labels": {
+      "version": "Phiên bản",
+      "size": "Dung lượng",
+      "requires": "Yêu cầu",
+      "price": "Giá",
+      "price_value": "Miễn phí · có mua trong ứng dụng",
+      "category": "Danh mục",
+      "category_value": "Ảnh & Video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Ảnh màn hình",
+    "title": "Từ video thành ảnh qua sáu màn hình",
+    "subtitle": "Giống hệt trên App Store. Đây là ứng dụng thật.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: khoảnh khắc đẹp nhất từ mọi video",
+        "title": "Khoảnh khắc đẹp nhất",
+        "caption": "Từ mọi video trong thư viện."
+      },
+      {
+        "alt": "Nút lưu khung hình và khay có 4 khung hình đã lưu",
+        "title": "Lưu mọi thứ bạn thích",
+        "caption": "Chạm Grab This Frame bao nhiêu lần tùy ý."
+      },
+      {
+        "alt": "Bản xem trước phóng to khung hình đã lưu",
+        "title": "Chỉ giữ tấm đẹp nhất",
+        "caption": "Phóng to trước khi xuất."
+      },
+      {
+        "alt": "Màn hình xuất với JPEG, PNG, HEIC và tệp, ZIP hoặc PDF",
+        "title": "Chọn định dạng",
+        "caption": "JPEG, PNG hoặc HEIC. Tệp, ZIP hoặc PDF."
+      },
+      {
+        "alt": "Menu chia sẻ của iOS đang xuất ZIP khung hình",
+        "title": "Lưu và chia sẻ",
+        "caption": "Vào Tệp hoặc qua menu chia sẻ."
+      },
+      {
+        "alt": "Danh sách dự án với thời lượng, số khung hình và fps",
+        "title": "Nhiều dự án",
+        "caption": "Quay lại sau và làm tiếp."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Cách dùng",
+    "cta": "Tải miễn phí"
+  },
+  "guides_section": {
+    "eyebrow": "Hướng dẫn",
+    "title": "Hướng dẫn: cắt ảnh từ video trên iPhone",
+    "subtitle": "Câu trả lời cho những câu hỏi được tìm nhiều nhất và cách nhanh nhất trên iPhone.",
+    "read_more": "Đọc hướng dẫn",
+    "all_text": "Tất cả hướng dẫn"
+  },
+  "cta": {
+    "title": "Bức ảnh đẹp nhất của bạn nằm trong video.",
+    "text": "Lấy ra trong vài giây, chất lượng đầy đủ, chỉ với iPhone. Không cần tải lên."
+  },
+  "sticky": {
+    "text": "Ảnh HD từ mọi video"
   }
 }

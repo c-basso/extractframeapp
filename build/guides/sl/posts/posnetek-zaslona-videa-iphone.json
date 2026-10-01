@@ -1,0 +1,64 @@
+{
+  "slug": "posnetek-zaslona-videa-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot video",
+  "secondary_keywords": [
+    "posnetek zaslona videa",
+    "screenshot videa iphone",
+    "zamegljen posnetek zaslona videa"
+  ],
+  "title": "Posnetek zaslona videa na iPhonu brez izgube kakovosti",
+  "description": "Zakaj je posnetek zaslona videa zamegljen, majhen ali temen in kako namesto njega shraniti pravo sličico iz videa v polni ločljivosti na iPhonu.",
+  "h1": "Posnetek zaslona videa na iPhonu brez izgube kakovosti",
+  "nav_title": "Posnetek zaslona",
+  "card_title": "Posnetek zaslona videa brez izgube kakovosti",
+  "excerpt": "Zakaj je posnetek zaslona slabši od prave sličice in kako se temu izogniti.",
+  "lead": "Najhitrejši način, da ujamete trenutek iz videa, je posnetek zaslona: stranski gumb in povečanje glasnosti hkrati. A rezultat pogosto razočara. Tukaj je razlog in kaj narediti namesto tega.",
+  "quick_answer": "Posnetek zaslona shrani zaslon, ne videa: ločljivost pade, kontrolniki ostanejo, HDR-video pa potemni. Za polno kakovost shranite sličico iz datoteke: v iOS 27 v Fotografijah (••• → shrani sličico) ali v Video To Photo – Grab Frame kot PNG ali HEIC.",
+  "content_intro": "<h2>Posnetek zaslona ali prava sličica?</h2><table><thead><tr><th></th><th>Posnetek zaslona</th><th>Sličica iz datoteke</th></tr></thead><tbody><tr><td>Ločljivost</td><td>Zaslon</td><td>Video (do 4K)</td></tr><tr><td>Kontrolniki, robovi</td><td>Pogosto</td><td>Nikoli</td></tr><tr><td>Točen trenutek</td><td>Težko</td><td>Sličica za sličico</td></tr><tr><td>HDR-video</td><td>Temno ali bledo</td><td>Pravilna pretvorba</td></tr></tbody></table><h2>Vgrajeni način (iOS 27)</h2><p>Od iOS 27 lahko aplikacija Fotografije sama shrani sličico: odprite video, ga ustavite na pravem trenutku, tapnite <strong>•••</strong> in izberite <em>Save Video Frame as Photo</em>. Slika se shrani v formatu HEIF ali JPG z datumom videa. Po ena sličica naenkrat.</p>",
+  "steps_title": "Prava sličica namesto posnetka zaslona",
+  "steps": [
+    {
+      "name": "Delite video",
+      "text": "V Fotografijah tapnite Deli in izberite Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Ustavite se na sličici",
+      "text": "Povlecite trak sličic. Velik predogled pokaže natanko, kaj se bo shranilo.",
+      "shot": 1
+    },
+    {
+      "name": "Shranite",
+      "text": "Tapnite gumb za shranjevanje. Shranite lahko tudi več sličic.",
+      "shot": 3
+    },
+    {
+      "name": "Izvozite v PNG ali HEIC",
+      "text": "PNG za najvišjo kakovost, HEIC za manjše datoteke.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Če vseeno naredite posnetek zaslona</h2><ul><li>Pri ležečem videu obrnite iPhone.</li><li>Počakajte, da kontrolniki izginejo.</li><li>Črne robove obrežite v Fotografijah.</li></ul><p>Tudi takrat bo imela slika le ločljivost zaslona.</p>",
+  "faq": [
+    {
+      "q": "Kako naredim posnetek zaslona na iPhonu?",
+      "a": "Hkrati pritisnite stranski gumb in gumb za povečanje glasnosti. Na iPhonu z gumbom Domov: stranski gumb in gumb Domov."
+    },
+    {
+      "q": "Zakaj je posnetek zaslona videa zamegljen?",
+      "a": "Ker shrani zaslon, ne videa. Sličica se zmanjša, gibanje v tistem trenutku pa je lahko zamegljeno."
+    },
+    {
+      "q": "Zakaj je posnetek zaslona HDR-videa temen?",
+      "a": "HDR-video se prikazuje z večjo svetlostjo, kot jo lahko ohrani običajna fotografija. Shranjevanje sličice iz datoteke da boljši rezultat."
+    }
+  ],
+  "related": [
+    "slika-iz-videa-iphone",
+    "ostra-slika-iz-videa",
+    "video-v-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "video-bilde-for-bilde-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video bilde for bilde iphone",
+  "secondary_keywords": [
+    "frame by frame iphone",
+    "stoppe video på riktig bilde",
+    "spole bilde for bilde"
+  ],
+  "title": "Video bilde for bilde på iPhone: finn riktig øyeblikk",
+  "description": "Slik ser du en video bilde for bilde på iPhone, finner det nøyaktige øyeblikket (skuddet, blunket, målet) og lagrer det som et skarpt foto.",
+  "h1": "Video bilde for bilde på iPhone",
+  "nav_title": "Bilde for bilde",
+  "card_title": "Video bilde for bilde på iPhone",
+  "excerpt": "Slik kommer du presist til riktig bilde og lagrer det.",
+  "lead": "Med 30 fps har hvert sekund 30 bilder, med 60 fps 60. Det rette øyeblikket finnes bare i ett av dem. Derfor trenger du å se videoen bilde for bilde.",
+  "quick_answer": "Sett videoen på pause i Bilder og dra bildestripen sakte. Mer presist i Video To Photo – Grab Frame: stor forhåndsvisning, nøyaktig stripe og bildet lagres med en gang.",
+  "content_intro": "<h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p><h2>Bilder eller Grab Frame?</h2><table><thead><tr><th></th><th>Bilder</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Bilde for bilde</td><td>Dra stripen</td><td>Nøyaktig stripe, stor forhåndsvisning</td></tr><tr><td>Lagring</td><td>iOS 27, ett bilde</td><td>Med en gang, mange bilder</td></tr><tr><td>Formater</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Finn det nøyaktige bildet",
+  "steps": [
+    {
+      "name": "Åpne videoen",
+      "text": "Del den fra Bilder til Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Kom nær øyeblikket",
+      "text": "Dra stripen raskt til omtrent riktig sted.",
+      "shot": 1
+    },
+    {
+      "name": "Sakte, bilde for bilde",
+      "text": "Flytt sakte og følg med på den store forhåndsvisningen.",
+      "shot": 3
+    },
+    {
+      "name": "Lagre",
+      "text": "Trykk på lagre når øyeblikket er perfekt.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Sakte film (120/240 fps) gir mange flere bilder av raske bevegelser.</li><li>Med 60 fps blir bevegelsen mindre uskarp enn med 30 fps.</li><li>Lagre noen bilder ved siden av hverandre og sammenlign.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan iPhone spille av video bilde for bilde?",
+      "a": "I Bilder kan du sette på pause og dra i stripen. Mer presis visning finnes i apper som Grab Frame."
+    },
+    {
+      "q": "Hvordan stopper jeg videoen på riktig bilde?",
+      "a": "Sett på pause nær øyeblikket, og dra så bildestripen sakte."
+    },
+    {
+      "q": "Fungerer det med sakte film?",
+      "a": "Ja. Sakte film har flere bilder, så du får flere valg."
+    }
+  ],
+  "related": [
+    "ta-bilde-fra-video-iphone",
+    "skarpt-bilde-fra-video",
+    "video-til-bilder"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "app-para-sacar-fotos-de-videos",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "app para sacar fotos de videos",
+  "secondary_keywords": [
+    "app para sacar fotos de videos iphone",
+    "aplicacion para sacar fotos de un video",
+    "mejor app para sacar fotogramas de un video"
+  ],
+  "title": "App para sacar fotos de videos en iPhone: cómo elegir",
+  "description": "Cómo elegir una app para sacar fotos de videos en iPhone: precisión, resolución, privacidad, lotes, formatos y precio. Y cómo probarla en 2 minutos.",
+  "h1": "App para sacar fotos de videos en iPhone: cómo elegir",
+  "nav_title": "App para sacar fotos de videos",
+  "card_title": "Cómo elegir una app para sacar fotos de videos",
+  "excerpt": "Seis cosas que distinguen una buena app de fotogramas y una lista para probar cualquiera en dos minutos.",
+  "lead": "Si buscas «video a foto» en el App Store verás decenas de apps parecidas. Casi todas hacen lo básico. La diferencia está en los detalles: la precisión al elegir el fotograma, el tamaño del resultado y si tu video se sube a internet.",
+  "quick_answer": "Una buena app te deja elegir el fotograma exacto, lo guarda desde el archivo (no desde la pantalla), procesa en el dispositivo, captura muchos a la vez y exporta en varios formatos. Video To Photo – Grab Frame lo hace todo y añade exportación a ZIP y PDF y proyectos que puedes retomar.",
+  "content_intro": "<h2>¿Para qué una app si iOS 27 ya lo hace?</h2><p>Desde iOS 27, Fotos puede guardar un fotograma en pausa. Una app sigue siendo útil en versiones antiguas de iOS y cuando necesitas muchos fotogramas, PNG o un ZIP/PDF.</p><h2>6 señales de una buena app</h2><ol><li><strong>Selección precisa.</strong> Tira de fotogramas o deslizador para acertar el momento exacto.</li><li><strong>Extracción real.</strong> La imagen sale del archivo, no de la pantalla. Pruébalo con un video horizontal 4K y mira el tamaño.</li><li><strong>Procesamiento en el dispositivo.</strong> Tus videos familiares no deberían subirse a un servidor. Revisa la privacidad en el App Store y prueba en modo avión.</li><li><strong>Captura por lotes.</strong> Storyboards, deporte y tutoriales necesitan muchos fotogramas de una vez.</li><li><strong>Formatos y exportación.</strong> JPG, PNG y HEIC cubren todo; ZIP y PDF son raros pero muy útiles.</li><li><strong>Precio justo.</strong> Qué es gratis, qué es suscripción y si hay compra única.</li></ol>",
+  "steps_title": "Cómo probar una app para sacar fotos de videos en 2 minutos",
+  "steps": [
+    {
+      "name": "Abre un video real",
+      "text": "Usa un video horizontal con movimiento. Compártelo desde Fotos con Video To Photo – Grab Frame: se abre en modo captura.",
+      "shot": 0
+    },
+    {
+      "name": "Intenta acertar un fotograma",
+      "text": "Busca un parpadeo o un balón en el aire. Con la tira y la vista previa grande es fácil: pulsa capturar.",
+      "shot": 1
+    },
+    {
+      "name": "Captura varios y compara",
+      "text": "Guarda 4 o 5, abre la vista previa y amplía. Deberías poder borrar los malos antes de exportar.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta y revisa el archivo",
+      "text": "Exporta en PNG y mira la información de la foto: las dimensiones deben coincidir con el video, no con la pantalla.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Video To Photo – Grab Frame en resumen</h2><table><thead><tr><th>Función</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Abrir desde Compartir en Fotos</td><td>Sí, directo en modo captura</td></tr><tr><td>Origen del fotograma</td><td>Archivo de video</td></tr><tr><td>Captura por lotes</td><td>Muchos fotogramas por sesión</td></tr><tr><td>Formatos</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Exportación</td><td>Archivos, ZIP o PDF</td></tr><tr><td>Proyectos</td><td>Se guardan y se retoman</td></tr><tr><td>Privacidad</td><td>100 % en el dispositivo, sin cuenta</td></tr><tr><td>Precio</td><td>Descarga gratis; Pro con compra dentro de la app (prueba gratis, anual o de por vida)</td></tr></tbody></table><h2>Cuándo no necesitas una app</h2><p>Si tienes iOS 27 y quieres un solo fotograma, usa Fotos: pausa, «•••» y guardar el fotograma como foto. En iOS antiguos, para una referencia rápida basta con una captura.</p>",
+  "faq": [
+    {
+      "q": "¿Hay una app gratis para sacar fotos de videos?",
+      "a": "Video To Photo – Grab Frame se descarga gratis. Algunas funciones forman parte de Pro, con compra dentro de la app: prueba gratis, plan anual o compra de por vida. Consulta los precios actuales en el App Store."
+    },
+    {
+      "q": "¿Estas apps suben mis videos?",
+      "a": "Los servicios online sí. Video To Photo – Grab Frame procesa todo en el iPhone y funciona sin conexión."
+    },
+    {
+      "q": "¿Funciona con videos 4K y a cámara lenta?",
+      "a": "Sí, con videos de tu fototeca, incluidos 4K, 60 fps y cámara lenta. Cuanto mejor la grabación, más nítidos los fotogramas."
+    }
+  ],
+  "related": [
+    "como-sacar-una-foto-de-un-video-en-iphone",
+    "extraer-fotogramas-de-un-video",
+    "video-a-pdf"
+  ],
+  "datePublished": "2026-09-30"
+}

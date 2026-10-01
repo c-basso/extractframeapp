@@ -1,0 +1,64 @@
+{
+  "slug": "gambar-hd-dari-video",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "video ke gambar hd",
+  "secondary_keywords": [
+    "gambar hd dari video",
+    "gambar jelas dari video",
+    "gambar dari video kabur"
+  ],
+  "title": "Gambar HD dari Video di iPhone: Kenapa Kabur & Solusinya",
+  "description": "Kenapa gambar dari video kabur atau gelap, dan cara mendapatkan foto tajam beresolusi penuh di iPhone: pengatup, fps, HDR dan memilih bingkai yang tepat.",
+  "h1": "Gambar HD yang jelas dari video di iPhone",
+  "nav_title": "Gambar HD",
+  "card_title": "Gambar HD dari video: kenapa kabur",
+  "excerpt": "Punca dan penyelesaian gambar kabur, gelap dan beresolusi rendah.",
+  "lead": "Gambar yang diambil daripada video selalunya kurang tajam berbanding foto biasa. Ada sebabnya: video dibuat untuk pergerakan berterusan, bukan untuk bingkai tunggal. Dengan beberapa tetapan dan bingkai yang tepat, hasilnya boleh jauh lebih tajam.",
+  "quick_answer": "Pilih bingkai dengan pergerakan paling sedikit, simpan daripada fail video (bukan screenshot) dan rakam dalam 4K 60 fps dengan cahaya mencukupi. Jika gambar gelap atau pudar, puncanya video HDR. Video To Photo – Grab Frame menyimpan bingkai daripada fail dalam resolusi penuh.",
+  "content_intro": "<h2>Kenapa gambar kabur?</h2><table><thead><tr><th>Punca</th><th>Gejala</th><th>Penyelesaian</th></tr></thead><tbody><tr><td>Kabur gerakan</td><td>Tangan, bola kelihatan kabur</td><td>Bingkai sebelah, lebih cahaya, 60 fps</td></tr><tr><td>Screenshot</td><td>Resolusi skrin, kawalan</td><td>Simpan daripada fail</td></tr><tr><td>Pemampatan</td><td>Kawasan berpetak</td><td>Video asal, bukan dari WhatsApp</td></tr><tr><td>Video HDR</td><td>Gambar gelap atau pudar</td><td>Lihat di bawah</td></tr></tbody></table><h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p>",
+  "steps_title": "Gambar tajam langkah demi langkah",
+  "steps": [
+    {
+      "name": "Buka video asal",
+      "text": "Dalam apl Foto, ketik Kongsi dan pilih Video To Photo – Grab Frame. Guna fail asal.",
+      "shot": 0
+    },
+    {
+      "name": "Cari bingkai paling tajam",
+      "text": "Gerak bingkai demi bingkai di sekitar detiknya. Bingkai sebelum atau selepasnya selalunya jauh lebih tajam.",
+      "shot": 1
+    },
+    {
+      "name": "Bandingkan dengan zum",
+      "text": "Simpan dua atau tiga calon dan zum pada mata atau tepinya. Simpan yang terbaik.",
+      "shot": 3
+    },
+    {
+      "name": "Eksport resolusi penuh",
+      "text": "PNG untuk kualiti maksimum, HEIC/JPG untuk saiz lebih kecil.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Kenapa gambar daripada video HDR gelap?</h2><p>iPhone merakam dalam HDR (Dolby Vision) secara lalai. Apabila bingkai disimpan sebagai foto standard, kecerahan dan warna boleh berbeza. Jika mengganggu, matikan: <strong>Seting → Kamera → Rakam Video → Video HDR</strong>.</p><h2>Tip merakam</h2><ul><li>4K, 60 fps: lebih banyak bingkai yang tajam.</li><li>Banyak cahaya: pengatup lebih pantas, kurang kabur.</li><li>Gerak perlahan untuk pergerakan pantas.</li><li>Tangan stabil atau tripod.</li></ul><p>Resolusi gambar tidak boleh melebihi video: daripada 4K kira-kira 8 MP, daripada 1080p kira-kira 2 MP.</p>",
+  "faq": [
+    {
+      "q": "Bolehkah mendapatkan gambar HD daripada video?",
+      "a": "Boleh, jika videonya tajam dan bingkai disimpan daripada fail. Daripada 4K anda mendapat kira-kira 8 MP, cukup untuk cetakan bersaiz kecil."
+    },
+    {
+      "q": "Kenapa gambar daripada video kabur?",
+      "a": "Biasanya kerana kabur gerakan atau screenshot. Pilih bingkai sebelahnya dan simpan daripada fail."
+    },
+    {
+      "q": "Kenapa gambarnya gelap?",
+      "a": "Mungkin daripada video HDR. Matikan Video HDR dalam Seting → Kamera → Rakam Video untuk rakaman seterusnya."
+    }
+  ],
+  "related": [
+    "cara-ambil-gambar-dari-video-iphone",
+    "video-frame-demi-frame-iphone",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

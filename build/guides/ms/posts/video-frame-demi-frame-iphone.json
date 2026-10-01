@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-demi-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video frame by frame iphone",
+  "secondary_keywords": [
+    "main video bingkai demi bingkai iphone",
+    "jeda video pada bingkai tertentu",
+    "frame demi frame iphone"
+  ],
+  "title": "Video Frame demi Frame di iPhone: Cari Detik Tepat",
+  "description": "Cara melihat video bingkai demi bingkai di iPhone, mencari detik yang tepat (tendangan, kelipan, gol) dan menyimpannya sebagai foto yang tajam.",
+  "h1": "Video frame demi frame di iPhone",
+  "nav_title": "Frame demi frame",
+  "card_title": "Video frame demi frame di iPhone",
+  "excerpt": "Cara sampai ke bingkai yang tepat dan menyimpannya.",
+  "lead": "Pada 30 fps, setiap saat mengandungi 30 bingkai; pada 60 fps, 60 bingkai. Detik yang tepat hanya ada dalam salah satunya. Untuk itu anda perlu melihat bingkai demi bingkai.",
+  "quick_answer": "Dalam apl Foto, jeda video dan seret jalur bingkai perlahan-lahan. Lebih tepat dalam Video To Photo – Grab Frame: pratonton besar, jalur yang tepat dan bingkai terus disimpan.",
+  "content_intro": "<h2>Cara terbina dalam (iOS 27)</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai sendiri: buka video, jeda pada detik yang dikehendaki, ketik <strong>•••</strong> dan pilih <em>Save Video Frame as Photo</em>. Gambar disimpan dalam format HEIF atau JPG, dengan tarikh video. Satu bingkai pada satu masa.</p><h2>Apl Foto atau Grab Frame?</h2><table><thead><tr><th></th><th>Foto</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Bingkai demi bingkai</td><td>Seret jalur</td><td>Jalur tepat, pratonton besar</td></tr><tr><td>Menyimpan</td><td>iOS 27, satu bingkai</td><td>Serta-merta, banyak bingkai</td></tr><tr><td>Format</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Mencari bingkai yang tepat",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Kongsi dari apl Foto ke Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Dekati detiknya",
+      "text": "Seret jalur dengan pantas ke lebih kurang tempat yang betul.",
+      "shot": 1
+    },
+    {
+      "name": "Perlahan, bingkai demi bingkai",
+      "text": "Seret perlahan sambil memerhati pratonton besar.",
+      "shot": 3
+    },
+    {
+      "name": "Simpan",
+      "text": "Ketik simpan apabila detiknya sempurna.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tip</h2><ul><li>Gerak perlahan (120/240 fps) memberi jauh lebih banyak bingkai untuk pergerakan pantas.</li><li>Pada 60 fps, pergerakan kurang kabur berbanding 30 fps.</li><li>Simpan beberapa bingkai bersebelahan dan bandingkan.</li></ul>",
+  "faq": [
+    {
+      "q": "Bolehkah iPhone memainkan video bingkai demi bingkai?",
+      "a": "Dalam apl Foto anda boleh jeda dan seret jalur. Paparan yang lebih tepat ada dalam apl seperti Grab Frame."
+    },
+    {
+      "q": "Bagaimana jeda video pada bingkai tertentu?",
+      "a": "Jeda berhampiran detiknya, kemudian seret jalur bingkai perlahan-lahan."
+    },
+    {
+      "q": "Adakah ia berfungsi dengan video gerak perlahan?",
+      "a": "Ya. Gerak perlahan mempunyai lebih banyak bingkai, jadi pilihannya lebih banyak."
+    }
+  ],
+  "related": [
+    "cara-ambil-gambar-dari-video-iphone",
+    "gambar-hd-dari-video",
+    "tukar-video-ke-gambar"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "shipin-tiqu-zhen",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "视频提取帧",
+  "secondary_keywords": [
+    "视频提取帧",
+    "视频逐帧提取图片",
+    "视频转图片帧",
+    "视频提取图片"
+  ],
+  "title": "视频提取帧：iPhone 一次导出多张图片",
+  "description": "在 iPhone 上从视频一次提取多帧，无需电脑或 ffmpeg。只挑需要的帧，保存为照片、ZIP 或 PDF。",
+  "h1": "在 iPhone 上从视频提取多帧",
+  "nav_title": "视频提取帧",
+  "card_title": "从视频提取多帧",
+  "excerpt": "从一段视频中提取一组帧，导出为图片、ZIP 或 PDF。",
+  "lead": "分镜、运动连拍、前后对比、表情合集……有时一张照片不够。下面教你只用 iPhone，从视频里提取任意数量的帧。",
+  "quick_answer": "用 Video To Photo – Grab Frame 打开视频，在每个需要的瞬间轻点保存。检查各帧、删掉不好的，然后一次性导出为单独的 JPG、PNG 或 HEIC 文件、ZIP 或 PDF。",
+  "content_intro": "<h2>要全部帧，还是只要好的？</h2><p>一段 30 秒、30 fps 的视频有 900 帧。像电脑上的 ffmpeg 或 VLC 那样全部导出，会得到几百张几乎一样的文件。在手机上，<strong>只挑需要的帧</strong>通常更快。</p><table><thead><tr><th>用途</th><th>做法</th></tr></thead><tbody><tr><td>分镜、分步教程</td><td>每个场景或步骤一帧</td></tr><tr><td>运动、动作分析</td><td>按固定间隔取帧</td></tr><tr><td>找最好的一张</td><td>在相邻 3–5 帧中选最清晰的</td></tr><tr><td>动画或分析需要全部帧</td><td>电脑软件（ffmpeg）</td></tr></tbody></table><p>iOS 27 自带功能一次只能存一帧，不适合连续帧。</p>",
+  "steps_title": "在 iPhone 上从视频提取多帧",
+  "steps": [
+    {
+      "name": "打开视频",
+      "text": "从“照片”共享到本 App，或在 Video To Photo – Grab Frame 中选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "逐个保存瞬间",
+      "text": "拖动帧条，在每个瞬间轻点保存。计数器会帮你计数。",
+      "shot": 1
+    },
+    {
+      "name": "检查各帧",
+      "text": "全屏打开，检查清晰度，删除重复或模糊的帧。",
+      "shot": 2
+    },
+    {
+      "name": "全部导出",
+      "text": "选择 JPEG、PNG 或 HEIC。单张图片存到“文件”，打包成一个文件用 ZIP，做成文档用 PDF。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP、PDF 还是单独文件？</h2><ul><li><strong>单独文件</strong>：逐张编辑或发布。</li><li><strong>ZIP</strong>：一个文件，通过隔空投送、邮件、微信或网盘发送。</li><li><strong>PDF</strong>：分镜、笔记、审阅文档。见<a href=\"/zh/guides/shipin-zhuan-pdf/\">视频转 PDF</a>。</li></ul><h2>连续帧小技巧</h2><ul><li>按相同间隔取帧，动作更容易看懂。</li><li>做拼图时导出 PNG，避免 JPEG 再次压缩。</li><li>项目会被保存，缺的帧之后还能补。</li></ul>",
+  "faq": [
+    {
+      "q": "一段视频能提取多少帧？",
+      "a": "需要多少就能提取多少。在每个瞬间轻点保存，然后一次导出。帧很多时导出会稍慢一些。"
+    },
+    {
+      "q": "能自动导出所有帧吗？",
+      "a": "Video To Photo – Grab Frame 是为挑选帧设计的。如果动画或分析确实需要每一帧，更适合用 ffmpeg 等电脑软件。"
+    },
+    {
+      "q": "怎么一次发送很多帧？",
+      "a": "导出为 ZIP，通过隔空投送、邮件或微信发送一个文件。也可以导出为 PDF。"
+    }
+  ],
+  "related": [
+    "shipin-zhuan-pdf",
+    "shipin-zhuzhen-iphone",
+    "shipin-baocun-zhen-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

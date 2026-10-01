@@ -1,0 +1,64 @@
+{
+  "slug": "film-do-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "film do PDF",
+  "secondary_keywords": [
+    "jak zamienić film na pdf",
+    "film do pdf iphone",
+    "storyboard z filmu"
+  ],
+  "title": "Film do PDF na iPhonie: klatki w jednym pliku",
+  "description": "Zamień film na PDF na iPhonie: wybierz kluczowe klatki i połącz je w jeden PDF jako storyboard, notatki lub materiał do recenzji. Offline, bez wysyłania.",
+  "h1": "Jak zamienić film na PDF na iPhonie",
+  "nav_title": "Film do PDF",
+  "card_title": "Klatki z filmu w jednym PDF",
+  "excerpt": "Najważniejsze momenty filmu w jednym PDF: storyboard, notatki, recenzja.",
+  "lead": "PDF z kluczowymi klatkami to najszybszy sposób, by pokazać zawartość filmu komuś, kto go nie obejrzy. Klientowi akceptującemu montaż, studentowi powtarzającemu wykład, zespołowi zatwierdzającemu storyboard.",
+  "quick_answer": "Otwórz film w Video To Photo – Grab Frame i zapisz klatkę przy każdym ważnym momencie. Stuknij Eksportuj, wybierz format obrazu, a potem PDF. Dostajesz jeden PDF z klatkami, gotowy do wysłania przez AirDrop, WhatsApp, e-mail lub Pliki.",
+  "content_intro": "<h2>Co oznacza „film do PDF”?</h2><p>PDF nie odtworzy filmu. Zamiana filmu na PDF to zapisanie <strong>nieruchomych obrazów</strong> i połączenie ich w jeden dokument. Kluczowe jest <em>to, które klatki wybierzesz</em>: PDF z 900 podobnymi klatkami jest bezużyteczny, PDF z 12 kluczowymi to skarb.</p><h2>Przydaje się do</h2><ul><li><strong>Storyboardu lub listy ujęć</strong>: jedna klatka na scenę, do pitchu i prezentacji.</li><li><strong>Notatek z wykładu</strong>: slajdy i tablica z nagranych zajęć.</li><li><strong>Recenzji klienta</strong>: komentarze w PDF są łatwiejsze niż szukanie kodów czasowych.</li><li><strong>Analizy sportowej</strong>: fazy ruchu po kolei.</li><li><strong>Instrukcji</strong>: nagranie ekranu jako instrukcja krok po kroku.</li></ul>",
+  "steps_title": "Jak połączyć klatki z filmu w PDF na iPhonie",
+  "steps": [
+    {
+      "name": "Otwórz film",
+      "text": "Udostępnij go ze Zdjęć aplikacji Video To Photo – Grab Frame albo wybierz w aplikacji.",
+      "shot": 0
+    },
+    {
+      "name": "Zapisz kluczowe klatki",
+      "text": "Przejdź przez film i stuknij zapis przy każdej scenie, slajdzie lub kroku.",
+      "shot": 1
+    },
+    {
+      "name": "Wybierz PDF przy eksporcie",
+      "text": "Stuknij Eksportuj, wybierz JPEG, PNG lub HEIC, a potem PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Udostępnij lub zapisz PDF",
+      "text": "Zapisz w Plikach albo wyślij przez AirDrop, WhatsApp lub e-mail z menu udostępniania.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Wskazówki do czytelnego PDF</h2><ul><li>Zapisuj klatki po kolei, od początku do końca.</li><li>Wybieraj klatki, na których widać cały tekst i które nie są w środku przejścia.</li><li>Do slajdów i drobnego tekstu używaj PNG.</li><li>Projekt jest zapisany, więc możesz później dodać klatki i wyeksportować ponownie.</li></ul><h2>PDF czy ZIP?</h2><p><strong>PDF</strong> do czytania po kolei i komentowania, <strong>ZIP</strong>, gdy potrzebujesz osobnych plików, np. do projektu graficznego. Oba opisujemy w poradniku <a href=\"/pl/guides/wycinanie-klatek-z-filmu/\">wycinanie klatek z filmu</a>.</p>",
+  "faq": [
+    {
+      "q": "Czy mogę zamienić film na PDF bez wysyłania go do internetu?",
+      "a": "Tak. Video To Photo – Grab Frame tworzy PDF na iPhonie z zapisanych klatek; film nie opuszcza urządzenia."
+    },
+    {
+      "q": "W jakiej kolejności są klatki w PDF?",
+      "a": "PDF zawiera zapisane klatki. Zapisuj je od początku do końca, a dokument będzie zgodny z filmem."
+    },
+    {
+      "q": "Jak zrobić storyboard z filmu na telefonie?",
+      "a": "Zapisz jedną klatkę na ujęcie lub scenę i wyeksportuj jako PDF: to prosty storyboard. Uwagi dodasz przez Oznaczenia lub aplikację do PDF."
+    }
+  ],
+  "related": [
+    "wycinanie-klatek-z-filmu",
+    "film-na-jpg-png",
+    "aplikacja-zdjecie-z-filmu"
+  ],
+  "datePublished": "2026-10-01"
+}

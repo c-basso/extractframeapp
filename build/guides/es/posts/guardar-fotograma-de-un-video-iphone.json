@@ -1,0 +1,65 @@
+{
+  "slug": "guardar-fotograma-de-un-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "guardar un fotograma de un video en iPhone",
+  "secondary_keywords": [
+    "como guardar un fotograma de un video iphone",
+    "sacar un frame de un video iphone",
+    "como pasar un video a foto en iphone",
+    "guardar fotograma como foto"
+  ],
+  "title": "Cómo guardar un fotograma de un video en iPhone como foto",
+  "description": "Guarda un fotograma de un video en iPhone como foto: la opción de iOS 27 y la forma para iOS antiguos o varios fotogramas, en JPG, PNG o HEIC.",
+  "h1": "Cómo guardar un fotograma de un video en iPhone",
+  "nav_title": "Guardar un fotograma",
+  "card_title": "Guardar un fotograma de un video como foto",
+  "excerpt": "Exporta un fotograma exacto a Fotos o Archivos sin tocar el video original.",
+  "lead": "Sabes exactamente qué fotograma quieres. Solo falta guardarlo como una foto normal junto a las demás. Así se hace en iPhone.",
+  "quick_answer": "En iOS 27 o posterior: abre el video en Fotos, páusalo, toca «•••» y elige guardar el fotograma como foto. En iOS anteriores, o para varios fotogramas, PNG, ZIP o PDF: comparte el video con Video To Photo – Grab Frame, captura el fotograma, toca Exportar y guárdalo en Fotos o Archivos.",
+  "content_intro": "<h2>Opción 1: la integrada en iOS 27</h2><ol><li>Abre el video en Fotos y páusalo en el fotograma (desliza la barra para más precisión).</li><li>Toca <strong>«•••»</strong> arriba a la derecha.</li><li>Elige guardar el fotograma como foto (<em>Save Video Frame as Photo</em>).</li></ol><p>Se guarda a la resolución del video en HEIF o JPG (según el formato de la cámara). Ten en cuenta que guarda <strong>un fotograma cada vez</strong> y que la foto toma la <strong>fecha del video original</strong>, así que la encontrarás junto al video y no al principio de Recientes.</p><h2>Opción 2: varios fotogramas o iOS 26 y anteriores</h2><p>En versiones antiguas no se puede exportar un fotograma de forma nativa: queda la captura, que guarda la pantalla y no el fotograma (ver <a href=\"/es/guides/captura-de-video-iphone-sin-perder-calidad/\">por qué la captura pierde calidad</a>). E incluso en iOS 27, una app es más rápida si quieres una serie, PNG, ZIP o PDF.</p>",
+  "steps_title": "Cómo guardar un fotograma de un video con Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Comparte el video desde Fotos",
+      "text": "Abre el video, toca Compartir y elige la app. Se abre directamente en modo captura.",
+      "shot": 0
+    },
+    {
+      "name": "Busca el fotograma y captúralo",
+      "text": "Desliza por la tira hasta el momento exacto y pulsa el botón de captura. El contador muestra cuántos llevas.",
+      "shot": 1
+    },
+    {
+      "name": "Elige el formato",
+      "text": "Toca Exportar. JPEG para compartir, PNG sin pérdidas, HEIC para archivos pequeños de alta calidad.",
+      "shot": 3
+    },
+    {
+      "name": "Guárdalo en Fotos o Archivos",
+      "text": "Desde el menú Compartir guárdalo en la fototeca, en Archivos o envíalo directamente a un chat.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>¿Dónde queda el fotograma guardado?</h2><ul><li><strong>Fototeca</strong>: como cualquier foto, lista para editar, compartir o imprimir.</li><li><strong>Archivos</strong>: iCloud Drive o En mi iPhone, práctico para trabajo.</li><li><strong>Cualquier app</strong>: WhatsApp, Instagram, Telegram o correo desde el menú Compartir.</li></ul><h2>Varios fotogramas a la vez</h2><p>Captura todos los que necesites antes de exportar: se guardan como imágenes sueltas, un <strong>ZIP</strong> o un <strong>PDF</strong>. Ver <a href=\"/es/guides/extraer-fotogramas-de-un-video/\">cómo extraer fotogramas de un video</a>.</p><h2>Vuelve más tarde</h2><p>Cada video se guarda como proyecto: vuelve mañana y guarda más fotogramas sin buscar el video otra vez.</p>",
+  "faq": [
+    {
+      "q": "¿Puede la app Fotos guardar un fotograma de un video?",
+      "a": "Sí, desde iOS 27: pausa, «•••» y guardar el fotograma como foto. Guarda uno cada vez en HEIF o JPG. En versiones anteriores solo queda la captura de pantalla."
+    },
+    {
+      "q": "¿Se modifica el video original?",
+      "a": "No. La app lee el video y crea un archivo de imagen nuevo. El video de Fotos queda igual."
+    },
+    {
+      "q": "¿Funciona sin conexión?",
+      "a": "Sí. Los fotogramas se extraen en el iPhone, así que no necesitas internet y no se sube nada."
+    }
+  ],
+  "related": [
+    "como-sacar-una-foto-de-un-video-en-iphone",
+    "extraer-fotogramas-de-un-video",
+    "convertir-video-a-jpg-png"
+  ],
+  "datePublished": "2026-09-30"
+}

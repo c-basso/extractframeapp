@@ -1,0 +1,65 @@
+{
+  "slug": "dongyeongsang-frame-chuchul",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "동영상 프레임 추출",
+  "secondary_keywords": [
+    "아이폰 동영상 프레임 추출",
+    "동영상 프레임 사진 추출",
+    "동영상 프레임 추출기",
+    "동영상 프레임 추출 사이트"
+  ],
+  "title": "동영상 프레임 추출 방법 | 아이폰에서 여러 장 한 번에",
+  "description": "아이폰에서 동영상 프레임을 여러 장 한 번에 추출하는 방법. PC나 ffmpeg, 추출 사이트 없이 필요한 프레임만 골라 사진·ZIP·PDF로 저장하세요.",
+  "h1": "아이폰에서 동영상 프레임 추출하는 방법",
+  "nav_title": "동영상 프레임 추출",
+  "card_title": "동영상에서 여러 프레임 추출하기",
+  "excerpt": "한 동영상에서 연속된 프레임을 모아 이미지·ZIP·PDF로 내보내기.",
+  "lead": "콘티, 스포츠 연속 사진, 비포 애프터, 리액션 모음…… 한 장으로는 부족할 때가 있습니다. 아이폰만으로 필요한 만큼 프레임을 추출하는 방법입니다.",
+  "quick_answer": "Video To Photo – Grab Frame에서 동영상을 열고 원하는 장면마다 저장 버튼을 탭합니다. 모인 프레임을 확인해 불필요한 것을 지우고 JPG·PNG·HEIC 개별 파일, ZIP, PDF 중 하나로 한꺼번에 내보내세요.",
+  "content_intro": "<h2>모든 프레임이 필요한가요, 필요한 프레임만 필요한가요?</h2><p>30초짜리 30fps 동영상에는 900개의 프레임이 있습니다. PC의 ffmpeg나 VLC처럼 전부 내보내면 거의 같은 파일이 수백 장 생깁니다. 스마트폰에서는 <strong>필요한 프레임만 골라</strong> 내보내는 편이 대부분 더 빠릅니다.</p><table><thead><tr><th>목적</th><th>추천 방식</th></tr></thead><tbody><tr><td>콘티, 단계별 설명</td><td>장면·단계마다 한 프레임</td></tr><tr><td>스포츠, 동작 분석</td><td>일정한 간격으로 프레임</td></tr><tr><td>베스트 한 장 찾기</td><td>앞뒤 3~5장 중 가장 선명한 것</td></tr><tr><td>애니메이션·분석용 전체 프레임</td><td>PC 프로그램(ffmpeg)이 적합</td></tr></tbody></table><p>iOS 27 기본 기능은 한 장씩 저장하므로 연속 프레임에는 적합하지 않습니다.</p>",
+  "steps_title": "아이폰에서 동영상 프레임 여러 장 추출하기",
+  "steps": [
+    {
+      "name": "동영상 열기",
+      "text": "사진 앱에서 앱으로 공유하거나 Video To Photo – Grab Frame에서 동영상을 고릅니다.",
+      "shot": 0
+    },
+    {
+      "name": "장면마다 저장",
+      "text": "막대를 밀며 원하는 장면마다 저장 버튼을 탭합니다. 카운터로 장수를 확인할 수 있습니다.",
+      "shot": 1
+    },
+    {
+      "name": "프레임 확인",
+      "text": "전체 화면으로 열어 초점을 확인하고 중복되거나 흔들린 프레임을 지웁니다.",
+      "shot": 2
+    },
+    {
+      "name": "한꺼번에 내보내기",
+      "text": "JPEG·PNG·HEIC를 고르고, 개별 이미지는 파일 앱, 하나로 묶으려면 ZIP, 문서는 PDF로.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF, 개별 파일 사용법</h2><ul><li><strong>개별 파일</strong>: 한 장씩 편집하거나 올릴 때.</li><li><strong>ZIP</strong>: AirDrop, 메일, 카카오톡, 클라우드로 파일 하나로 보낼 때.</li><li><strong>PDF</strong>: 콘티, 메모, 검토 자료로 묶을 때. <a href=\"/ko/guides/dongyeongsang-pdf-byeonhwan/\">동영상 PDF 변환 방법</a>도 참고하세요.</li></ul><h2>연속 프레임 팁</h2><ul><li>동작은 비슷한 간격으로 프레임을 잡으면 흐름이 잘 전달됩니다.</li><li>콜라주에 쓴다면 PNG로. JPEG 재압축을 피할 수 있습니다.</li><li>프로젝트가 저장되므로 부족한 프레임은 나중에 추가할 수 있습니다.</li></ul>",
+  "faq": [
+    {
+      "q": "한 동영상에서 몇 장까지 추출할 수 있나요?",
+      "a": "필요한 만큼 저장할 수 있습니다. 장면마다 저장 버튼을 누르고 한꺼번에 내보내면 됩니다. 장수가 많으면 내보내기에 조금 시간이 걸립니다."
+    },
+    {
+      "q": "모든 프레임을 자동으로 추출할 수 있나요?",
+      "a": "Video To Photo – Grab Frame은 프레임을 골라 저장하는 앱입니다. 애니메이션이나 분석을 위해 정말 모든 프레임이 필요하다면 ffmpeg 같은 PC 프로그램이 적합합니다."
+    },
+    {
+      "q": "많은 프레임을 한 번에 보내려면?",
+      "a": "ZIP으로 내보내 AirDrop·메일·카카오톡으로 파일 하나로 보낼 수 있습니다. PDF로 내보내는 방법도 있습니다."
+    }
+  ],
+  "related": [
+    "dongyeongsang-pdf-byeonhwan",
+    "dongyeongsang-han-frame-ssik-iphone",
+    "dongyeongsang-sajin-jeojang-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

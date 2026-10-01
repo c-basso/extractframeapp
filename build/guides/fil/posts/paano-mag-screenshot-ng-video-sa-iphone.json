@@ -1,0 +1,69 @@
+{
+  "slug": "paano-mag-screenshot-ng-video-sa-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "paano mag screenshot ng video sa iPhone",
+  "secondary_keywords": [
+    "paano mag screenshot sa iphone",
+    "screenshot video iphone",
+    "screenshot video malabo",
+    "screenshot video madilim iphone"
+  ],
+  "title": "Paano Mag-screenshot ng Video sa iPhone nang Malinaw",
+  "description": "Bakit malabo o madilim ang screenshot ng video sa iPhone, at dalawang paraan para i-save ang totoong frame sa buong kalidad.",
+  "h1": "Screenshot ng video sa iPhone: bakit malabo at paano mas mapapaganda",
+  "nav_title": "Screenshot ng video",
+  "card_title": "Screenshot ng video nang hindi bumababa ang kalidad",
+  "excerpt": "Bakit malabo o madilim ang mga screenshot ng video at paano mag-save ng malinaw na frame sa buong laki.",
+  "lead": "Pause, side button at volume up, crop… pero mas pangit pa rin kaysa sa video. Hindi ka nag-iimagine: screen ang nase-save ng screenshot, hindi ang video.",
+  "quick_answer": "Hindi kayang maging mas malinaw ang screenshot kaysa sa screen. Sa iOS 27 o mas bago, i-pause sa Photos at i-save ang frame sa •••. Sa mas lumang iOS, o para sa maraming frame at PNG, buksan ang video sa Video To Photo – Grab Frame at i-export. Sa parehong paraan, makukuha mo ang totoong frame nang walang play button at itim na gilid.",
+  "content_intro": "<h2>Paano mag-screenshot ng video (karaniwang paraan)</h2><ol><li>I-play ang video sa Photos at i-pause.</li><li>I-tap ang screen para itago ang mga control.</li><li>Sabay na pindutin ang <strong>side button</strong> at <strong>volume up</strong> (sa model na may Home button: Home + side button).</li><li>Buksan ang thumbnail, i-crop ang itim na gilid at i-tap ang Done.</li></ol><h2>Bakit bumababa ang kalidad</h2><ul><li><strong>Resolution ng screen, hindi ng video.</strong> Ang pahigang 4K video (3840×2160) ay manipis na guhit sa patayong screen. Pagkatapos i-crop, kaunting bahagi na lang ng pixels ang natitira.</li><li><strong>Mahirap tumapat sa frame.</strong> Madalas tumama sa pagkurap o nanginginig na frame ang pause gamit ang daliri.</li><li><strong>Mga dagdag na bagay at bagong compression.</strong> Play button, subtitles, time bar at isa pang pag-save habang nagka-crop.</li></ul><h3>Bakit mas madilim ang screenshot</h3><p>Default na nagre-record ang iPhone ng <strong>HDR</strong> video, at mas maliwanag ang HDR video sa screen. Nase-save ang screenshot bilang ordinaryong image kaya puwede itong magmukhang mas madilim o maputla kaysa sa video na nagpe-play. Kung ayaw mo ng ganitong pagkakaiba sa mga bagong video, i-off ang HDR Video sa Settings → Camera → Record Video.</p><blockquote><p>Ang solusyon ay hindi mas magandang screenshot, kundi walang screenshot.</p></blockquote><h2>Paraan 1: Photos sa iOS 27</h2><p>I-pause: buksan ang video sa Photos, i-pause sa tamang sandali, i-tap ang <strong>•••</strong> at piliin ang pag-save ng frame bilang photo (<em>Save Video Frame as Photo</em>). Makakakuha ka ng HEIF o JPG sa resolution ng video, isang frame bawat beses, may petsa ng video.</p><h2>Paraan 2: gumamit ng app (kahit anong iOS, maraming frame)</h2><p>Naka-iOS 26 o mas luma ka ba, o gusto mo ng maraming frame, PNG, ZIP o PDF? Ang frame app ay direktang nagbabasa ng mga frame mula sa video file at ine-export nang sabay-sabay.</p>",
+  "steps_title": "Paano mag-save ng frame mula sa video sa iPhone nang walang screenshot",
+  "steps": [
+    {
+      "name": "Buksan ang video sa app",
+      "text": "Sa Photos, i-tap ang Share at piliin ang app, o buksan ang Video To Photo – Grab Frame at piliin ang video.",
+      "shot": 0
+    },
+    {
+      "name": "Tumigil sa tamang frame",
+      "text": "Dahan-dahang i-drag ang frame strip at tumigil kapag nasa malaking preview na ang sandali. Hindi na kailangang makipagbuno sa pause button.",
+      "shot": 1
+    },
+    {
+      "name": "I-save ang frame",
+      "text": "Mapupunta ito sa tray sa ibaba. I-save din ang mga frame bago at pagkatapos at ikumpara.",
+      "shot": 2
+    },
+    {
+      "name": "I-export bilang PNG o HEIC",
+      "text": "Lossless ang PNG, malinaw at magaan ang HEIC. I-save sa Photos o Files.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Screenshot kumpara sa na-export na frame</h2><table><thead><tr><th></th><th>Screenshot</th><th>Frame mula sa file</th></tr></thead><tbody><tr><td>Resolution</td><td>Hanggang screen lang</td><td>Kapareho ng video</td></tr><tr><td>Eksaktong sandali</td><td>Swertehan</td><td>Pinipili gamit ang frame strip</td></tr><tr><td>Play button, gilid</td><td>Madalas, kailangang i-crop</td><td>Wala</td></tr><tr><td>Maraming frame</td><td>Isa-isa</td><td>Sabay-sabay, ZIP, PDF</td></tr><tr><td>Format</td><td>PNG na screenshot</td><td>JPG, PNG, HEIC</td></tr></tbody></table><h2>Paano makuha ang pinakamalinaw na resulta</h2><p>Hindi kailanman magiging mas malinaw ang frame kaysa sa video. Kalmadong sandali, magandang ilaw at mataas na resolution ang nagbibigay ng pinakamagandang resulta. Basahin ang <a href=\"/fil/guides/malinaw-na-picture-mula-sa-video/\">malinaw na picture mula sa video</a>.</p>",
+  "faq": [
+    {
+      "q": "Bakit malabo ang screenshot ng video?",
+      "a": "Dahil screen ang nase-save nito: lumiliit ang video sa laki ng display at madalas tumama ang pause sa gumagalaw na frame. Nalulutas ng frame mula sa file ang parehong problema."
+    },
+    {
+      "q": "Bakit madilim ang screenshot ng video sa iPhone?",
+      "a": "Mas maliwanag ang HDR video sa screen, pero nase-save ang screenshot bilang ordinaryong image. Sa mga bagong video, puwede mong i-off ang HDR Video sa Settings → Camera → Record Video."
+    },
+    {
+      "q": "Puwede bang mag-save ng picture sa video nang walang screenshot?",
+      "a": "Oo. Simula iOS 27 sa ••• menu ng Photos. Sa kahit anong version, kinukuha ng Video To Photo – Grab Frame ang frame nang direkta mula sa video file."
+    },
+    {
+      "q": "Anong format ang pinakamahusay magpanatili ng kalidad?",
+      "a": "Lossless ang PNG at pinapanatili ang bawat pixel. Halos kapareho ang HEIC na mas maliit ang file. Pinakamagaan ang JPG at gumagana kahit saan."
+    }
+  ],
+  "related": [
+    "paano-kumuha-ng-picture-sa-video-iphone",
+    "malinaw-na-picture-mula-sa-video",
+    "video-to-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

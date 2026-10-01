@@ -1,0 +1,69 @@
+{
+  "slug": "iphone-shipin-jiequ-zhaopian",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "iPhone 视频截取照片",
+  "secondary_keywords": [
+    "iphone 视频 截取 照片",
+    "苹果手机视频截取照片",
+    "视频截取图片",
+    "iphone 视频截图"
+  ],
+  "title": "iPhone 视频截取照片的 3 种方法（高清）",
+  "description": "iPhone 怎么从视频截取照片？对比 iOS 27 新功能、截屏、抠图，以及把多张照片一次导出为 JPG、PNG 或 HEIC 的方法。",
+  "h1": "iPhone 如何从视频中截取照片",
+  "nav_title": "视频截取照片（iPhone）",
+  "card_title": "iPhone 视频截取照片",
+  "excerpt": "在 iPhone 上从视频中取出照片的所有方法，以及各自适合什么场景。",
+  "lead": "那个瞬间你拍成了视频而不是照片？没关系，视频本来就是每秒几十张照片。下面告诉你如何在 iPhone 上把想要的那一张取出来。",
+  "quick_answer": "iOS 27 起，在“照片”中暂停视频，通过 ••• 把当前帧存储为照片（与视频同分辨率，一次一张）。旧版 iOS，或需要多张、PNG、ZIP、PDF 时，用 Video To Photo – Grab Frame 打开视频，保存各帧后一次性导出。",
+  "content_intro": "<h2>iPhone 能从视频里截取照片吗？</h2><p>可以。视频由每秒 24–60 张静态画面组成，每一帧都可以变成照片。最合适的方法取决于你的 iOS 版本和需要的张数。</p><h2>方法对比</h2><table><thead><tr><th>方法</th><th>画质</th><th>限制</th><th>适合</th></tr></thead><tbody><tr><td><strong>照片 → 将帧存储为照片</strong>（iOS 27+）</td><td>与视频同分辨率，HEIF 或 JPG</td><td>一次一帧。照片日期沿用视频日期，不会出现在“最近项目”顶部</td><td>快速存一张</td></tr><tr><td><strong>截屏</strong>（暂停后截图）</td><td>屏幕分辨率，常带播放按钮或黑边</td><td>很难停在准确的帧</td><td>旧版 iOS 上临时记录</td></tr><tr><td><strong>抠图</strong>（iOS 17+，长按主体）</td><td>只有主体，没有背景</td><td>不是完整画面</td><td>人物或宠物贴纸</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>从视频文件提取</td><td>需要 App（iOS 18.6+）</td><td>多张、PNG、ZIP、PDF、旧版 iOS</td></tr></tbody></table><h3>用 iOS 27 自带功能</h3><ol><li>在“照片”中打开视频，在想要的瞬间暂停，轻点 <strong>•••</strong>，然后选择将视频帧存储为照片（<em>Save Video Frame as Photo</em>）。</li><li>这一帧会以视频的分辨率存入图库。</li><li>照片沿用视频的日期和位置，请在视频旁边找，而不是在最上面。</li></ol><p>只要一张的话足够了。但如果同一段视频要 10 帧、要 PNG 来修图、或要打包成 ZIP 或 PDF 发送，就比较麻烦。</p><h3>为什么截屏不等于照片</h3><p>在 iOS 26 及更早版本，截屏是最常用的方法，但它保存的是屏幕，而不是那一帧。横屏 4K 视频在竖屏上只是一条窄带，还要裁掉播放按钮、卡准暂停时机。</p>",
+  "steps_title": "用 Video To Photo – Grab Frame 从视频截取多张照片",
+  "steps": [
+    {
+      "name": "把视频共享到 App",
+      "text": "在“照片”中打开视频，轻点“共享”并选择本 App。也可以打开 Video To Photo – Grab Frame，从图库中选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "找到瞬间并保存",
+      "text": "拖动帧条，直到想要的瞬间出现在预览中，然后轻点保存按钮。如果画面在动，把前后几帧也一起保存。",
+      "shot": 1
+    },
+    {
+      "name": "检查每一帧",
+      "text": "打开预览，放大人脸或文字，删除模糊的帧，只保留最清晰的一张。",
+      "shot": 2
+    },
+    {
+      "name": "导出为照片",
+      "text": "选择 JPEG、PNG 或 HEIC，轻点“导出”。可存到“照片”或“文件”，也可直接通过微信、QQ、小红书或邮件发送。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>截出清晰照片的技巧</h2><ul><li><strong>抓动作停顿的瞬间。</strong>跳跃的最高点、笑之前的一刻，这些帧最清晰。</li><li><strong>存三张，留一张。</strong>相邻的帧不放大看几乎一样。</li><li><strong>用 4K 或 60 fps 拍摄。</strong>详见<a href=\"/zh/guides/shipin-tiqu-gaoqing-tupian/\">从视频提取高清图片</a>。</li><li><strong>选对格式。</strong>发送用 JPG，修图用 PNG，省空间用 HEIC。另见<a href=\"/zh/guides/shipin-zhuan-tupian/\">视频转 JPG / PNG 图片</a>。</li></ul><h2>App 会修改或上传我的视频吗？</h2><p>不会。Video To Photo – Grab Frame 使用 App 内的副本，所有处理都在 iPhone 上完成。“照片”中的原视频保持不变，也不会有任何内容传到服务器。</p>",
+  "faq": [
+    {
+      "q": "iPhone 自带功能能从视频保存照片吗？",
+      "a": "iOS 27 起可以。在“照片”中暂停视频，轻点 •••，把帧存储为照片，一次一张，格式为 HEIF 或 JPG。iOS 26 及以前，自带的方法只有截屏。"
+    },
+    {
+      "q": "iOS 27 保存的帧在哪里？",
+      "a": "在照片图库里，但带有视频的日期和位置，所以它排在原视频旁边，而不是“最近项目”的最上面。"
+    },
+    {
+      "q": "画质和视频一样吗？",
+      "a": "只要保存的是帧而不是截屏，就一样。iOS 27 和 Video To Photo – Grab Frame 都是直接从视频文件读取帧。快速运动的画面可能模糊，尽量选静止的瞬间。"
+    },
+    {
+      "q": "能从同一段视频截取多张照片吗？",
+      "a": "可以。在 Video To Photo – Grab Frame 里逐个保存瞬间，然后一次性导出为单独文件、ZIP 或 PDF。"
+    }
+  ],
+  "related": [
+    "iphone-shipin-jietu",
+    "shipin-baocun-zhen-iphone",
+    "shipin-tiqu-gaoqing-tupian"
+  ],
+  "datePublished": "2026-10-01"
+}

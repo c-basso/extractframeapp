@@ -1,0 +1,64 @@
+{
+  "slug": "app-billede-fra-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "app billede fra video",
+  "secondary_keywords": [
+    "app til billeder fra video iphone",
+    "gratis app billede fra video",
+    "frame grabber app"
+  ],
+  "title": "App til billeder fra video på iPhone: sådan vælger du",
+  "description": "Det skal du kigge efter i en app til billeder fra video: præcision, opløsning, privatliv, samlet eksport, formater og pris, plus en test på 2 minutter.",
+  "h1": "Sådan vælger du en app til billeder fra video på iPhone",
+  "nav_title": "App billede fra video",
+  "card_title": "Sådan vælger du en app til billeder fra video",
+  "excerpt": "Seks kriterier for en god billede-app og en tjekliste på 2 minutter.",
+  "lead": "Søg på „billede fra video“ i App Store, og du får en lang liste af ens apps. Grundfunktionen er den samme; forskellen ligger i detaljerne. Hvor præcist du vælger billedet, hvor stort billedet bliver, og om videoen ryger på nettet.",
+  "quick_answer": "En god app lader dig vælge det præcise billede, gemmer fra videofilen i stedet for skærmen, arbejder på enheden, gemmer flere billeder på én gang og eksporterer i flere formater. Video To Photo – Grab Frame kan det hele, plus eksport til ZIP og PDF og projekter, du kan vende tilbage til.",
+  "content_intro": "<h2>Har man brug for en app med iOS 27?</h2><p>Fra iOS 27 kan Fotos gemme ét billede, der er sat på pause. På ældre iOS, eller til mange billeder, PNG og ZIP/PDF, er en app mere praktisk.</p><h2>Seks kriterier for en god app</h2><ol><li><strong>Præcist valg af billede.</strong> Et billedbånd eller en skyder, der rammer øjeblikket præcist.</li><li><strong>Ægte eksport.</strong> Fra filen, ikke fra skærmen. Test med en vandret 4K-video, og tjek dimensionerne.</li><li><strong>Behandling på enheden.</strong> Familievideoer hører ikke hjemme på en server. Tjek privatlivsetiketten i App Store, og test i flytilstand.</li><li><strong>Samlet eksport.</strong> Storyboards, sport og vejledninger kræver mange billeder.</li><li><strong>Formater og eksport.</strong> JPG, PNG og HEIC er nok. ZIP og PDF er sjældne, men meget nyttige.</li><li><strong>Klar pris.</strong> Hvad er gratis, er der abonnement, kan man købe én gang.</li></ol>",
+  "steps_title": "Sådan tester du en app til billeder fra video på 2 minutter",
+  "steps": [
+    {
+      "name": "Åbn en rigtig video",
+      "text": "Vælg en vandret video med bevægelse, og del den fra Fotos til Video To Photo – Grab Frame. Billedskærmen åbner.",
+      "shot": 0
+    },
+    {
+      "name": "Sigt efter ét billede",
+      "text": "Find et blink eller en bold i luften. Båndet og den store forhåndsvisning gør det nemt. Tryk på gem.",
+      "shot": 1
+    },
+    {
+      "name": "Gem nogle stykker, og sammenlign",
+      "text": "Gem fire-fem, og zoom ind. Du skal kunne slette de mislykkede, før du eksporterer.",
+      "shot": 2
+    },
+    {
+      "name": "Eksportér, og tjek filen",
+      "text": "Eksportér som PNG, og se fotoets info. Dimensionerne skal svare til videoen, ikke til skærmen.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Det tilbyder Video To Photo – Grab Frame</h2><table><thead><tr><th>Funktion</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Start fra Del i Fotos</td><td>Ja, direkte til billedskærmen</td></tr><tr><td>Kilde</td><td>Videofilen</td></tr><tr><td>Samlet eksport</td><td>Mange billeder pr. session</td></tr><tr><td>Formater</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Eksport</td><td>Filer, ZIP, PDF</td></tr><tr><td>Projekter</td><td>Gem, og fortsæt senere</td></tr><tr><td>Privatliv</td><td>100 % på enheden, ingen konto</td></tr><tr><td>Pris</td><td>Gratis at hente. Pro via køb i appen (gratis prøveperiode, årligt, engangskøb)</td></tr></tbody></table><h2>Hvornår du ikke har brug for en app</h2><p>Ét billede på iOS 27? Fotos er nok (pause → ••• → gem billede som foto). En hurtig note på ældre iOS? Et skærmbillede er nok.</p>",
+  "faq": [
+    {
+      "q": "Findes der en gratis app til billeder fra video?",
+      "a": "Video To Photo – Grab Frame er gratis at hente. Nogle funktioner er Pro via køb i appen (gratis prøveperiode, årsabonnement eller engangskøb). Se aktuelle priser i App Store."
+    },
+    {
+      "q": "Uploader disse apps min video?",
+      "a": "Online-værktøjer gør. Video To Photo – Grab Frame behandler alt på din iPhone og virker offline."
+    },
+    {
+      "q": "Virker den med 4K og slowmotion?",
+      "a": "Ja. Den understøtter 4K, 60 fps og slowmotion fra biblioteket. Jo bedre optagelse, jo skarpere billeder."
+    }
+  ],
+  "related": [
+    "billede-fra-video-iphone",
+    "billeder-fra-video",
+    "video-til-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "salvare-cadru-din-video-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "salvare cadru din video iPhone",
+  "secondary_keywords": [
+    "cum salvezi un cadru din video iphone",
+    "cadru din video ca poză",
+    "imagine statică din video iphone"
+  ],
+  "title": "Cum salvezi un cadru dintr-un video ca poză pe iPhone",
+  "description": "Cum salvezi un cadru dintr-un video ca poză pe iPhone: funcția din iOS 27 și o metodă pentru iOS mai vechi sau mai multe cadre, în JPG, PNG sau HEIC.",
+  "h1": "Cum salvezi un cadru dintr-un video ca poză pe iPhone",
+  "nav_title": "Cadru din video ca poză",
+  "card_title": "Salvează un cadru din video ca poză",
+  "excerpt": "Exportă cadrul potrivit în Poze sau Fișiere, fără să modifici clipul original.",
+  "lead": "Știi exact ce cadru vrei. Vrei doar să-l ai ca poză obișnuită, lângă celelalte. Iată cum faci pe iPhone.",
+  "quick_answer": "iOS 27 sau mai nou: deschide clipul în Poze, pune pauză și salvează cadrul prin •••. iOS mai vechi sau mai multe cadre, PNG, ZIP ori PDF: partajează clipul cu Video To Photo – Grab Frame, salvează cadrele și exportă-le în Poze sau Fișiere.",
+  "content_intro": "<h2>Metoda 1: funcția integrată din iOS 27</h2><ol><li>Deschide clipul în Poze și pune pauză pe cadrul dorit (glisează pe bandă ca să nimerești exact).</li><li>Atinge <strong>•••</strong> din dreapta sus.</li><li>Alege opțiunea de salvare a cadrului ca poză (<em>Save Video Frame as Photo</em>).</li></ol><p>Primești o poză la rezoluția video-ului, ca HEIF sau JPG (în funcție de setările camerei). Reține: e <strong>un cadru o dată</strong>, iar poza primește <strong>data clipului</strong>. Caut-o lângă video, nu sus în Recente.</p><h2>Metoda 2: mai multe cadre sau iOS 26 și mai vechi</h2><p>Versiunile mai vechi nu au funcție integrată, doar captura de ecran (<a href=\"/ro/guides/screenshot-video-iphone-fara-pierderea-calitatii/\">de ce pierde calitate</a>). Și pe iOS 27, o aplicație e mai rapidă când vrei o serie de cadre, PNG sau ZIP/PDF.</p>",
+  "steps_title": "Cum salvezi un cadru cu Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Partajează clipul din Poze",
+      "text": "Deschide clipul, atinge Partajează și alege aplicația. Ecranul de cadre se deschide imediat.",
+      "shot": 0
+    },
+    {
+      "name": "Găsește cadrul și salvează",
+      "text": "Glisează la moment și atinge salvarea. Contorul arată câte cadre ai.",
+      "shot": 1
+    },
+    {
+      "name": "Alege formatul",
+      "text": "Atinge Exportă. JPEG pentru trimis, PNG fără pierderi, HEIC ușor și clar.",
+      "shot": 3
+    },
+    {
+      "name": "Salvează în Poze sau Fișiere",
+      "text": "Din meniul de partajare salvează în bibliotecă sau Fișiere ori trimite direct într-o conversație.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Unde ajunge cadrul salvat?</h2><ul><li><strong>Biblioteca de poze</strong>: editezi, partajezi și printezi ca orice poză.</li><li><strong>Fișiere</strong>: iCloud Drive sau Pe iPhone, util pentru documente.</li><li><strong>Alte aplicații</strong>: WhatsApp, Instagram, e-mail prin meniul de partajare.</li></ul><h2>Mai multe cadre deodată</h2><p>Înainte de export salvează toate cadrele de care ai nevoie și exportă-le împreună ca fișiere separate, <strong>ZIP</strong> sau <strong>PDF</strong>. Vezi și <a href=\"/ro/guides/extragere-cadre-din-video/\">extragerea cadrelor din video</a>.</p><h2>Continui mai târziu</h2><p>Fiecare clip se salvează ca proiect, așa că a doua zi continui fără să cauți clipul din nou.</p>",
+  "faq": [
+    {
+      "q": "Aplicația Poze poate salva un cadru dintr-un video?",
+      "a": "Din iOS 27, da: pune pauză și salvează prin •••. Câte un cadru, ca HEIF sau JPG. Înainte de iOS 27 exista doar captura de ecran."
+    },
+    {
+      "q": "Clipul meu original se modifică?",
+      "a": "Nu. Aplicația citește clipul și creează fișiere imagine noi. Clipul din Poze rămâne la fel."
+    },
+    {
+      "q": "Funcționează offline?",
+      "a": "Da. Cadrele sunt extrase din clip pe iPhone, deci nu ai nevoie de internet și nu se încarcă nimic."
+    }
+  ],
+  "related": [
+    "poza-din-video-iphone",
+    "extragere-cadre-din-video",
+    "video-in-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

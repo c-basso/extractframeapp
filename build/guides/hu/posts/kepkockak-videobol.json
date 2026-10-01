@@ -1,0 +1,64 @@
+{
+  "slug": "kepkockak-videobol",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "képkockák videóból",
+  "secondary_keywords": [
+    "képkocka kivágása videóból",
+    "videóból fotó készítés",
+    "több kép videóból"
+  ],
+  "title": "Képkockák videóból iPhone-on: több egyszerre",
+  "description": "Vágjon ki több képkockát egyszerre egy videóból iPhone-on, számítógép és ffmpeg nélkül. Csak a szükséges kockákat mentse fotóként, ZIP-ben vagy PDF-ben.",
+  "h1": "Hogyan vághat ki több képkockát videóból iPhone-on",
+  "nav_title": "Képkockák videóból",
+  "card_title": "Több képkocka egy videóból",
+  "excerpt": "Kockasorozat egy videóból, képként, ZIP-ben vagy PDF-ben exportálva.",
+  "lead": "Storyboard, sportsorozat, előtte-utána, reakcióválogatás: néha egy kép kevés. Így szedhet ki egy videóból annyi kockát, amennyit akar, csak iPhone-nal.",
+  "quick_answer": "Nyissa meg a videót a Video To Photo – Grab Frame-ben, és minden kívánt pillanatnál koppintson a mentésre. Ellenőrizze a kockákat, törölje a rosszakat, és exportáljon mindent egyszerre külön JPG-, PNG- vagy HEIC-fájlokként, ZIP-ben vagy PDF-ben.",
+  "content_intro": "<h2>Minden kocka vagy csak a jók?</h2><p>Egy 30 másodperces, 30 fps-es videó 900 kockából áll. Ha mindet exportálja, mint ffmpeggel vagy VLC-vel a számítógépen, több száz szinte azonos fájlt kap. Telefonon általában gyorsabb <strong>csak a szükséges kockákat kiválasztani</strong>.</p><table><thead><tr><th>Cél</th><th>Módszer</th></tr></thead><tbody><tr><td>Storyboard, lépésenkénti útmutató</td><td>Jelenetenként vagy lépésenként egy kocka</td></tr><tr><td>Sport, mozgáselemzés</td><td>Kockák egyenletes időközönként</td></tr><tr><td>A legjobb fotó</td><td>A legélesebb 3–5 szomszédos kockából</td></tr><tr><td>Minden kocka animációhoz vagy elemzéshez</td><td>Számítógépes program (ffmpeg)</td></tr></tbody></table><p>Az iOS 27 beépített funkciója egyszerre egy kockát ment, ezért sorozatokhoz nem alkalmas.</p>",
+  "steps_title": "Több képkocka kivágása videóból iPhone-on",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót",
+      "text": "Ossza meg a Fotókból az appal, vagy válassza ki a Video To Photo – Grab Frame-ben.",
+      "shot": 0
+    },
+    {
+      "name": "Mentse az összes pillanatot",
+      "text": "Húzza a sávot, és minden pillanatnál koppintson a mentésre. A számláló számol.",
+      "shot": 1
+    },
+    {
+      "name": "Ellenőrizze a kockákat",
+      "text": "Nyissa meg teljes képernyőn, ellenőrizze az élességet, és törölje az ismétlődő vagy homályos kockákat.",
+      "shot": 2
+    },
+    {
+      "name": "Exportáljon mindent",
+      "text": "Válassza a JPEG, PNG vagy HEIC formátumot. Külön képek a Fájlokba, ZIP egy fájlként, PDF dokumentumként.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF vagy külön fájlok?</h2><ul><li><strong>Külön fájlok</strong>: egyenkénti szerkesztéshez vagy közzétételhez.</li><li><strong>ZIP</strong>: egy fájl AirDrophoz, e-mailhez, Messengerhez vagy felhőhöz.</li><li><strong>PDF</strong>: storyboard, jegyzetek, jóváhagyandó dokumentum. Lásd: <a href=\"/hu/guides/video-pdf/\">videó PDF-be</a>.</li></ul><h2>Tippek sorozatokhoz</h2><ul><li>Egyenlő időközönként válasszon kockákat, hogy a mozgás jól követhető legyen.</li><li>Kollázshoz exportáljon PNG-t, így elkerüli a további JPEG-tömörítést.</li><li>A projekt mentve marad, a hiányzó kockákat később is hozzáadhatja.</li></ul>",
+  "faq": [
+    {
+      "q": "Hány kockát vághatok ki egy videóból?",
+      "a": "Amennyire szüksége van. Minden pillanatnál koppintson a mentésre, és exportálja együtt. Sok kockánál az exportálás kicsit tovább tart."
+    },
+    {
+      "q": "Exportálhatom automatikusan az összes kockát?",
+      "a": "A Video To Photo – Grab Frame kockák kiválasztására készült. Ha tényleg minden kocka kell animációhoz vagy elemzéshez, egy számítógépes program, például az ffmpeg alkalmasabb."
+    },
+    {
+      "q": "Hogyan küldhetek el sok kockát egyszerre?",
+      "a": "Exportálja ZIP-be, és küldjön egyetlen fájlt AirDroppal, e-mailben vagy Messengeren. Vagy exportáljon PDF-be."
+    }
+  ],
+  "related": [
+    "video-pdf",
+    "video-kepkockankent-iphone",
+    "kep-mentese-videobol-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

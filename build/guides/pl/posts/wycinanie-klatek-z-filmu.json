@@ -1,0 +1,65 @@
+{
+  "slug": "wycinanie-klatek-z-filmu",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "wycinanie klatek z filmu",
+  "secondary_keywords": [
+    "wycinanie klatki z filmu iphone",
+    "klatki z filmu",
+    "eksport klatki z filmu",
+    "wyodrębnienie klatek z filmu"
+  ],
+  "title": "Wycinanie klatek z filmu na iPhonie: wiele naraz",
+  "description": "Jak wyciąć wiele klatek z filmu naraz na iPhonie, bez komputera i ffmpeg. Wybierz tylko potrzebne klatki i zapisz je jako zdjęcia, ZIP lub PDF.",
+  "h1": "Wycinanie klatek z filmu na iPhonie",
+  "nav_title": "Wycinanie klatek z filmu",
+  "card_title": "Jak wyciąć wiele klatek z filmu",
+  "excerpt": "Seria klatek z jednego filmu wyeksportowana jako obrazy, ZIP lub PDF.",
+  "lead": "Storyboard, sekwencja sportowa, przed i po, kompilacja reakcji: czasem jedno zdjęcie to za mało. Oto jak wyciągnąć z filmu tyle klatek, ile chcesz, tylko iPhonem.",
+  "quick_answer": "Otwórz film w Video To Photo – Grab Frame i stuknij zapis przy każdym potrzebnym momencie. Sprawdź klatki, usuń nieudane i wyeksportuj wszystko naraz jako osobne pliki JPG, PNG lub HEIC, jako ZIP albo jako PDF.",
+  "content_intro": "<h2>Wszystkie klatki czy tylko dobre?</h2><p>30-sekundowy film w 30 kl./s ma 900 klatek. Eksport wszystkich, jak w ffmpeg czy VLC na komputerze, daje setki niemal identycznych plików. Na telefonie zwykle szybciej jest <strong>wybrać tylko potrzebne klatki</strong>.</p><table><thead><tr><th>Cel</th><th>Podejście</th></tr></thead><tbody><tr><td>Storyboard, instrukcja krok po kroku</td><td>Jedna klatka na scenę lub krok</td></tr><tr><td>Sport, analiza ruchu</td><td>Klatki w regularnych odstępach</td></tr><tr><td>Najlepsze zdjęcie</td><td>Najostrzejsza z 3–5 sąsiednich klatek</td></tr><tr><td>Wszystkie klatki do animacji lub analizy</td><td>Program na komputer (ffmpeg)</td></tr></tbody></table><p>Wbudowana funkcja iOS 27 zapisuje jedną klatkę naraz, więc nie nadaje się do serii.</p>",
+  "steps_title": "Jak wyciąć wiele klatek z filmu na iPhonie",
+  "steps": [
+    {
+      "name": "Otwórz film",
+      "text": "Udostępnij go ze Zdjęć aplikacji albo wybierz w Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Zapisz każdy moment",
+      "text": "Przesuwaj pasek i stukaj zapis przy każdym momencie. Licznik pokazuje liczbę klatek.",
+      "shot": 1
+    },
+    {
+      "name": "Sprawdź klatki",
+      "text": "Otwórz je na pełnym ekranie, sprawdź ostrość i usuń duplikaty lub rozmazane klatki.",
+      "shot": 2
+    },
+    {
+      "name": "Wyeksportuj wszystko",
+      "text": "Wybierz JPEG, PNG lub HEIC. Osobne obrazy do Plików, ZIP jako jeden plik, PDF jako dokument.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF czy osobne pliki?</h2><ul><li><strong>Osobne pliki</strong>: do edycji lub publikacji pojedynczo.</li><li><strong>ZIP</strong>: jeden plik do wysłania przez AirDrop, e-mail, WhatsApp lub chmurę.</li><li><strong>PDF</strong>: storyboard, notatki, dokument do recenzji. Zobacz <a href=\"/pl/guides/film-do-pdf/\">film do PDF</a>.</li></ul><h2>Wskazówki do serii</h2><ul><li>Wybieraj klatki w równych odstępach, żeby ruch był czytelny.</li><li>Do kolażu eksportuj PNG i unikniesz dodatkowej kompresji JPEG.</li><li>Projekt jest zapisany, więc brakujące klatki dodasz później.</li></ul>",
+  "faq": [
+    {
+      "q": "Ile klatek mogę wyciągnąć z jednego filmu?",
+      "a": "Tyle, ile potrzebujesz. Stuknij zapis przy każdym momencie i wyeksportuj je razem. Przy wielu klatkach eksport trwa trochę dłużej."
+    },
+    {
+      "q": "Czy mogę automatycznie wyeksportować wszystkie klatki?",
+      "a": "Video To Photo – Grab Frame służy do wybierania klatek. Jeśli naprawdę potrzebujesz każdej klatki do animacji lub analizy, lepszy będzie program na komputer, np. ffmpeg."
+    },
+    {
+      "q": "Jak wysłać wiele klatek naraz?",
+      "a": "Wyeksportuj jako ZIP i wyślij jeden plik przez AirDrop, e-mail lub WhatsApp. Albo wyeksportuj jako PDF."
+    }
+  ],
+  "related": [
+    "film-do-pdf",
+    "film-klatka-po-klatce-iphone",
+    "zapisac-klatke-z-filmu-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

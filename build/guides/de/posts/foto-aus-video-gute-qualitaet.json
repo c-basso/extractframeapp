@@ -1,0 +1,64 @@
+{
+  "slug": "foto-aus-video-gute-qualitaet",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "Foto aus Video in guter Qualität",
+  "secondary_keywords": [
+    "foto aus video gute qualität",
+    "scharfes bild aus video",
+    "standbild aus video hd"
+  ],
+  "title": "Foto aus Video in guter Qualität – so wird es scharf",
+  "description": "Warum Fotos aus Videos unscharf werden und wie du das vermeidest: ruhiges Bild, 4K und 60 fps, Extraktion statt Screenshot und Export als PNG oder HEIC.",
+  "h1": "Foto aus Video in guter Qualität",
+  "nav_title": "Foto aus Video in guter Qualität",
+  "card_title": "Scharfes Foto aus einem Video",
+  "excerpt": "Warum Videobilder weich aussehen, was sich nachträglich retten lässt und was du vorher ändern solltest.",
+  "lead": "Du hast den perfekten Moment gefunden, gespeichert – und er ist unscharf. Videobilder sind für Bewegung gemacht, nicht zum Anschauen als Standbild. Mit dem richtigen Bild und der richtigen Methode sehen sie trotzdem aus wie echte Fotos.",
+  "quick_answer": "Wähle ein Bild, in dem sich das Motiv kaum bewegt, speichere es aus der Datei statt per Screenshot und exportiere als PNG oder HEIC ohne zusätzliche Kompression. Nimm 3–5 Nachbarbilder auf und behalte das schärfste. Für künftige Videos: 4K und 60 fps bei gutem Licht.",
+  "content_intro": "<h2>Warum Fotos aus Videos unscharf werden</h2><ul><li><strong>Bewegungsunschärfe.</strong> Jedes Bild wird einen Sekundenbruchteil belichtet; bewegt sich das Motiv, verwischt es.</li><li><strong>Screenshot.</strong> Das Video wird auf Displaygröße verkleinert und neu gespeichert. Siehe <a href=\"/de/guides/screenshot-video-iphone-ohne-qualitaetsverlust/\">warum Screenshots Qualität verlieren</a>.</li><li><strong>Videokompression.</strong> Videos sind stark komprimiert, manche Bilder enthalten weniger Details.</li><li><strong>Wenig Licht.</strong> Im Dunkeln belichtet die Kamera länger und entrauscht stärker – Details gehen verloren.</li></ul><h2>Was sich nachträglich lösen lässt</h2><table><thead><tr><th>Problem</th><th>Lösung</th></tr></thead><tbody><tr><td>Verwackeltes Motiv</td><td>Mehrere Nachbarbilder speichern, das scharfe wählen</td></tr><tr><td>Kleines oder beschnittenes Foto</td><td>Aus der Datei extrahieren, kein Screenshot</td></tr><tr><td>Kompressionsblöcke</td><td>Als PNG oder HEIC exportieren, nicht mehrfach speichern</td></tr><tr><td>Geschlossene Augen</td><td>Langsam wischen – das richtige Bild liegt oft 1–2 Bilder daneben</td></tr></tbody></table>",
+  "steps_title": "So holst du das schärfste Bild aus einem Video",
+  "steps": [
+    {
+      "name": "Video öffnen",
+      "text": "Teile es aus Fotos mit Video To Photo – Grab Frame, damit das Bild aus der Datei kommt, nicht vom Bildschirm.",
+      "shot": 0
+    },
+    {
+      "name": "Den ruhigen Moment suchen",
+      "text": "Wische rund um die Aktion und such die Höhepunkte: höchster Punkt eines Sprungs, die Pause vor dem Lachen.",
+      "shot": 1
+    },
+    {
+      "name": "Serie aufnehmen und vergleichen",
+      "text": "Nimm 3–5 Nachbarbilder auf, zoome in der Vorschau auf Augen, Kanten oder Text und lösche die weichen.",
+      "shot": 2
+    },
+    {
+      "name": "Ohne Zusatzkompression exportieren",
+      "text": "Das beste als PNG (verlustfrei) oder HEIC (Qualität bei wenig Speicher). JPG nur zum schnellen Verschicken.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>So filmst du für bessere Fotos später</h2><ul><li><strong>4K.</strong> Mehr Pixel, mehr Details und Spielraum zum Zuschneiden (Einstellungen → Kamera → Video aufnehmen).</li><li><strong>60 fps für Action.</strong> Mehr Bilder zur Auswahl, weniger Unschärfe in jedem.</li><li><strong>Licht.</strong> Tageslicht oder ein heller Raum bringen den größten Schärfegewinn.</li><li><strong>Stabilität.</strong> Ellbogen abstützen oder Stativ nutzen – Wackeln macht jedes Bild unscharf.</li></ul><h2>Und wenn ich das Bild per KI verbessere?</h2><p>KI-Upscaler vergrößern das Bild, erfinden aber Details. Hol zuerst das beste echte Bild in Videoauflösung und verbessere nur, wenn du wirklich einen großen Druck brauchst. Zu den Formaten: <a href=\"/de/guides/video-in-jpg-umwandeln/\">Video in JPG umwandeln</a>.</p>",
+  "faq": [
+    {
+      "q": "Kann ein Bild aus einem Video wie ein echtes Foto aussehen?",
+      "a": "Aus einem scharfen 4K-Video bei gutem Licht sieht das Bild einem Foto sehr ähnlich, vor allem für Social Media. Ein echtes Foto hat trotzdem Vorteile, etwa kürzere Belichtung und eine auf Fotos abgestimmte Verarbeitung."
+    },
+    {
+      "q": "Welche Auflösung hat ein Bild aus einem 4K-Video?",
+      "a": "3840 × 2160 Pixel, etwa 8,3 Megapixel. Ein Bild aus 1080p hat 1920 × 1080, etwa 2 Megapixel."
+    },
+    {
+      "q": "Welches Format erhält die meisten Details?",
+      "a": "PNG ist verlustfrei. HEIC erhält fast dieselbe Qualität in einer viel kleineren Datei. JPG komprimiert etwas, lässt sich aber überall öffnen."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-ohne-qualitaetsverlust",
+    "video-bild-fuer-bild-iphone",
+    "video-in-jpg-umwandeln"
+  ],
+  "datePublished": "2026-09-30"
+}

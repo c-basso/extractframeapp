@@ -1,0 +1,64 @@
+{
+  "slug": "video-pdf-donusturme",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video PDF dönüştürme",
+  "secondary_keywords": [
+    "video pdf dönüştürücü",
+    "video pdf olur mu",
+    "videodan storyboard yapma"
+  ],
+  "title": "iPhone'da Videoyu PDF'e Dönüştürme: Yüklemeden",
+  "description": "iPhone'da videoyu PDF'e dönüştür: önemli kareleri seç ve storyboard, ders notu veya inceleme için tek bir PDF'te birleştir. Çevrimdışı, yükleme yok.",
+  "h1": "iPhone'da videoyu PDF'e dönüştürme",
+  "nav_title": "Video PDF dönüştürme",
+  "card_title": "Video karelerini tek PDF'te birleştirme",
+  "excerpt": "Bir videonun önemli anları tek PDF'te: storyboard, ders notu, inceleme.",
+  "lead": "Önemli kareleri içeren bir PDF, videoyu izlemeyecek birine içeriğini göstermenin en hızlı yoludur. Kurguyu onaylayan müşteriye, dersi tekrar eden öğrenciye, storyboard'u onaylayan ekibe.",
+  "quick_answer": "Videoyu Video To Photo – Grab Frame'de aç ve her önemli anda bir kare kaydet. Dışa Aktar'a dokun, görüntü formatını ve ardından PDF'i seç. Karelerle tek bir PDF alırsın; AirDrop, WhatsApp, e-posta veya Dosyalar ile paylaşmaya hazır.",
+  "content_intro": "<h2>\"Video PDF olur mu?\"</h2><p>PDF video oynatamaz. Videoyu PDF'e dönüştürmek, <strong>durağan görüntüleri</strong> kaydedip tek bir belgede birleştirmek demektir. İşin püf noktası <em>hangi kareleri seçtiğin</em>: 900 benzer kareli bir PDF işe yaramaz, 12 önemli kareli bir PDF altın değerindedir.</p><h2>Şunlar için kullanışlı</h2><ul><li><strong>Storyboard veya çekim listesi</strong>: sahne başına bir kare, sunum ve teklifler için.</li><li><strong>Ders notları</strong>: kayıtlı dersten slaytlar ve tahta.</li><li><strong>Müşteri incelemesi</strong>: PDF'e yorum yazmak zaman kodu aramaktan kolay.</li><li><strong>Spor analizi</strong>: bir hareketin evreleri sırayla.</li><li><strong>Kılavuzlar</strong>: ekran kaydını adım adım talimata çevirmek.</li></ul>",
+  "steps_title": "iPhone'da video karelerini PDF'te birleştirme",
+  "steps": [
+    {
+      "name": "Videoyu aç",
+      "text": "Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş veya uygulamada seç.",
+      "shot": 0
+    },
+    {
+      "name": "Önemli kareleri kaydet",
+      "text": "Videoda ilerle ve her sahnede, slaytta veya adımda kaydet'e dokun.",
+      "shot": 1
+    },
+    {
+      "name": "Dışa aktarırken PDF seç",
+      "text": "Dışa Aktar'a dokun, JPEG, PNG veya HEIC seç, sonra PDF.",
+      "shot": 3
+    },
+    {
+      "name": "PDF'i paylaş veya kaydet",
+      "text": "Dosyalar'a kaydet ya da paylaşma menüsünden AirDrop, WhatsApp veya e-postayla gönder.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Düzenli bir PDF için ipuçları</h2><ul><li>Kareleri baştan sona sırayla kaydet.</li><li>Tüm yazının göründüğü ve geçiş ortasında olmayan kareleri seç.</li><li>Slaytlar ve küçük yazılar için PNG kullan.</li><li>Proje kayıtlı kalır; sonra kare ekleyip yeniden aktarabilirsin.</li></ul><h2>PDF mi, ZIP mi?</h2><p>Sırayla okumak ve yorum yapmak için <strong>PDF</strong>, örneğin bir tasarım için ayrı dosyalar gerekiyorsa <strong>ZIP</strong>. İkisi de <a href=\"/tr/guides/videodan-fotograf-cikarma/\">videodan fotoğraf çıkarma</a> rehberinde anlatılıyor.</p>",
+  "faq": [
+    {
+      "q": "Videoyu internete yüklemeden PDF'e dönüştürebilir miyim?",
+      "a": "Evet. Video To Photo – Grab Frame, kaydettiğin karelerden PDF'i iPhone'da oluşturur; video cihazdan çıkmaz."
+    },
+    {
+      "q": "PDF'teki kareler hangi sırada?",
+      "a": "PDF kaydettiğin kareleri içerir. Baştan sona kaydedersen belge videonun sırasını izler."
+    },
+    {
+      "q": "Telefonda videodan storyboard nasıl yapılır?",
+      "a": "Her çekim veya sahne için bir kare kaydet ve PDF olarak aktar: bu basit bir storyboard'dur. Notları İşaretleme veya bir PDF uygulamasıyla ekleyebilirsin."
+    }
+  ],
+  "related": [
+    "videodan-fotograf-cikarma",
+    "video-jpg-cevirme",
+    "videodan-fotograf-alma-uygulamasi"
+  ],
+  "datePublished": "2026-10-01"
+}

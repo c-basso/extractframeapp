@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "id",
-    "title": "Aplikasi ubah video ke foto iPhone | Video To Photo",
-    "description": "Ubah video ke foto di iPhone: simpan satu frame atau ekspor banyak sebagai JPG, PNG, atau HEIC dalam hitungan detik — diproses di perangkat, tanpa unggahan.",
-    "keywords": "ubah video ke foto, video ke foto, video ke gambar, ekstrak frame dari video, frame grabber, iPhone frame grabber, simpan frame dari video, jpg dari video, png dari video, heic dari video, ekspor frame batch, bagikan dari foto",
+    "title": "Ambil Foto dari Video di iPhone – Tajam | Grab Frame",
+    "description": "Ambil foto dari video di iPhone dengan kualitas penuh. Bukan screenshot, tapi frame yang tepat dalam JPG, PNG, atau HEIC, atau ZIP dan PDF. Bisa tanpa internet.",
+    "keywords": "cara mengambil foto dari video, foto dari video, mengubah video menjadi foto, cara screenshot video, aplikasi mengambil foto dari video, video to jpg, video to pdf",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/id/",
-    "og_title": "Ubah video ke foto untuk iPhone",
-    "og_description": "Ubah video ke foto di iPhone. Pilih momen tepat dan ekspor frame sebagai JPG, PNG, atau HEIC — diproses di perangkat, tanpa unggahan.",
+    "og_title": "Foto dari video di iPhone — frame tepat, tajam",
+    "og_description": "Temukan momennya dan simpan satu atau puluhan frame dalam JPG, PNG, atau HEIC, atau ZIP dan PDF. Semua di perangkat.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "id_ID",
     "twitter_url": "https://extractframeapp.com/id/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Ubah video ke foto di iPhone. Frame presisi, pemrosesan di perangkat, ekspor batch, dan format JPG, PNG, HEIC.",
+    "twitter_title": "Foto dari video — Grab Frame",
+    "twitter_description": "Foto HD dari video iPhone Anda. JPG, PNG, HEIC, ZIP, PDF. Offline, tanpa unggah.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/id/",
@@ -21,18 +21,25 @@
     "geo_placename": "Indonesia"
   },
   "hero": {
-    "logo_alt": "Logo Video To Photo - Grab Frame",
-    "title": "Ekstrak Frame dari Video di iPhone",
-    "subtitle": "Video ke foto dan gambar—simpan frame tepat dari klip Anda dalam hitungan detik",
-    "entity_definition": "Video To Photo - Grab Frame adalah aplikasi iOS yang mengubah video menjadi foto diam di iPhone. Pilih momen tepat dan ekspor frame sebagai JPG, PNG, atau HEIC.",
-    "subheadline": "Buka dari Foto, geser ke momen yang tepat, lalu simpan satu frame atau banyak. Tanpa akun, unggahan, dan timeline editing.",
-    "download_alt": "Unduh di App Store",
-    "phone_text": "Ketuk untuk mengambil frame dari video",
-    "qr_alt": "Kode QR untuk mengunduh aplikasi",
-    "qr_text": "Pindai dengan iPhone untuk mengunduh"
+    "logo_alt": "Ikon aplikasi Video To Photo – Grab Frame",
+    "title": "Foto dari video di iPhone — frame tepat, tajam",
+    "title_html": "Ambil <span class=\"grad-text\">foto dari video</span>. Tepat di frame yang Anda mau, tajam.",
+    "subtitle": "Geser ke momennya dan simpan satu atau puluhan frame. Ekspor ke JPG, PNG, atau HEIC. Semuanya terjadi di iPhone: tanpa unggah, tanpa akun.",
+    "entity_definition": "Video To Photo – Grab Frame adalah aplikasi iPhone yang mengambil frame dari video dan menyimpannya sebagai foto beresolusi tinggi. Semua pemrosesan terjadi di perangkat.",
+    "subheadline": "Bagikan dari Foto, cari momennya, simpan. Selesai.",
+    "download_alt": "Unduh Video To Photo – Grab Frame di App Store",
+    "phone_text": "Ketuk untuk mengambil foto dari video",
+    "qr_alt": "Kode QR untuk mengunduh Video To Photo – Grab Frame",
+    "qr_text": "Pindai dengan kamera iPhone untuk memasang",
+    "bullets": [
+      "Bisa offline",
+      "JPG, PNG, HEIC",
+      "Ekspor ke ZIP dan PDF",
+      "Tanpa akun"
+    ]
   },
   "last_updated": {
-    "text": "Terakhir diperbarui: 16 Juni 2026"
+    "text": "Terakhir diperbarui: 1 Oktober 2026"
   },
   "features": {
     "title": "Mengapa memilih ubah video ke foto",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "Cara Mengekstrak Frame dari Video di iPhone",
-    "subtitle": "Langkah sederhana untuk menyimpan foto diam sempurna dari klip Anda",
-    "placeholder_line1": "📱 Video demo segera hadir",
-    "placeholder_line2": "Langkah 1: Buka dari Foto > Langkah 2: Geser ke momen > Langkah 3: Ambil frame > Langkah 4: Ekspor JPG/PNG/HEIC"
+    "title": "Cara mengambil foto dari video di iPhone",
+    "subtitle": "Empat langkah, sekitar satu menit. Tidak ada yang perlu dipelajari."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Buka dari Foto",
-        "text": "Bagikan video dari Foto ke {{app_info.name}}, atau buka aplikasi dulu lalu pilih klip Anda."
+        "name": "Bagikan video dari Foto",
+        "text": "Buka video di app Foto, ketuk Bagikan, lalu pilih aplikasinya. Atau buka aplikasi dan pilih video. Tampilan frame langsung terbuka."
       },
       {
-        "name": "Temukan Momen Tepat",
-        "text": "Gunakan kontrol geser untuk berpindah frame per frame dan berhenti di gambar yang diinginkan."
+        "name": "Cari momen dan simpan",
+        "text": "Geser strip frame ke frame yang diinginkan dan ketuk simpan. Ulangi untuk setiap frame yang Anda mau."
       },
       {
-        "name": "Ambil Satu atau Banyak Frame",
-        "text": "Tangkap satu frame atau tandai beberapa momen untuk ekspor batch."
+        "name": "Simpan yang terbaik saja",
+        "text": "Buka frame dalam layar penuh, perbesar untuk cek ketajaman, dan hapus yang buram."
       },
       {
-        "name": "Ekspor dan Simpan",
-        "text": "Simpan frame sebagai JPG, PNG, atau HEIC, atau ekspor sebagai ZIP atau PDF."
+        "name": "Ekspor dan bagikan",
+        "text": "Pilih JPEG, PNG, atau HEIC, lalu simpan sebagai file terpisah, ZIP, atau PDF."
       }
     ]
   },
@@ -151,45 +156,65 @@
     ]
   },
   "faq": {
-    "title": "FAQ: Video ke Foto di iPhone",
+    "eyebrow": "FAQ",
+    "title": "Foto dari video di iPhone: pertanyaan umum",
+    "learn_more": "Selengkapnya",
     "items": [
       {
-        "question": "Bagaimana cara mengekstrak frame dari video di iPhone?",
-        "answer": "Buka klip di Video To Photo - Grab Frame, geser ke momen tepat, lalu tangkap frame. Ekspor sebagai JPG, PNG, atau HEIC."
+        "question": "Bagaimana cara mengambil foto dari video di iPhone?",
+        "answer": "Mulai iOS 27, buka video di app Foto, jeda, lalu simpan frame sebagai foto dari menu ••• (satu per satu). Di iOS lama, atau untuk banyak foto dalam JPG, PNG, HEIC, ZIP, atau PDF, gunakan Video To Photo – Grab Frame.",
+        "url": "/id/guides/cara-mengambil-foto-dari-video-iphone/"
       },
       {
-        "question": "Bisakah saya mengekspor lebih dari satu frame sekaligus?",
-        "answer": "Ya. Anda bisa memilih beberapa momen dan mengekspor beberapa frame dalam satu batch."
+        "question": "Kenapa screenshot video hasilnya jelek?",
+        "answer": "Screenshot merekam layar: frame 4K mengecil ke ukuran layar, kontrol pemutar atau bingkai hitam ikut terekam, dan video HDR jadi gelap. Simpan frame dari file lewat app Foto di iOS 27 atau Video To Photo – Grab Frame, lalu ekspor ke PNG atau HEIC.",
+        "url": "/id/guides/cara-screenshot-video-iphone/"
       },
       {
-        "question": "Format apa saja yang didukung?",
-        "answer": "Aplikasi mendukung JPG, PNG, dan HEIC. Anda juga bisa mengekspor sebagai ZIP atau PDF."
+        "question": "Bagaimana cara menyimpan foto dari video?",
+        "answer": "Bagikan video dari app Foto ke Video To Photo – Grab Frame, cari frame-nya, simpan, lalu ketuk Ekspor. Foto masuk ke Foto atau File. Video asli tidak berubah.",
+        "url": "/id/guides/cara-menyimpan-foto-dari-video-iphone/"
       },
       {
-        "question": "Apakah aplikasi mengunggah video saya?",
-        "answer": "Tidak. Ekstraksi berjalan di perangkat — video dan gambar tetap di iPhone Anda."
+        "question": "Apa yang perlu diperhatikan pada aplikasi pengambil foto dari video?",
+        "answer": "Empat hal: pemilihan frame yang tepat, ekspor sesuai resolusi video, proses di perangkat, dan ekspor massal. Video To Photo – Grab Frame memenuhi semuanya dan mengekspor ke JPG, PNG, HEIC, ZIP, atau PDF.",
+        "url": "/id/guides/aplikasi-mengambil-foto-dari-video/"
       },
       {
-        "question": "Bisakah saya melanjutkan nanti?",
-        "answer": "Ya. Anda bisa menyimpan sesi sebagai proyek dan membukanya kembali nanti."
+        "question": "Bisakah mengambil banyak foto dari video sekaligus?",
+        "answer": "Bisa. Simpan frame sebanyak yang Anda mau dari satu video, lalu ekspor bersama sebagai file, ZIP, atau PDF. Memilih frame yang dibutuhkan saja lebih cepat daripada menyortir ratusan foto yang mirip.",
+        "url": "/id/guides/mengubah-video-menjadi-foto/"
       },
       {
-        "question": "Apakah Video To Photo - Grab Frame gratis?",
-        "answer": "Aplikasi gratis diunduh; fitur lanjutan tersedia melalui pembelian dalam aplikasi."
+        "question": "Bagaimana melihat video frame demi frame di iPhone?",
+        "answer": "Jeda video di app Foto dan geser strip frame perlahan. Di Video To Photo – Grab Frame, Anda menggeser dengan pratinjau besar dan langsung menyimpan frame yang tepat.",
+        "url": "/id/guides/video-frame-by-frame-iphone/"
       },
       {
-        "question": "Untuk siapa aplikasi ini?",
-        "answer": "Berguna untuk kreator konten, pendidik, dan siapa pun yang ingin menangkap momen tertentu dari video sebagai foto diam."
+        "question": "Bagaimana mendapatkan foto HD yang jernih dari video?",
+        "answer": "Pilih frame dengan sedikit gerakan, sebaiknya rekam dalam 4K atau 60 fps, dan ekspor dari file, bukan screenshot. Ekspor ke PNG atau HEIC dan bandingkan frame di sekitarnya untuk menyimpan yang paling tajam.",
+        "url": "/id/guides/foto-hd-dari-video/"
       },
       {
-        "question": "Apakah ada aplikasi ubah video ke foto untuk iPhone?",
-        "answer": "Ya. Video To Photo - Grab Frame mengubah video ke foto: buka klip, geser ke momen tepat, dan simpan frame sebagai JPG, PNG, atau HEIC — semuanya di iPhone Anda."
+        "question": "Bagaimana mengubah video ke JPG atau PNG di iPhone?",
+        "answer": "Dengan Video To Photo – Grab Frame, frame pilihan bisa disimpan dalam JPG, PNG, atau HEIC. JPG untuk berbagi, PNG untuk edit tanpa kehilangan kualitas, HEIC untuk file kecil dan tajam.",
+        "url": "/id/guides/video-ke-jpg-png/"
+      },
+      {
+        "question": "Bagaimana membuat PDF dari video?",
+        "answer": "Simpan frame penting di Video To Photo – Grab Frame dan pilih PDF saat ekspor. Anda mendapat satu PDF berisi frame, cocok untuk storyboard, catatan, dan laporan.",
+        "url": "/id/guides/video-ke-pdf/"
+      },
+      {
+        "question": "Bagaimana membuat thumbnail YouTube dari video di iPhone?",
+        "answer": "Simpan frame yang tajam dan ekspresif sebagai PNG, lalu tambahkan teks di editor favorit Anda. Setelah itu unggah sebagai thumbnail YouTube atau sampul TikTok dan Instagram.",
+        "url": "/id/guides/thumbnail-youtube-dari-video/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Ubah video ke foto",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Foto dari video — aplikasi frame untuk iPhone",
     "application_category": "PhotoApplication",
     "application_sub_category": "Foto & Video"
   },
@@ -198,11 +223,13 @@
     "privacy_text": "Kebijakan Privasi",
     "terms_text": "Ketentuan Penggunaan",
     "support_text": "Dukungan",
-    "developer_info": "Dikembangkan oleh Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Hak cipta dilindungi."
+    "developer_info": "Pengembang: Vladimir Ivakhnenko (c-basso). Frame diproses di perangkat dan tidak pernah dikirim ke server.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Panduan",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 Ambil frame sempurna dari video di iPhone"
+    "text": "📱 Frame sempurna dari video apa pun"
   },
   "seo_chapter": {
     "title": "Cara Mengubah Video Menjadi Foto di iPhone",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "Langsung ke konten",
+    "ratings": "rating"
+  },
+  "nav": {
+    "how": "Cara kerja",
+    "screenshots": "Tangkapan layar",
+    "guides": "Panduan",
+    "faq": "FAQ"
+  },
+  "download": {
+    "title": "Satu aplikasi, satu tugas: foto dari video",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Tepat di momen yang diinginkan",
+        "description": "Geser strip frame dan berhenti di mana saja. Senyuman, puncak lompatan, foto tanpa mata terpejam."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Frame asli, bukan screenshot",
+        "description": "Langsung dari file video: tanpa tombol putar, bingkai hitam, atau batas ukuran layar."
+      },
+      {
+        "icon": "🗂️",
+        "title": "Sebanyak yang Anda mau",
+        "description": "Simpan semua frame favorit sekaligus, bandingkan, dan pertahankan yang terbaik."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Pilih format dan caranya: file terpisah, arsip ZIP, atau PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "100% di perangkat",
+        "description": "Video Anda tidak keluar dari iPhone. Tanpa unggah dan akun, bisa dalam mode pesawat."
+      },
+      {
+        "icon": "💾",
+        "title": "Proyek",
+        "description": "Setiap video tersimpan sebagai proyek. Buka lagi nanti dan lanjutkan."
+      }
+    ],
+    "meta_labels": {
+      "version": "Versi",
+      "size": "Ukuran",
+      "requires": "Memerlukan",
+      "price": "Harga",
+      "price_value": "Gratis · pembelian dalam aplikasi",
+      "category": "Kategori",
+      "category_value": "Foto & Video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Tangkapan layar",
+    "title": "Dari video ke foto dalam enam layar",
+    "subtitle": "Persis seperti di App Store. Ini aplikasi sungguhan.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: momen terbaik dari video apa pun",
+        "title": "Momen terbaik",
+        "caption": "Dari video apa pun di galeri."
+      },
+      {
+        "alt": "Tombol simpan frame dan baki berisi 4 frame tersimpan",
+        "title": "Simpan semua yang Anda suka",
+        "caption": "Ketuk Grab This Frame sesering yang Anda mau."
+      },
+      {
+        "alt": "Pratinjau yang memperbesar frame tersimpan",
+        "title": "Simpan yang terbaik saja",
+        "caption": "Perbesar sebelum ekspor."
+      },
+      {
+        "alt": "Tampilan ekspor dengan JPEG, PNG, HEIC serta File, ZIP, atau PDF",
+        "title": "Pilih format",
+        "caption": "JPEG, PNG, atau HEIC. File, ZIP, atau PDF."
+      },
+      {
+        "alt": "Menu Bagikan iOS dengan file ZIP berisi frame",
+        "title": "Simpan dan bagikan",
+        "caption": "Ke File atau lewat menu Bagikan."
+      },
+      {
+        "alt": "Daftar proyek dengan durasi, jumlah frame, dan fps",
+        "title": "Banyak proyek",
+        "caption": "Kembali nanti dan lanjutkan."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Cara kerja",
+    "cta": "Unduh gratis"
+  },
+  "guides_section": {
+    "eyebrow": "Panduan",
+    "title": "Panduan: foto dari video di iPhone",
+    "subtitle": "Jawaban atas pertanyaan yang paling sering dicari dan cara tercepat di iPhone.",
+    "read_more": "Baca panduan",
+    "all_text": "Semua panduan"
+  },
+  "cta": {
+    "title": "Foto terbaik Anda ada di dalam video.",
+    "text": "Simpan dalam hitungan detik, kualitas penuh, cukup dengan iPhone. Tanpa unggah."
+  },
+  "sticky": {
+    "text": "Foto HD dari video apa pun"
   }
 }

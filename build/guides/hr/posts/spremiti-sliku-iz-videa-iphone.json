@@ -1,0 +1,64 @@
+{
+  "slug": "spremiti-sliku-iz-videa-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "kako od videa napraviti sliku",
+  "secondary_keywords": [
+    "spremiti sliku iz videa",
+    "kako napraviti sliku iz videa",
+    "fotografija iz videa"
+  ],
+  "title": "Kako od videa napraviti sliku i spremiti je na iPhone",
+  "description": "Spremite kadar iz videa kao fotografiju na iPhoneu: nađite trenutak, spremite ga u punoj rezoluciji i izvezite u Foto ili Datoteke. Video ostaje isti.",
+  "h1": "Kako od videa napraviti sliku na iPhoneu",
+  "nav_title": "Spremiti sliku",
+  "card_title": "Kako od videa napraviti sliku",
+  "excerpt": "Jedan kadar, puna rezolucija, spremljen u Foto ili Datoteke.",
+  "lead": "Ponekad trebate samo jednu sliku: za profil, čestitku ili poruku. Evo kako od videa napraviti sliku na iPhoneu i spremiti je točno tamo gdje vam treba.",
+  "quick_answer": "Podijelite video iz aplikacije Foto s aplikacijom Video To Photo – Grab Frame, pronađite kadar, spremite ga i dodirnite Izvezi. Slika se sprema u Foto ili Datoteke. Na iOS-u 27 to može i Foto: zaustavite video, ••• → spremi kadar kao fotografiju.",
+  "content_intro": "<h2>Ugrađeni način (iOS 27)</h2><p>Od iOS-a 27 aplikacija Foto može sama spremiti kadar: otvorite video, zaustavite ga na željenom trenutku, dodirnite <strong>•••</strong> i odaberite <em>Save Video Frame as Photo</em>. Slika se sprema u formatu HEIF ili JPG, s datumom videa. Sprema se jedan kadar odjednom.</p><h2>Gdje se slika sprema?</h2><table><thead><tr><th>Odredište</th><th>Za što</th></tr></thead><tbody><tr><td>Foto (Nedavno)</td><td>Dijeljenje, albumi, iCloud</td></tr><tr><td>Datoteke</td><td>Rad, ispis, računalo</td></tr><tr><td>Podijeli</td><td>Izravno u WhatsApp, Viber, e-poštu</td></tr></tbody></table>",
+  "steps_title": "Spremanje slike iz videa",
+  "steps": [
+    {
+      "name": "Otvorite video u aplikaciji",
+      "text": "U aplikaciji Foto dodirnite Podijeli → Video To Photo – Grab Frame, ili otvorite aplikaciju i odaberite video.",
+      "shot": 0
+    },
+    {
+      "name": "Pronađite kadar",
+      "text": "Povucite traku kadrova dok ne dođete do pravog trenutka.",
+      "shot": 1
+    },
+    {
+      "name": "Spremite kadar",
+      "text": "Dodirnite gumb za spremanje. Kadar se pojavljuje na traci.",
+      "shot": 3
+    },
+    {
+      "name": "Izvezite",
+      "text": "Odaberite format i odredište: Foto, Datoteke ili Podijeli.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Zadržava li slika datum?</h2><p>Na iOS-u 27 Foto sprema kadar s datumom videa. U aplikaciji provjerite podatke fotografije nakon izvoza ako vam je datum važan.</p><h2>Najčešće greške</h2><ul><li>Kadar u pokretu: odaberite susjedni.</li><li>Komprimirana kopija: koristite izvorni video.</li></ul>",
+  "faq": [
+    {
+      "q": "Gdje se sprema slika iz videa?",
+      "a": "U aplikaciji Foto, među nedavnim stavkama, ili u Datoteke ako tako odaberete."
+    },
+    {
+      "q": "Mogu li spremiti u PNG?",
+      "a": "Da, u aplikaciji Video To Photo – Grab Frame. Foto na iOS-u 27 sprema u HEIF ili JPG."
+    },
+    {
+      "q": "Treba li internet?",
+      "a": "Ne. Sve se odvija na iPhoneu."
+    }
+  ],
+  "related": [
+    "kako-izvuci-sliku-iz-videa-iphone",
+    "video-u-slike",
+    "video-u-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

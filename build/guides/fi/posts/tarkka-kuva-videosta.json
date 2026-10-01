@@ -1,0 +1,64 @@
+{
+  "slug": "tarkka-kuva-videosta",
+  "translation_of": "clear-high-quality-picture-from-video",
+  "order": 7,
+  "keyword": "tarkka kuva videosta",
+  "secondary_keywords": [
+    "kuva videosta epätarkka",
+    "hyvälaatuinen kuva videosta",
+    "tarkka kuva videosta iphone"
+  ],
+  "title": "Tarkka kuva videosta: miksi se on epätarkka ja ratkaisu",
+  "description": "Miksi kuva videosta on epätarkka ja miten korjaat sen: rauhallinen ruutu, kuvaus 4K:na ja 60 fps:llä, vienti näyttökuvan sijaan, PNG tai HEIC.",
+  "h1": "Näin saat tarkan kuvan videosta",
+  "nav_title": "Tarkka kuva videosta",
+  "card_title": "Tarkka kuva videosta",
+  "excerpt": "Miksi ruudut ovat epätarkkoja, mitä voit tehdä jälkikäteen ja mitä muuttaa ennen kuvausta.",
+  "lead": "Löysit täydellisen hetken, tallensit sen, ja se on epätarkka. Videon ruudut on tehty liikettä varten, ei paikallaan katsottaviksi. Oikealla ruudulla ja oikealla tavalla ne voivat silti näyttää oikealta valokuvalta.",
+  "quick_answer": "Valitse ruutu, jossa kohde on lähes paikallaan, tallenna videotiedostosta näyttökuvan sijaan ja vie PNG- tai HEIC-muodossa ilman lisäpakkausta. Tallenna 3–5 vierekkäistä ruutua ja säilytä tarkin. Kuvaa jatkossa hyvässä valossa 4K:na ja 60 fps:llä.",
+  "content_intro": "<h2>Miksi kuva videosta on epätarkka</h2><ul><li><strong>Liike.</strong> Jokainen ruutu valottuu sekunnin murto-osan. Jos kohde liikkuu, se sumenee.</li><li><strong>Näyttökuva.</strong> Video pienennetään näytön kokoon ja tallennetaan uudelleen. Katso <a href=\"/fi/guides/nayttokuva-videosta-iphone/\">miksi näyttökuva heikentää laatua</a>.</li><li><strong>Videon pakkaus.</strong> Video on voimakkaasti pakattu; joissakin ruuduissa on vähemmän yksityiskohtia.</li><li><strong>Heikko valo.</strong> Pidempi valotus ja voimakas kohinanpoisto hävittävät yksityiskohdat.</li></ul><h2>Mitä voit tehdä kuvauksen jälkeen</h2><table><thead><tr><th>Ongelma</th><th>Ratkaisu</th></tr></thead><tbody><tr><td>Kohde on liikkunut</td><td>Tallenna useita vierekkäisiä ruutuja ja valitse tarkin</td></tr><tr><td>Kuva on pieni tai rajattu</td><td>Vie tiedostosta, ei näyttökuvana</td></tr><tr><td>Pakkauksen kuutiot</td><td>Vie PNG tai HEIC äläkä tallenna uudelleen</td></tr><tr><td>Silmät kiinni</td><td>Vedä hitaasti; hyvä ruutu on usein 1–2 ruudun päässä</td></tr></tbody></table>",
+  "steps_title": "Näin saat videosta tarkimman ruudun",
+  "steps": [
+    {
+      "name": "Avaa video",
+      "text": "Jaa se Kuvista Video To Photo – Grab Frameen. Ruudut tulevat tiedostosta, eivät näytöltä.",
+      "shot": 0
+    },
+    {
+      "name": "Etsi rauhallinen hetki",
+      "text": "Vedä liikkeen ympärillä ja etsi ”tauko”: hypyn lakipiste, hetki ennen hymyä.",
+      "shot": 1
+    },
+    {
+      "name": "Tallenna sarja ja vertaa",
+      "text": "Tallenna 3–5 ruutua hetken ympäriltä ja zoomaa silmiin, reunoihin tai tekstiin. Poista pehmeät ruudut.",
+      "shot": 2
+    },
+    {
+      "name": "Vie ilman lisäpakkausta",
+      "text": "Vie paras PNG:nä (häviötön) tai HEIC:nä (tarkka ja kevyt). JPG nopeaan jakamiseen.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Näin kuvaat tarkkoja ruutuja varten</h2><ul><li><strong>4K.</strong> Enemmän pikseleitä, enemmän yksityiskohtia ja varaa rajaamiseen (Asetukset → Kamera → Videon tallennus).</li><li><strong>60 fps liikkeessä.</strong> Enemmän ruutuja valittavaksi ja vähemmän epätarkkuutta ruutua kohden.</li><li><strong>Valo.</strong> Päivänvalo tai valoisa huone vaikuttaa terävyyteen eniten.</li><li><strong>Vakaus.</strong> Tue kyynärpäät tai käytä jalustaa; tärinä sumentaa jokaisen ruudun.</li></ul><h2>Entä tekoälyparannus?</h2><p>Tekoälyskaalaimet suurentavat kuvaa, mutta ”keksivät” yksityiskohtia. Hanki ensin paras aito ruutu videon tarkkuudella ja jätä suurentaminen isoihin tulosteisiin. Muodoista kerrotaan oppaassa <a href=\"/fi/guides/video-jpg-png/\">video JPG- tai PNG-kuviksi</a>.</p>",
+  "faq": [
+    {
+      "q": "Voiko videon ruutu olla yhtä hyvä kuin valokuva?",
+      "a": "Tarkka 4K-video hyvässä valossa antaa ruutuja, joita on somessa vaikea erottaa valokuvasta. Oikealla valokuvalla on silti etuja, kuten lyhyempi suljinaika ja valokuvakäsittely."
+    },
+    {
+      "q": "Mikä on 4K-videon ruudun tarkkuus?",
+      "a": "3840×2160 pikseliä, noin 8,3 megapikseliä. 1080p:ssä 1920×1080, noin 2 megapikseliä."
+    },
+    {
+      "q": "Mikä muoto säilyttää eniten yksityiskohtia?",
+      "a": "PNG on häviötön. HEIC on hyvin lähellä paljon pienemmillä tiedostoilla. JPG pakkaa hieman mutta aukeaa kaikkialla."
+    }
+  ],
+  "related": [
+    "nayttokuva-videosta-iphone",
+    "video-kuva-kuvalta-iphone",
+    "video-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

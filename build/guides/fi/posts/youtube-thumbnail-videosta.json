@@ -1,0 +1,65 @@
+{
+  "slug": "youtube-thumbnail-videosta",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "YouTube-pikkukuva videosta",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "youtube thumbnail size",
+    "youtube thumbnail maker",
+    "reels-kansikuva videosta"
+  ],
+  "title": "YouTube-pikkukuva videosta iPhonella: näin teet sen",
+  "description": "Tee pikkukuva tai kansikuva omasta videostasi iPhonella: valitse paras ruutu, tallenna se tarkkana, lisää teksti ja lataa YouTubeen, TikTokiin tai Reelsiin.",
+  "h1": "Näin teet pikkukuvan videosta iPhonella",
+  "nav_title": "YouTube-pikkukuva videosta",
+  "card_title": "Pikkukuva tai kansikuva videosta",
+  "excerpt": "Löydä klikkejä tuova ruutu, tallenna se tarkkana ja käytä kansikuvana YouTubessa, TikTokissa tai Reelsissä.",
+  "lead": "Paras pikkukuva löytyy yleensä jo videostasi: aito ilme, aito hetki. Taito on löytää se ruutu ja saada se riittävän tarkkana talteen, jotta se kestää tekstin, rajauksen ja pakkauksen.",
+  "quick_answer": "Avaa video Video To Photo – Grab Framessa, tallenna 2–3 tarkkaa ja ilmeikästä hetkeä ja vie paras PNG:nä. Lisää suosikkieditorissasi iso teksti (1280×720 YouTubeen, 9:16 Shortsiin, TikTokiin ja Reelsiin) ja lataa pikkukuvaksi tai kanneksi.",
+  "content_intro": "<h2>Millainen ruutu sopii pikkukuvaksi?</h2><ul><li><strong>Selkeät kasvot tai kohde</strong>: läheltä, tarkkana, mieluiten kameraan katsoen.</li><li><strong>Tunne</strong>: yllätys, hymy tai keskittyminen toimii paremmin kuin neutraali ilme.</li><li><strong>Tilaa tekstille</strong>: rauhallinen alue muutamalle sanalle.</li><li><strong>Terävyys</strong>: pikkukuvat ovat pieniä, kaikki epätarkkuus näkyy.</li></ul><h2>Pikkukuvien koot</h2><table><thead><tr><th>Alusta</th><th>Kuvasuhde</th><th>Koko</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>Shorts, TikTok, Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagram-ruudukko</td><td>rajattu 1:1 / 4:5</td><td>Kohde keskellä</td></tr></tbody></table><p>Ruutu 1080p- tai 4K-videosta on jo suurempi. Tärkeintä on viedä tiedostosta eikä ottaa näyttökuvaa.</p>",
+  "steps_title": "Näin teet pikkukuvan videosta iPhonella",
+  "steps": [
+    {
+      "name": "Avaa valmis video",
+      "text": "Jaa se Kuvista Video To Photo – Grab Frameen tai valitse se sovelluksessa.",
+      "shot": 0
+    },
+    {
+      "name": "Tallenna kolme ehdokasta",
+      "text": "Etsi vahvimmat hetket ja tallenna ne. Ilmeet vaihtuvat nopeasti, joten tallenna myös naapuriruudut.",
+      "shot": 1
+    },
+    {
+      "name": "Valitse tarkin",
+      "text": "Zoomaa esikatselussa kasvoihin ja poista epätarkat ruudut tai suljetut silmät.",
+      "shot": 2
+    },
+    {
+      "name": "Vie PNG ja lisää teksti",
+      "text": "Vie PNG:nä, jottei muokkaus heikennä laatua, lisää lyhyt otsikko ja lataa pikkukuvaksi.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Näin lataat pikkukuvan</h2><ul><li><strong>YouTube:</strong> muokkaa videon tietoja YouTube- tai YouTube Studio -sovelluksessa ja valitse oma pikkukuva kuvistasi (vaatii vahvistetun tilin).</li><li><strong>TikTok:</strong> ennen julkaisua napauta Muokkaa kantta ja valitse kuva.</li><li><strong>Instagram Reels:</strong> Muokkaa kantta -kohdassa lisää kuva kameran rullasta.</li></ul><h2>Vinkkejä useampiin klikkeihin</h2><ul><li>Vähän tekstiä, korkeintaan muutama sana.</li><li>Vahva kontrasti kohteen, tekstin ja taustan välillä.</li><li>Tunnistettava tyyli koko kanavalla.</li><li>Testaa kahta ruutua: vaihda pikkukuva muutaman päivän päästä ja vertaa.</li></ul>",
+  "faq": [
+    {
+      "q": "Voinko käyttää oman videoni ruutua YouTube-pikkukuvana?",
+      "a": "Voit. Tallenna ruutu, lisää halutessasi teksti ja lataa se omaksi pikkukuvaksi. Paras on 1280×720 JPG- tai PNG-muodossa."
+    },
+    {
+      "q": "Minkä kokoinen on YouTube-pikkukuva?",
+      "a": "1280×720 pikseliä (16:9), JPG tai PNG. Shortsin, TikTokin ja Reelsin kansikuva on 9:16 eli 1080×1920."
+    },
+    {
+      "q": "Miksi pikkukuvani on epätarkka?",
+      "a": "Useimmiten näyttökuvan tai liikkuvan ruudun takia. Vie ruutu tiedostosta ja valitse hetki, jolloin kohde on paikallaan."
+    }
+  ],
+  "related": [
+    "tarkka-kuva-videosta",
+    "video-jpg-png",
+    "kuva-videosta-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

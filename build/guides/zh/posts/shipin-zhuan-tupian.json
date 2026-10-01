@@ -1,0 +1,65 @@
+{
+  "slug": "shipin-zhuan-tupian",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "视频转图片",
+  "secondary_keywords": [
+    "视频转图片",
+    "视频转 jpg",
+    "视频转图片工具",
+    "视频转 png"
+  ],
+  "title": "iPhone 视频转图片：JPG、PNG、HEIC（离线）",
+  "description": "在 iPhone 上离线把视频帧转换为 JPG、PNG 或 HEIC，画质无损。并告诉你发送、编辑和存档各该选哪种格式。",
+  "h1": "在 iPhone 上把视频转成 JPG、PNG 或 HEIC",
+  "nav_title": "视频转图片",
+  "card_title": "视频帧转 JPG、PNG、HEIC",
+  "excerpt": "适合视频帧的格式，以及不用在线转换工具的导出方法。",
+  "lead": "“视频转图片在线”工具要你上传整个文件、等待，再下载一堆图片。在 iPhone 上可以直接在设备上完成，只转你要的帧，用最适合用途的格式。",
+  "quick_answer": "用 Video To Photo – Grab Frame 打开视频，保存需要的帧，轻点“导出”，选择 JPEG、PNG 或 HEIC。发送用 JPG，无损编辑用 PNG，小而清晰用 HEIC。转换在 iPhone 上完成，无需上传。",
+  "content_intro": "<h2>JPG、PNG 和 HEIC 的区别</h2><table><thead><tr><th>格式</th><th>画质</th><th>大小</th><th>适合</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>很好（有损）</td><td>小</td><td>微信、QQ、社交媒体、邮件、网页，哪里都能打开</td></tr><tr><td><strong>PNG</strong></td><td>无损</td><td>最大</td><td>修图、带文字的封面、拼图</td></tr><tr><td><strong>HEIC</strong></td><td>非常好</td><td>同画质下最小</td><td>Apple 照片图库、iPhone 与 Mac 之间</td></tr></tbody></table><p>拿不准？发送用 <strong>JPG</strong>，编辑用 <strong>PNG</strong>。</p><h2>为什么不用在线转换</h2><ul><li>要上传整段视频：用流量很慢，也不适合私人视频。</li><li>很多网站按固定间隔截取：几百张图，却可能没有你要的瞬间。</li><li>免费版常有大小限制或水印。</li></ul>",
+  "steps_title": "在 iPhone 上把视频帧转成 JPG、PNG 或 HEIC",
+  "steps": [
+    {
+      "name": "打开视频",
+      "text": "从“照片”共享到 Video To Photo – Grab Frame，或在 App 中选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "保存帧",
+      "text": "在每个瞬间轻点保存，只有选中的帧会被转换。",
+      "shot": 1
+    },
+    {
+      "name": "选择 JPEG、PNG 或 HEIC",
+      "text": "轻点“导出”，在顶部选择图片格式。",
+      "shot": 3
+    },
+    {
+      "name": "存为文件、ZIP 或 PDF",
+      "text": "导出为单张图片、ZIP 或 PDF，存到“照片”或“文件”，或直接分享。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>不同用途选什么格式</h2><ul><li><strong>视频封面、抖音或 B 站封面</strong> → PNG，再加文字。见<a href=\"/zh/guides/shipin-fengmian-zhizuo/\">用视频制作封面</a>。</li><li><strong>发到 Windows 或安卓</strong> → JPG（HEIC 不是到处都能打开）。</li><li><strong>打印</strong> → 4K 视频导出的 PNG 或高质量 JPG。</li><li><strong>归档大量帧</strong> → HEIC 打包成 ZIP。</li><li><strong>放进文档</strong> → PDF，见<a href=\"/zh/guides/shipin-zhuan-pdf/\">视频转 PDF</a>。</li></ul><h2>转换会降低画质吗？</h2><p>PNG 保留帧的每一个像素。JPG 和 HEIC 会压缩，但在照片级质量下几乎看不出差别。比格式重要得多的是：从文件导出，而不是截屏。</p>",
+  "faq": [
+    {
+      "q": "iPhone 能免费把视频转成 JPG 吗？",
+      "a": "Video To Photo – Grab Frame 可免费下载，Pro 功能为 App 内购买。帧在 iPhone 上转换，视频不会被上传。"
+    },
+    {
+      "q": "能把视频帧存为 PNG 吗？",
+      "a": "可以。保存帧后，导出时选择 PNG，存为单独文件或 ZIP。"
+    },
+    {
+      "q": "Windows 能打开 HEIC 吗？",
+      "a": "新版 Windows 装上扩展后可以，但不是所有电脑都行。发给非 Apple 设备时，JPG 更稳妥。"
+    }
+  ],
+  "related": [
+    "shipin-tiqu-gaoqing-tupian",
+    "shipin-zhuan-pdf",
+    "shipin-fengmian-zhizuo"
+  ],
+  "datePublished": "2026-10-01"
+}

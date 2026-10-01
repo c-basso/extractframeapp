@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-a-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "vídeo frame a frame no iPhone",
+  "secondary_keywords": [
+    "ver video frame a frame iphone",
+    "como ver todos os frames de video",
+    "passar video quadro a quadro iphone"
+  ],
+  "title": "Ver um vídeo frame a frame no iPhone e salvar o momento",
+  "description": "Como ver um vídeo frame a frame no iPhone para achar o momento exato (uma tacada, uma piscada, um gol) e salvar esse frame como foto em segundos.",
+  "h1": "Como ver um vídeo frame a frame no iPhone",
+  "nav_title": "Vídeo frame a frame",
+  "card_title": "Vídeo frame a frame no iPhone",
+  "excerpt": "Ache o momento exato num vídeo e salve como foto.",
+  "lead": "Conferir uma tacada, uma chegada, uma manobra ou uma piscada não dá com play e pausa. É preciso passar o vídeo quase frame a frame. Veja como fazer no iPhone e como guardar o frame que você achar.",
+  "quick_answer": "No Fotos, pause e deslize devagar pela faixa de frames; no iOS 27+ você pode salvar o frame pelo «•••». Para juntar vários momentos numa passada, abra o vídeo no Video To Photo – Grab Frame, deslize pela faixa olhando a pré-visualização grande e capture cada momento.",
+  "content_intro": "<h2>Frame a frame no Fotos</h2><ol><li>Abra o vídeo e pause.</li><li>Toque na faixa de frames embaixo e deslize devagar para a esquerda ou a direita.</li><li>Segure o dedo na faixa um instante para ela ampliar e dar mais precisão.</li></ol><p>Achou o momento no iOS 27 ou mais recente? Toque em <strong>«•••»</strong> e salve o frame como foto. Em iOS antigos só sobra o <a href=\"/pt/guides/print-de-video-iphone-sem-perder-qualidade/\">print, que perde qualidade</a> — e com um app você salva vários momentos em qualquer versão.</p><h2>Por que ir devagar</h2><p>A 30 fps cada frame dura 33 ms; a 60 fps, 17 ms. Uma piscada, o toque na bola ou uma expressão mudam em dois frames: entre uma foto incrível e uma perdida, muitas vezes há só um.</p>",
+  "steps_title": "Como passar um vídeo e salvar o frame certo",
+  "steps": [
+    {
+      "name": "Abra o vídeo no app",
+      "text": "Compartilhe pelo Fotos com o Video To Photo – Grab Frame. Aparecem a pré-visualização grande e a faixa de frames.",
+      "shot": 0
+    },
+    {
+      "name": "Deslize devagar pela faixa",
+      "text": "Mova o dedo em passos pequenos olhando a pré-visualização. Vá e volte em torno da ação.",
+      "shot": 1
+    },
+    {
+      "name": "Capture o frame e os vizinhos",
+      "text": "Toque em capturar, ande um pouco e capture de novo. Compare na pré-visualização e fique com o melhor.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte o melhor",
+      "text": "Exporte em PNG ou HEIC para manter os detalhes para análise, anotações de treino ou redes sociais.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Para que serve ver frame a frame</h2><ul><li><strong>Esporte</strong>: tacada de golfe, saque de tênis, corrida, saltos. Salve as fases principais e faça um PDF para analisar.</li><li><strong>Crianças e pets</strong>: aquele frame em que todo mundo olha para a câmera.</li><li><strong>Tutoriais e gravações de tela</strong>: congele o passo exato como imagem de referência.</li><li><strong>Rever lances</strong>: o que aconteceu de verdade na chegada.</li></ul><h2>Grave pensando no depois</h2><p>Gravar a <strong>60 fps</strong> (Ajustes → Câmera → Gravar Vídeo) dá o dobro de momentos e menos tremido em cada frame. Câmera lenta, mais ainda. Veja <a href=\"/pt/guides/tirar-foto-de-video-com-qualidade/\">foto de vídeo com qualidade</a>.</p>",
+  "faq": [
+    {
+      "q": "O app Fotos deixa ver vídeo frame a frame?",
+      "a": "Não tem botões para avançar um frame, mas pausar e deslizar devagar pela faixa chega bem perto. No iOS 27 ou mais recente, depois dá para salvar o frame pelo «•••»."
+    },
+    {
+      "q": "Como salvo o frame que achei?",
+      "a": "No iOS 27, pelo «•••» no Fotos. Em qualquer versão, abra o vídeo no Video To Photo – Grab Frame, ache o mesmo momento, capture e exporte em JPG, PNG ou HEIC."
+    },
+    {
+      "q": "Vale a pena gravar a 60 fps?",
+      "a": "Vale: o dobro de frames em relação a 30 fps e cada um menos tremido, então fica mais fácil achar um momento nítido."
+    }
+  ],
+  "related": [
+    "tirar-foto-de-video-com-qualidade",
+    "extrair-frames-de-video",
+    "como-tirar-foto-de-video-no-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

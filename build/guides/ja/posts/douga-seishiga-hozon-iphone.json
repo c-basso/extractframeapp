@@ -1,0 +1,65 @@
+{
+  "slug": "douga-seishiga-hozon-iphone",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "iPhone 動画 静止画 保存",
+  "secondary_keywords": [
+    "iphone 動画 静止画 保存",
+    "iphone 動画 静止画 切り出し",
+    "動画から静止画切り出し",
+    "動画から写真 保存"
+  ],
+  "title": "iPhoneで動画の静止画を写真として保存する方法（iOS 27対応）",
+  "description": "iPhoneで動画の1コマを静止画として保存する方法。iOS 27の標準機能と、古いiOSや複数枚に対応した方法を、JPG・PNG・HEICでの保存先まで解説。",
+  "h1": "iPhoneで動画の静止画を保存する方法",
+  "nav_title": "動画の静止画を保存",
+  "card_title": "動画の1コマを静止画として保存",
+  "excerpt": "狙ったコマを「写真」や「ファイル」に書き出す。元の動画には手を加えません。",
+  "lead": "欲しいコマははっきりしている。あとはそれを普通の写真として、ほかの写真と並べて保存したいだけ。iPhoneでのやり方です。",
+  "quick_answer": "iOS 27以降：「写真」で動画を開いて一時停止し、「•••」からフレームを写真として保存。古いiOS、または複数枚・PNG・ZIP・PDFが必要なら：動画をVideo To Photo – Grab Frameに共有してコマを保存し、「書き出し」から「写真」か「ファイル」に保存します。",
+  "content_intro": "<h2>方法1：iOS 27の標準機能</h2><ol><li>「写真」で動画を開き、狙ったコマで一時停止（帯をなぞると細かく合わせられます）。</li><li>右上の<strong>「•••」</strong>をタップ。</li><li>フレームを写真として保存（<em>Save Video Frame as Photo</em>）を選ぶ。</li></ol><p>動画と同じ解像度で、HEIFまたはJPG（カメラの設定による）で保存されます。注意点は、<strong>1回に1枚</strong>であることと、写真に<strong>元動画の日付</strong>が付くこと。「最近の項目」の先頭ではなく、動画の近くを探してください。</p><h2>方法2：複数枚、またはiOS 26以前</h2><p>以前のバージョンには標準の保存機能がなく、画面を撮るスクショしか選択肢がありません（<a href=\"/ja/guides/douga-sukusho-kougashitsu/\">スクショの画質が落ちる理由</a>）。iOS 27でも、連続したコマ、PNG、ZIP・PDFが欲しいならアプリのほうが早いです。</p>",
+  "steps_title": "Video To Photo – Grab Frameで動画の静止画を保存する手順",
+  "steps": [
+    {
+      "name": "「写真」から動画を共有",
+      "text": "動画を開いて共有ボタンからアプリを選ぶと、すぐに切り出し画面が開きます。",
+      "shot": 0
+    },
+    {
+      "name": "コマを探して保存",
+      "text": "帯をなぞって狙った瞬間に合わせ、保存ボタンをタップ。カウンターに保存した枚数が表示されます。",
+      "shot": 1
+    },
+    {
+      "name": "形式を選ぶ",
+      "text": "「書き出し」をタップ。共有ならJPEG、劣化なしならPNG、軽量高画質ならHEIC。",
+      "shot": 3
+    },
+    {
+      "name": "「写真」か「ファイル」に保存",
+      "text": "共有シートからライブラリや「ファイル」に保存、またはそのままトークに送れます。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>保存した静止画の行き先</h2><ul><li><strong>写真ライブラリ</strong>：普通の写真と同じく、編集・共有・印刷に使えます。</li><li><strong>ファイル</strong>：iCloud Driveや「このiPhone内」。仕事の資料に便利。</li><li><strong>ほかのアプリ</strong>：LINE、Instagram、メールなどへ共有シートから。</li></ul><h2>複数枚をまとめて</h2><p>書き出す前に必要なコマをすべて保存すれば、個別ファイル、<strong>ZIP</strong>、<strong>PDF</strong>でまとめて書き出せます。<a href=\"/ja/guides/douga-frame-chushutsu/\">動画からフレームを抽出する方法</a>も参考に。</p><h2>あとから続きを</h2><p>動画ごとにプロジェクトとして保存されるので、翌日でも動画を探し直さずに続きのコマを保存できます。</p>",
+  "faq": [
+    {
+      "q": "「写真」アプリで動画の静止画を保存できる？",
+      "a": "iOS 27以降ならできます。一時停止して「•••」から保存。1枚ずつ、HEIFかJPGです。iOS 27より前はスクショのみです。"
+    },
+    {
+      "q": "元の動画は変更される？",
+      "a": "されません。アプリは動画を読み取って新しい画像ファイルを作るだけで、「写真」の動画はそのままです。"
+    },
+    {
+      "q": "オフラインでも使える？",
+      "a": "使えます。コマの切り出しはiPhone内で行うので、ネット接続は不要で、何もアップロードされません。"
+    }
+  ],
+  "related": [
+    "iphone-douga-kara-shashin",
+    "douga-frame-chushutsu",
+    "douga-jpg-henkan"
+  ],
+  "datePublished": "2026-09-30"
+}

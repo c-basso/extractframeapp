@@ -1,0 +1,65 @@
+{
+  "slug": "douga-pdf-henkan",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "動画 PDF 変換",
+  "secondary_keywords": [
+    "動画 を pdf に 変換",
+    "動画 pdf 変換 iphone",
+    "動画 pdf 変換 無料",
+    "動画 絵コンテ 作成"
+  ],
+  "title": "iPhoneで動画をPDFに変換する方法｜アップロード不要",
+  "description": "iPhoneで動画をPDFに変換する方法。要所のコマを選んで1つのPDFにまとめ、絵コンテや授業メモ、確認資料に。オフラインでアップロード不要。",
+  "h1": "iPhoneで動画をPDFに変換する方法",
+  "nav_title": "動画をPDFに変換",
+  "card_title": "動画のコマをPDFにまとめる",
+  "excerpt": "動画の要所を1つのPDFに。絵コンテ、授業メモ、確認用資料に。",
+  "lead": "要所のコマをまとめたPDFは、動画を見ない人に中身を伝えるいちばん早い方法です。編集を確認するクライアント、授業を復習する学生、絵コンテを承認するチーム。",
+  "quick_answer": "Video To Photo – Grab Frameで動画を開き、要所ごとにコマを保存。「書き出し」で画像形式を選び、保存形式に「PDF」を選びます。選んだコマのPDFができあがり、AirDrop・LINE・メール・「ファイル」ですぐ共有できます。",
+  "content_intro": "<h2>「動画をPDFに」とは？</h2><p>PDFでは動画は再生できません。動画をPDFにするとは、<strong>静止画</strong>を保存して1つの資料にまとめることです。大事なのは<em>どのコマを選ぶか</em>。似たコマ900枚のPDFは役に立ちませんが、要所12コマのPDFは宝物です。</p><h2>こんなときに便利</h2><ul><li><strong>絵コンテ・カット表</strong>：シーンごとに1コマで、企画やプレゼンに。</li><li><strong>授業メモ</strong>：録画した授業のスライドや板書。</li><li><strong>クライアント確認</strong>：動画を探すよりPDFにコメントするほうが簡単。</li><li><strong>スポーツ分析</strong>：動きの要所を順番に。</li><li><strong>マニュアル</strong>：画面収録を手順書に。</li></ul>",
+  "steps_title": "iPhoneで動画のコマをPDFにまとめる手順",
+  "steps": [
+    {
+      "name": "動画を開く",
+      "text": "「写真」からVideo To Photo – Grab Frameに共有するか、アプリで動画を選びます。",
+      "shot": 0
+    },
+    {
+      "name": "要所のコマを保存",
+      "text": "動画を送りながら、シーンやスライド、手順ごとに保存ボタンをタップします。",
+      "shot": 1
+    },
+    {
+      "name": "書き出しでPDFを選ぶ",
+      "text": "「書き出し」をタップし、画像はJPEG・PNG・HEIC、保存形式はPDFを選びます。",
+      "shot": 3
+    },
+    {
+      "name": "PDFを共有・保存",
+      "text": "「ファイル」に保存、または共有シートからAirDrop・LINE・メールで送ります。",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>きれいなPDFにするコツ</h2><ul><li>コマは最初から最後へ順番に保存しましょう。</li><li>画面の文字が全部見えていて、切り替え途中でないコマを選びます。</li><li>スライドや小さな文字はPNGがおすすめ。</li><li>プロジェクトは保存されるので、あとからコマを足して書き出し直せます。</li></ul><h2>PDFとZIPの使い分け</h2><p>順番に読んだりコメントしたりするなら<strong>PDF</strong>、デザインなどで個別ファイルが必要なら<strong>ZIP</strong>。どちらも<a href=\"/ja/guides/douga-frame-chushutsu/\">動画からフレームを抽出する方法</a>で解説しています。</p>",
+  "faq": [
+    {
+      "q": "アップロードせずに動画をPDFにできる？",
+      "a": "できます。Video To Photo – Grab Frameは保存したコマからiPhone内でPDFを作るので、動画は端末から出ません。"
+    },
+    {
+      "q": "PDFのコマの並び順は？",
+      "a": "PDFには保存したコマが入ります。最初から最後へ順番に保存すれば、動画と同じ順番の資料になります。"
+    },
+    {
+      "q": "スマホで動画から絵コンテを作るには？",
+      "a": "カットやシーンごとに1コマ保存してPDFで書き出せば、シンプルな絵コンテになります。「マークアップ」やPDFアプリで書き込みもできます。"
+    }
+  ],
+  "related": [
+    "douga-frame-chushutsu",
+    "douga-jpg-henkan",
+    "douga-kara-shashin-app"
+  ],
+  "datePublished": "2026-09-30"
+}

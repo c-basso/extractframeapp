@@ -1,0 +1,64 @@
+{
+  "slug": "video-frame-by-frame-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video frame by frame iphone",
+  "secondary_keywords": [
+    "play video frame by frame iphone",
+    "jeda video di frame tertentu",
+    "frame demi frame iphone"
+  ],
+  "title": "Video Frame by Frame di iPhone: Temukan Momen Tepat",
+  "description": "Cara melihat video frame demi frame di iPhone, menemukan momen yang tepat (tendangan, kedipan, gol), dan menyimpannya sebagai foto yang tajam.",
+  "h1": "Video frame by frame di iPhone",
+  "nav_title": "Frame by frame",
+  "card_title": "Video frame by frame di iPhone",
+  "excerpt": "Cara mencapai frame yang tepat dan menyimpannya.",
+  "lead": "Pada 30 fps, setiap detik berisi 30 frame; pada 60 fps, 60 frame. Momen yang tepat hanya ada di salah satunya. Untuk itu Anda perlu melihat frame demi frame.",
+  "quick_answer": "Di app Foto, jeda video dan geser strip frame perlahan. Lebih presisi di Video To Photo – Grab Frame: pratinjau besar, strip yang akurat, dan frame langsung tersimpan.",
+  "content_intro": "<h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p><h2>App Foto atau Grab Frame?</h2><table><thead><tr><th></th><th>Foto</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Frame demi frame</td><td>Geser strip</td><td>Strip akurat, pratinjau besar</td></tr><tr><td>Menyimpan</td><td>iOS 27, satu frame</td><td>Langsung, banyak frame</td></tr><tr><td>Format</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Menemukan frame yang tepat",
+  "steps": [
+    {
+      "name": "Buka video",
+      "text": "Bagikan dari app Foto ke Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Dekati momennya",
+      "text": "Geser strip dengan cepat ke kira-kira tempat yang tepat.",
+      "shot": 1
+    },
+    {
+      "name": "Pelan, frame demi frame",
+      "text": "Geser perlahan sambil memperhatikan pratinjau besar.",
+      "shot": 3
+    },
+    {
+      "name": "Simpan",
+      "text": "Ketuk simpan saat momennya pas.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Slow motion (120/240 fps) memberi jauh lebih banyak frame untuk gerakan cepat.</li><li>Pada 60 fps, gerakan lebih tidak buram dibanding 30 fps.</li><li>Simpan beberapa frame berdekatan dan bandingkan.</li></ul>",
+  "faq": [
+    {
+      "q": "Bisakah iPhone memutar video frame demi frame?",
+      "a": "Di app Foto Anda bisa menjeda dan menggeser strip. Tampilan yang lebih presisi ada di aplikasi seperti Grab Frame."
+    },
+    {
+      "q": "Bagaimana menjeda video di frame tertentu?",
+      "a": "Jeda di dekat momennya, lalu geser strip frame perlahan."
+    },
+    {
+      "q": "Apakah berfungsi dengan video slow motion?",
+      "a": "Ya. Slow motion punya lebih banyak frame, jadi pilihannya lebih banyak."
+    }
+  ],
+  "related": [
+    "cara-mengambil-foto-dari-video-iphone",
+    "foto-hd-dari-video",
+    "mengubah-video-menjadi-foto"
+  ],
+  "datePublished": "2026-10-01"
+}

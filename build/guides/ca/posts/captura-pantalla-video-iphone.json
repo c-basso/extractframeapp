@@ -1,0 +1,64 @@
+{
+  "slug": "captura-pantalla-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "captura de pantalla vídeo iphone",
+  "secondary_keywords": [
+    "captura de pantalla en vídeo",
+    "captura de pantalla vídeo",
+    "captura borrosa d'un vídeo"
+  ],
+  "title": "Captura d’un vídeo a l’iPhone sense perdre qualitat",
+  "description": "Per què la captura de pantalla d’un vídeo surt borrosa, petita o fosca, i com desar-ne un fotograma real a resolució completa a l’iPhone.",
+  "h1": "Captura de pantalla d’un vídeo a l’iPhone sense perdre qualitat",
+  "nav_title": "Captura de vídeo",
+  "card_title": "Captura d’un vídeo sense perdre qualitat",
+  "excerpt": "Per què la captura és pitjor que un fotograma real i com evitar-ho.",
+  "lead": "La manera més ràpida de guardar un moment d’un vídeo és una captura de pantalla: botó lateral i apujar volum alhora. Però el resultat sovint decep. Aquí tens el perquè i què fer-hi.",
+  "quick_answer": "La captura desa la pantalla, no el vídeo: baixa la resolució, hi queden els controls i el vídeo HDR s’enfosqueix. Per a qualitat completa, desa el fotograma des del fitxer: a iOS 27 a Fotos (••• → desa el fotograma) o a Video To Photo – Grab Frame en PNG o HEIC.",
+  "content_intro": "<h2>Captura o fotograma real?</h2><table><thead><tr><th></th><th>Captura</th><th>Fotograma del fitxer</th></tr></thead><tbody><tr><td>Resolució</td><td>Pantalla</td><td>Vídeo (fins a 4K)</td></tr><tr><td>Controls, franges</td><td>Sovint</td><td>Mai</td></tr><tr><td>Moment exacte</td><td>Difícil</td><td>Fotograma a fotograma</td></tr><tr><td>Vídeo HDR</td><td>Fosc o esvaït</td><td>Conversió correcta</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p>",
+  "steps_title": "Un fotograma real en lloc d’una captura",
+  "steps": [
+    {
+      "name": "Comparteix el vídeo",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Atura’t al fotograma",
+      "text": "Arrossega la tira. La vista prèvia gran mostra exactament el que es desarà.",
+      "shot": 1
+    },
+    {
+      "name": "Desa",
+      "text": "Toca el botó de desar. També pots desar-ne diversos.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta en PNG o HEIC",
+      "text": "PNG per a la màxima qualitat, HEIC per a fitxers més petits.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Si tot i així fas una captura</h2><ul><li>Gira l’iPhone si el vídeo és horitzontal.</li><li>Espera que desapareguin els controls.</li><li>Retalla les franges negres a Fotos.</li></ul><p>Tot i això, la foto només tindrà la resolució de la pantalla.</p>",
+  "faq": [
+    {
+      "q": "Com es fa una captura de pantalla a l’iPhone?",
+      "a": "Prem alhora el botó lateral i el d’apujar el volum. A un iPhone amb botó d’inici: el botó lateral i el botó d’inici."
+    },
+    {
+      "q": "Per què la captura d’un vídeo surt borrosa?",
+      "a": "Perquè desa la pantalla, no el vídeo. El fotograma es redueix i el moviment d’aquell instant pot quedar borrós."
+    },
+    {
+      "q": "Per què la captura d’un vídeo HDR surt fosca?",
+      "a": "El vídeo HDR es mostra amb més brillantor de la que una foto normal pot conservar. Desar el fotograma des del fitxer dona millor resultat."
+    }
+  ],
+  "related": [
+    "treure-foto-dun-video-iphone",
+    "foto-nitida-dun-video",
+    "video-a-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

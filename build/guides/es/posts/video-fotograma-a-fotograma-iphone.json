@@ -1,0 +1,64 @@
+{
+  "slug": "video-fotograma-a-fotograma-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "video fotograma a fotograma en iPhone",
+  "secondary_keywords": [
+    "ver video fotograma a fotograma iphone",
+    "ver todos los fotogramas de un video",
+    "avanzar video por fotogramas iphone"
+  ],
+  "title": "Ver un video fotograma a fotograma en iPhone y guardarlo",
+  "description": "Cómo ver un video fotograma a fotograma en iPhone para encontrar el momento exacto (un swing, un parpadeo, un gol) y guardar ese fotograma como foto en segundos.",
+  "h1": "Cómo ver un video fotograma a fotograma en iPhone",
+  "nav_title": "Video fotograma a fotograma",
+  "card_title": "Ver un video fotograma a fotograma en iPhone",
+  "excerpt": "Encuentra el momento exacto en un video y guárdalo como foto.",
+  "lead": "Revisar un swing, una llegada, un truco o un parpadeo no se consigue con pausa y play. Hay que recorrer el video casi fotograma a fotograma. Así se hace en iPhone, y así guardas el fotograma que encuentres.",
+  "quick_answer": "En Fotos, pausa el video y desliza despacio por la tira de fotogramas; en iOS 27+ puedes guardar el fotograma con «•••». Para reunir varios momentos en una pasada, abre el video en Video To Photo – Grab Frame, desliza por la tira mirando la vista previa grande y captura cada momento.",
+  "content_intro": "<h2>Fotograma a fotograma en Fotos</h2><ol><li>Abre el video y páusalo.</li><li>Toca la tira de fotogramas de abajo y desliza despacio a izquierda o derecha.</li><li>Mantén el dedo sobre la tira un momento para ampliarla y tener más precisión.</li></ol><p>Cuando encuentres el momento en iOS 27 o posterior, toca <strong>«•••»</strong> y guarda el fotograma como foto. En iOS antiguos solo queda la <a href=\"/es/guides/captura-de-video-iphone-sin-perder-calidad/\">captura, que pierde calidad</a>, y con una app puedes guardar varios momentos en cualquier versión.</p><h2>Por qué importa ir despacio</h2><p>A 30 fps cada fotograma dura 33 ms; a 60 fps, 17 ms. Un parpadeo, el golpe al balón o un gesto cambian en un par de fotogramas: la diferencia entre una gran foto y un fallo suele ser uno.</p>",
+  "steps_title": "Cómo recorrer un video y guardar el fotograma que quieres",
+  "steps": [
+    {
+      "name": "Abre el video en la app",
+      "text": "Compártelo desde Fotos con Video To Photo – Grab Frame. Verás una vista previa grande y la tira de fotogramas.",
+      "shot": 0
+    },
+    {
+      "name": "Desliza despacio por la tira",
+      "text": "Mueve el dedo en pasos pequeños y mira la vista previa. Ve adelante y atrás alrededor de la acción.",
+      "shot": 1
+    },
+    {
+      "name": "Captura el fotograma y sus vecinos",
+      "text": "Pulsa capturar, muévete un poco y captura otra vez. Compara en la vista previa y quédate con el mejor.",
+      "shot": 2
+    },
+    {
+      "name": "Exporta el mejor",
+      "text": "Expórtalo en PNG o HEIC para conservar el detalle para análisis, notas de entrenamiento o redes.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Para qué sirve ir fotograma a fotograma</h2><ul><li><strong>Deporte</strong>: swing de golf o tenis, técnica de carrera, saltos. Guarda las fases clave y haz un PDF para analizarlas.</li><li><strong>Niños y mascotas</strong>: ese fotograma en el que todos miran a cámara.</li><li><strong>Tutoriales y grabaciones de pantalla</strong>: congela el paso exacto como imagen de referencia.</li><li><strong>Revisar jugadas</strong>: qué pasó de verdad en la llegada.</li></ul><h2>Graba pensando en después</h2><p>Grabar a <strong>60 fps</strong> (Ajustes → Cámara → Grabar video) te da el doble de momentos y menos movimiento en cada fotograma. La cámara lenta, todavía más. Más en <a href=\"/es/guides/foto-de-un-video-en-buena-calidad/\">foto de un video en buena calidad</a>.</p>",
+  "faq": [
+    {
+      "q": "¿Fotos de iPhone permite ver un video fotograma a fotograma?",
+      "a": "No tiene botones de avance por fotograma, pero puedes pausar y deslizar despacio por la tira, que se acerca mucho. En iOS 27 o posterior puedes guardar después el fotograma con «•••»."
+    },
+    {
+      "q": "¿Cómo guardo el fotograma que encontré?",
+      "a": "En iOS 27, desde «•••» en Fotos. En cualquier versión, abre el video en Video To Photo – Grab Frame, busca el mismo momento, captúralo y expórtalo en JPG, PNG o HEIC."
+    },
+    {
+      "q": "¿Es mejor grabar a 60 fps?",
+      "a": "Sí: tienes el doble de fotogramas que a 30 fps y cada uno sale menos movido, así que es más fácil encontrar un momento nítido."
+    }
+  ],
+  "related": [
+    "foto-de-un-video-en-buena-calidad",
+    "extraer-fotogramas-de-un-video",
+    "como-sacar-una-foto-de-un-video-en-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

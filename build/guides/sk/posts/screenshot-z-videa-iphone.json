@@ -1,0 +1,64 @@
+{
+  "slug": "screenshot-z-videa-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "screenshot z videa",
+  "secondary_keywords": [
+    "snímka obrazovky z videa iphone",
+    "screenshot videa iphone",
+    "screenshot z videa rozmazaný"
+  ],
+  "title": "Screenshot z videa na iPhone bez straty kvality",
+  "description": "Prečo je screenshot z videa rozmazaný, malý alebo tmavý a ako namiesto neho uložiť skutočnú snímku z videa v plnom rozlíšení na iPhone.",
+  "h1": "Screenshot z videa na iPhone bez straty kvality",
+  "nav_title": "Screenshot z videa",
+  "card_title": "Screenshot z videa bez straty kvality",
+  "excerpt": "Prečo je screenshot horší ako skutočná snímka a ako sa tomu vyhnúť.",
+  "lead": "Najrýchlejší spôsob, ako zachytiť okamih z videa, je screenshot: bočné tlačidlo a zvýšenie hlasitosti naraz. Výsledok však často sklame. Tu je prečo a čo urobiť namiesto toho.",
+  "quick_answer": "Screenshot ukladá displej, nie video: rozlíšenie klesne, ovládacie prvky zostanú a HDR video stmavne. Pre plnú kvalitu uložte snímku zo súboru: v iOS 27 vo Fotkách (••• → uložiť snímku) alebo vo Video To Photo – Grab Frame ako PNG či HEIC.",
+  "content_intro": "<h2>Screenshot alebo skutočná snímka?</h2><table><thead><tr><th></th><th>Screenshot</th><th>Snímka zo súboru</th></tr></thead><tbody><tr><td>Rozlíšenie</td><td>Displej</td><td>Video (až 4K)</td></tr><tr><td>Ovládanie, pruhy</td><td>Často</td><td>Nikdy</td></tr><tr><td>Presný okamih</td><td>Ťažko</td><td>Snímku po snímke</td></tr><tr><td>HDR video</td><td>Tmavé alebo vyblednuté</td><td>Správna konverzia</td></tr></tbody></table><h2>Vstavaný spôsob (iOS 27)</h2><p>Od iOS 27 vie aplikácia Fotky sama uložiť snímku z videa: otvorte video, pozastavte ho v správnom okamihu, ťuknite na <strong>•••</strong> a vyberte <em>Save Video Frame as Photo</em>. Fotka sa uloží vo formáte HEIF alebo JPG s dátumom videa. Vždy len jedna snímka.</p>",
+  "steps_title": "Skutočná snímka namiesto screenshotu",
+  "steps": [
+    {
+      "name": "Zdieľajte video",
+      "text": "Vo Fotkách ťuknite na Zdieľať a vyberte Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Zastavte na snímke",
+      "text": "Potiahnite pás snímok. Veľký náhľad ukazuje presne to, čo sa uloží.",
+      "shot": 1
+    },
+    {
+      "name": "Uložte",
+      "text": "Ťuknite na tlačidlo uloženia. Môžete uložiť aj viac snímok.",
+      "shot": 3
+    },
+    {
+      "name": "Exportujte do PNG alebo HEIC",
+      "text": "PNG pre najvyššiu kvalitu, HEIC pre menšie súbory.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Ak predsa robíte screenshot</h2><ul><li>Pri vodorovnom videu otočte iPhone.</li><li>Počkajte, kým ovládacie prvky zmiznú.</li><li>Čierne pruhy orežte vo Fotkách.</li></ul><p>Aj tak bude mať fotka len rozlíšenie displeja.</p>",
+  "faq": [
+    {
+      "q": "Ako urobiť screenshot na iPhone?",
+      "a": "Stlačte naraz bočné tlačidlo a tlačidlo zvýšenia hlasitosti. Na iPhone s tlačidlom Domov: bočné tlačidlo a tlačidlo Domov."
+    },
+    {
+      "q": "Prečo je screenshot z videa rozmazaný?",
+      "a": "Pretože ukladá displej, nie video. Snímka sa zmenší a pohyb v danom okamihu môže byť rozmazaný."
+    },
+    {
+      "q": "Prečo je screenshot HDR videa tmavý?",
+      "a": "HDR video sa zobrazuje s vyšším jasom, ako dokáže bežná fotka zachovať. Uloženie snímky zo súboru dáva lepší výsledok."
+    }
+  ],
+  "related": [
+    "fotka-z-videa-iphone",
+    "ostra-fotka-z-videa",
+    "video-do-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

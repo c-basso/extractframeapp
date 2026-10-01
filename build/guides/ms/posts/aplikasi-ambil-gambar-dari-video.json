@@ -1,0 +1,64 @@
+{
+  "slug": "aplikasi-ambil-gambar-dari-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplikasi ambil gambar dari video",
+  "secondary_keywords": [
+    "apl gambar dari video iphone",
+    "apl percuma ambil gambar dari video",
+    "frame grabber app"
+  ],
+  "title": "Aplikasi Ambil Gambar dari Video di iPhone: Cara Memilih",
+  "description": "Apa yang perlu diperhatikan pada aplikasi ambil gambar dari video: ketepatan, resolusi, privasi, eksport pukal, format dan harga, serta ujian 2 minit.",
+  "h1": "Cara memilih aplikasi ambil gambar dari video di iPhone",
+  "nav_title": "Aplikasi",
+  "card_title": "Cara memilih aplikasi gambar dari video",
+  "excerpt": "Enam ciri aplikasi yang baik dan senarai semak 2 minit.",
+  "lead": "Cari “video ke gambar” di App Store dan anda akan jumpa senarai panjang apl yang serupa. Asasnya sama, bezanya pada butiran: setepat mana memilih bingkai, sebesar mana gambarnya dan sama ada video dimuat naik ke internet.",
+  "quick_answer": "Aplikasi yang baik membolehkan anda memilih bingkai dengan tepat, menyimpan daripada fail video (bukan skrin), berfungsi pada peranti, menyimpan banyak bingkai serentak dan mengeksport ke beberapa format. Video To Photo – Grab Frame melakukan semuanya, serta eksport ZIP dan PDF dan projek yang boleh disambung kemudian.",
+  "content_intro": "<h2>Masih perlukan apl dengan iOS 27?</h2><p>Mulai iOS 27, apl Foto boleh menyimpan bingkai yang dijeda. Di iOS lama, dan untuk banyak bingkai, PNG serta ZIP/PDF, apl lebih praktikal.</p><h2>Enam ciri aplikasi yang baik</h2><ol><li><strong>Pemilihan bingkai yang tepat.</strong> Jalur bingkai atau peluncur yang berhenti tepat pada detiknya.</li><li><strong>Eksport sebenar.</strong> Daripada fail, bukan skrin. Cuba dengan video 4K mendatar dan semak saiznya.</li><li><strong>Pemprosesan pada peranti.</strong> Video keluarga tidak sepatutnya berada di pelayan. Semak label privasi di App Store dan cuba dalam mod pesawat.</li><li><strong>Mod pukal.</strong> Papan cerita, sukan dan tutorial memerlukan banyak bingkai.</li><li><strong>Format dan eksport.</strong> JPG, PNG dan HEIC sudah memadai. ZIP dan PDF jarang ada, tetapi sangat berguna.</li><li><strong>Harga yang jelas.</strong> Apa yang percuma, ada langganan atau tidak, boleh dibeli sekali bayar atau tidak.</li></ol>",
+  "steps_title": "Uji apl dalam 2 minit",
+  "steps": [
+    {
+      "name": "Buka video sebenar",
+      "text": "Pilih video mendatar yang ada pergerakan dan kongsi dari apl Foto ke Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Sasarkan satu bingkai",
+      "text": "Cari kelipan mata atau bola di udara. Jalur dan pratonton besar memudahkannya. Ketik simpan.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan beberapa dan bandingkan",
+      "text": "Simpan empat atau lima bingkai dan zum. Bingkai yang buruk mesti boleh dipadam sebelum eksport.",
+      "shot": 2
+    },
+    {
+      "name": "Eksport dan semak fail",
+      "text": "Eksport ke PNG dan lihat maklumat foto. Saiznya mesti sama dengan video, bukan skrin.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Apa yang ditawarkan Video To Photo – Grab Frame</h2><table><thead><tr><th>Ciri</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Mula dari menu Kongsi</td><td>Ya, terus ke paparan bingkai</td></tr><tr><td>Sumber</td><td>Fail video</td></tr><tr><td>Mod pukal</td><td>Banyak bingkai dalam satu sesi</td></tr><tr><td>Format</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Eksport</td><td>Fail, ZIP, PDF</td></tr><tr><td>Projek</td><td>Simpan dan sambung kemudian</td></tr><tr><td>Privasi</td><td>100% pada peranti, tanpa akaun</td></tr><tr><td>Harga</td><td>Muat turun percuma. Pro melalui pembelian dalam apl (percubaan percuma, tahunan, sekali bayar)</td></tr></tbody></table><h2>Bila tidak perlukan apl</h2><p>Satu gambar di iOS 27? Apl Foto sudah cukup. Nota pantas di iOS lama? Screenshot sudah cukup.</p>",
+  "faq": [
+    {
+      "q": "Adakah aplikasi percuma untuk ambil gambar dari video?",
+      "a": "Video To Photo – Grab Frame boleh dimuat turun secara percuma. Sesetengah ciri adalah Pro, melalui pembelian dalam apl (percubaan percuma, pelan tahunan atau sekali bayar). Harga semasa ada di App Store."
+    },
+    {
+      "q": "Adakah apl ini memuat naik video saya?",
+      "a": "Alat dalam talian ya. Video To Photo – Grab Frame memproses semuanya di iPhone dan berfungsi tanpa internet."
+    },
+    {
+      "q": "Adakah ia menyokong video 4K dan gerak perlahan?",
+      "a": "Ya. Ia menyokong video 4K, 60 fps dan gerak perlahan daripada pustaka."
+    }
+  ],
+  "related": [
+    "cara-ambil-gambar-dari-video-iphone",
+    "tukar-video-ke-gambar",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Gidsen: foto uit video halen op iPhone",
+    "description": "Gidsen om foto's uit video's te halen op iPhone: scherper dan een screenshot, een still opslaan, frames exporteren, video naar PDF, thumbnails en JPG of PNG.",
+    "eyebrow": "Gidsen",
+    "h1": "Foto uit video op iPhone: alle gidsen",
+    "intro": "Elke gids beantwoordt één vraag: wat je iPhone zelf kan (en niet kan), en hoe het het snelst gaat met Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Home",
+    "guides": "Gidsen",
+    "guide_eyebrow": "iPhone-gids",
+    "quick_answer": "Kort antwoord",
+    "by": "Door",
+    "updated": "Bijgewerkt",
+    "min_read": "min lezen",
+    "faq_title": "Veelgestelde vragen",
+    "related": "Gerelateerde gidsen",
+    "read_guide": "Lees de gids",
+    "inline_cta": "Probeer het met een video van jezelf. Het duurt een minuut.",
+    "app_card_cta": "Download in de App Store",
+    "app_card_fine": "Gratis · in-app aankopen · iOS 18.6+",
+    "app_card_bullets": ["Precieze frame-keuze", "JPG, PNG, HEIC", "Batch-export als ZIP en PDF", "Offline, geen upload of account"],
+    "final_cta_title": "Je beste foto zit in een video.",
+    "final_cta_text": "Bewaar hem in volle kwaliteit op je iPhone. Geen upload, geen account, geen montagekennis."
+  }
+}

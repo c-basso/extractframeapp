@@ -1,0 +1,64 @@
+{
+  "slug": "cara-screenshot-video-iphone",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "cara screenshot video di iphone",
+  "secondary_keywords": [
+    "cara screenshot video",
+    "cara capture video jadi foto di iphone",
+    "screenshot video buram"
+  ],
+  "title": "Cara Screenshot Video di iPhone Tanpa Turun Kualitas",
+  "description": "Kenapa screenshot video buram, kecil, atau gelap, dan cara menyimpan frame asli dari video dalam resolusi penuh di iPhone, tanpa kontrol dan bingkai hitam.",
+  "h1": "Cara screenshot video di iPhone tanpa turun kualitas",
+  "nav_title": "Screenshot video",
+  "card_title": "Screenshot video tanpa turun kualitas",
+  "excerpt": "Kenapa screenshot lebih buruk dari frame asli dan cara menghindarinya.",
+  "lead": "Cara tercepat menyimpan momen dari video adalah screenshot: tombol samping dan volume naik bersamaan. Tapi hasilnya sering mengecewakan. Ini alasannya, dan apa yang sebaiknya dilakukan.",
+  "quick_answer": "Screenshot menyimpan layar, bukan video: resolusi turun, kontrol ikut terekam, dan video HDR jadi gelap. Untuk kualitas penuh, simpan frame dari file: di iOS 27 lewat app Foto (••• → simpan frame), atau di Video To Photo – Grab Frame dalam PNG atau HEIC.",
+  "content_intro": "<h2>Screenshot atau frame asli?</h2><table><thead><tr><th></th><th>Screenshot</th><th>Frame dari file</th></tr></thead><tbody><tr><td>Resolusi</td><td>Layar</td><td>Video (hingga 4K)</td></tr><tr><td>Kontrol, bingkai</td><td>Sering</td><td>Tidak pernah</td></tr><tr><td>Momen tepat</td><td>Sulit</td><td>Frame demi frame</td></tr><tr><td>Video HDR</td><td>Gelap atau pudar</td><td>Konversi benar</td></tr></tbody></table><h2>Cara bawaan (iOS 27)</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame sendiri: buka video, jeda di momen yang diinginkan, ketuk <strong>•••</strong>, lalu pilih <em>Save Video Frame as Photo</em>. Foto disimpan dalam format HEIF atau JPG, dengan tanggal video. Satu frame setiap kali.</p>",
+  "steps_title": "Frame asli, bukan screenshot",
+  "steps": [
+    {
+      "name": "Bagikan video",
+      "text": "Di app Foto, ketuk Bagikan lalu pilih Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Berhenti di frame",
+      "text": "Geser strip frame. Pratinjau besar menampilkan persis apa yang akan disimpan.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan",
+      "text": "Ketuk tombol simpan. Anda juga bisa menyimpan banyak frame.",
+      "shot": 3
+    },
+    {
+      "name": "Ekspor ke PNG atau HEIC",
+      "text": "PNG untuk kualitas maksimal, HEIC untuk file lebih kecil.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Kalau tetap ingin screenshot</h2><ul><li>Putar iPhone untuk video horizontal.</li><li>Tunggu sampai kontrol menghilang.</li><li>Potong bingkai hitam di app Foto.</li></ul><p>Meski begitu, resolusinya tetap sebatas layar.</p>",
+  "faq": [
+    {
+      "q": "Bagaimana cara screenshot di iPhone?",
+      "a": "Tekan tombol samping dan tombol volume naik bersamaan. Di iPhone dengan tombol Utama: tombol samping dan tombol Utama."
+    },
+    {
+      "q": "Kenapa screenshot video buram?",
+      "a": "Karena yang disimpan layar, bukan video. Frame mengecil, dan gerakan di momen itu bisa buram."
+    },
+    {
+      "q": "Kenapa screenshot video HDR gelap?",
+      "a": "Video HDR ditampilkan dengan kecerahan lebih tinggi dari yang bisa disimpan foto biasa. Menyimpan frame dari file memberi hasil lebih baik."
+    }
+  ],
+  "related": [
+    "cara-mengambil-foto-dari-video-iphone",
+    "foto-hd-dari-video",
+    "video-ke-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

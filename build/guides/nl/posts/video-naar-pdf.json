@@ -1,0 +1,64 @@
+{
+  "slug": "video-naar-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video naar PDF",
+  "secondary_keywords": [
+    "video omzetten naar pdf",
+    "video naar pdf iphone",
+    "storyboard van video maken"
+  ],
+  "title": "Video naar PDF op iPhone: frames bundelen zonder upload",
+  "description": "Zet een video om naar PDF op je iPhone: kies de belangrijkste frames en bundel ze in één PDF voor een storyboard, lesnotities of review. Offline, zonder upload.",
+  "h1": "Een video omzetten naar PDF op iPhone",
+  "nav_title": "Video naar PDF",
+  "card_title": "Frames uit een video bundelen in een PDF",
+  "excerpt": "De belangrijkste momenten van een video in één PDF: storyboard, lesnotities, review.",
+  "lead": "Een PDF met de belangrijkste frames is de snelste manier om te laten zien wat er in een video zit aan iemand die hem niet gaat kijken. Een klant die een montage goedkeurt, een student die een les herhaalt, een team dat een storyboard afvinkt.",
+  "quick_answer": "Open de video in Video To Photo – Grab Frame en bewaar een frame bij elk belangrijk moment. Tik op Exporteer, kies het afbeeldingsformaat en daarna PDF. Je krijgt één PDF met je frames, klaar om te delen via AirDrop, WhatsApp, mail of Bestanden.",
+  "content_intro": "<h2>Wat betekent 'video naar PDF'?</h2><p>Een PDF kan geen video afspelen. Een video naar PDF omzetten betekent <strong>stilstaande beelden</strong> bewaren en ze in één document bundelen. Het draait om <em>welke frames je kiest</em>: een PDF met 900 bijna gelijke frames is nutteloos, een PDF met 12 sleutelframes is goud waard.</p><h2>Handig voor</h2><ul><li><strong>Storyboard of shotlist</strong>: één frame per scène, voor pitches en presentaties.</li><li><strong>Lesnotities</strong>: dia's en bordaantekeningen uit een opgenomen les.</li><li><strong>Klantreview</strong>: opmerkingen in een PDF zijn makkelijker dan tijdcodes zoeken.</li><li><strong>Sportanalyse</strong>: de fases van een beweging op volgorde.</li><li><strong>Handleidingen</strong>: een schermopname als stappenplan.</li></ul>",
+  "steps_title": "Frames uit een video bundelen in een PDF op iPhone",
+  "steps": [
+    {
+      "name": "Open de video",
+      "text": "Deel hem vanuit Foto's met Video To Photo – Grab Frame of kies hem in de app.",
+      "shot": 0
+    },
+    {
+      "name": "Bewaar de sleutelframes",
+      "text": "Loop door de video en tik op bewaren bij elke scène, dia of stap.",
+      "shot": 1
+    },
+    {
+      "name": "Kies PDF bij het exporteren",
+      "text": "Tik op Exporteer, kies JPEG, PNG of HEIC en daarna PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Deel of bewaar de PDF",
+      "text": "Bewaar in Bestanden of stuur via AirDrop, WhatsApp of mail met het deelmenu.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips voor een nette PDF</h2><ul><li>Bewaar de frames op volgorde, van begin tot eind.</li><li>Kies frames waarop alle tekst zichtbaar is en die niet midden in een overgang zitten.</li><li>Gebruik PNG voor dia's en kleine tekst.</li><li>Het project wordt bewaard, dus je kunt later frames toevoegen en opnieuw exporteren.</li></ul><h2>PDF of ZIP?</h2><p><strong>PDF</strong> om op volgorde te lezen en van opmerkingen te voorzien, <strong>ZIP</strong> als je losse bestanden nodig hebt, bijvoorbeeld voor een ontwerp. Beide staan in <a href=\"/nl/guides/frames-uit-video-halen/\">frames uit een video halen</a>.</p>",
+  "faq": [
+    {
+      "q": "Kan ik een video naar PDF omzetten zonder upload?",
+      "a": "Ja. Video To Photo – Grab Frame maakt de PDF op je iPhone van de frames die je bewaart; de video verlaat je toestel niet."
+    },
+    {
+      "q": "In welke volgorde staan de frames in de PDF?",
+      "a": "De PDF bevat de frames die je bewaard hebt. Bewaar ze van begin tot eind, dan volgt het document de video."
+    },
+    {
+      "q": "Hoe maak ik een storyboard van een video op mijn telefoon?",
+      "a": "Bewaar één frame per shot of scène en exporteer als PDF: dat is een eenvoudig storyboard. Opmerkingen voeg je toe met Markering of een PDF-app."
+    }
+  ],
+  "related": [
+    "frames-uit-video-halen",
+    "video-naar-jpg-png",
+    "app-foto-uit-video-halen"
+  ],
+  "datePublished": "2026-09-30"
+}

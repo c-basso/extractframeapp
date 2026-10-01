@@ -1,0 +1,64 @@
+{
+  "slug": "video-til-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video to pdf",
+  "secondary_keywords": [
+    "video til pdf",
+    "bilder fra video til pdf",
+    "storyboard fra video"
+  ],
+  "title": "Video til PDF på iPhone: storyboard, veiledning, notater",
+  "description": "Lagre bilder fra video i én PDF på iPhone: til storyboard, steg-for-steg-veiledning, forelesningsnotater eller rapport. Uten datamaskin.",
+  "h1": "Bilder fra video i én PDF på iPhone",
+  "nav_title": "Video til PDF",
+  "card_title": "Bilder fra video i én PDF",
+  "excerpt": "Storyboard, veiledning eller notater i én PDF, rett fra videoen.",
+  "lead": "Noen ganger trenger du ikke et bilde, men et dokument: trinnene i en oppskrift, en monteringsveiledning, lysbildene fra en forelesning eller et storyboard. Da er det enklest at bildene havner i én PDF, i rekkefølge.",
+  "quick_answer": "Åpne videoen i Video To Photo – Grab Frame, lagre de viktige bildene og eksporter som PDF. Bildene ligger i tidsrekkefølge i én fil som du kan sende eller skrive ut.",
+  "content_intro": "<h2>Hva brukes en PDF fra video til?</h2><table><thead><tr><th>Bruk</th><th>Eksempel</th></tr></thead><tbody><tr><td>Veiledning</td><td>Oppskrift, møbelmontering, programvareveiledning</td></tr><tr><td>Storyboard</td><td>Film, reklame, video for sosiale medier</td></tr><tr><td>Notater</td><td>Lysbilder fra forelesning eller webinar</td></tr><tr><td>Rapport</td><td>Dokumentasjon av skade, feil eller arbeid</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p><p>Bilder lagrer ett om gangen og lager ikke PDF.</p>",
+  "steps_title": "Eksporter bilder til PDF",
+  "steps": [
+    {
+      "name": "Åpne videoen",
+      "text": "Trykk på Del i Bilder og velg Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Lagre de viktige bildene",
+      "text": "Gå gjennom videoen og lagre trinnene eller scenene. Som prosjekt kan du fortsette senere.",
+      "shot": 1
+    },
+    {
+      "name": "Sjekk rekkefølgen",
+      "text": "Gå gjennom bildene og slett de overflødige.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter som PDF",
+      "text": "Velg PDF-eksport og lagre i Filer eller del.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Tips</h2><ul><li>Ett trinn, ett bilde: ikke lagre nesten like bilder.</li><li>I veiledninger fra skjermopptak må teksten være lesbar: unngå bilder i bevegelse.</li><li>Er PDF-en stor, send ZIP eller færre bilder.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan jeg gjøre en video om til PDF?",
+      "a": "Ikke selve videoen, men bildene fra den. Video To Photo – Grab Frame lager én PDF av de valgte bildene."
+    },
+    {
+      "q": "Trenger jeg datamaskin?",
+      "a": "Nei. Alt skjer på iPhone, uten internett."
+    },
+    {
+      "q": "Hvor mange bilder får plass i en PDF?",
+      "a": "Så mange du velger. Med mange bilder kan filen bli stor, så det lønner seg å sortere."
+    }
+  ],
+  "related": [
+    "video-til-bilder",
+    "video-til-jpg-png",
+    "app-bilde-fra-video"
+  ],
+  "datePublished": "2026-10-01"
+}

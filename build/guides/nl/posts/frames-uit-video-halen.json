@@ -1,0 +1,65 @@
+{
+  "slug": "frames-uit-video-halen",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "frames uit video halen",
+  "secondary_keywords": [
+    "frame uit video halen",
+    "frame uit video halen iphone",
+    "afbeeldingen uit video halen",
+    "alle frames uit video"
+  ],
+  "title": "Frames uit video halen op iPhone: meerdere tegelijk",
+  "description": "Haal meerdere frames tegelijk uit een video op je iPhone, zonder computer of ffmpeg. Kies alleen de frames die je nodig hebt en bewaar ze als foto's, ZIP of PDF.",
+  "h1": "Frames uit een video halen op je iPhone",
+  "nav_title": "Frames uit video halen",
+  "card_title": "Meerdere frames uit een video halen",
+  "excerpt": "Een reeks frames uit één video halen en exporteren als afbeeldingen, ZIP of PDF.",
+  "lead": "Storyboard, sportreeks, voor-en-na, reactie-compilatie: soms is één foto niet genoeg. Zo haal je zoveel frames als je wilt uit een video, alleen met je iPhone.",
+  "quick_answer": "Open de video in Video To Photo – Grab Frame en tik op bewaren bij elk moment dat je wilt. Controleer de frames, verwijder wat niet goed is en exporteer alles in één keer als losse JPG-, PNG- of HEIC-bestanden, als ZIP of als PDF.",
+  "content_intro": "<h2>Alle frames, of alleen de goede?</h2><p>Een video van 30 seconden op 30 fps heeft 900 frames. Exporteer je ze allemaal zoals ffmpeg of VLC op een computer, dan krijg je honderden bijna identieke bestanden. Op een telefoon is het meestal sneller om <strong>alleen de frames te kiezen die je nodig hebt</strong>.</p><table><thead><tr><th>Doel</th><th>Aanpak</th></tr></thead><tbody><tr><td>Storyboard, stap-voor-stapuitleg</td><td>Eén frame per scène of stap</td></tr><tr><td>Sport, bewegingsanalyse</td><td>Frames op regelmatige afstand</td></tr><tr><td>De beste foto vinden</td><td>De scherpste van 3–5 naburige frames</td></tr><tr><td>Alle frames voor animatie of analyse</td><td>Computersoftware (ffmpeg)</td></tr></tbody></table><p>De ingebouwde iOS 27-functie bewaart één frame per keer en is dus niet geschikt voor reeksen.</p>",
+  "steps_title": "Meerdere frames uit een video halen op iPhone",
+  "steps": [
+    {
+      "name": "Open de video",
+      "text": "Deel hem vanuit Foto's met de app, of kies de video in Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Bewaar elk moment",
+      "text": "Schuif over de strook en tik op bewaren bij elk moment. De teller houdt het aantal bij.",
+      "shot": 1
+    },
+    {
+      "name": "Controleer de frames",
+      "text": "Open ze schermvullend, controleer de scherpte en verwijder dubbele of wazige frames.",
+      "shot": 2
+    },
+    {
+      "name": "Exporteer alles",
+      "text": "Kies JPEG, PNG of HEIC. Losse afbeeldingen naar Bestanden, ZIP voor één bestand, PDF voor een document.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF of losse bestanden?</h2><ul><li><strong>Losse bestanden</strong>: om per foto te bewerken of te posten.</li><li><strong>ZIP</strong>: om als één bestand te versturen via AirDrop, mail, WhatsApp of cloud.</li><li><strong>PDF</strong>: storyboard, notities of een review-document. Zie <a href=\"/nl/guides/video-naar-pdf/\">video naar PDF</a>.</li></ul><h2>Tips voor reeksen</h2><ul><li>Kies frames op gelijke afstand, dan blijft de beweging leesbaar.</li><li>Voor een collage exporteer je PNG, zo voorkom je extra JPEG-compressie.</li><li>Het project wordt bewaard, dus ontbrekende frames voeg je later toe.</li></ul>",
+  "faq": [
+    {
+      "q": "Hoeveel frames kan ik uit één video halen?",
+      "a": "Zoveel als je nodig hebt. Tik bij elk moment op bewaren en exporteer ze samen. Bij veel frames duurt de export iets langer."
+    },
+    {
+      "q": "Kan ik automatisch alle frames exporteren?",
+      "a": "Video To Photo – Grab Frame is gemaakt om frames te kiezen. Heb je echt elk frame nodig voor animatie of analyse, dan is computersoftware zoals ffmpeg geschikter."
+    },
+    {
+      "q": "Hoe verstuur ik veel frames tegelijk?",
+      "a": "Exporteer als ZIP en stuur één bestand via AirDrop, mail of WhatsApp. Of exporteer als PDF."
+    }
+  ],
+  "related": [
+    "video-naar-pdf",
+    "video-frame-voor-frame-iphone",
+    "still-uit-video-opslaan-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

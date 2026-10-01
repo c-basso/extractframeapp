@@ -1,0 +1,64 @@
+{
+  "slug": "desar-foto-dun-video",
+  "translation_of": "save-frame-from-video-iphone",
+  "order": 3,
+  "keyword": "guardar foto d'un vídeo",
+  "secondary_keywords": [
+    "desar foto d'un vídeo",
+    "fotograma d'un vídeo",
+    "imatge d'un vídeo"
+  ],
+  "title": "Com desar una foto d’un vídeo a l’iPhone",
+  "description": "Desa un fotograma d’un vídeo com a foto a l’iPhone: troba el moment, desa’l a resolució completa i exporta’l a Fotos o Fitxers. El vídeo no canvia.",
+  "h1": "Com desar una foto d’un vídeo a l’iPhone",
+  "nav_title": "Desar foto",
+  "card_title": "Com desar una foto d’un vídeo",
+  "excerpt": "Un fotograma, resolució completa, desat a Fotos o Fitxers.",
+  "lead": "De vegades només necessites una foto: per al perfil, una felicitació o un missatge. Així desaràs una foto d’un vídeo a l’iPhone, just on la necessites.",
+  "quick_answer": "Comparteix el vídeo des de Fotos amb Video To Photo – Grab Frame, troba el fotograma, desa’l i toca Exporta. La foto va a Fotos o Fitxers. A iOS 27 també ho fa Fotos: pausa, ••• → desa el fotograma com a foto.",
+  "content_intro": "<h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p><h2>On es desa la foto?</h2><table><thead><tr><th>Destí</th><th>Per a</th></tr></thead><tbody><tr><td>Fotos (Recents)</td><td>Compartir, àlbums, iCloud</td></tr><tr><td>Fitxers</td><td>Feina, impressió, ordinador</td></tr><tr><td>Comparteix</td><td>Directament a WhatsApp, Telegram, correu</td></tr></tbody></table>",
+  "steps_title": "Desar una foto d’un vídeo",
+  "steps": [
+    {
+      "name": "Obre el vídeo a l’app",
+      "text": "A Fotos, toca Comparteix → Video To Photo – Grab Frame, o obre l’app i tria el vídeo.",
+      "shot": 0
+    },
+    {
+      "name": "Troba el fotograma",
+      "text": "Arrossega la tira fins al moment exacte.",
+      "shot": 1
+    },
+    {
+      "name": "Desa el fotograma",
+      "text": "Toca el botó de desar. El fotograma apareix a la safata.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta",
+      "text": "Tria format i destí: Fotos, Fitxers o Comparteix.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Es conserva la data?</h2><p>A iOS 27, Fotos desa el fotograma amb la data del vídeo. Després d’exportar des de l’app, revisa la informació de la foto si la data t’importa.</p><h2>Errors habituals</h2><ul><li>Fotograma en moviment: tria’n el del costat.</li><li>Còpia comprimida: fes servir el vídeo original.</li></ul>",
+  "faq": [
+    {
+      "q": "On es desa la foto del vídeo?",
+      "a": "A Fotos, entre les recents, o a Fitxers si ho tries."
+    },
+    {
+      "q": "La puc desar en PNG?",
+      "a": "Sí, a Video To Photo – Grab Frame. Fotos a iOS 27 desa en HEIF o JPG."
+    },
+    {
+      "q": "Cal internet?",
+      "a": "No. Tot passa a l’iPhone."
+    }
+  ],
+  "related": [
+    "treure-foto-dun-video-iphone",
+    "video-a-fotogrames",
+    "video-a-jpg-png"
+  ],
+  "datePublished": "2026-10-01"
+}

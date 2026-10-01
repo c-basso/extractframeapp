@@ -1,0 +1,65 @@
+{
+  "slug": "converter-video-para-jpg",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "converter vídeo para JPG",
+  "secondary_keywords": [
+    "video para jpg",
+    "converter video em imagem",
+    "converter video em imagem png",
+    "mudar video para jpg"
+  ],
+  "title": "Converter vídeo para JPG, PNG ou HEIC no iPhone, offline",
+  "description": "Como converter frames de um vídeo para JPG, PNG ou HEIC no iPhone, offline e em alta qualidade. Qual formato escolher para compartilhar, editar ou guardar.",
+  "h1": "Converter vídeo para JPG, PNG ou HEIC no iPhone",
+  "nav_title": "Vídeo para JPG, PNG ou HEIC",
+  "card_title": "Converter frames de vídeo para JPG, PNG ou HEIC",
+  "excerpt": "Qual formato escolher para seus frames e como exportar no iPhone sem conversor online.",
+  "lead": "Os conversores online de «vídeo para JPG» pedem para subir o arquivo inteiro, esperar e baixar uma pilha de imagens. No iPhone dá para fazer tudo no aparelho, escolher só os frames que você quer e o formato certo.",
+  "quick_answer": "Abra o vídeo no Video To Photo – Grab Frame, capture os frames que quiser, toque em Exportar e escolha JPEG, PNG ou HEIC. JPG para compartilhar, PNG para editar sem perda, HEIC para arquivos leves com alta qualidade. Tudo é convertido no iPhone, sem upload.",
+  "content_intro": "<h2>JPG, PNG ou HEIC para os seus frames</h2><table><thead><tr><th>Formato</th><th>Qualidade</th><th>Tamanho</th><th>Ideal para</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Muito boa (com perda)</td><td>Pequeno</td><td>WhatsApp, redes sociais, e-mail, sites: abre em qualquer lugar</td></tr><tr><td><strong>PNG</strong></td><td>Sem perda</td><td>O maior</td><td>Edição, thumbnails com texto, colagens</td></tr><tr><td><strong>HEIC</strong></td><td>Excelente</td><td>O menor para a qualidade</td><td>Fototeca Apple, iPhone ↔ Mac</td></tr></tbody></table><p>Na dúvida: <strong>JPG</strong> para mandar, <strong>PNG</strong> para editar.</p><h2>Por que não um conversor online?</h2><ul><li>Você precisa subir o vídeo inteiro: lento no 4G/5G e nada recomendável para vídeos pessoais.</li><li>Muitos cortam em intervalos fixos: centenas de imagens, mas talvez não o momento que você queria.</li><li>As versões grátis costumam limitar o tamanho ou colocar marca d'água.</li></ul>",
+  "steps_title": "Como converter frames de vídeo para JPG, PNG ou HEIC no iPhone",
+  "steps": [
+    {
+      "name": "Abra o vídeo",
+      "text": "Compartilhe pelo Fotos com o Video To Photo – Grab Frame ou escolha no app.",
+      "shot": 0
+    },
+    {
+      "name": "Capture os frames",
+      "text": "Vá a cada momento e toque em capturar. Só os frames escolhidos são convertidos.",
+      "shot": 1
+    },
+    {
+      "name": "Escolha JPEG, PNG ou HEIC",
+      "text": "Toque em Exportar e selecione o formato de imagem no topo da tela de exportação.",
+      "shot": 3
+    },
+    {
+      "name": "Arquivos, ZIP ou PDF e salve",
+      "text": "Exporte como imagens separadas, ZIP ou PDF e salve no Fotos ou no Arquivos, ou compartilhe.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Qual formato para cada caso</h2><ul><li><strong>Thumbnail do YouTube ou capa do TikTok</strong> → PNG e depois o texto. Veja <a href=\"/pt/guides/capa-thumbnail-de-video-youtube/\">capa ou thumbnail de vídeo</a>.</li><li><strong>Mandar para Windows ou Android</strong> → JPG (HEIC não abre em todo lugar).</li><li><strong>Imprimir</strong> → PNG ou JPG de alta qualidade de um vídeo 4K.</li><li><strong>Guardar muitos frames</strong> → HEIC dentro de um ZIP.</li><li><strong>Um documento de frames</strong> → PDF. Veja <a href=\"/pt/guides/video-para-pdf/\">vídeo para PDF</a>.</li></ul><h2>Perde qualidade ao converter?</h2><p>O PNG mantém cada pixel do frame. JPG e HEIC comprimem, mas na qualidade usada para fotos a diferença quase não aparece. Muito mais importante é extrair o frame do arquivo em vez de tirar print.</p>",
+  "faq": [
+    {
+      "q": "Dá para converter vídeo para JPG de graça no iPhone?",
+      "a": "O Video To Photo – Grab Frame tem download grátis e recursos Pro opcionais por compra dentro do app. Ele converte os frames no iPhone sem subir o vídeo."
+    },
+    {
+      "q": "Dá para tirar frames de vídeo em PNG?",
+      "a": "Dá. Capture os frames e escolha PNG na exportação, em arquivos separados ou num ZIP."
+    },
+    {
+      "q": "O Windows abre arquivos HEIC?",
+      "a": "Versões recentes do Windows abrem com a extensão certa, mas nem sempre. Se os frames vão para aparelhos que não são Apple, exporte em JPG."
+    }
+  ],
+  "related": [
+    "tirar-foto-de-video-com-qualidade",
+    "video-para-pdf",
+    "capa-thumbnail-de-video-youtube"
+  ],
+  "datePublished": "2026-09-30"
+}

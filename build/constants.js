@@ -151,7 +151,7 @@ const PRICE_CURRENCY_BY_LANG = {
     fr: 'EUR',
     de: 'EUR',
     it: 'EUR',
-    pt: 'EUR',
+    pt: 'BRL',
     ja: 'JPY',
     ko: 'KRW',
     nl: 'EUR',

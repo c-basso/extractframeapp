@@ -1,0 +1,64 @@
+{
+  "slug": "video-fotograma-a-fotograma-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "vídeo fotograma a fotograma iphone",
+  "secondary_keywords": [
+    "frame by frame iphone",
+    "pausar un vídeo al fotograma exacte",
+    "fotograma a fotograma"
+  ],
+  "title": "Vídeo fotograma a fotograma a l’iPhone: el moment exacte",
+  "description": "Com passar un vídeo fotograma a fotograma a l’iPhone, trobar el moment exacte (el xut, el parpelleig, el gol) i desar-lo com una foto nítida.",
+  "h1": "Vídeo fotograma a fotograma a l’iPhone",
+  "nav_title": "Fotograma a fotograma",
+  "card_title": "Vídeo fotograma a fotograma a l’iPhone",
+  "excerpt": "Com arribar just al fotograma bo i desar-lo.",
+  "lead": "A 30 fps cada segon té 30 fotogrames; a 60 fps, 60. El moment bo només és en un. Per això cal veure el vídeo fotograma a fotograma.",
+  "quick_answer": "A Fotos, posa el vídeo en pausa i arrossega la tira de fotogrames a poc a poc. És més precís a Video To Photo – Grab Frame: vista prèvia gran, tira exacta i el fotograma es desa a l’instant.",
+  "content_intro": "<h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p><h2>Fotos o Grab Frame?</h2><table><thead><tr><th></th><th>Fotos</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Fotograma a fotograma</td><td>Arrossegar la tira</td><td>Tira precisa, vista prèvia gran</td></tr><tr><td>Desar</td><td>iOS 27, un fotograma</td><td>Al moment, molts fotogrames</td></tr><tr><td>Formats</td><td>HEIF, JPG</td><td>JPG, PNG, HEIC</td></tr></tbody></table>",
+  "steps_title": "Trobar el fotograma exacte",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "Comparteix-lo des de Fotos amb Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Acosta’t al moment",
+      "text": "Arrossega ràpid la tira fins al lloc aproximat.",
+      "shot": 1
+    },
+    {
+      "name": "A poc a poc, fotograma a fotograma",
+      "text": "Mou-te lentament i vigila la vista prèvia gran.",
+      "shot": 3
+    },
+    {
+      "name": "Desa",
+      "text": "Toca desar quan el moment sigui perfecte.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Consells</h2><ul><li>La càmera lenta (120/240 fps) dona molts més fotogrames dels moviments ràpids.</li><li>A 60 fps el moviment queda menys borrós que a 30 fps.</li><li>Desa uns quants fotogrames seguits i compara’ls.</li></ul>",
+  "faq": [
+    {
+      "q": "L’iPhone pot reproduir un vídeo fotograma a fotograma?",
+      "a": "A Fotos pots pausar i arrossegar la tira. Apps com Grab Frame ofereixen una vista més precisa."
+    },
+    {
+      "q": "Com pauso un vídeo al fotograma exacte?",
+      "a": "Pausa’l a prop del moment i després arrossega la tira de fotogrames a poc a poc."
+    },
+    {
+      "q": "Funciona amb càmera lenta?",
+      "a": "Sí. La càmera lenta té més fotogrames, així que tens més opcions."
+    }
+  ],
+  "related": [
+    "treure-foto-dun-video-iphone",
+    "foto-nitida-dun-video",
+    "video-a-fotogrames"
+  ],
+  "datePublished": "2026-10-01"
+}

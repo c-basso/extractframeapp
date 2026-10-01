@@ -1,0 +1,69 @@
+{
+  "slug": "estrarre-foto-da-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "estrarre foto da video iPhone",
+  "secondary_keywords": [
+    "come estrarre una foto da un video iphone",
+    "come fare una foto da un video iphone",
+    "foto da video iphone",
+    "come estrapolare una foto da un video"
+  ],
+  "title": "Come estrarre una foto da un video su iPhone: 3 metodi",
+  "description": "Come estrarre una foto da un video su iPhone senza perdere qualità: la funzione di iOS 27, lo screenshot e come salvare tanti fotogrammi in JPG, PNG o HEIC.",
+  "h1": "Come estrarre una foto da un video su iPhone",
+  "nav_title": "Foto da video su iPhone",
+  "card_title": "Estrarre una foto da un video su iPhone",
+  "excerpt": "Tutti i modi per ricavare una foto da un video su iPhone e quando usare ciascuno.",
+  "lead": "Hai filmato il momento invece di fotografarlo. La buona notizia: un video è fatto di decine di foto al secondo. Ecco come tirare fuori quella giusta sul tuo iPhone.",
+  "quick_answer": "Da iOS 27: apri il video in Foto, metti in pausa, tocca «•••» e scegli di salvare il fotogramma come foto; viene salvato un fotogramma alla risoluzione del video. Con iOS precedenti, o se ti servono più fotogrammi, PNG, ZIP o PDF, apri il video in Video To Photo – Grab Frame, cattura i fotogrammi ed esportali insieme.",
+  "content_intro": "<h2>Si può fare una foto da un video su iPhone?</h2><p>Sì. Un video contiene 24, 30 o 60 fotogrammi al secondo e ognuno può diventare una foto. Il metodo migliore dipende dalla versione di iOS e da quanti fotogrammi ti servono.</p><h2>I metodi a confronto</h2><table><thead><tr><th>Metodo</th><th>Qualità</th><th>Limiti</th><th>Ideale per</th></tr></thead><tbody><tr><td><strong>Foto → salva fotogramma come foto</strong> (iOS 27+)</td><td>Risoluzione del video, HEIF o JPG</td><td>Un fotogramma alla volta; la foto prende la data del video e non compare in cima ai Recenti</td><td>Salvare al volo un solo fotogramma</td></tr><tr><td><strong>Screenshot</strong> in pausa</td><td>Risoluzione dello schermo, spesso con comandi e bande</td><td>Difficile centrare il momento</td><td>Un riferimento veloce su iOS vecchi</td></tr><tr><td><strong>Live Photo</strong> → «Imposta come foto principale»</td><td>Qualità foto piena</td><td>Solo per Live Photo, non per i video</td><td>Cambiare l'immagine di una Live Photo</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Fotogramma dal file video</td><td>Serve l'app (iOS 18.6+)</td><td>Tanti fotogrammi, PNG, ZIP o PDF, iOS vecchi</td></tr></tbody></table><h3>Il metodo integrato di iOS 27</h3><ol><li>Apri il video in Foto, metti in pausa sul momento giusto, tocca <strong>«•••»</strong> e scegli di salvare il fotogramma come foto (<em>Save Video Frame as Photo</em>).</li><li>Il fotogramma viene salvato nella libreria come foto alla risoluzione del video.</li><li>Cercalo accanto al video originale: ne eredita data e luogo.</li></ol><p>Per un fotogramma è perfetto. Ma se vuoi dieci momenti dallo stesso video, PNG da modificare o uno ZIP/PDF da inviare, diventa lento.</p><h3>Perché uno screenshot non è una foto</h3><p>Su iOS 26 e precedenti di solito si fa uno screenshot. Ma salva lo schermo, non il fotogramma: un video 4K orizzontale su uno schermo verticale occupa una striscia sottile, e bisogna ritagliare i comandi e azzeccare la pausa.</p>",
+  "steps_title": "Come estrarre più foto da un video con Video To Photo – Grab Frame",
+  "steps": [
+    {
+      "name": "Condividi il video con l'app",
+      "text": "Apri il video in Foto, tocca Condividi e scegli l'app. Oppure apri Video To Photo – Grab Frame e seleziona il video dalla libreria.",
+      "shot": 0
+    },
+    {
+      "name": "Trova il momento e cattura",
+      "text": "Scorri la striscia dei fotogrammi finché l'anteprima mostra il momento esatto e tocca il pulsante di cattura. Se c'è movimento, salva anche un paio di fotogrammi vicini.",
+      "shot": 1
+    },
+    {
+      "name": "Controlla il fotogramma",
+      "text": "Apri l'anteprima, ingrandisci volti o testo ed elimina i fotogrammi mossi. Tieni il più nitido.",
+      "shot": 2
+    },
+    {
+      "name": "Esporta come foto",
+      "text": "Scegli JPEG, PNG o HEIC e tocca Esporta. Salva in Foto o File, oppure invia subito su WhatsApp, Instagram o per email.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Consigli per una foto migliore</h2><ul><li><strong>Cerca la pausa nel movimento.</strong> Il punto più alto di un salto, l'istante prima di un sorriso: lì i fotogrammi sono più nitidi.</li><li><strong>Salvane tre, tienine uno.</strong> I fotogrammi vicini sembrano uguali finché non ingrandisci.</li><li><strong>Gira in 4K o a 60 fps.</strong> Vedi <a href=\"/it/guides/foto-da-video-alta-qualita/\">foto da video in alta qualità</a>.</li><li><strong>Scegli il formato.</strong> JPG per condividere, PNG per modificare, HEIC per risparmiare spazio. Vedi <a href=\"/it/guides/convertire-video-in-jpg/\">convertire video in JPG o PNG</a>.</li></ul><h2>L'app modifica o carica il mio video?</h2><p>No. Video To Photo – Grab Frame lavora su una copia nell'app ed elabora tutto sull'iPhone. Il video originale in Foto resta invariato e nulla viene inviato a un server.</p>",
+  "faq": [
+    {
+      "q": "C'è un modo integrato per estrarre una foto da un video su iPhone?",
+      "a": "Sì, da iOS 27: metti in pausa il video in Foto, tocca «•••» e scegli di salvare il fotogramma come foto. Salva un fotogramma alla volta in HEIF o JPG. Su iOS 26 e precedenti l'unica opzione integrata è lo screenshot."
+    },
+    {
+      "q": "Dove viene salvato il fotogramma su iOS 27?",
+      "a": "Nella libreria di Foto, ma con data e luogo del video originale: compare accanto al video, non in cima ai Recenti."
+    },
+    {
+      "q": "La foto avrà la stessa qualità del video?",
+      "a": "Sì, se salvi il fotogramma e non uno screenshot: sia la funzione di iOS 27 sia Video To Photo – Grab Frame lo leggono dal file. Con movimenti rapidi può risultare mosso: scegli un momento fermo."
+    },
+    {
+      "q": "Posso ricavare più foto dallo stesso video?",
+      "a": "Sì. In Video To Photo – Grab Frame cattura ogni momento ed esportali tutti insieme come file, ZIP o PDF."
+    }
+  ],
+  "related": [
+    "screenshot-video-iphone-senza-perdere-qualita",
+    "salvare-fotogramma-video-iphone",
+    "foto-da-video-alta-qualita"
+  ],
+  "datePublished": "2026-09-30"
+}

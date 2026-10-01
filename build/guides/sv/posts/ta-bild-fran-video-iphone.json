@@ -1,0 +1,65 @@
+{
+  "slug": "ta-bild-fran-video-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "ta bild från video iphone",
+  "secondary_keywords": [
+    "bild från video iphone",
+    "hur tar man en bild från en video iphone",
+    "stillbild från video iphone",
+    "ta foto från video"
+  ],
+  "title": "Ta bild från video på iPhone: 3 sätt",
+  "description": "Så tar du en bild från en video på iPhone i full kvalitet: den inbyggda funktionen i iOS 27, skärmdump och en app för skarpa bilder i JPG, PNG eller HEIC.",
+  "h1": "Så tar du en bild från en video på iPhone",
+  "nav_title": "Bild från video",
+  "card_title": "Så tar du bild från video på iPhone",
+  "excerpt": "Tre sätt, från snabbast till bäst kvalitet, och när du ska välja vilket.",
+  "lead": "Det bästa ögonblicket finns ofta bara i videon: leendet, hoppet, när ljusen på tårtan blåses ut. På iPhone kan du göra det till en bild på tre sätt. Skillnaden ligger i kvalitet, tempo och hur många bilder du behöver.",
+  "quick_answer": "På iOS 27 pausar du videon i Bilder, trycker på ••• och sparar bildrutan som foto. På äldre iOS, eller för många bilder i JPG, PNG eller HEIC, öppnar du videon i Video To Photo – Grab Frame, hittar bildrutan och sparar den i full upplösning.",
+  "content_intro": "<h2>Jämförelse</h2><table><thead><tr><th>Sätt</th><th>Kvalitet</th><th>Flera bildrutor</th><th>Format</th></tr></thead><tbody><tr><td>Skärmdump</td><td>Skärmupplösning</td><td>Nej</td><td>PNG</td></tr><tr><td>Bilder (iOS 27)</td><td>Full</td><td>En i taget</td><td>HEIF, JPG</td></tr><tr><td>Video To Photo – Grab Frame</td><td>Full</td><td>Ja, samtidigt</td><td>JPG, PNG, HEIC, ZIP, PDF</td></tr></tbody></table><h2>Det inbyggda sättet (iOS 27)</h2><p>Från iOS 27 kan appen Bilder själv spara en bildruta: öppna videon, pausa vid rätt ögonblick, tryck på <strong>•••</strong> och välj <em>Save Video Frame as Photo</em>. Bilden sparas som HEIF eller JPG, med videons datum. En bildruta i taget.</p>",
+  "steps_title": "Ta bild från video med Grab Frame",
+  "steps": [
+    {
+      "name": "Öppna videon",
+      "text": "Öppna videon i Bilder, tryck på Dela och välj Video To Photo – Grab Frame. Bildrutevyn öppnas direkt.",
+      "shot": 0
+    },
+    {
+      "name": "Hitta ögonblicket",
+      "text": "Dra bildruteremsan till rätt ögonblick och tryck på spara-knappen.",
+      "shot": 1
+    },
+    {
+      "name": "Kontrollera skärpan",
+      "text": "Öppna bildrutan i helskärm och zooma in. Radera suddiga bildrutor.",
+      "shot": 2
+    },
+    {
+      "name": "Exportera",
+      "text": "Välj JPG, PNG eller HEIC och spara i Bilder, Filer, ZIP eller PDF.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Varför inte bara ta en skärmdump?</h2><p>En skärmdump sparar det som visas på skärmen, inte själva videon. En 4K-bildruta krymper till skärmstorlek, och uppspelningsreglage eller svarta kanter kan följa med. Duger för en snabb anteckning, men inte för minnen eller utskrift.</p><h2>Tips</h2><ul><li>Filma i 4K och 60 fps för skarpare bildrutor.</li><li>Jämför bildrutorna precis före och efter och behåll den skarpaste.</li><li>Använd originalvideon, inte en kopia från Messenger eller Snapchat.</li></ul>",
+  "faq": [
+    {
+      "q": "Kan iPhone ta en bild från en video utan app?",
+      "a": "Ja, från iOS 27 kan Bilder spara en pausad bildruta som foto, en i taget. På äldre versioner behöver du en skärmdump eller en app."
+    },
+    {
+      "q": "Blir kvaliteten sämre?",
+      "a": "Inte om du sparar från videofilen. Bilden får videons upplösning: cirka 8 MP från 4K, cirka 2 MP från 1080p."
+    },
+    {
+      "q": "Ändras originalvideon?",
+      "a": "Nej. Videon förblir orörd och bildrutorna sparas som nya bilder."
+    }
+  ],
+  "related": [
+    "skarmdump-video-iphone",
+    "spara-bild-fran-video-iphone",
+    "skarp-bild-fran-video"
+  ],
+  "datePublished": "2026-10-01"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "film-na-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "film na JPG",
+  "secondary_keywords": [
+    "jak zmienić film na jpg",
+    "film na jpg iphone",
+    "film na png",
+    "wideo na zdjęcie"
+  ],
+  "title": "Jak zmienić film na JPG, PNG lub HEIC na iPhonie",
+  "description": "Zamień klatki z filmu na JPG, PNG lub HEIC na iPhonie, offline i w pełnej jakości. Plus: jaki format wybrać do wysyłania, edycji i przechowywania.",
+  "h1": "Film na JPG, PNG lub HEIC na iPhonie",
+  "nav_title": "Film na JPG, PNG, HEIC",
+  "card_title": "Klatki z filmu na JPG, PNG lub HEIC",
+  "excerpt": "Właściwy format dla klatek i eksport bez konwertera online.",
+  "lead": "Konwertery online „film na JPG” każą wysłać cały plik, czekać i pobrać stos obrazów. Na iPhonie zrobisz to na urządzeniu, tylko z potrzebnymi klatkami i w formacie pasującym do celu.",
+  "quick_answer": "Otwórz film w Video To Photo – Grab Frame, zapisz potrzebne klatki, stuknij Eksportuj i wybierz JPEG, PNG lub HEIC. JPG do wysyłania, PNG do bezstratnej edycji, HEIC dla małych i ostrych plików. Konwersja odbywa się na iPhonie, bez wysyłania.",
+  "content_intro": "<h2>JPG, PNG i HEIC: różnice</h2><table><thead><tr><th>Format</th><th>Jakość</th><th>Rozmiar</th><th>Najlepszy do</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Bardzo dobra (stratna)</td><td>Mały</td><td>Messenger, WhatsApp, social media, e-mail, web. Otwiera się wszędzie</td></tr><tr><td><strong>PNG</strong></td><td>Bezstratna</td><td>Największy</td><td>Edycja, miniatury z tekstem, kolaże</td></tr><tr><td><strong>HEIC</strong></td><td>Świetna</td><td>Najmniejszy przy tej samej jakości</td><td>Biblioteka Apple, iPhone i Mac</td></tr></tbody></table><p>Nie wiesz? <strong>JPG</strong> do wysyłania, <strong>PNG</strong> do edycji.</p><h2>Dlaczego nie konwerter online?</h2><ul><li>Musisz wysłać cały film: wolno na komórce i niezbyt dobrze dla prywatnych nagrań.</li><li>Wiele stron tnie w stałych odstępach: setki obrazów, ale może bez twojego momentu.</li><li>Darmowe wersje często mają limit lub znak wodny.</li></ul>",
+  "steps_title": "Jak zamienić klatki z filmu na JPG, PNG lub HEIC na iPhonie",
+  "steps": [
+    {
+      "name": "Otwórz film",
+      "text": "Udostępnij go ze Zdjęć aplikacji Video To Photo – Grab Frame albo wybierz w aplikacji.",
+      "shot": 0
+    },
+    {
+      "name": "Zapisz klatki",
+      "text": "Stuknij zapis przy każdym momencie. Konwertowane są tylko wybrane klatki.",
+      "shot": 1
+    },
+    {
+      "name": "Wybierz JPEG, PNG lub HEIC",
+      "text": "Stuknij Eksportuj i wybierz format obrazu u góry.",
+      "shot": 3
+    },
+    {
+      "name": "Zapisz jako pliki, ZIP lub PDF",
+      "text": "Wyeksportuj osobne obrazy, ZIP lub PDF i zapisz w Zdjęciach lub Plikach albo udostępnij od razu.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Jaki format do czego?</h2><ul><li><strong>Miniatura YouTube lub okładka TikToka</strong> → PNG, potem tekst. Zobacz <a href=\"/pl/guides/miniatura-youtube-z-filmu/\">miniatura YouTube z filmu</a>.</li><li><strong>Wysyłka na Windows lub Androida</strong> → JPG (HEIC nie wszędzie się otworzy).</li><li><strong>Druk</strong> → PNG lub JPG wysokiej jakości z filmu 4K.</li><li><strong>Archiwum wielu klatek</strong> → HEIC w ZIP.</li><li><strong>Klatki w dokumencie</strong> → PDF, zobacz <a href=\"/pl/guides/film-do-pdf/\">film do PDF</a>.</li></ul><h2>Czy konwersja obniża jakość?</h2><p>PNG zachowuje każdy piksel klatki. JPG i HEIC kompresują, ale w jakości fotograficznej różnica jest ledwo widoczna. Dużo ważniejsze od formatu jest to, by eksportować z pliku, a nie robić zrzutu ekranu.</p>",
+  "faq": [
+    {
+      "q": "Czy mogę za darmo zamienić film na JPG na iPhonie?",
+      "a": "Video To Photo – Grab Frame można pobrać za darmo; funkcje Pro to zakup w aplikacji. Klatki są konwertowane na iPhonie, a film nie jest wysyłany."
+    },
+    {
+      "q": "Czy mogę zapisać klatkę z filmu jako PNG?",
+      "a": "Tak. Zapisz klatkę, przy eksporcie wybierz PNG i zapisz jako osobny plik lub ZIP."
+    },
+    {
+      "q": "Czy HEIC otworzy się na Windowsie?",
+      "a": "Nowsze Windowsy otwierają HEIC z rozszerzeniem, ale nie każdy system. Dla urządzeń spoza Apple bezpieczniejszy jest JPG."
+    }
+  ],
+  "related": [
+    "ostre-zdjecie-z-filmu",
+    "film-do-pdf",
+    "miniatura-youtube-z-filmu"
+  ],
+  "datePublished": "2026-10-01"
+}

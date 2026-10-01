@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "Videodan fotoğraf çıkarma app iPhone | Video To Photo",
-    "description": "Videodan resim çıkarma iPhone uygulaması: tek veya birden fazla kareyi JPG, PNG veya HEIC olarak saniyeler içinde dışa aktarın — cihazda işlem, yükleme yok.",
-    "keywords": "videodan fotoğraf, videodan resim çıkarma, videodan fotoğrafa görüntü, videodan kare çıkarma, kare çıkarıcı, iPhone video karesi, kare kaydet, videodan görüntü, jpg video, png video, heic video, toplu dışa aktarma, fotoğraflardan paylaş",
+    "title": "iPhone'da Videodan Fotoğraf Alma – Net | Grab Frame",
+    "description": "iPhone'da videodan tam kalitede fotoğraf al. Ekran görüntüsü değil, tam kareyi JPG, PNG veya HEIC olarak kaydet ya da ZIP ve PDF'e aktar. Çevrimdışı, yükleme yok.",
+    "keywords": "videodan fotoğraf alma, videodan fotoğraf alma iphone, videodan fotoğraf çıkarma, videodan ekran görüntüsü alma, videodan kare alma, video jpg çevirme, video pdf dönüştürme",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/tr/",
-    "og_title": "Videodan resim çıkarma iPhone uygulaması",
-    "og_description": "Videodan resim çıkarma iPhone uygulaması. Tam anı seçin ve kareleri JPG, PNG veya HEIC olarak dışa aktarın. İşlem cihazda yapılır, video yüklemesi gerekmez.",
+    "og_title": "iPhone'da videodan fotoğraf alma — tam kare, net",
+    "og_description": "Anı bul ve bir ya da onlarca kareyi JPG, PNG veya HEIC olarak kaydet ya da ZIP veya PDF'e aktar. Hepsi cihazda.",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "tr_TR",
     "twitter_url": "https://extractframeapp.com/tr/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "Videodan resim çıkarma iPhone uygulaması. Tam kareler, cihazda işlem, toplu dışa aktarma ve esnek formatlar.",
+    "twitter_title": "Videodan fotoğraf alma — Grab Frame",
+    "twitter_description": "iPhone videolarından HD fotoğraflar. JPG, PNG, HEIC, ZIP, PDF. Çevrimdışı, yükleme yok.",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/tr/",
@@ -21,18 +21,25 @@
     "geo_placename": "Türkiye"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame logosu",
-    "title": "iPhone'da videodan kare çıkarın",
-    "subtitle": "Videodan fotoğrafa ve görüntü—kliplerinizden saniyeler içinde tam fotoğraflar",
-    "entity_definition": "Video To Photo - Grab Frame, iPhone'da videoları fotoğrafa dönüştüren bir iOS uygulamasıdır. Tam anı seçin ve kareleri JPG, PNG veya HEIC olarak dışa aktarın.",
-    "subheadline": "Fotoğraflar'dan açın, doğru ana kadar kaydırın ve bir veya birden fazla kare kaydedin. Hesap, yükleme ve düzenleme zaman çizelgesi gerekmez.",
-    "download_alt": "App Store'dan indir",
-    "phone_text": "Videodan kare almak için dokunun",
-    "qr_alt": "Uygulamayı indirmek için QR kod",
-    "qr_text": "İndirmek için iPhone ile tarayın"
+    "logo_alt": "Video To Photo – Grab Frame uygulama simgesi",
+    "title": "iPhone'da videodan fotoğraf alma — tam kare, net",
+    "title_html": "<span class=\"grad-text\">Videodan fotoğraf</span> al. Tam kare, kusursuz net.",
+    "subtitle": "Ana kadar kaydır ve bir ya da onlarca kare kaydet. JPG, PNG veya HEIC olarak dışa aktar. Her şey iPhone'da olur: yükleme yok, hesap yok.",
+    "entity_definition": "Video To Photo – Grab Frame, videolardan kare çıkarıp yüksek çözünürlüklü fotoğraf olarak kaydeden bir iPhone uygulamasıdır. Tüm işlem cihazda yapılır.",
+    "subheadline": "Fotoğraflar'dan paylaş, anı bul, kaydet. Bu kadar.",
+    "download_alt": "Video To Photo – Grab Frame'i App Store'dan indir",
+    "phone_text": "Videodan kare almak için dokun",
+    "qr_alt": "Video To Photo – Grab Frame indirme QR kodu",
+    "qr_text": "Yüklemek için iPhone kamerasıyla tara",
+    "bullets": [
+      "Çevrimdışı çalışır",
+      "JPG, PNG, HEIC",
+      "ZIP ve PDF aktarma",
+      "Hesap gerekmez"
+    ]
   },
   "last_updated": {
-    "text": "Son güncelleme: 16 Haziran 2026"
+    "text": "Son güncelleme: 1 Ekim 2026"
   },
   "features": {
     "title": "Videodan resim çıkarma için neden bu uygulama",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "iPhone'da videodan kare nasıl çıkarılır",
-    "subtitle": "Kliplerinizden mükemmel fotoğraflar kaydetmek için basit adımlar",
-    "placeholder_line1": "📱 Demo videosu yakında",
-    "placeholder_line2": "Adım 1: Fotoğraflar'dan aç > Adım 2: Ana kaydır > Adım 3: Kare(ler) yakala > Adım 4: JPG/PNG/HEIC dışa aktar"
+    "title": "iPhone'da videodan fotoğraf nasıl alınır",
+    "subtitle": "Dört adım, yaklaşık bir dakika. Öğrenecek bir şey yok."
   },
   "howto_steps": {
     "items": [
       {
-        "name": "Fotoğraflar'dan aç",
-        "text": "Fotoğraflar'dan bir videoyu {{app_info.name}} ile paylaşın veya önce uygulamayı açıp klibinizi seçin."
+        "name": "Videoyu Fotoğraflar'dan paylaş",
+        "text": "Videoyu Fotoğraflar'da aç, Paylaş'a dokun ve uygulamayı seç. Ya da uygulamayı açıp bir video seç. Kare ekranı hemen açılır."
       },
       {
-        "name": "Tam anı bul",
-        "text": "Kaydırma denetimini kullanarak kare kare ilerleyin ve istediğiniz görüntüde durun."
+        "name": "Anı bul ve kaydet",
+        "text": "Kare şeridinde doğru kareye kaydır ve kaydet'e dokun. İstediğin her kare için tekrarla."
       },
       {
-        "name": "Bir veya daha fazla kare yakala",
-        "text": "Tek kare yakalayın veya toplu dışa aktarma için birden fazla an işaretleyin."
+        "name": "Sadece en iyileri tut",
+        "text": "Kareleri tam ekran aç, netliği kontrol etmek için yakınlaştır ve bulanık olanları sil."
       },
       {
-        "name": "Dışa aktar ve kaydet",
-        "text": "Görüntüleri JPG, PNG veya HEIC olarak kaydedin veya ZIP ya da PDF olarak dışa aktarın."
+        "name": "Dışa aktar ve paylaş",
+        "text": "JPEG, PNG veya HEIC seç ve ayrı dosyalar, ZIP ya da PDF olarak kaydet."
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "SSS: iPhone'da videodan fotoğraf",
+    "eyebrow": "SSS",
+    "title": "iPhone'da videodan fotoğraf: sık sorulan sorular",
+    "learn_more": "Daha fazla bilgi",
     "items": [
       {
-        "question": "iPhone'da videodan kare nasıl çıkarırım?",
-        "answer": "Video To Photo - Grab Frame'de bir klip açın, tam ana kaydırın ve kareyi yakalayın. Sonra JPG, PNG veya HEIC olarak dışa aktarın."
+        "question": "iPhone'da videodan fotoğraf nasıl alınır?",
+        "answer": "iOS 27'den itibaren videoyu Fotoğraflar'da aç, duraklat ve kareyi ••• ile fotoğraf olarak kaydet (tek tek). Eski iOS'ta ya da çok sayıda fotoğrafı JPG, PNG, HEIC, ZIP veya PDF olarak istiyorsan Video To Photo – Grab Frame'i kullan.",
+        "url": "/tr/guides/videodan-fotograf-alma-iphone/"
       },
       {
-        "question": "Birden fazla kareyi aynı anda dışa aktarabilir miyim?",
-        "answer": "Evet. Birden fazla an seçip tek seferde birkaç kare dışa aktarabilirsiniz."
+        "question": "Videodan alınan ekran görüntüsü neden bu kadar kötü?",
+        "answer": "Ekran görüntüsü ekranı kaydeder: 4K bir kare ekran boyutuna küçülür, oynat düğmesi veya siyah şeritler girer, HDR videolarda da karanlık çıkar. Kareyi iOS 27'de Fotoğraflar'la ya da Video To Photo – Grab Frame ile dosyadan kaydet ve PNG veya HEIC olarak aktar.",
+        "url": "/tr/guides/videodan-ekran-goruntusu-alma-iphone/"
       },
       {
-        "question": "Hangi formatlar desteklenir?",
-        "answer": "Uygulama JPG, PNG ve HEIC destekler. ZIP veya PDF olarak da dışa aktarabilirsiniz."
+        "question": "Videodan bir kare fotoğraf olarak nasıl kaydedilir?",
+        "answer": "Videoyu Fotoğraflar'dan Video To Photo – Grab Frame ile paylaş, kareyi bul, kaydet ve Dışa Aktar'a dokun. Fotoğraflar'a veya Dosyalar'a gider. Orijinal video değişmez.",
+        "url": "/tr/guides/videodan-kare-alma-iphone/"
       },
       {
-        "question": "Uygulama videolarımı yüklüyor mu?",
-        "answer": "Hayır. Kare çıkarma cihazda yapılır; videolar ve görüntüler iPhone'unuzda kalır."
+        "question": "Videodan fotoğraf alma uygulamasında nelere bakmalıyım?",
+        "answer": "Dört şeye: hassas kare seçimi, video çözünürlüğünde aktarma, cihazda işleme ve toplu aktarma. Video To Photo – Grab Frame hepsini sağlar ve JPG, PNG, HEIC, ZIP veya PDF olarak aktarır.",
+        "url": "/tr/guides/videodan-fotograf-alma-uygulamasi/"
       },
       {
-        "question": "Daha sonra devam edebilir miyim?",
-        "answer": "Evet. Oturumları proje olarak kaydedip sonra yeniden açabilirsiniz."
+        "question": "Videodan aynı anda çok sayıda kare çıkarabilir miyim?",
+        "answer": "Evet. Tek videodan istediğin kadar kare kaydet ve hepsini dosya, ZIP veya PDF olarak birlikte aktar. Sadece gereken kareleri seçmek, yüzlerce benzer görüntüyü ayıklamaktan hızlıdır.",
+        "url": "/tr/guides/videodan-fotograf-cikarma/"
       },
       {
-        "question": "Video To Photo - Grab Frame ücretsiz mi?",
-        "answer": "Uygulama indirmesi ücretsizdir; gelişmiş kullanım için uygulama içi satın alımlar vardır."
+        "question": "iPhone'da video kare kare nasıl izlenir?",
+        "answer": "Videoyu Fotoğraflar'da duraklat ve kare şeridinde yavaşça kaydır. Video To Photo – Grab Frame'de büyük önizlemeyle kaydırır ve doğru kareyi hemen kaydedersin.",
+        "url": "/tr/guides/video-kare-kare-izleme-iphone/"
       },
       {
-        "question": "Bu uygulama kimin için?",
-        "answer": "İçerik üreticileri, eğitmenler ve videodan belirli bir anı fotoğraf olarak kaydetmek isteyen herkes için."
+        "question": "Videodan kaliteli fotoğraf nasıl alınır?",
+        "answer": "Az hareketli bir kare seç, mümkünse 4K veya 60 fps çek ve ekran görüntüsü yerine dosyadan aktar. PNG veya HEIC olarak aktar ve en netini tutmak için komşu kareleri karşılaştır.",
+        "url": "/tr/guides/videodan-kaliteli-fotograf-alma/"
       },
       {
-        "question": "iPhone için videodan resim çıkarma uygulaması var mı?",
-        "answer": "Evet. Video To Photo - Grab Frame videodan resim çıkarma uygulamasıdır: bir klip açın, tam ana kaydırın ve JPG, PNG veya HEIC olarak kaydedin — hepsi iPhone'unuzda."
+        "question": "iPhone'da video JPG veya PNG'ye nasıl çevrilir?",
+        "answer": "Video To Photo – Grab Frame ile seçtiğin kareleri JPG, PNG veya HEIC olarak kaydedersin. Göndermek için JPG, kayıpsız düzenleme için PNG, küçük ve net dosyalar için HEIC.",
+        "url": "/tr/guides/video-jpg-cevirme/"
+      },
+      {
+        "question": "Videodan PDF nasıl yapılır?",
+        "answer": "Önemli kareleri Video To Photo – Grab Frame'de kaydet ve dışa aktarırken PDF seç. Karelerle tek bir PDF alırsın; storyboard, ders notu ve raporlar için kullanışlı.",
+        "url": "/tr/guides/video-pdf-donusturme/"
+      },
+      {
+        "question": "iPhone'da videodan YouTube kapak fotoğrafı nasıl yapılır?",
+        "answer": "Net ve etkileyici bir kareyi PNG olarak kaydet ve sevdiğin düzenleyicide yazı ekle. Sonra YouTube kapak fotoğrafı ya da TikTok veya Instagram kapağı olarak yükle.",
+        "url": "/tr/guides/youtube-kapak-fotografi-yapma/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "Videodan resim çıkarma",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "Videodan fotoğraf — iPhone için kare uygulaması",
     "application_category": "PhotoApplication",
-    "application_sub_category": "Fotoğraflar ve Video"
+    "application_sub_category": "Fotoğraf ve Video"
   },
   "footer": {
-    "cta_text": "📱 Video To Photo - Grab Frame indir",
+    "cta_text": "📱 Video To Photo - Grab Frame'i indir",
     "privacy_text": "Gizlilik Politikası",
     "terms_text": "Kullanım Koşulları",
     "support_text": "Destek",
-    "developer_info": "Geliştirici: Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. Tüm hakları saklıdır."
+    "developer_info": "Geliştirici: Vladimir Ivakhnenko (c-basso). Kareler cihazda işlenir ve asla yüklenmez.",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "Rehberler",
+    "blog_text": "Blog"
   },
   "floating_cta": {
-    "text": "📱 iPhone'da videodan mükemmel kareler yakala"
+    "text": "📱 Her videodan mükemmel kare"
   },
   "seo_chapter": {
     "title": "iPhone'da videoyu fotoğrafa dönüştürme",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "İçeriğe geç",
+    "ratings": "değerlendirme"
+  },
+  "nav": {
+    "how": "Nasıl çalışır",
+    "screenshots": "Ekran görüntüleri",
+    "guides": "Rehberler",
+    "faq": "SSS"
+  },
+  "download": {
+    "title": "Tek uygulama, tek iş: videodan fotoğraf",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "Tam o anda",
+        "description": "Kare şeridinde kaydır ve istediğin yerde dur. Gülümseme, zıplamanın tepesi, kimsenin gözünü kapatmadığı fotoğraf."
+      },
+      {
+        "icon": "🖼️",
+        "title": "Ekran görüntüsü değil, gerçek kare",
+        "description": "Doğrudan video dosyasından: oynat düğmesi yok, siyah şerit yok, ekran boyutu sınırı yok."
+      },
+      {
+        "icon": "🗂️",
+        "title": "İstediğin kadar",
+        "description": "Beğendiğin tüm kareleri tek seferde kaydet, karşılaştır ve en iyilerini tut."
+      },
+      {
+        "icon": "📦",
+        "title": "JPG, PNG, HEIC + ZIP/PDF",
+        "description": "Formatı ve nasıl alacağını seç: ayrı dosyalar, ZIP arşivi veya PDF."
+      },
+      {
+        "icon": "🔒",
+        "title": "%100 cihazda",
+        "description": "Videoların iPhone'dan çıkmaz. Yükleme yok, hesap yok, uçak modunda da çalışır."
+      },
+      {
+        "icon": "💾",
+        "title": "Projeler",
+        "description": "Her video proje olarak kaydedilir. Sonra açıp devam edersin."
+      }
+    ],
+    "meta_labels": {
+      "version": "Sürüm",
+      "size": "Boyut",
+      "requires": "Gerekenler",
+      "price": "Fiyat",
+      "price_value": "Ücretsiz · uygulama içi satın alma",
+      "category": "Kategori",
+      "category_value": "Fotoğraf ve Video"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "Ekran görüntüleri",
+    "title": "Altı ekranda videodan fotoğrafa",
+    "subtitle": "App Store'dakiyle birebir. Bu gerçek uygulama.",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame: her videodan en iyi an",
+        "title": "En iyi an",
+        "caption": "Arşivdeki her videodan."
+      },
+      {
+        "alt": "Kare kaydetme düğmesi ve 4 kayıtlı kare içeren tepsi",
+        "title": "Beğendiğin her şeyi kaydet",
+        "caption": "Grab This Frame'e istediğin kadar dokun."
+      },
+      {
+        "alt": "Kaydedilen bir kareyi büyüten önizleme",
+        "title": "Sadece en iyileri tut",
+        "caption": "Dışa aktarmadan önce yakınlaştır."
+      },
+      {
+        "alt": "JPEG, PNG, HEIC ve dosya, ZIP veya PDF seçenekli dışa aktarma ekranı",
+        "title": "Formatı seç",
+        "caption": "JPEG, PNG veya HEIC. Dosya, ZIP veya PDF."
+      },
+      {
+        "alt": "Karelerin ZIP'ini aktaran iOS paylaşma menüsü",
+        "title": "Kaydet ve paylaş",
+        "caption": "Dosyalar'a veya paylaşma menüsüyle."
+      },
+      {
+        "alt": "Süre, kare sayısı ve fps gösteren proje listesi",
+        "title": "Birden fazla proje",
+        "caption": "Sonra dön ve devam et."
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "Nasıl çalışır",
+    "cta": "Ücretsiz indir"
+  },
+  "guides_section": {
+    "eyebrow": "Rehberler",
+    "title": "Rehberler: iPhone'da videodan fotoğraf",
+    "subtitle": "En çok aranan soruların yanıtları ve iPhone'da en hızlı yol.",
+    "read_more": "Rehberi oku",
+    "all_text": "Tüm rehberler"
+  },
+  "cta": {
+    "title": "En iyi fotoğrafın bir videonun içinde.",
+    "text": "Saniyeler içinde, tam kalitede, sadece iPhone'la çıkar. Yükleme gerekmez."
+  },
+  "sticky": {
+    "text": "Her videodan HD fotoğraf"
   }
 }

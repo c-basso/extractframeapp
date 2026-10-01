@@ -1,0 +1,64 @@
+{
+  "slug": "video-til-bilder",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "video til bilde iphone",
+  "secondary_keywords": [
+    "video til bilde",
+    "flere bilder fra video",
+    "video til bilder"
+  ],
+  "title": "Video til bilder på iPhone: flere bilder samtidig",
+  "description": "Ta ut flere bilder fra en video samtidig på iPhone, uten datamaskin og ffmpeg. Lagre bare bildene du trenger som foto, ZIP eller PDF.",
+  "h1": "Video til bilder på iPhone",
+  "nav_title": "Video til bilder",
+  "card_title": "Video til bilder: flere samtidig",
+  "excerpt": "Mange bilder samtidig, bare de du trenger.",
+  "lead": "Noen ganger holder ikke ett bilde: hele hoppet, hvert trinn i oppskriften, alle scenene til et storyboard. Å gjøre hele videoen om til hundrevis av bilder skaper bare rot. Bedre å velge ut det du trenger.",
+  "quick_answer": "Åpne videoen i Video To Photo – Grab Frame, lagre så mange bilder du vil og eksporter dem samlet: som filer, ZIP eller PDF. Bilder i iOS 27 lagrer bare ett bilde om gangen.",
+  "content_intro": "<h2>Måter å få mange bilder på</h2><table><thead><tr><th>Måte</th><th>Fordel</th><th>Ulempe</th></tr></thead><tbody><tr><td>Skjermbilde etter skjermbilde</td><td>Ingen app</td><td>Tregt, lav oppløsning</td></tr><tr><td>Bilder (iOS 27)</td><td>Innebygd</td><td>Ett bilde om gangen</td></tr><tr><td>ffmpeg på datamaskin</td><td>Alle bilder</td><td>Tusenvis av bilder, krever datamaskin</td></tr><tr><td>Grab Frame</td><td>Bare de valgte, masseeksport</td><td>Noen funksjoner er Pro</td></tr></tbody></table><h2>Den innebygde måten (iOS 27)</h2><p>Fra iOS 27 kan Bilder-appen selv lagre et bilde fra en video: åpne videoen, sett den på pause på riktig øyeblikk, trykk på <strong>•••</strong> og velg <em>Save Video Frame as Photo</em>. Bildet lagres som HEIF eller JPG, med videoens dato. Ett bilde om gangen.</p>",
+  "steps_title": "Flere bilder fra én video",
+  "steps": [
+    {
+      "name": "Åpne videoen",
+      "text": "Trykk på Del i Bilder og velg Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Lagre bildene i rekkefølge",
+      "text": "Dra til hvert øyeblikk og trykk på lagre. Bildene samles i brettet.",
+      "shot": 1
+    },
+    {
+      "name": "Gå gjennom og rydd",
+      "text": "Slett like eller uskarpe bilder.",
+      "shot": 3
+    },
+    {
+      "name": "Eksporter alt samtidig",
+      "text": "Som separate filer, ZIP-arkiv eller PDF.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Nyttig til</h2><ul><li>Sport: bevegelsens faser.</li><li>Oppskrifter og veiledninger: hvert trinn.</li><li>Storyboard: hovedscenene.</li><li>Familie: de beste øyeblikkene fra bursdagen.</li></ul><p>Prosjektene lagres, så du kan fortsette senere.</p>",
+  "faq": [
+    {
+      "q": "Kan jeg ta ut alle bildene fra en video?",
+      "a": "På datamaskin, med ffmpeg. På iPhone er det mer praktisk å velge bare bildene du trenger i Grab Frame."
+    },
+    {
+      "q": "Hvor mange bilder kan jeg lagre?",
+      "a": "Så mange du vil. For mange bilder kan du eksportere som ZIP eller PDF."
+    },
+    {
+      "q": "Kan jeg fortsette senere?",
+      "a": "Ja. Hver video lagres som et prosjekt."
+    }
+  ],
+  "related": [
+    "app-bilde-fra-video",
+    "video-bilde-for-bilde-iphone",
+    "video-til-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

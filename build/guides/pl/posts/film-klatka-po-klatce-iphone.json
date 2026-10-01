@@ -1,0 +1,64 @@
+{
+  "slug": "film-klatka-po-klatce-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "film klatka po klatce iPhone",
+  "secondary_keywords": [
+    "odtwarzanie klatka po klatce iphone",
+    "przewijanie filmu klatka po klatce",
+    "stopklatka iphone"
+  ],
+  "title": "Film klatka po klatce na iPhonie i zapis klatki",
+  "description": "Jak przeglądać film klatka po klatce na iPhonie, by znaleźć dokładny moment (zamach, mrugnięcie, gol), i zapisać tę klatkę jako ostre zdjęcie.",
+  "h1": "Jak oglądać film klatka po klatce na iPhonie",
+  "nav_title": "Klatka po klatce (iPhone)",
+  "card_title": "Film klatka po klatce na iPhonie",
+  "excerpt": "Znajdź dokładny moment w filmie i zapisz go jako zdjęcie.",
+  "lead": "Zamach, gol, trik, mrugnięcie. Odtwarzając i pauzując tego nie zobaczysz; trzeba przejść przez film prawie klatka po klatce. Oto jak zrobić to na iPhonie i jak zapisać klatkę.",
+  "quick_answer": "Zatrzymaj film w Zdjęciach i powoli przesuwaj pasek klatek. Na iOS 27 zapiszesz potem klatkę przez •••. Jeśli chcesz zebrać wiele momentów, przesuwaj w Video To Photo – Grab Frame z dużym podglądem i zapisuj każdy moment.",
+  "content_intro": "<h2>Klatka po klatce w aplikacji Zdjęcia</h2><ol><li>Otwórz film i zatrzymaj.</li><li>Dotknij paska klatek na dole i przesuwaj powoli w lewo lub w prawo.</li><li>Przytrzymaj chwilę pasek, by go powiększyć i przesuwać dokładniej.</li></ol><p>Na iOS 27 lub nowszym stuknij <strong>•••</strong>, by zapisać znalezioną klatkę jako zdjęcie. Na starszym iOS masz tylko <a href=\"/pl/guides/zrzut-ekranu-z-filmu-iphone-bez-utraty-jakosci/\">zrzut ekranu z utratą jakości</a>; aplikacja pozwala zapisać wiele momentów na każdej wersji.</p><h2>Dlaczego powoli?</h2><p>Przy 30 kl./s klatka trwa 33 milisekundy, przy 60 kl./s 17. Mrugnięcie, uderzenie piłki czy mina zmieniają się w ciągu dwóch klatek. Różnica między najlepszym zdjęciem a nieudanym to często jedna klatka.</p>",
+  "steps_title": "Jak znaleźć i zapisać właściwą klatkę",
+  "steps": [
+    {
+      "name": "Otwórz film w aplikacji",
+      "text": "Udostępnij go ze Zdjęć aplikacji Video To Photo – Grab Frame. Zobaczysz duży podgląd i pasek klatek.",
+      "shot": 0
+    },
+    {
+      "name": "Przesuwaj powoli",
+      "text": "Ruszaj palcem małymi krokami i patrz na podgląd. Wracaj w przód i w tył wokół ruchu.",
+      "shot": 1
+    },
+    {
+      "name": "Zapisz też sąsiednie",
+      "text": "Stuknij zapis, przesuń odrobinę i zapisz ponownie. Porównaj i zostaw najlepszą.",
+      "shot": 2
+    },
+    {
+      "name": "Wyeksportuj najlepszą",
+      "text": "Wyeksportuj jako PNG lub HEIC, by zachować szczegóły, do analizy, notatek treningowych lub social mediów.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Kiedy klatka po klatce się przydaje</h2><ul><li><strong>Sport</strong>: zamach w golfie i tenisie, technika, skoki. Zapisz kluczowe klatki i przejrzyj je jako PDF.</li><li><strong>Dzieci i zwierzaki</strong>: ta jedna klatka, gdy wszyscy patrzą w obiektyw.</li><li><strong>Poradniki i nagrania ekranu</strong>: jeden krok jako obraz referencyjny.</li><li><strong>Sporne sytuacje</strong>: co naprawdę stało się przy tym golu?</li></ul><h2>Nagrywaj tak, żeby było łatwiej</h2><p>Nagrywaj w <strong>60 kl./s</strong> (Ustawienia → Aparat → Nagrywanie wideo): dwa razy więcej momentów i mniej rozmycia na klatkę. Zwolnione tempo daje ich jeszcze więcej. Zobacz też <a href=\"/pl/guides/ostre-zdjecie-z-filmu/\">ostre zdjęcie z filmu</a>.</p>",
+  "faq": [
+    {
+      "q": "Czy w aplikacji Zdjęcia można przewijać film klatka po klatce?",
+      "a": "Nie ma przycisku jednej klatki, ale pauza i powolne przesuwanie paska dają prawie to samo. Na iOS 27 zapiszesz tę klatkę przez •••."
+    },
+    {
+      "q": "Jak zapisać znalezioną klatkę?",
+      "a": "Na iOS 27 przez ••• w Zdjęciach. Na każdej wersji znajdź ten sam moment w Video To Photo – Grab Frame, zapisz go i wyeksportuj jako JPG, PNG lub HEIC."
+    },
+    {
+      "q": "Czy nagrywać w 60 kl./s?",
+      "a": "Tak. Masz dwa razy więcej klatek niż przy 30 kl./s, a każda jest mniej rozmyta, więc łatwiej znaleźć ostry moment."
+    }
+  ],
+  "related": [
+    "ostre-zdjecie-z-filmu",
+    "wycinanie-klatek-z-filmu",
+    "jak-zrobic-zdjecie-z-filmu-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

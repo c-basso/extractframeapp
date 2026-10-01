@@ -1,0 +1,65 @@
+{
+  "slug": "douga-frame-chushutsu",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "動画 フレーム 抽出",
+  "secondary_keywords": [
+    "動画 フレーム 抽出 アプリ",
+    "動画 全 フレーム 抽出 スマホ",
+    "動画から画像 切り出し",
+    "動画 フレーム 抽出 スマホ"
+  ],
+  "title": "動画からフレームを抽出する方法｜iPhoneで複数枚まとめて",
+  "description": "iPhoneで動画から複数のフレームを一度に抽出する方法。パソコンやffmpegなしで、必要なコマを写真・ZIP・PDFでまとめて保存できます。",
+  "h1": "iPhoneで動画からフレームを抽出する方法",
+  "nav_title": "動画からフレーム抽出",
+  "card_title": "動画から複数のフレームを抽出",
+  "excerpt": "1本の動画から連続したコマをまとめて抽出し、画像・ZIP・PDFで書き出す。",
+  "lead": "絵コンテ、スポーツの連続写真、ビフォーアフター、リアクション集……1枚では足りないこともあります。iPhoneだけで必要な数のコマを抽出する方法です。",
+  "quick_answer": "Video To Photo – Grab Frameで動画を開き、欲しい瞬間ごとに保存ボタンをタップ。並んだコマを確認して不要なものを消し、JPG・PNG・HEICの個別ファイル、ZIP、PDFのいずれかでまとめて書き出します。",
+  "content_intro": "<h2>全フレームが必要？ それとも必要なコマだけ？</h2><p>30秒・30fpsの動画には900コマあります。パソコンのffmpegやVLCのように全部書き出すと、ほぼ同じファイルが何百枚もできます。スマホなら<strong>必要なコマだけを選んで</strong>書き出すほうが、ほとんどの場合早く済みます。</p><table><thead><tr><th>目的</th><th>おすすめのやり方</th></tr></thead><tbody><tr><td>絵コンテ、手順の解説</td><td>シーンや手順ごとに1コマ</td></tr><tr><td>スポーツ、動きの分析</td><td>一定間隔でコマを取る</td></tr><tr><td>ベストな1枚を探す</td><td>前後3〜5コマから一番シャープなもの</td></tr><tr><td>アニメーションや解析で全コマ</td><td>パソコンのソフト（ffmpeg）が向いている</td></tr></tbody></table><p>iOS 27の標準機能は1枚ずつの保存なので、連続したコマには不向きです。</p>",
+  "steps_title": "iPhoneで動画から複数のフレームを抽出する手順",
+  "steps": [
+    {
+      "name": "動画を開く",
+      "text": "「写真」からアプリに共有するか、Video To Photo – Grab Frameで動画を選びます。",
+      "shot": 0
+    },
+    {
+      "name": "瞬間ごとに保存",
+      "text": "帯をなぞり、欲しい瞬間ごとに保存ボタンをタップ。カウンターで枚数を確認できます。",
+      "shot": 1
+    },
+    {
+      "name": "コマを確認",
+      "text": "全画面で開いてピントを確認し、重複やブレたコマを削除します。",
+      "shot": 2
+    },
+    {
+      "name": "まとめて書き出す",
+      "text": "JPEG・PNG・HEICを選び、個別画像は「ファイル」、1つにまとめるならZIP、資料ならPDFで。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP、PDF、個別ファイルの使い分け</h2><ul><li><strong>個別ファイル</strong>：1枚ずつ編集・投稿するとき。</li><li><strong>ZIP</strong>：AirDrop、メール、LINE、クラウドに1ファイルで送りたいとき。</li><li><strong>PDF</strong>：絵コンテ、メモ、確認用の資料としてまとめたいとき。<a href=\"/ja/guides/douga-pdf-henkan/\">動画をPDFにする方法</a>も参考に。</li></ul><h2>連続コマのコツ</h2><ul><li>動きは同じくらいの間隔でコマを取ると流れが伝わります。</li><li>コラージュに使うならPNGで。JPEGの再圧縮を避けられます。</li><li>プロジェクトが保存されるので、足りないコマはあとから追加できます。</li></ul>",
+  "faq": [
+    {
+      "q": "1本の動画から何枚まで抽出できる？",
+      "a": "必要なだけ保存できます。瞬間ごとに保存ボタンを押して、まとめて書き出すだけ。枚数が多いと書き出しに少し時間がかかります。"
+    },
+    {
+      "q": "全フレームを自動で抽出できる？",
+      "a": "Video To Photo – Grab Frameはコマを選んで保存するためのアプリです。アニメーションや解析で本当に全コマが必要なら、ffmpegなどパソコンのソフトが向いています。"
+    },
+    {
+      "q": "たくさんのコマを一度に送るには？",
+      "a": "ZIPで書き出して、AirDrop・メール・LINEで1ファイルとして送れます。PDFで書き出す方法もあります。"
+    }
+  ],
+  "related": [
+    "douga-pdf-henkan",
+    "douga-komaokuri-iphone",
+    "douga-seishiga-hozon-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

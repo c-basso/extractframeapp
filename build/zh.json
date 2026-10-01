@@ -1,19 +1,19 @@
 {
   "meta": {
     "lang": "zh",
-    "title": "视频转照片/图片 iPhone | Video To Photo",
-    "description": "视频转照片 iPhone应用：从视频中精确选取单帧或批量导出 JPG、PNG、HEIC，数秒完成。设备端私密处理，无需上传视频至云端，保护您的隐私。支持批量导出、项目保存，安全可靠，立即从 App Store 免费下载体验。",
-    "keywords": "视频转照片, 视频抽帧, 视频转图片, 视频帧提取, iPhone 保存视频帧, 视频转图片, jpg 视频, png 视频, heic 视频, 批量导出, 从照片共享",
+    "title": "iPhone 视频截取照片 App（高清）| Grab Frame",
+    "description": "在 iPhone 上从视频截取高清照片。不是截屏，而是从原视频文件精准提取一帧或多帧，保存为 JPG、PNG、HEIC，或导出为 ZIP、PDF。离线处理，无需上传，免费下载。",
+    "keywords": "视频截取照片, iphone 视频截图, 视频提取图片, 视频提取帧, 视频转图片, 视频逐帧, 视频转pdf, 视频封面制作",
     "author": "Vladimir Ivakhnenko",
     "og_url": "https://extractframeapp.com/zh/",
-    "og_title": "视频转照片/图片 iPhone应用",
-    "og_description": "视频转照片 iPhone应用。选择精确时刻，以 JPG、PNG 或 HEIC 导出高质量帧。设备端处理，无需上传视频到外部服务器。支持批量导出、ZIP与PDF输出及项目保存，可从 App Store 免费下载，无需注册账号。",
+    "og_title": "iPhone 视频截取照片 — 精准一帧，高清保存",
+    "og_description": "在 iPhone 视频中找到决定性的瞬间，以原始画质保存一张或几十张帧。不是截图，而是真正的视频帧，可导出为 JPG、PNG、HEIC 格式，也能打包成 ZIP 或 PDF 文件。无需上传，无需注册账号，全部在设备上本地完成，没有网络也能正常使用。",
     "og_image": "https://extractframeapp.com/site_preview.png",
     "site_name": "Video To Photo - Grab Frame",
     "og_locale": "zh_CN",
     "twitter_url": "https://extractframeapp.com/zh/",
-    "twitter_title": "Video To Photo - Grab Frame",
-    "twitter_description": "视频转照片 iPhone应用。精确抽帧、设备端处理、批量导出，支持 JPG、PNG、HEIC。",
+    "twitter_title": "视频截取照片 — Grab Frame",
+    "twitter_description": "从 iPhone 视频保存高清照片。JPG、PNG、HEIC、ZIP、PDF。离线，无需上传。",
     "twitter_image": "https://extractframeapp.com/site_preview.png",
     "app_store_id": "6743497797",
     "canonical": "https://extractframeapp.com/zh/",
@@ -21,18 +21,25 @@
     "geo_placename": "中国"
   },
   "hero": {
-    "logo_alt": "Video To Photo - Grab Frame 标志",
-    "title": "在 iPhone 上从视频提取帧",
-    "subtitle": "视频转照片与图片—几秒内从片段保存精确静帧",
-    "entity_definition": "Video To Photo - Grab Frame 是一款 iOS 应用，可在 iPhone 上将视频转为照片。选择精确时刻，以 JPG、PNG 或 HEIC 导出帧。",
-    "subheadline": "从“照片”打开，拖动到正确时刻，保存一帧或多帧。无需账号、无需上传、无需剪辑时间线。",
-    "download_alt": "在 App Store 下载",
-    "phone_text": "轻点从视频抓取帧",
-    "qr_alt": "下载应用的二维码",
-    "qr_text": "用 iPhone 扫描下载"
+    "logo_alt": "Video To Photo – Grab Frame App 图标",
+    "title": "iPhone 视频截取照片 — 精准一帧，高清保存",
+    "title_html": "从<span class=\"grad-text\">视频截取照片</span>。精准一帧，高清保存。",
+    "subtitle": "拖到想要的瞬间，保存一张或几十张帧，导出为 JPG、PNG 或 HEIC。一切都在 iPhone 上完成：无需上传，无需账号。",
+    "entity_definition": "Video To Photo – Grab Frame 是一款 iPhone App，可从视频中提取帧并保存为高分辨率照片。所有处理都在设备上完成。",
+    "subheadline": "从“照片”共享，找到瞬间，保存。完成。",
+    "download_alt": "在 App Store 下载 Video To Photo – Grab Frame",
+    "phone_text": "轻点即可从视频截取一帧",
+    "qr_alt": "下载 Video To Photo – Grab Frame 的二维码",
+    "qr_text": "用 iPhone 相机扫码安装",
+    "bullets": [
+      "离线使用",
+      "JPG、PNG、HEIC",
+      "导出 ZIP 和 PDF",
+      "无需账号"
+    ]
   },
   "last_updated": {
-    "text": "最后更新：2026年6月16日"
+    "text": "最后更新：2026年10月1日"
   },
   "features": {
     "title": "为何选择 iPhone 视频转照片",
@@ -102,28 +109,26 @@
     ]
   },
   "demo": {
-    "title": "如何在 iPhone 上从视频提取帧",
-    "subtitle": "简单步骤，从片段保存完美静帧",
-    "placeholder_line1": "📱 演示视频即将推出",
-    "placeholder_line2": "步骤 1：从“照片”打开 > 步骤 2：拖动到时刻 > 步骤 3：抓取帧 > 步骤 4：导出 JPG/PNG/HEIC"
+    "title": "如何在 iPhone 上从视频截取照片",
+    "subtitle": "4 个步骤，大约一分钟，无需学习。"
   },
   "howto_steps": {
     "items": [
       {
-        "name": "从“照片”打开",
-        "text": "从“照片”将视频共享到 {{app_info.name}}，或先打开应用再选择片段。"
+        "name": "从“照片”共享视频",
+        "text": "在“照片”中打开视频，轻点“共享”并选择本 App；也可以打开 App 选择视频。帧提取界面会立即打开。"
       },
       {
-        "name": "找到精确时刻",
-        "text": "使用拖动控制逐帧移动，停在想要的静帧上。"
+        "name": "找到瞬间并保存",
+        "text": "拖动帧条到想要的帧，轻点保存。需要几帧就重复几次。"
       },
       {
-        "name": "抓取一帧或多帧",
-        "text": "捕捉单帧或标记多个时刻进行批量导出。"
+        "name": "只留最好的",
+        "text": "全屏打开各帧，放大检查清晰度，删掉模糊的。"
       },
       {
-        "name": "导出并保存",
-        "text": "将静帧保存为 JPG、PNG 或 HEIC，或导出为 ZIP 或 PDF。"
+        "name": "导出并分享",
+        "text": "选择 JPEG、PNG 或 HEIC，保存为单独文件、ZIP 或 PDF。"
       }
     ]
   },
@@ -151,58 +156,80 @@
     ]
   },
   "faq": {
-    "title": "iPhone 视频转照片常见问题",
+    "eyebrow": "常见问题",
+    "title": "iPhone 视频截取照片：常见问题",
+    "learn_more": "了解更多",
     "items": [
       {
-        "question": "如何在 iPhone 上从视频提取帧？",
-        "answer": "在 Video To Photo - Grab Frame 中打开片段，拖动到精确时刻并捕捉静帧。然后导出为 JPG、PNG 或 HEIC。"
+        "question": "iPhone 怎么从视频截取照片？",
+        "answer": "iOS 27 起，在“照片”中打开视频，暂停后通过 ••• 把帧存储为照片（一次一张）。旧版 iOS，或需要把多张照片保存为 JPG、PNG、HEIC、ZIP、PDF 时，请使用 Video To Photo – Grab Frame。",
+        "url": "/zh/guides/iphone-shipin-jiequ-zhaopian/"
       },
       {
-        "question": "可以一次导出多帧吗？",
-        "answer": "可以。可选择多个时刻，一次性批量导出多帧。"
+        "question": "为什么视频截图这么不清晰？",
+        "answer": "截屏保存的是屏幕：4K 帧被缩小到屏幕尺寸，还会带上播放按钮或黑边，HDR 视频还会变暗。用 iOS 27 的“照片”或 Video To Photo – Grab Frame 从文件保存帧，再导出为 PNG 或 HEIC。",
+        "url": "/zh/guides/iphone-shipin-jietu/"
       },
       {
-        "question": "支持哪些导出格式？",
-        "answer": "支持 JPG、PNG 和 HEIC。也可导出为 ZIP 或 PDF。"
+        "question": "怎么把视频的某一帧保存为照片？",
+        "answer": "把视频从“照片”共享到 Video To Photo – Grab Frame，找到那一帧，保存后轻点“导出”，即可存入“照片”或“文件”。原视频不会改变。",
+        "url": "/zh/guides/shipin-baocun-zhen-iphone/"
       },
       {
-        "question": "应用会上传我的视频吗？",
-        "answer": "不会。抽帧在设备端进行，视频和生成的图像都保留在 iPhone 上。"
+        "question": "视频提取图片 App 应该怎么选？",
+        "answer": "看四点：精准选帧、按视频分辨率导出、设备端处理、批量导出。Video To Photo – Grab Frame 全部满足，并可导出 JPG、PNG、HEIC、ZIP 或 PDF。",
+        "url": "/zh/guides/shipin-tiqu-tupian-app/"
       },
       {
-        "question": "可以稍后继续吗？",
-        "answer": "可以。可将会话保存为项目并稍后重新打开。"
+        "question": "能一次从视频提取多帧吗？",
+        "answer": "可以。从同一段视频保存任意多帧，一次导出为文件、ZIP 或 PDF。只挑需要的帧，比整理几百张相似图片快得多。",
+        "url": "/zh/guides/shipin-tiqu-zhen/"
       },
       {
-        "question": "Video To Photo - Grab Frame 免费吗？",
-        "answer": "应用免费下载；高级功能通过 App 内购买提供。"
+        "question": "iPhone 上怎么逐帧查看视频？",
+        "answer": "在“照片”中暂停视频，慢慢拖动帧条。在 Video To Photo – Grab Frame 中，可以用大预览拖动，并立即保存想要的帧。",
+        "url": "/zh/guides/shipin-zhuzhen-iphone/"
       },
       {
-        "question": "适合谁使用？",
-        "answer": "适合内容创作者、教师，以及希望将视频中特定时刻保存为照片的用户。"
+        "question": "怎样从视频截出高清图片？",
+        "answer": "选择动作少的帧，尽量用 4K 或 60 fps 拍摄，并从文件导出而不是截屏。导出为 PNG 或 HEIC，比较相邻帧，留下最清晰的一张。",
+        "url": "/zh/guides/shipin-tiqu-gaoqing-tupian/"
       },
       {
-        "question": "有 iPhone 视频转照片应用吗？",
-        "answer": "有。Video To Photo - Grab Frame 可将视频转为照片与图片：打开片段，拖动到精确时刻，以 JPG、PNG 或 HEIC 保存帧。全部在 iPhone 上完成。"
+        "question": "iPhone 怎么把视频转成 JPG 或 PNG？",
+        "answer": "在 Video To Photo – Grab Frame 中，选中的帧可保存为 JPG、PNG 或 HEIC。发送用 JPG，无损编辑用 PNG，小而清晰用 HEIC。",
+        "url": "/zh/guides/shipin-zhuan-tupian/"
+      },
+      {
+        "question": "怎么把视频做成 PDF？",
+        "answer": "在 Video To Photo – Grab Frame 中保存关键帧，导出时选择 PDF，即可得到一份包含所有帧的 PDF，适合分镜、笔记和报告。",
+        "url": "/zh/guides/shipin-zhuan-pdf/"
+      },
+      {
+        "question": "怎么用 iPhone 从视频制作封面？",
+        "answer": "把清晰、有表情的一帧保存为 PNG，在常用编辑 App 中加上文字，然后上传为 YouTube 封面或抖音、小红书、Instagram 的封面。",
+        "url": "/zh/guides/shipin-fengmian-zhizuo/"
       }
     ]
   },
   "app_info": {
-    "name": "Video To Photo - Grab Frame",
-    "alternate_name": "视频转照片",
+    "name": "Video To Photo – Grab Frame",
+    "alternate_name": "视频截取照片 — iPhone 取帧 App",
     "application_category": "PhotoApplication",
-    "application_sub_category": "照片与视频"
+    "application_sub_category": "摄影与录像"
   },
   "footer": {
     "cta_text": "📱 下载 Video To Photo - Grab Frame",
     "privacy_text": "隐私政策",
     "terms_text": "使用条款",
     "support_text": "支持",
-    "developer_info": "开发者：Vladimir Ivakhnenko (c-basso)",
-    "copyright": "© {year} c-basso. 保留所有权利。"
+    "developer_info": "开发者：Vladimir Ivakhnenko（c-basso）。所有帧都在设备上处理，从不上传。",
+    "copyright": "© {year} c-basso. All rights reserved.",
+    "guides_text": "指南",
+    "blog_text": "博客"
   },
   "floating_cta": {
-    "text": "📱 在 iPhone 上从视频抓取完美帧"
+    "text": "📱 从任何视频截取完美一帧"
   },
   "seo_chapter": {
     "title": "如何在 iPhone 上将视频转为照片",
@@ -257,5 +284,114 @@
         }
       ]
     }
+  },
+  "labels": {
+    "skip": "跳到正文",
+    "ratings": "个评分"
+  },
+  "nav": {
+    "how": "使用方法",
+    "screenshots": "截图",
+    "guides": "指南",
+    "faq": "常见问题"
+  },
+  "download": {
+    "title": "一个 App，只做一件事：从视频取照片",
+    "facts": [
+      {
+        "icon": "🎯",
+        "title": "精准到那一瞬间",
+        "description": "拖动帧条，想停哪就停哪。笑容、跳跃最高点、没人闭眼的那一张。"
+      },
+      {
+        "icon": "🖼️",
+        "title": "真正的帧，不是截屏",
+        "description": "直接从视频文件提取：没有播放按钮、没有黑边，不受屏幕尺寸限制。"
+      },
+      {
+        "icon": "🗂️",
+        "title": "想存多少就存多少",
+        "description": "一次保存所有喜欢的帧，比较后只留最好的。"
+      },
+      {
+        "icon": "📦",
+        "title": "JPG、PNG、HEIC + ZIP/PDF",
+        "description": "自由选择格式和导出方式：单独文件、ZIP 压缩包或 PDF。"
+      },
+      {
+        "icon": "🔒",
+        "title": "100% 设备端处理",
+        "description": "视频不会离开 iPhone。无需上传、无需账号，飞行模式下也能用。"
+      },
+      {
+        "icon": "💾",
+        "title": "项目保存",
+        "description": "每个视频都保存为项目，之后打开即可继续。"
+      }
+    ],
+    "meta_labels": {
+      "version": "版本",
+      "size": "大小",
+      "requires": "兼容性",
+      "price": "价格",
+      "price_value": "免费 · 含 App 内购买",
+      "category": "类别",
+      "category_value": "摄影与录像"
+    }
+  },
+  "screenshots": {
+    "eyebrow": "截图",
+    "title": "6 个界面，从视频到照片",
+    "subtitle": "与 App Store 中完全一致，这就是真实的 App。",
+    "items": [
+      {
+        "alt": "Video To Photo – Grab Frame：从任何视频中截取最佳瞬间",
+        "title": "截取最佳瞬间",
+        "caption": "图库中的任何视频都可以。"
+      },
+      {
+        "alt": "保存帧按钮和已保存 4 帧的托盘",
+        "title": "喜欢的都存下来",
+        "caption": "随意轻点 Grab This Frame。"
+      },
+      {
+        "alt": "放大查看已保存帧的预览界面",
+        "title": "只留最好的",
+        "caption": "导出前放大检查。"
+      },
+      {
+        "alt": "可选 JPEG、PNG、HEIC 及文件、ZIP、PDF 的导出界面",
+        "title": "选择格式",
+        "caption": "JPEG、PNG 或 HEIC。文件、ZIP 或 PDF。"
+      },
+      {
+        "alt": "iOS 共享菜单正在导出帧的 ZIP",
+        "title": "保存并分享",
+        "caption": "存到“文件”或通过共享菜单。"
+      },
+      {
+        "alt": "显示时长、帧数和 fps 的项目列表",
+        "title": "多个项目",
+        "caption": "之后回来继续。"
+      }
+    ]
+  },
+  "how": {
+    "eyebrow": "使用方法",
+    "cta": "免费下载"
+  },
+  "guides_section": {
+    "eyebrow": "指南",
+    "title": "指南：iPhone 视频截取照片",
+    "subtitle": "热门问题的解答，以及在 iPhone 上最快的做法。",
+    "read_more": "阅读指南",
+    "all_text": "全部指南"
+  },
+  "cta": {
+    "title": "你最好的照片，藏在视频里。",
+    "text": "几秒钟，原画质，只用 iPhone 就能取出。无需上传。"
+  },
+  "sticky": {
+    "text": "从任何视频保存高清照片"
   }
 }

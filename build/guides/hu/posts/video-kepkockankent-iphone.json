@@ -1,0 +1,64 @@
+{
+  "slug": "video-kepkockankent-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "videó képkockánként iPhone",
+  "secondary_keywords": [
+    "videó léptetése képkockánként iphone",
+    "video frame by frame iphone",
+    "videó megállítása adott kockánál"
+  ],
+  "title": "Videó képkockánként iPhone-on és a kocka mentése",
+  "description": "Így léptetheti a videót képkockánként iPhone-on, hogy megtalálja a pontos pillanatot (ütés, pislogás, gól), és élesen mentse fotóként.",
+  "h1": "Hogyan nézhet videót képkockánként iPhone-on",
+  "nav_title": "Képkockánként (iPhone)",
+  "card_title": "Videó képkockánként iPhone-on",
+  "excerpt": "Találja meg a pontos pillanatot a videóban, és mentse fotóként.",
+  "lead": "Egy ütés, egy gól, egy trükk, egy pislogás. Lejátszással és megállítással nem látja; szinte kockánként kell végigmenni a videón. Így megy ez iPhone-on, és így menti a kockát.",
+  "quick_answer": "Állítsa meg a videót a Fotókban, és húzza lassan a képkockasávot. iOS 27-en ezután a ••• menüben mentse a kockát. Ha több pillanatot gyűjtene, húzza a Video To Photo – Grab Frame-ben nagy előnézettel, és mentsen minden pillanatot.",
+  "content_intro": "<h2>Képkockánként a Fotók appban</h2><ol><li>Nyissa meg a videót, és állítsa meg.</li><li>Érintse meg alul a képkockasávot, és húzza lassan balra vagy jobbra.</li><li>Tartsa egy pillanatig az ujját a sávon: kinagyobbodik, és pontosabban húzhatja.</li></ol><p>iOS 27-en vagy újabbon koppintson a <strong>•••</strong> gombra, hogy a megtalált kockát fotóként mentse. Régebbi iOS-en csak <a href=\"/hu/guides/kepernyokep-videorol-iphone/\">minőségvesztéssel járó képernyőkép</a> van; az app bármely verzión több pillanatot ment.</p><h2>Miért lassan?</h2><p>30 fps-nél egy kocka 33 ezredmásodperc, 60 fps-nél 17. Egy pislogás, a labda megütése vagy egy arckifejezés két kockán belül változik. A legjobb fotó és a rossz között gyakran csak egy kocka a különbség.</p>",
+  "steps_title": "Így találja meg és menti a megfelelő kockát",
+  "steps": [
+    {
+      "name": "Nyissa meg a videót az appban",
+      "text": "Ossza meg a Fotókból a Video To Photo – Grab Frame-mel. Nagy előnézetet és képkockasávot lát.",
+      "shot": 0
+    },
+    {
+      "name": "Húzza lassan",
+      "text": "Mozgassa az ujját apró lépésekben, és figyelje az előnézetet. Menjen előre-hátra a mozgás körül.",
+      "shot": 1
+    },
+    {
+      "name": "Mentse a szomszédokat is",
+      "text": "Koppintson a mentésre, húzza egy kicsit, és mentse újra. Hasonlítsa össze, és tartsa meg a legjobbat.",
+      "shot": 2
+    },
+    {
+      "name": "Exportálja a legjobbat",
+      "text": "Exportáljon PNG-be vagy HEIC-be a részletek megőrzéséhez, elemzéshez, edzésjegyzethez vagy közösségi médiához.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Mikor hasznos a képkockánkénti nézés</h2><ul><li><strong>Sport</strong>: golf- és teniszütés, technika, ugrások. Mentse a kulcskockákat, és nézze át PDF-ként.</li><li><strong>Gyerekek és háziállatok</strong>: az az egy kocka, amelyen mindenki a kamerába néz.</li><li><strong>Oktatóanyagok és képernyőfelvételek</strong>: egy lépés referenciaképként.</li><li><strong>Vitatott helyzetek</strong>: mi történt valójában annál a gólnál?</li></ul><h2>Így vegyen fel, hogy később könnyebb legyen</h2><p>Vegyen fel <strong>60 fps</strong>-sel (Beállítások → Kamera → Videorögzítés): kétszer annyi pillanat és kevesebb elmosódás kockánként. A lassított felvétel még többet ad. Lásd még: <a href=\"/hu/guides/eles-kep-videobol/\">éles kép videóból</a>.</p>",
+  "faq": [
+    {
+      "q": "Léptethető a videó képkockánként a Fotókban?",
+      "a": "Nincs egykockás gomb, de a megállítás és a sáv lassú húzása szinte ugyanazt adja. iOS 27-en a kockát a ••• menüben mentheti."
+    },
+    {
+      "q": "Hogyan mentem a megtalált kockát?",
+      "a": "iOS 27-en a Fotók ••• menüjével. Bármely verzión keresse meg ugyanazt a pillanatot a Video To Photo – Grab Frame-ben, mentse, és exportálja JPG-be, PNG-be vagy HEIC-be."
+    },
+    {
+      "q": "Érdemes 60 fps-sel felvenni?",
+      "a": "Igen. Kétszer annyi kocka van, mint 30 fps-nél, és mindegyik kevésbé elmosódott, így könnyebb éles pillanatot találni."
+    }
+  ],
+  "related": [
+    "eles-kep-videobol",
+    "kepkockak-videobol",
+    "kep-kivagasa-videobol-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

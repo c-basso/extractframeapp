@@ -1,0 +1,64 @@
+{
+  "slug": "video-in-pdf",
+  "translation_of": "video-frames-to-pdf",
+  "order": 9,
+  "keyword": "video în PDF",
+  "secondary_keywords": [
+    "video in pdf",
+    "video in pdf gratis",
+    "storyboard din video"
+  ],
+  "title": "Video în PDF pe iPhone: cadrele într-un singur fișier",
+  "description": "Transformă un video în PDF pe iPhone: alegi cadrele-cheie și le pui într-un singur PDF pentru storyboard, notițe sau revizuire. Offline, fără încărcare.",
+  "h1": "Cum transformi un video în PDF pe iPhone",
+  "nav_title": "Video în PDF",
+  "card_title": "Cadrele dintr-un video într-un PDF",
+  "excerpt": "Momentele importante ale unui video într-un singur PDF: storyboard, notițe, revizuire.",
+  "lead": "Un PDF cu cadrele-cheie e cel mai rapid mod de a arăta ce e într-un video cuiva care nu-l va urmări. Unui client care aprobă montajul, unui student care recapitulează cursul, unei echipe care aprobă un storyboard.",
+  "quick_answer": "Deschide clipul în Video To Photo – Grab Frame și salvează un cadru la fiecare moment important. Atinge Exportă, alege formatul imaginii și apoi PDF. Primești un singur PDF cu cadrele, gata de trimis prin AirDrop, WhatsApp, e-mail sau Fișiere.",
+  "content_intro": "<h2>Ce înseamnă „video în PDF”?</h2><p>Un PDF nu redă video. A transforma un video în PDF înseamnă a salva <strong>imagini fixe</strong> și a le pune într-un singur document. Totul ține de <em>ce cadre alegi</em>: un PDF cu 900 de cadre aproape identice nu folosește la nimic, unul cu 12 cadre-cheie e aur.</p><h2>Util pentru</h2><ul><li><strong>Storyboard sau listă de cadre</strong>: un cadru pe scenă, pentru pitch-uri și prezentări.</li><li><strong>Notițe de curs</strong>: slide-uri și tablă dintr-un curs înregistrat.</li><li><strong>Revizuire cu clientul</strong>: comentariile într-un PDF sunt mai simple decât căutarea minutajelor.</li><li><strong>Analiză sportivă</strong>: fazele unei mișcări în ordine.</li><li><strong>Manuale</strong>: o înregistrare de ecran transformată în pași.</li></ul>",
+  "steps_title": "Cum pui cadrele dintr-un video într-un PDF pe iPhone",
+  "steps": [
+    {
+      "name": "Deschide clipul",
+      "text": "Partajează-l din Poze cu Video To Photo – Grab Frame sau alege-l în aplicație.",
+      "shot": 0
+    },
+    {
+      "name": "Salvează cadrele-cheie",
+      "text": "Parcurge clipul și atinge salvarea la fiecare scenă, slide sau pas.",
+      "shot": 1
+    },
+    {
+      "name": "Alege PDF la export",
+      "text": "Atinge Exportă, alege JPEG, PNG sau HEIC și apoi PDF.",
+      "shot": 3
+    },
+    {
+      "name": "Partajează sau salvează PDF-ul",
+      "text": "Salvează în Fișiere sau trimite prin AirDrop, WhatsApp ori e-mail din meniul de partajare.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Sfaturi pentru un PDF curat</h2><ul><li>Salvează cadrele în ordine, de la început la sfârșit.</li><li>Alege cadre în care tot textul e vizibil și care nu sunt în mijlocul unei tranziții.</li><li>Folosește PNG pentru slide-uri și text mic.</li><li>Proiectul rămâne salvat, deci poți adăuga cadre mai târziu și exporta din nou.</li></ul><h2>PDF sau ZIP?</h2><p><strong>PDF</strong> pentru citit în ordine și comentat, <strong>ZIP</strong> când ai nevoie de fișiere separate, de exemplu pentru un design. Ambele sunt descrise în ghidul <a href=\"/ro/guides/extragere-cadre-din-video/\">extragerea cadrelor din video</a>.</p>",
+  "faq": [
+    {
+      "q": "Pot transforma un video în PDF fără să-l încarc pe internet?",
+      "a": "Da. Video To Photo – Grab Frame creează PDF-ul pe iPhone din cadrele salvate; clipul nu părăsește dispozitivul."
+    },
+    {
+      "q": "În ce ordine sunt cadrele în PDF?",
+      "a": "PDF-ul conține cadrele pe care le-ai salvat. Salvează-le de la început la sfârșit și documentul va urma clipul."
+    },
+    {
+      "q": "Cum fac un storyboard dintr-un video pe telefon?",
+      "a": "Salvează un cadru pe plan sau scenă și exportă ca PDF: ăsta e un storyboard simplu. Notițele le adaugi cu Adnotare sau cu o aplicație PDF."
+    }
+  ],
+  "related": [
+    "extragere-cadre-din-video",
+    "video-in-jpg-png",
+    "aplicatie-poza-din-video"
+  ],
+  "datePublished": "2026-10-01"
+}

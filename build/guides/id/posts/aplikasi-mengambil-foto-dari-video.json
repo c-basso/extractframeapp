@@ -1,0 +1,64 @@
+{
+  "slug": "aplikasi-mengambil-foto-dari-video",
+  "translation_of": "frame-grabber-app-iphone",
+  "order": 4,
+  "keyword": "aplikasi mengambil foto dari video",
+  "secondary_keywords": [
+    "aplikasi foto dari video iphone",
+    "aplikasi gratis ambil foto dari video",
+    "frame grabber app"
+  ],
+  "title": "Aplikasi Mengambil Foto dari Video di iPhone: Cara Memilih",
+  "description": "Yang perlu diperhatikan pada aplikasi pengambil foto dari video: presisi, resolusi, privasi, ekspor massal, format, dan harga, plus tes 2 menit.",
+  "h1": "Cara memilih aplikasi mengambil foto dari video di iPhone",
+  "nav_title": "Aplikasi",
+  "card_title": "Cara memilih aplikasi foto dari video",
+  "excerpt": "Enam ciri aplikasi yang bagus dan daftar periksa 2 menit.",
+  "lead": "Cari “video ke foto” di App Store dan Anda akan menemukan daftar panjang aplikasi serupa. Dasarnya sama, bedanya di detail: seberapa tepat memilih frame, seberapa besar fotonya, dan apakah video diunggah ke internet.",
+  "quick_answer": "Aplikasi yang bagus membiarkan Anda memilih frame dengan tepat, menyimpan dari file video (bukan layar), bekerja di perangkat, menyimpan banyak frame sekaligus, dan mengekspor ke beberapa format. Video To Photo – Grab Frame melakukan semuanya, plus ekspor ZIP dan PDF serta proyek yang bisa dilanjutkan nanti.",
+  "content_intro": "<h2>Masih perlu aplikasi di iOS 27?</h2><p>Mulai iOS 27, app Foto bisa menyimpan frame yang dijeda. Di iOS lama, dan untuk banyak frame, PNG, serta ZIP/PDF, aplikasi lebih praktis.</p><h2>Enam ciri aplikasi yang bagus</h2><ol><li><strong>Pemilihan frame yang tepat.</strong> Strip frame atau slider yang berhenti tepat di momennya.</li><li><strong>Ekspor sungguhan.</strong> Dari file, bukan layar. Coba dengan video 4K horizontal dan periksa ukurannya.</li><li><strong>Proses di perangkat.</strong> Video keluarga tidak seharusnya ada di server. Cek label privasi di App Store dan coba dalam mode pesawat.</li><li><strong>Mode massal.</strong> Storyboard, olahraga, dan tutorial butuh banyak frame.</li><li><strong>Format dan ekspor.</strong> JPG, PNG, dan HEIC sudah cukup. ZIP dan PDF jarang ada, tapi sangat berguna.</li><li><strong>Harga yang jelas.</strong> Apa yang gratis, ada langganan atau tidak, bisa dibeli sekali bayar atau tidak.</li></ol>",
+  "steps_title": "Tes aplikasi dalam 2 menit",
+  "steps": [
+    {
+      "name": "Buka video sungguhan",
+      "text": "Pilih video horizontal dengan gerakan, lalu bagikan dari app Foto ke Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Bidik satu frame",
+      "text": "Cari kedipan mata atau bola di udara. Strip dan pratinjau besar memudahkannya. Ketuk simpan.",
+      "shot": 1
+    },
+    {
+      "name": "Simpan beberapa dan bandingkan",
+      "text": "Simpan empat atau lima frame lalu perbesar. Frame jelek harus bisa dihapus sebelum ekspor.",
+      "shot": 2
+    },
+    {
+      "name": "Ekspor dan periksa file",
+      "text": "Ekspor ke PNG dan lihat info foto. Ukurannya harus sama dengan video, bukan layar.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Yang ditawarkan Video To Photo – Grab Frame</h2><table><thead><tr><th>Fitur</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Mulai dari menu Bagikan</td><td>Ya, langsung ke tampilan frame</td></tr><tr><td>Sumber</td><td>File video</td></tr><tr><td>Mode massal</td><td>Banyak frame dalam satu sesi</td></tr><tr><td>Format</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Ekspor</td><td>File, ZIP, PDF</td></tr><tr><td>Proyek</td><td>Simpan dan lanjutkan nanti</td></tr><tr><td>Privasi</td><td>100% di perangkat, tanpa akun</td></tr><tr><td>Harga</td><td>Unduh gratis. Pro lewat pembelian dalam aplikasi (uji coba gratis, tahunan, sekali bayar)</td></tr></tbody></table><h2>Kapan tidak perlu aplikasi</h2><p>Satu foto di iOS 27? Cukup app Foto. Catatan cepat di iOS lama? Cukup screenshot.</p>",
+  "faq": [
+    {
+      "q": "Adakah aplikasi gratis untuk mengambil foto dari video?",
+      "a": "Video To Photo – Grab Frame bisa diunduh gratis. Beberapa fitur termasuk Pro, lewat pembelian dalam aplikasi (uji coba gratis, paket tahunan, atau sekali bayar). Harga terbaru ada di App Store."
+    },
+    {
+      "q": "Apakah aplikasi ini mengunggah video saya?",
+      "a": "Alat online iya. Video To Photo – Grab Frame memproses semuanya di iPhone dan berfungsi tanpa internet."
+    },
+    {
+      "q": "Apakah mendukung video 4K dan slow motion?",
+      "a": "Ya. Mendukung video 4K, 60 fps, dan slow motion dari galeri."
+    }
+  ],
+  "related": [
+    "cara-mengambil-foto-dari-video-iphone",
+    "mengubah-video-menjadi-foto",
+    "video-ke-pdf"
+  ],
+  "datePublished": "2026-10-01"
+}

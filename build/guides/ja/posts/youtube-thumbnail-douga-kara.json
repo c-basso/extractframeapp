@@ -1,0 +1,64 @@
+{
+  "slug": "youtube-thumbnail-douga-kara",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "サムネイル 動画から",
+  "secondary_keywords": [
+    "youtube サムネイル 動画から",
+    "動画から サムネイル 作成",
+    "youtube サムネイル 動画から選択"
+  ],
+  "title": "iPhoneで動画からYouTubeサムネイルを作る方法",
+  "description": "iPhoneで自分の動画からサムネイルやカバー画像を作る方法。ベストなコマを選んで高画質で保存し、文字を入れてYouTubeやTikTokにアップロード。",
+  "h1": "iPhoneで動画からサムネイルを作る方法",
+  "nav_title": "動画からサムネイル",
+  "card_title": "動画からサムネイル・カバーを作る",
+  "excerpt": "クリックされるコマを見つけ、シャープに保存して、YouTube・TikTok・リールのカバーに。",
+  "lead": "最高のサムネイルは、たいてい動画の中にもうあります。本物の表情、本物の瞬間。コツは、そのコマを見つけて、文字入れやトリミング、圧縮に耐えるほどシャープに取り出すことです。",
+  "quick_answer": "Video To Photo – Grab Frameで動画を開き、ピントの合った表情豊かな瞬間を2〜3コマ保存し、ベストをPNGで書き出します。好きな編集アプリで大きな文字を入れ（YouTubeは1280×720、ショート・TikTok・リールは9:16）、サムネイルやカバーとしてアップロードします。",
+  "content_intro": "<h2>サムネイルに向くコマ</h2><ul><li><strong>顔や被写体がはっきり</strong>：近く、シャープで、できればカメラ目線。</li><li><strong>感情</strong>：驚き、笑顔、集中した表情は無表情より効果的。</li><li><strong>文字のスペース</strong>：数文字入れられる、すっきりした部分。</li><li><strong>シャープさ</strong>：サムネイルは小さいので、少しのボケも目立ちます。</li></ul><h2>サムネイルのサイズ</h2><table><thead><tr><th>プラットフォーム</th><th>比率</th><th>サイズ</th></tr></thead><tbody><tr><td>YouTube</td><td>16:9</td><td>1280×720</td></tr><tr><td>ショート、TikTok、リール</td><td>9:16</td><td>1080×1920</td></tr><tr><td>Instagramのグリッド</td><td>1:1 / 4:5に切り抜き</td><td>被写体を中央に</td></tr></tbody></table><p>1080pや4Kの動画のコマなら、すでにこのサイズを超えています。大事なのはスクショではなくファイルから切り出すことです。</p>",
+  "steps_title": "iPhoneで動画からサムネイルを作る手順",
+  "steps": [
+    {
+      "name": "完成した動画を開く",
+      "text": "「写真」からVideo To Photo – Grab Frameに共有するか、アプリで動画を選びます。",
+      "shot": 0
+    },
+    {
+      "name": "候補を3コマ保存",
+      "text": "印象的な瞬間を探して保存。表情はすぐ変わるので、前後のコマも保存しておきます。",
+      "shot": 1
+    },
+    {
+      "name": "いちばんシャープなものを選ぶ",
+      "text": "プレビューで顔を拡大し、ブレたコマや目をつぶったコマを削除します。",
+      "shot": 2
+    },
+    {
+      "name": "PNGで書き出して文字入れ",
+      "text": "編集で画質が落ちないようPNGで書き出し、短いタイトルを入れてサムネイルとしてアップロードします。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>サムネイルのアップロード方法</h2><ul><li><strong>YouTube：</strong>YouTubeまたはYouTube Studioアプリで動画の詳細を編集し、写真からカスタムサムネイルを選びます（確認済みアカウントが必要）。</li><li><strong>TikTok：</strong>投稿前に「カバーを編集」をタップして画像を選びます。</li><li><strong>Instagramリール：</strong>「カバーを編集」からカメラロールの画像を追加します。</li></ul><h2>クリック率を上げるコツ</h2><ul><li>文字は短く、数語まで。</li><li>被写体・文字・背景のコントラストを強く。</li><li>チャンネル全体でデザインを統一。</li><li>2つのコマを試す：数日後にサムネイルを差し替えて比較。</li></ul>",
+  "faq": [
+    {
+      "q": "自分の動画のコマをYouTubeサムネイルにできる？",
+      "a": "できます。コマを保存し、必要なら文字を入れてカスタムサムネイルとしてアップロードします。1280×720のJPGかPNGが最適です。"
+    },
+    {
+      "q": "サムネイルはJPGとPNGどちらで書き出す？",
+      "a": "編集中はPNGで。文字がくっきり残ります。完成したサムネイルは、軽くしたければJPGで保存しても構いません。"
+    },
+    {
+      "q": "サムネイルがぼやけるのはなぜ？",
+      "a": "多くはスクショか、動いているコマを使っているためです。ファイルからコマを切り出し、被写体が止まっている瞬間を選びましょう。"
+    }
+  ],
+  "related": [
+    "douga-kara-shashin-kougashitsu",
+    "douga-jpg-henkan",
+    "iphone-douga-kara-shashin"
+  ],
+  "datePublished": "2026-09-30"
+}

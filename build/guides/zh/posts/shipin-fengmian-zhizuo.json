@@ -1,0 +1,65 @@
+{
+  "slug": "shipin-fengmian-zhizuo",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "视频封面制作",
+  "secondary_keywords": [
+    "视频封面制作",
+    "视频封面提取",
+    "YouTube 封面尺寸",
+    "抖音封面"
+  ],
+  "title": "用 iPhone 从视频制作封面（YouTube、抖音）",
+  "description": "在 iPhone 上用自己的视频制作封面：挑出最好的一帧，清晰保存，加上文字，上传到 YouTube、抖音、B 站或小红书。",
+  "h1": "如何用 iPhone 从视频制作封面",
+  "nav_title": "视频封面制作",
+  "card_title": "从视频制作封面",
+  "excerpt": "找到能带来点击的那一帧，清晰保存，用作 YouTube、抖音或小红书的封面。",
+  "lead": "最好的封面通常已经在你的视频里：真实的表情、真实的瞬间。诀窍是找到那一帧，并把它清晰地取出来，经得起加字、裁剪和压缩。",
+  "quick_answer": "用 Video To Photo – Grab Frame 打开视频，保存 2–3 个清晰、有表情的瞬间，把最好的一张导出为 PNG。在你常用的编辑 App 中加上大字（YouTube 为 1280×720，竖屏短视频为 9:16），然后上传为封面。",
+  "content_intro": "<h2>什么样的帧适合做封面？</h2><ul><li><strong>清楚的人脸或主体</strong>：近、清晰，最好看镜头。</li><li><strong>情绪</strong>：惊讶、笑容或专注比面无表情效果好。</li><li><strong>留出文字空间</strong>：有一块干净区域放几个字。</li><li><strong>清晰度</strong>：封面很小，一点模糊都很明显。</li></ul><h2>封面尺寸</h2><table><thead><tr><th>平台</th><th>比例</th><th>尺寸</th></tr></thead><tbody><tr><td>YouTube、B 站横屏</td><td>16:9</td><td>1280×720</td></tr><tr><td>抖音、Shorts、Reels</td><td>9:16</td><td>1080×1920</td></tr><tr><td>小红书</td><td>常用 3:4</td><td>主体居中</td></tr></tbody></table><p>1080p 或 4K 视频的帧已经比这些尺寸大。关键是从文件导出，而不是截屏。</p>",
+  "steps_title": "用 iPhone 从视频制作封面",
+  "steps": [
+    {
+      "name": "打开成片",
+      "text": "从“照片”共享到 Video To Photo – Grab Frame，或在 App 中选择视频。",
+      "shot": 0
+    },
+    {
+      "name": "保存 3 张候选",
+      "text": "找出最有冲击力的瞬间保存。表情变化快，相邻帧也存下来。",
+      "shot": 1
+    },
+    {
+      "name": "选最清晰的",
+      "text": "在预览中放大人脸，删掉模糊或闭眼的帧。",
+      "shot": 2
+    },
+    {
+      "name": "导出 PNG 并加字",
+      "text": "导出为 PNG，避免编辑时画质下降，加上简短标题后上传为封面。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>如何上传封面</h2><ul><li><strong>YouTube：</strong>在 YouTube 或 YouTube Studio App 中编辑视频详情，从照片中选择自定义缩略图（需已验证的账号）。</li><li><strong>抖音 / TikTok：</strong>发布前轻点“选封面”，从相册选择图片。</li><li><strong>Instagram Reels：</strong>在“编辑封面”中从相册添加图片。</li></ul><h2>提高点击率的技巧</h2><ul><li>文字少，最多几个字。</li><li>主体、文字和背景之间对比强烈。</li><li>整个频道风格统一、易于识别。</li><li>测试两张帧：几天后换封面并比较数据。</li></ul>",
+  "faq": [
+    {
+      "q": "能用自己视频中的一帧当 YouTube 封面吗？",
+      "a": "可以。保存这一帧，按需加字，然后上传为自定义缩略图。最好是 1280×720 的 JPG 或 PNG。"
+    },
+    {
+      "q": "YouTube 封面尺寸是多少？",
+      "a": "1280×720 像素（16:9），JPG 或 PNG。竖屏短视频（抖音、Shorts、Reels）的封面比例为 9:16，即 1080×1920。"
+    },
+    {
+      "q": "为什么我的封面很模糊？",
+      "a": "多半是用了截屏或正在运动的帧。从文件导出帧，并选主体静止的瞬间。"
+    }
+  ],
+  "related": [
+    "shipin-tiqu-gaoqing-tupian",
+    "shipin-zhuan-tupian",
+    "iphone-shipin-jiequ-zhaopian"
+  ],
+  "datePublished": "2026-10-01"
+}

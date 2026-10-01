@@ -1,0 +1,64 @@
+{
+  "slug": "print-de-video-iphone-sem-perder-qualidade",
+  "translation_of": "screenshot-video-iphone-without-losing-quality",
+  "order": 2,
+  "keyword": "print de vídeo no iPhone sem perder qualidade",
+  "secondary_keywords": [
+    "print de video iphone",
+    "como tirar print de vídeo no iphone sem perder qualidade",
+    "tirar foto de video sem perder qualidade"
+  ],
+  "title": "Print de vídeo no iPhone sem perder qualidade: 2 jeitos",
+  "description": "Por que o print de um vídeo no iPhone fica borrado e cortado — e como salvar o frame real do vídeo com qualidade total em vez de tirar print.",
+  "h1": "Como tirar print de vídeo no iPhone sem perder qualidade",
+  "nav_title": "Print de vídeo sem perder qualidade",
+  "card_title": "Print de vídeo no iPhone sem perder qualidade",
+  "excerpt": "Por que o print de vídeo fica borrado e como salvar um frame nítido e em tamanho real sem print.",
+  "lead": "Pausa, botão lateral e aumentar volume, corte… e mesmo assim fica pior que o vídeo. Não é impressão sua: o print fotografa a tela, não o vídeo.",
+  "quick_answer": "O print não fica mais nítido que a sua tela, então é melhor evitar. No iOS 27+, pause o vídeo no Fotos, toque em «•••» e salve o frame como foto. Em iOS anteriores, para vários frames ou PNG, abra o vídeo no Video To Photo – Grab Frame e exporte o frame. Nos dois casos é o frame real, sem controles nem barras pretas.",
+  "content_intro": "<h2>Como tirar print de vídeo no iPhone (o jeito de sempre)</h2><ol><li>Reproduza o vídeo no Fotos e pause.</li><li>Toque na tela para esconder os controles.</li><li>Aperte juntos o <strong>botão lateral</strong> e <strong>aumentar volume</strong> (iPhone com botão de início: início + lateral).</li><li>Abra a miniatura, corte as barras pretas e toque em OK.</li></ol><h2>Por que o print perde qualidade</h2><ul><li><strong>Resolução da tela, não do vídeo.</strong> Um vídeo 4K na horizontal (3840 × 2160) numa tela vertical ocupa só uma faixa; depois de cortar, sobra uma pequena parte da resolução real.</li><li><strong>Difícil acertar o frame.</strong> Pausar com o dedo é impreciso: muitas vezes pega a piscada ou o tremido.</li><li><strong>Elementos a mais e nova compressão.</strong> Controles, legendas, barra de progresso e mais um salvamento ao cortar.</li></ul><blockquote><p>A solução não é um print melhor, é não tirar print.</p></blockquote><h2>Jeito 1: Fotos no iOS 27</h2><p>Abra o vídeo no Fotos, pause no momento certo, toque em <strong>«•••»</strong> e escolha salvar o frame como foto (<em>Save Video Frame as Photo</em>). O frame é salvo na resolução do vídeo em HEIF ou JPG, um por vez e com a data do vídeo original.</p><h2>Jeito 2: um app (qualquer iOS, vários frames)</h2><p>No iOS 26 ou anterior, ou se você precisa de vários frames, PNG, ZIP ou PDF, um app de captura de frames lê as imagens direto do arquivo de vídeo e exporta tudo de uma vez.</p>",
+  "steps_title": "Como salvar um frame de vídeo no iPhone sem print",
+  "steps": [
+    {
+      "name": "Abra o vídeo no app",
+      "text": "No Fotos, toque em Compartilhar e escolha o app, ou abra o Video To Photo – Grab Frame e selecione o vídeo.",
+      "shot": 0
+    },
+    {
+      "name": "Pare no frame exato",
+      "text": "Deslize devagar pela faixa de frames até a pré-visualização grande mostrar o momento. Sem brigar com a pausa.",
+      "shot": 1
+    },
+    {
+      "name": "Capture o frame",
+      "text": "Ele vai para a faixa de salvos. Capture também uns vizinhos e compare na pré-visualização.",
+      "shot": 2
+    },
+    {
+      "name": "Exporte em PNG ou HEIC",
+      "text": "PNG sem perda; HEIC com alta qualidade e arquivo leve. Salve no Fotos ou no Arquivos.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Print x frame extraído</h2><table><thead><tr><th></th><th>Print</th><th>Frame do arquivo</th></tr></thead><tbody><tr><td>Resolução</td><td>Limitada à tela</td><td>A do vídeo</td></tr><tr><td>Momento exato</td><td>Na sorte</td><td>Faixa de frames</td></tr><tr><td>Controles e barras</td><td>Muitas vezes, precisa cortar</td><td>Nunca</td></tr><tr><td>Vários frames</td><td>Um print por vez</td><td>Exportação em lote, ZIP ou PDF</td></tr><tr><td>Formato</td><td>Print em PNG</td><td>JPG, PNG ou HEIC</td></tr></tbody></table><h2>Para o resultado mais nítido</h2><p>Um frame não fica mais nítido que o vídeo. Os melhores vêm de momentos parados, com boa luz e alta resolução. Veja <a href=\"/pt/guides/tirar-foto-de-video-com-qualidade/\">foto de vídeo com qualidade</a>.</p>",
+  "faq": [
+    {
+      "q": "Por que o print de vídeo fica borrado?",
+      "a": "Porque ele captura a tela: o vídeo é reduzido ao pedaço de tela que ocupa, e a pausa costuma cair num frame tremido. Salvar o frame do arquivo resolve as duas coisas."
+    },
+    {
+      "q": "Dá para salvar um frame sem tirar print no iPhone?",
+      "a": "Dá. No iOS 27 ou mais recente, pelo menu «•••» do Fotos. Em qualquer versão, com o Video To Photo – Grab Frame, que extrai os frames direto do arquivo de vídeo."
+    },
+    {
+      "q": "Qual formato mantém mais qualidade?",
+      "a": "PNG não tem perda e mantém cada pixel. HEIC tem quase a mesma qualidade ocupando menos espaço. JPG é o mais leve e compatível."
+    }
+  ],
+  "related": [
+    "como-tirar-foto-de-video-no-iphone",
+    "tirar-foto-de-video-com-qualidade",
+    "converter-video-para-jpg"
+  ],
+  "datePublished": "2026-09-30"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "extraire-toutes-les-images-d-une-video",
+  "translation_of": "extract-multiple-frames-from-video",
+  "order": 5,
+  "keyword": "extraire les images d'une vidéo",
+  "secondary_keywords": [
+    "extraire toutes les images d une vidéo",
+    "extraire les photos d une vidéo",
+    "extraire image vidéo iphone",
+    "convertir vidéo en images"
+  ],
+  "title": "Extraire les images d'une vidéo sur iPhone, d'un coup",
+  "description": "Comment extraire plusieurs images d'une vidéo sur iPhone en un seul passage, sans ordinateur ni ffmpeg. Gardez-les en photos séparées, en archive ZIP ou en PDF.",
+  "h1": "Comment extraire les images d'une vidéo sur iPhone",
+  "nav_title": "Extraire les images d'une vidéo",
+  "card_title": "Extraire plusieurs images d'une vidéo",
+  "excerpt": "Toute une série d'images d'une même vidéo, exportées ensemble : photos, ZIP ou PDF.",
+  "lead": "Storyboards, séquences sportives, avant/après, réactions… parfois une seule image ne suffit pas. Voici comment en extraire autant que nécessaire, directement sur l'iPhone.",
+  "quick_answer": "Ouvrez la vidéo dans Video To Photo – Grab Frame et touchez capturer à chaque moment voulu. Vérifiez la série, supprimez le superflu et exportez tout d'un coup : JPG, PNG ou HEIC séparés, une archive ZIP ou un PDF.",
+  "content_intro": "<h2>Toutes les images, ou les bonnes ?</h2><p>Une vidéo de 30 secondes à 30 i/s, ce sont 900 images. Tout exporter (comme le font ffmpeg ou VLC sur ordinateur) donne des centaines de fichiers presque identiques. Sur téléphone, il est presque toujours plus rapide de <strong>choisir les images utiles</strong> et de n'exporter qu'elles.</p><table><thead><tr><th>Objectif</th><th>Meilleure approche</th></tr></thead><tbody><tr><td>Storyboard ou étapes d'un tuto</td><td>Une image par scène ou étape</td></tr><tr><td>Sport, mouvement</td><td>Des images à intervalles réguliers</td></tr><tr><td>Trouver la photo parfaite</td><td>3 à 5 images voisines, garder la plus nette</td></tr><tr><td>Chaque image pour animation ou analyse</td><td>Plutôt un logiciel sur ordinateur (ffmpeg)</td></tr></tbody></table><p>La fonction intégrée d'iOS 27 enregistre une image à la fois : peu pratique pour une série.</p>",
+  "steps_title": "Extraire plusieurs images d'une vidéo sur iPhone",
+  "steps": [
+    {
+      "name": "Ouvrez la vidéo",
+      "text": "Partagez-la depuis Photos vers l'app, ou choisissez-la dans Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Capturez chaque moment",
+      "text": "Faites glisser la bande et touchez capturer à chaque moment. Le compteur indique la taille de la série.",
+      "shot": 1
+    },
+    {
+      "name": "Vérifiez la série",
+      "text": "Affichez les images en plein écran, vérifiez la netteté et supprimez doublons et images floues.",
+      "shot": 2
+    },
+    {
+      "name": "Exportez-les ensemble",
+      "text": "Choisissez JPEG, PNG ou HEIC, puis Fichiers pour des images séparées, ZIP pour un seul fichier, PDF pour un document.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>ZIP, PDF ou fichiers séparés ?</h2><ul><li><strong>Fichiers séparés</strong> : si vous allez retoucher ou publier chaque image.</li><li><strong>ZIP</strong> : un seul fichier pour AirDrop, e-mail, WhatsApp ou le cloud.</li><li><strong>PDF</strong> : toutes les images dans un document pour un storyboard, des notes ou une validation. Voir <a href=\"/fr/guides/video-en-pdf/\">vidéo en PDF</a>.</li></ul><h2>Conseils pour les séries</h2><ul><li>Pour un mouvement, prenez des images à intervalles à peu près égaux.</li><li>Pour un collage, exportez en PNG afin d'éviter de recompresser du JPEG.</li><li>Le projet est enregistré : revenez ajouter les images oubliées.</li></ul>",
+  "faq": [
+    {
+      "q": "Combien d'images peut-on extraire d'une vidéo ?",
+      "a": "Autant que nécessaire : touchez capturer à chaque moment et exportez toute la série. Les grosses séries prennent juste un peu plus de temps à exporter."
+    },
+    {
+      "q": "Peut-on extraire automatiquement toutes les images ?",
+      "a": "Video To Photo – Grab Frame est conçue pour choisir les images. S'il vous faut vraiment chaque image pour une animation ou une analyse, un logiciel sur ordinateur comme ffmpeg est plus adapté."
+    },
+    {
+      "q": "Comment envoyer beaucoup d'images d'un coup ?",
+      "a": "Exportez une archive ZIP et envoyez un seul fichier par AirDrop, e-mail ou WhatsApp. Ou exportez un PDF."
+    }
+  ],
+  "related": [
+    "video-en-pdf",
+    "video-image-par-image-iphone",
+    "enregistrer-une-image-d-une-video-iphone"
+  ],
+  "datePublished": "2026-09-30"
+}

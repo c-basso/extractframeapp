@@ -1,0 +1,64 @@
+{
+  "slug": "xem-video-tung-khung-hinh-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "xem video từng khung hình trên iPhone",
+  "secondary_keywords": [
+    "tua video từng khung hình iphone",
+    "dừng khung hình video iphone",
+    "video frame by frame iphone"
+  ],
+  "title": "Xem video từng khung hình trên iPhone và lưu lại",
+  "description": "Cách tua video từng khung hình trên iPhone để tìm đúng khoảnh khắc (cú đánh, chớp mắt, bàn thắng) và lưu khung hình đó thành ảnh nét.",
+  "h1": "Cách xem video từng khung hình trên iPhone",
+  "nav_title": "Từng khung hình (iPhone)",
+  "card_title": "Xem video từng khung hình trên iPhone",
+  "excerpt": "Tìm đúng khoảnh khắc trong video và lưu thành ảnh.",
+  "lead": "Một cú đánh, một bàn thắng, một pha kỹ thuật, một lần chớp mắt. Phát và tạm dừng không đủ để thấy; bạn phải đi qua video gần như từng khung hình. Đây là cách làm trên iPhone và cách lưu khung hình đó.",
+  "quick_answer": "Tạm dừng video trong Ảnh và kéo chậm dải khung hình. Trên iOS 27, sau đó lưu khung hình qua •••. Muốn gom nhiều khoảnh khắc, hãy kéo trong Video To Photo – Grab Frame với bản xem trước lớn và lưu từng khoảnh khắc.",
+  "content_intro": "<h2>Từng khung hình trong ứng dụng Ảnh</h2><ol><li>Mở video và tạm dừng.</li><li>Chạm dải khung hình bên dưới và kéo chậm sang trái hoặc phải.</li><li>Giữ ngón tay trên dải một chút, dải sẽ phóng to để kéo chính xác hơn.</li></ol><p>Trên iOS 27 trở lên, chạm <strong>•••</strong> để lưu khung hình vừa tìm thành ảnh. Trên iOS cũ chỉ có <a href=\"/vi/guides/chup-man-hinh-video-iphone/\">chụp màn hình bị giảm chất lượng</a>; ứng dụng lưu được nhiều khoảnh khắc trên mọi phiên bản.</p><h2>Vì sao phải kéo chậm?</h2><p>Ở 30 fps một khung hình kéo dài 33 mili giây, ở 60 fps là 17. Cái chớp mắt, lúc chạm bóng hay nét mặt thay đổi chỉ trong hai khung hình. Khác biệt giữa tấm đẹp nhất và tấm hỏng thường chỉ là một khung hình.</p>",
+  "steps_title": "Cách tìm và lưu đúng khung hình",
+  "steps": [
+    {
+      "name": "Mở video trong ứng dụng",
+      "text": "Chia sẻ từ Ảnh sang Video To Photo – Grab Frame. Bạn sẽ thấy bản xem trước lớn và dải khung hình.",
+      "shot": 0
+    },
+    {
+      "name": "Kéo thật chậm",
+      "text": "Di ngón tay từng chút và nhìn bản xem trước. Kéo tới lui quanh chuyển động.",
+      "shot": 1
+    },
+    {
+      "name": "Lưu cả khung hình bên cạnh",
+      "text": "Chạm lưu, kéo nhẹ rồi lưu tiếp. So sánh và giữ tấm đẹp nhất.",
+      "shot": 2
+    },
+    {
+      "name": "Xuất tấm đẹp nhất",
+      "text": "Xuất PNG hoặc HEIC để giữ chi tiết, cho phân tích, ghi chú tập luyện hoặc mạng xã hội.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Khi nào xem từng khung hình hữu ích</h2><ul><li><strong>Thể thao</strong>: cú swing golf và tennis, kỹ thuật, bật nhảy. Lưu khung hình chính và xem lại dạng PDF.</li><li><strong>Trẻ con và thú cưng</strong>: đúng khung hình mà ai cũng nhìn vào máy.</li><li><strong>Video hướng dẫn và quay màn hình</strong>: một bước làm ảnh tham khảo.</li><li><strong>Tình huống tranh cãi</strong>: bàn thắng đó thực sự ra sao?</li></ul><h2>Quay sao cho sau này dễ hơn</h2><p>Quay ở <strong>60 fps</strong> (Cài đặt → Camera → Quay video): gấp đôi số khoảnh khắc và mỗi khung hình ít nhòe hơn. Quay chậm còn cho nhiều hơn nữa. Xem thêm <a href=\"/vi/guides/cat-anh-tu-video-net/\">cắt ảnh từ video nét</a>.</p>",
+  "faq": [
+    {
+      "q": "Ứng dụng Ảnh có tua từng khung hình được không?",
+      "a": "Không có nút một khung hình, nhưng tạm dừng rồi kéo chậm dải khung hình cho kết quả gần như vậy. Trên iOS 27, lưu khung hình đó qua •••."
+    },
+    {
+      "q": "Lưu khung hình vừa tìm thế nào?",
+      "a": "Trên iOS 27 qua ••• trong Ảnh. Trên mọi phiên bản, tìm đúng khoảnh khắc đó trong Video To Photo – Grab Frame, lưu rồi xuất JPG, PNG hoặc HEIC."
+    },
+    {
+      "q": "Có nên quay 60 fps không?",
+      "a": "Nên. Bạn có gấp đôi khung hình so với 30 fps và mỗi khung hình ít nhòe hơn, nên dễ tìm khoảnh khắc nét."
+    }
+  ],
+  "related": [
+    "cat-anh-tu-video-net",
+    "tach-anh-tu-video",
+    "cat-anh-tu-video-tren-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

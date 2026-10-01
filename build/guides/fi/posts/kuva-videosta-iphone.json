@@ -1,0 +1,69 @@
+{
+  "slug": "kuva-videosta-iphone",
+  "translation_of": "how-to-get-a-picture-from-a-video-on-iphone",
+  "order": 1,
+  "keyword": "kuva videosta iPhone",
+  "secondary_keywords": [
+    "kuva videosta iphone",
+    "miten ottaa kuva videosta",
+    "miten videosta saa kuvan iphone",
+    "kuvan ottaminen videosta"
+  ],
+  "title": "Kuva videosta iPhonella: 3 tapaa (tarkka)",
+  "description": "Näin otat kuvan videosta iPhonella hyvälaatuisena: iOS 27 -toiminto, näyttökuva, kohteen irrotus ja monta kuvaa kerralla JPG-, PNG- tai HEIC-muodossa.",
+  "h1": "Näin otat kuvan videosta iPhonella",
+  "nav_title": "Kuva videosta (iPhone)",
+  "card_title": "Kuva videosta iPhonella",
+  "excerpt": "Kaikki tavat saada kuva videosta iPhonella ja milloin kutakin kannattaa käyttää.",
+  "lead": "Kuvasit hetken videolle valokuvan sijaan. Ei hätää: video on kymmeniä kuvia sekunnissa. Näin saat iPhonella juuri sen yhden kuvan talteen.",
+  "quick_answer": "iOS 27:stä alkaen pysäytät videon Kuvissa ja tallennat ruudun •••-valikosta kuvana (videon tarkkuudella, yksi kerrallaan). Vanhemmassa iOS:ssä tai kun haluat monta kuvaa, PNG:n, ZIPin tai PDF:n, avaa video Video To Photo – Grab Framessa, tallenna ruudut ja vie ne kerralla.",
+  "content_intro": "<h2>Saako iPhonella kuvan videosta?</h2><p>Saa. Video koostuu 24–60 still-kuvasta sekunnissa, ja jokaisesta ruudusta voi tulla valokuva. Paras tapa riippuu iOS-versiosta ja siitä, montako kuvaa tarvitset.</p><h2>Tavat vertailussa</h2><table><thead><tr><th>Tapa</th><th>Laatu</th><th>Rajoitus</th><th>Paras</th></tr></thead><tbody><tr><td><strong>Kuvat → tallenna ruutu kuvana</strong> (iOS 27+)</td><td>Videon tarkkuus, HEIF tai JPG</td><td>Yksi ruutu kerrallaan. Kuva saa videon päivämäärän, joten se ei näy Viimeisimpien ylimpänä</td><td>Yksi kuva nopeasti</td></tr><tr><td><strong>Näyttökuva</strong> (pysäytys ja kuvakaappaus)</td><td>Näytön tarkkuus, usein toistopainike tai mustat reunat</td><td>Tarkkaan ruutuun osuminen on vaikeaa</td><td>Nopea muistiinpano vanhalla iOS:llä</td></tr><tr><td><strong>Kohteen irrotus</strong> (iOS 17+, pitkä painallus)</td><td>Vain kohde, ilman taustaa</td><td>Ei koko ruutua</td><td>Tarra ihmisestä tai lemmikistä</td></tr><tr><td><strong>Video To Photo – Grab Frame</strong></td><td>Videotiedostosta</td><td>Vaatii sovelluksen (iOS 18.6+)</td><td>Monta kuvaa, PNG, ZIP, PDF, vanha iOS</td></tr></tbody></table><h3>iOS 27:n sisäänrakennetulla toiminnolla</h3><ol><li>Pysäytä: avaa video Kuvissa, pysäytä se oikealla hetkellä, napauta <strong>•••</strong> ja valitse ruudun tallennus kuvana (<em>Save Video Frame as Photo</em>).</li><li>Ruutu tallentuu kirjastoon kuvana videon tarkkuudella.</li><li>Kuva saa videon päivämäärän ja sijainnin, joten etsi se videon vierestä, ei ylhäältä.</li></ol><p>Yhteen kuvaan tämä riittää. Kun haluat kymmenen ruutua samasta videosta, PNG:n muokkausta varten tai kaiken ZIPinä tai PDF:nä, siitä tulee työlästä.</p><h3>Miksi näyttökuva ei ole sama asia</h3><p>iOS 26:een asti näyttökuva on tavallinen tapa, mutta se tallentaa näytön, ei ruutua. Vaakasuuntainen 4K-video on pystynäytöllä vain kapea kaistale, ja toistopainike pitää rajata pois ja pysäytys osua kohdalleen.</p>",
+  "steps_title": "Näin otat videosta monta kuvaa Video To Photo – Grab Framella",
+  "steps": [
+    {
+      "name": "Jaa video sovellukseen",
+      "text": "Avaa video Kuvissa, napauta Jaa ja valitse sovellus. Tai avaa Video To Photo – Grab Frame ja valitse video kirjastosta.",
+      "shot": 0
+    },
+    {
+      "name": "Etsi hetki ja tallenna",
+      "text": "Vedä ruutunauhaa, kunnes hetki näkyy esikatselussa, ja napauta tallennuspainiketta. Jos kuvassa on liikettä, tallenna myös ruudut ennen ja jälkeen.",
+      "shot": 1
+    },
+    {
+      "name": "Tarkista ruudut",
+      "text": "Avaa esikatselu, zoomaa kasvoihin tai tekstiin ja poista epätarkat ruudut. Säilytä vain terävin.",
+      "shot": 2
+    },
+    {
+      "name": "Vie kuvana",
+      "text": "Valitse JPEG, PNG tai HEIC ja napauta Vie. Tallenna Kuviin tai Tiedostoihin tai lähetä suoraan WhatsAppissa, Messengerissä, Instagramissa tai sähköpostilla.",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>Vinkkejä tarkkaan kuvaan</h2><ul><li><strong>Nappaa hetki, jolloin liike pysähtyy.</strong> Hypyn lakipiste, hetki ennen hymyä: silloin ruudut ovat tarkimmillaan.</li><li><strong>Tallenna kolme, pidä yksi.</strong> Vierekkäiset ruudut näyttävät samalta, kunnes zoomaat.</li><li><strong>Kuvaa 4K:na tai 60 fps:llä.</strong> Lisää oppaassa <a href=\"/fi/guides/tarkka-kuva-videosta/\">tarkka kuva videosta</a>.</li><li><strong>Valitse muoto.</strong> JPG jakamiseen, PNG muokkaukseen, HEIC tilan säästämiseen. Katso myös <a href=\"/fi/guides/video-jpg-png/\">video JPG- tai PNG-kuviksi</a>.</li></ul><h2>Muuttaako tai lataako sovellus videoni?</h2><p>Ei. Video To Photo – Grab Frame käsittelee kopiota sovelluksessa ja tekee kaiken iPhonella. Alkuperäinen video Kuvissa pysyy ennallaan, eikä mitään lähetetä palvelimelle.</p>",
+  "faq": [
+    {
+      "q": "Voiko iPhone itse tallentaa kuvan videosta?",
+      "a": "iOS 27:stä alkaen kyllä. Pysäytä video Kuvissa, napauta ••• ja tallenna ruutu kuvana. Yksi kerrallaan, HEIF- tai JPG-muodossa. iOS 26:een asti ainoa sisäänrakennettu tapa on näyttökuva."
+    },
+    {
+      "q": "Mistä löydän iOS 27:ssä tallentamani ruudun?",
+      "a": "Kuvakirjastosta, mutta videon päivämäärällä ja sijainnilla. Se on siis alkuperäisen videon vieressä, ei Viimeisimpien ylimpänä."
+    },
+    {
+      "q": "Onko laatu sama kuin videossa?",
+      "a": "On, jos tallennat ruudun etkä ota näyttökuvaa. Sekä iOS 27 että Video To Photo – Grab Frame lukevat ruudun videotiedostosta. Nopea liike voi olla epätarkka, joten valitse rauhallinen hetki."
+    },
+    {
+      "q": "Voinko ottaa samasta videosta monta kuvaa?",
+      "a": "Voit. Tallenna Video To Photo – Grab Framessa jokainen hetki ja vie ne yhdessä erillisinä tiedostoina, ZIPinä tai PDF:nä."
+    }
+  ],
+  "related": [
+    "nayttokuva-videosta-iphone",
+    "still-kuva-videosta-iphone",
+    "tarkka-kuva-videosta"
+  ],
+  "datePublished": "2026-10-01"
+}

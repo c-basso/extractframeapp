@@ -1,0 +1,64 @@
+{
+  "slug": "miniatura-youtube-dun-video",
+  "translation_of": "make-thumbnail-from-video-iphone",
+  "order": 10,
+  "keyword": "youtube thumbnail size",
+  "secondary_keywords": [
+    "youtube thumbnail",
+    "miniatura de youtube",
+    "portada d'un vídeo"
+  ],
+  "title": "Miniatura de YouTube d’un vídeo a l’iPhone",
+  "description": "Fes una miniatura per a YouTube, Instagram o TikTok amb el millor fotograma del teu vídeo a l’iPhone: PNG, mida correcta i consells per tenir més clics.",
+  "h1": "Com fer una miniatura de YouTube d’un vídeo a l’iPhone",
+  "nav_title": "Miniatura de YouTube",
+  "card_title": "Miniatura de YouTube del teu vídeo",
+  "excerpt": "Tria i exporta el millor fotograma per a la miniatura.",
+  "lead": "La miniatura decideix si algú fa clic al vídeo. La millor base sovint és al mateix vídeo: una cara expressiva, el punt àlgid, un moment clar. Només l’has de trobar i desar-la nítida.",
+  "quick_answer": "Obre el vídeo a Video To Photo – Grab Frame, troba un fotograma nítid i expressiu i exporta’l en PNG. Afegeix-hi text i retalla’l (1280×720, 16:9) al teu editor preferit, i puja’l a YouTube.",
+  "content_intro": "<h2>Mides recomanades</h2><table><thead><tr><th>Plataforma</th><th>Mida</th></tr></thead><tbody><tr><td>YouTube</td><td>1280×720 (16:9)</td></tr><tr><td>YouTube Shorts / TikTok / Reels</td><td>1080×1920 (9:16)</td></tr><tr><td>Publicació d’Instagram</td><td>1080×1350 (4:5)</td></tr></tbody></table><h2>La manera integrada (iOS 27)</h2><p>Des d’iOS 27, l’app Fotos pot desar un fotograma ella mateixa: obre el vídeo, posa’l en pausa al moment exacte, toca <strong>•••</strong> i tria <em>Save Video Frame as Photo</em>. La foto es desa en HEIF o JPG, amb la data del vídeo. Un fotograma cada vegada.</p>",
+  "steps_title": "Miniatura pas a pas",
+  "steps": [
+    {
+      "name": "Obre el vídeo",
+      "text": "A Fotos, toca Comparteix i tria Video To Photo – Grab Frame.",
+      "shot": 0
+    },
+    {
+      "name": "Troba el punt àlgid",
+      "text": "Avança fotograma a fotograma i busca una cara expressiva o un moment potent, sense moviment borrós.",
+      "shot": 1
+    },
+    {
+      "name": "Desa’n diversos candidats",
+      "text": "Desa’n tres o quatre per tenir on triar.",
+      "shot": 3
+    },
+    {
+      "name": "Exporta en PNG",
+      "text": "El PNG conserva la qualitat abans d’afegir-hi text i retallar.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Consells per a una bona miniatura</h2><ul><li>Text gran i llegible: 3–5 paraules com a màxim.</li><li>Una cara amb emoció: destaca a la llista.</li><li>Contrast fort, pocs detalls.</li><li>Revisa-la també en petit, com es veu al mòbil.</li></ul><p>Fes servir els teus vídeos. No publiquis fotogrames de contingut d’altres sense permís.</p>",
+  "faq": [
+    {
+      "q": "Quina mida ha de tenir una miniatura de YouTube?",
+      "a": "1280×720 píxels, 16:9, fins a 2 MB (JPG o PNG)."
+    },
+    {
+      "q": "Puc fer la miniatura amb un fotograma del vídeo?",
+      "a": "Sí. Desa el fotograma amb Video To Photo – Grab Frame en PNG i afegeix-hi text en un editor."
+    },
+    {
+      "q": "Per què la miniatura surt borrosa?",
+      "a": "Has triat un fotograma en moviment o el vídeo té poca resolució. Tria el fotograma veí i grava en 4K."
+    }
+  ],
+  "related": [
+    "foto-nitida-dun-video",
+    "video-a-jpg-png",
+    "treure-foto-dun-video-iphone"
+  ],
+  "datePublished": "2026-10-01"
+}

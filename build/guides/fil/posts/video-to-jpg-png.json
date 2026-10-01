@@ -1,0 +1,65 @@
+{
+  "slug": "video-to-jpg-png",
+  "translation_of": "video-to-jpg-png-heic-iphone",
+  "order": 8,
+  "keyword": "video to JPG",
+  "secondary_keywords": [
+    "video to jpg converter high quality",
+    "video to picture converter",
+    "video to jpg high quality",
+    "video to png"
+  ],
+  "title": "Video to JPG, PNG o HEIC sa iPhone (Offline, High Quality)",
+  "description": "I-convert ang frame ng video sa JPG, PNG o HEIC sa iPhone, offline at buong kalidad. Plus kung anong format para sa pag-share, pag-edit o archive.",
+  "h1": "Video to JPG, PNG o HEIC sa iPhone",
+  "nav_title": "Video to JPG, PNG, HEIC",
+  "card_title": "Frame ng video to JPG, PNG o HEIC",
+  "excerpt": "Ang tamang format para sa mga frame at pag-export nang walang online converter.",
+  "lead": "Pinapa-upload ka ng mga online na \"video to JPG converter\" ng buong file, pinaghihintay, at pinapa-download ng tambak na image. Sa iPhone, magagawa mo ito sa device, gamit lang ang mga frame na gusto mo, sa format na bagay sa layunin mo.",
+  "quick_answer": "Buksan ang video sa Video To Photo – Grab Frame, i-save ang mga frame na gusto mo, i-tap ang Export at piliin ang JPEG, PNG o HEIC. JPG para sa pag-share, PNG para sa lossless na pag-edit, HEIC para sa maliit at malinaw na file. Nangyayari ang conversion sa iPhone, walang upload.",
+  "content_intro": "<h2>JPG, PNG at HEIC: ang pagkakaiba</h2><table><thead><tr><th>Format</th><th>Kalidad</th><th>Laki</th><th>Pinakamainam para sa</th></tr></thead><tbody><tr><td><strong>JPG / JPEG</strong></td><td>Napakaganda (lossy)</td><td>Maliit</td><td>Messenger, social media, email, web. Bumubukas kahit saan</td></tr><tr><td><strong>PNG</strong></td><td>Lossless</td><td>Pinakamalaki</td><td>Pag-edit, thumbnail na may text, collage</td></tr><tr><td><strong>HEIC</strong></td><td>Napakahusay</td><td>Pinakamaliit sa parehong kalidad</td><td>Apple photo library, iPhone at Mac</td></tr></tbody></table><p>Hindi sigurado? <strong>JPG</strong> para mag-share, <strong>PNG</strong> para mag-edit.</p><h2>Bakit hindi online converter?</h2><ul><li>Kailangan mong i-upload ang buong video: mabagal sa mobile data at hindi bagay sa pribadong video.</li><li>Maraming site ang naghahati sa nakapirming pagitan: daan-daang image, pero baka wala ang sandali mo.</li><li>Madalas may limit o watermark ang libreng bersyon.</li></ul>",
+  "steps_title": "Paano i-convert ang frame ng video sa JPG, PNG o HEIC sa iPhone",
+  "steps": [
+    {
+      "name": "Buksan ang video",
+      "text": "I-share mula sa Photos papunta sa Video To Photo – Grab Frame, o piliin ito sa app.",
+      "shot": 0
+    },
+    {
+      "name": "I-save ang mga frame",
+      "text": "I-tap ang save sa bawat sandali. Ang mga napiling frame lang ang iko-convert.",
+      "shot": 1
+    },
+    {
+      "name": "Piliin ang JPEG, PNG o HEIC",
+      "text": "I-tap ang Export at piliin ang image format sa itaas.",
+      "shot": 3
+    },
+    {
+      "name": "I-save bilang file, ZIP o PDF",
+      "text": "I-export bilang hiwalay na image, ZIP o PDF at i-save sa Photos o Files, o i-share agad.",
+      "shot": 4
+    }
+  ],
+  "content_body": "<h2>Anong format para saan?</h2><ul><li><strong>YouTube thumbnail o TikTok cover</strong> → PNG, saka text. Tingnan ang <a href=\"/fil/guides/youtube-thumbnail-mula-sa-video/\">YouTube thumbnail mula sa video</a>.</li><li><strong>Ipapadala sa Windows o Android</strong> → JPG (hindi bumubukas ang HEIC kahit saan).</li><li><strong>Pag-print</strong> → PNG o mataas na kalidad na JPG mula sa 4K video.</li><li><strong>Archive ng maraming frame</strong> → HEIC sa loob ng ZIP.</li><li><strong>Frame sa dokumento</strong> → PDF, tingnan ang <a href=\"/fil/guides/video-to-pdf/\">video to PDF</a>.</li></ul><h2>Bumababa ba ang kalidad sa conversion?</h2><p>Pinapanatili ng PNG ang bawat pixel ng frame. Nagko-compress ang JPG at HEIC, pero sa kalidad na pang-picture halos hindi makita ang pagkakaiba. Mas mahalaga pa kaysa sa format ang pag-export mula sa file at hindi pag-screenshot.</p>",
+  "faq": [
+    {
+      "q": "Puwede bang i-convert nang libre ang video sa JPG sa iPhone?",
+      "a": "Libreng i-download ang Video To Photo – Grab Frame; in-app purchase ang mga Pro feature. Kino-convert ang mga frame sa iPhone at hindi ina-upload ang video."
+    },
+    {
+      "q": "Puwede ko bang i-save ang frame ng video bilang PNG?",
+      "a": "Oo. I-save ang frame, piliin ang PNG sa export, at i-save bilang hiwalay na file o ZIP."
+    },
+    {
+      "q": "Bumubukas ba ang HEIC sa Windows?",
+      "a": "Nabubuksan ito ng mga bagong Windows gamit ang extension, pero hindi lahat ng system. Para sa hindi Apple na device, JPG ang ligtas na piliin."
+    }
+  ],
+  "related": [
+    "malinaw-na-picture-mula-sa-video",
+    "video-to-pdf",
+    "youtube-thumbnail-mula-sa-video"
+  ],
+  "datePublished": "2026-10-01"
+}

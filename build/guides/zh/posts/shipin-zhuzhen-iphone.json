@@ -1,0 +1,64 @@
+{
+  "slug": "shipin-zhuzhen-iphone",
+  "translation_of": "frame-by-frame-video-iphone",
+  "order": 6,
+  "keyword": "iPhone 视频逐帧播放",
+  "secondary_keywords": [
+    "视频逐帧播放",
+    "视频逐帧提取图片",
+    "iphone 视频 一帧一帧"
+  ],
+  "title": "iPhone 视频逐帧查看，并保存那一帧",
+  "description": "在 iPhone 上逐帧浏览视频，找到挥杆、眨眼、进球等准确瞬间，并把这一帧保存为清晰照片。",
+  "h1": "如何在 iPhone 上逐帧查看视频",
+  "nav_title": "逐帧查看（iPhone）",
+  "card_title": "iPhone 视频逐帧查看",
+  "excerpt": "在视频中找到准确的瞬间，并保存为照片。",
+  "lead": "挥杆、进球、招式、眨眼——只靠播放和暂停看不清，必须几乎一帧一帧地看。下面介绍在 iPhone 上怎么做，以及如何保存那一帧。",
+  "quick_answer": "在“照片”中暂停视频，慢慢拖动帧条。iOS 27 上接着通过 ••• 保存帧。想收集多个瞬间，就在 Video To Photo – Grab Frame 里用大预览拖动，并逐个保存。",
+  "content_intro": "<h2>在“照片”中逐帧查看</h2><ol><li>打开视频并暂停。</li><li>按住下方帧条，慢慢左右拖动。</li><li>在帧条上停留片刻，它会放大，拖动更精确。</li></ol><p>iOS 27 及以上，轻点 <strong>•••</strong> 即可把找到的帧存为照片。旧版 iOS 只有<a href=\"/zh/guides/iphone-shipin-jietu/\">会损失画质的截屏</a>；用 App 则在任何版本都能保存多个瞬间。</p><h2>为什么要慢慢拖？</h2><p>30 fps 时一帧只有 33 毫秒，60 fps 时只有 17 毫秒。眨眼、击球、表情往往两帧之内就变了。最好的照片和失败的照片常常只差一帧。</p>",
+  "steps_title": "找到并保存想要的那一帧",
+  "steps": [
+    {
+      "name": "在 App 中打开视频",
+      "text": "从“照片”共享到 Video To Photo – Grab Frame，会看到大预览和帧条。",
+      "shot": 0
+    },
+    {
+      "name": "慢慢拖动",
+      "text": "小幅移动手指，盯着预览，在动作前后来回拖动。",
+      "shot": 1
+    },
+    {
+      "name": "相邻帧也保存",
+      "text": "轻点保存，稍微拖一点再保存，比较后留下最好的。",
+      "shot": 2
+    },
+    {
+      "name": "导出最好的一张",
+      "text": "导出为 PNG 或 HEIC 保留细节，用于分析、训练笔记或社交媒体。",
+      "shot": 3
+    }
+  ],
+  "content_body": "<h2>逐帧查看的用处</h2><ul><li><strong>运动</strong>：高尔夫和网球挥拍、技术动作、跳跃。保存关键帧，做成 PDF 复盘。</li><li><strong>孩子和宠物</strong>：大家都看镜头的那一帧。</li><li><strong>教程和录屏</strong>：把某一步保存为参考图。</li><li><strong>争议瞬间</strong>：那个进球到底怎么回事？</li></ul><h2>这样拍，之后更轻松</h2><p>用 <strong>60 fps</strong> 拍摄（设置 → 相机 → 录制视频）：可选的瞬间翻倍，每帧的拖影也更少。慢动作能得到更多帧。另见<a href=\"/zh/guides/shipin-tiqu-gaoqing-tupian/\">从视频提取高清图片</a>。</p>",
+  "faq": [
+    {
+      "q": "“照片” App 能逐帧播放视频吗？",
+      "a": "没有单帧按钮，但暂停后慢慢拖动帧条效果几乎一样。iOS 27 上可以通过 ••• 保存这一帧。"
+    },
+    {
+      "q": "找到的帧怎么保存？",
+      "a": "iOS 27 上通过“照片”中的 •••。任何版本都可以在 Video To Photo – Grab Frame 中找到同一瞬间保存，并导出为 JPG、PNG 或 HEIC。"
+    },
+    {
+      "q": "要用 60 fps 拍吗？",
+      "a": "建议用。帧数是 30 fps 的两倍，每帧也更不容易模糊，更容易找到清晰的瞬间。"
+    }
+  ],
+  "related": [
+    "shipin-tiqu-gaoqing-tupian",
+    "shipin-tiqu-zhen",
+    "iphone-shipin-jiequ-zhaopian"
+  ],
+  "datePublished": "2026-10-01"
+}

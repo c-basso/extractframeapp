@@ -1,0 +1,27 @@
+{
+  "hub": {
+    "title": "Hướng dẫn: cắt ảnh từ video trên iPhone",
+    "description": "Hướng dẫn cắt ảnh từ video trên iPhone: nét hơn chụp màn hình, lưu khung hình, tách nhiều ảnh, chuyển video sang PDF, làm thumbnail và chuyển sang JPG hoặc PNG.",
+    "eyebrow": "Hướng dẫn",
+    "h1": "Cắt ảnh từ video trên iPhone: tất cả hướng dẫn",
+    "intro": "Mỗi hướng dẫn trả lời một câu hỏi: iPhone tự làm được gì (và không làm được gì), và cách nhanh nhất với Video To Photo – Grab Frame."
+  },
+  "labels": {
+    "home": "Trang chủ",
+    "guides": "Hướng dẫn",
+    "guide_eyebrow": "Hướng dẫn iPhone",
+    "quick_answer": "Trả lời nhanh",
+    "by": "Tác giả:",
+    "updated": "Cập nhật",
+    "min_read": "phút đọc",
+    "faq_title": "Câu hỏi thường gặp",
+    "related": "Hướng dẫn liên quan",
+    "read_guide": "Đọc hướng dẫn",
+    "inline_cta": "Thử với video của bạn. Chỉ mất một phút.",
+    "app_card_cta": "Tải trên App Store",
+    "app_card_fine": "Miễn phí · có mua trong ứng dụng · iOS 18.6+",
+    "app_card_bullets": ["Chọn khung hình chính xác", "JPG, PNG, HEIC", "Xuất hàng loạt ZIP và PDF", "Offline, không tải lên, không cần tài khoản"],
+    "final_cta_title": "Bức ảnh đẹp nhất của bạn nằm trong video.",
+    "final_cta_text": "Lưu vào iPhone với chất lượng đầy đủ. Không tải lên, không cần tài khoản, không cần biết dựng phim."
+  }
+}
