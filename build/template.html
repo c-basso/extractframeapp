@@ -41,7 +41,7 @@
     {{/each}}
     <link rel="alternate" hreflang="x-default" href="{{meta.alternate_default}}" />
 {{> head-common}}
-    <link rel="preload" as="image" href="/screenshots/v2/hero-grab-720.webp?v=2" fetchpriority="high">
+    <link rel="preload" as="image" href="/screenshots/v2/hero-screen-780.webp?v=3" imagesrcset="/screenshots/v2/hero-screen-390.webp?v=3 390w, /screenshots/v2/hero-screen-780.webp?v=3 780w" imagesizes="(min-width: 980px) 290px, 66vw" fetchpriority="high">
 
     <!-- WebPage -->
     <script type="application/ld+json">
@@ -209,8 +209,17 @@
                 {{/if}}
             </div>
             <div class="hero-visual">
-                <div class="device">
-                    <img src="/screenshots/v2/hero-grab-720.webp?v=2" srcset="/screenshots/v2/hero-grab-360.webp?v=2 360w, /screenshots/v2/hero-grab-720.webp?v=2 720w" sizes="(min-width: 980px) 340px, 78vw" alt="{{shots.1.alt}}" width="720" height="1004" fetchpriority="high">
+                <div class="iphone">
+                    <div class="iphone-screen">
+                        <img src="/screenshots/v2/hero-screen-780.webp?v=3" srcset="/screenshots/v2/hero-screen-390.webp?v=3 390w, /screenshots/v2/hero-screen-780.webp?v=3 780w" sizes="(min-width: 980px) 290px, 66vw" alt="{{shots.1.alt}}" width="780" height="1688" fetchpriority="high">
+                        <div class="iphone-status" aria-hidden="true">
+                            <span class="iphone-time">9:41</span>
+                            <span class="iphone-icons"><svg viewBox="0 0 18 12" width="18" height="12"><rect x="0" y="8" width="3" height="4" rx="1"/><rect x="5" y="5.5" width="3" height="6.5" rx="1"/><rect x="10" y="3" width="3" height="9" rx="1"/><rect x="15" y="0" width="3" height="12" rx="1"/></svg><svg viewBox="0 0 16 12" width="16" height="12"><path d="M8 2.6c2.3 0 4.4.9 6 2.4l1.3-1.3A10.3 10.3 0 0 0 8 .8 10.3 10.3 0 0 0 .7 3.7L2 5c1.6-1.5 3.7-2.4 6-2.4Zm0 3.6c1.3 0 2.5.5 3.4 1.3l1.3-1.3A6.6 6.6 0 0 0 8 4.4c-1.8 0-3.5.7-4.7 1.8l1.3 1.3c.9-.8 2.1-1.3 3.4-1.3Zm0 3.6c-.6 0-1.1.2-1.5.6L8 11.9l1.5-1.5c-.4-.4-.9-.6-1.5-.6Z"/></svg><svg viewBox="0 0 27 12" width="27" height="12"><rect x=".5" y=".5" width="23" height="11" rx="3.5" fill="none" stroke="currentColor" opacity=".4"/><rect x="2" y="2" width="20" height="8" rx="2"/><path d="M25 4v4c.8-.3 1.3-1.1 1.3-2S25.8 4.3 25 4Z" opacity=".4"/></svg></span>
+                        </div>
+                        <div class="iphone-island" aria-hidden="true"></div>
+                        <div class="iphone-nav" aria-hidden="true">Grab Frame</div>
+                        <div class="iphone-home" aria-hidden="true"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -239,9 +248,9 @@
                     {{/each}}
                 </div>
                 {{#if download.meta}}
-                <p class="meta-row">
-                    {{#each download.meta as |item|}}<span>{{item.label}} <b>{{item.value}}</b></span>{{/each}}
-                </p>
+                <dl class="meta-row">
+                    {{#each download.meta as |item|}}<div><dt>{{item.label}}</dt><dd>{{item.value}}</dd></div>{{/each}}
+                </dl>
                 {{/if}}
             </div>
         </div>
@@ -257,16 +266,49 @@
                 {{#if screenshots.subtitle}}<p>{{screenshots.subtitle}}</p>{{/if}}
             </div>
             {{/if}}
-            <div class="shots" tabindex="0" role="list">
-                {{#each shots as |shot|}}
-                <figure class="shot" role="listitem">
-                    <div class="phone">
-                        <img src="{{shot.src_390}}" srcset="{{shot.src_390}} 390w, {{shot.src_780}} 780w" sizes="(min-width: 1180px) 180px, (min-width: 640px) 250px, 62vw" alt="{{shot.alt}}" width="390" height="844" loading="lazy" decoding="async">
+            <div class="shots-wrap">
+                <div class="shots" tabindex="0" role="list" data-shots>
+                    {{#each shots as |shot|}}
+                    <figure class="shot" role="listitem">
+                        <div class="phone">
+                            <img src="{{shot.src_390}}" srcset="{{shot.src_390}} 390w, {{shot.src_780}} 780w" sizes="(min-width: 1180px) 250px, (min-width: 640px) 224px, 66vw" alt="{{shot.alt}}" width="390" height="844" loading="lazy" decoding="async">
+                        </div>
+                        {{#if shot.title}}<figcaption><span><b>{{shot.title}}</b>{{shot.caption}}</span></figcaption>{{/if}}
+                    </figure>
+                    {{/each}}
+                </div>
+                <div class="shots-nav" aria-hidden="true" hidden>
+                    <div class="shots-progress"><span></span></div>
+                    <div class="shots-btns">
+                        <button type="button" class="shots-btn" data-dir="-1" tabindex="-1"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 18l-6-6 6-6"/></svg></button>
+                        <button type="button" class="shots-btn" data-dir="1" tabindex="-1"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></button>
                     </div>
-                    {{#if shot.title}}<figcaption><b>{{shot.title}}</b>{{shot.caption}}</figcaption>{{/if}}
-                </figure>
-                {{/each}}
+                </div>
             </div>
+            <script>
+            (function () {
+                var el = document.querySelector('[data-shots]'); if (!el) return;
+                var nav = el.parentNode.querySelector('.shots-nav'), bar = nav.querySelector('.shots-progress span');
+                var btns = nav.querySelectorAll('.shots-btn'), rtl = getComputedStyle(el).direction === 'rtl';
+                function update() {
+                    var max = el.scrollWidth - el.clientWidth;
+                    nav.hidden = max < 4;
+                    var pos = Math.min(Math.abs(el.scrollLeft), max), w = el.clientWidth / el.scrollWidth;
+                    bar.style.setProperty('--p-w', (w * 100) + '%');
+                    bar.style.setProperty('--p-x', (max ? (pos / max) * ((1 - w) / w) * 100 : 0) + '%');
+                    btns[0].disabled = pos < 4; btns[1].disabled = pos > max - 4;
+                }
+                btns.forEach(function (b) {
+                    b.addEventListener('click', function () {
+                        var card = el.querySelector('.shot'), step = card ? card.getBoundingClientRect().width + parseFloat(getComputedStyle(el).columnGap || 0) : el.clientWidth;
+                        el.scrollBy({ left: +b.dataset.dir * step * (rtl ? -1 : 1), behavior: 'smooth' });
+                    });
+                });
+                el.addEventListener('scroll', update, { passive: true });
+                window.addEventListener('resize', update);
+                update();
+            })();
+            </script>
         </div>
     </section>
 
@@ -281,10 +323,9 @@
             <ol class="steps" style="list-style:none">
                 {{#each howto_steps.items as |step|}}
                 <li class="step">
-                    <span class="step-num" aria-hidden="true">{{step.num}}</span>
+                    <div class="step-top" aria-hidden="true"><span class="step-icon"></span><span class="step-num">{{step.num}}</span></div>
                     <h3>{{step.name}}</h3>
                     <p>{{step.text}}</p>
-                    <div class="step-img"><img src="{{step.image}}" alt="{{step.image_alt}}" width="390" height="844" loading="lazy" decoding="async"></div>
                 </li>
                 {{/each}}
             </ol>
@@ -380,17 +421,20 @@
                 <div>
                     <h2>{{cta.title}}</h2>
                     <p>{{cta.text}}</p>
-                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="final">
-                        <img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" loading="lazy">
-                    </a>
-                    <div class="qr">
-                        <img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" width="64" height="64" loading="lazy">
-                        <span>{{hero.qr_text}}</span>
+                    <div class="cta-actions">
+                        <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="final">
+                            <img src="/img/download.svg" alt="{{hero.download_alt}}" width="168" height="56" loading="lazy">
+                        </a>
+                        <div class="qr">
+                            <img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" width="48" height="48" loading="lazy">
+                            <span>{{hero.qr_text}}</span>
+                        </div>
                     </div>
                 </div>
                 <div class="cta-phones" aria-hidden="true">
-                    <div class="phone"><img src="{{shots.2.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
-                    <div class="phone"><img src="{{shots.5.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
+                    <div class="phone cta-phone-l"><img src="{{shots.2.src_390}}" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
+                    <div class="phone cta-phone-r"><img src="{{shots.5.src_390}}" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
+                    <div class="phone cta-phone-c"><img src="{{shots.1.src_390}}" srcset="{{shots.1.src_390}} 390w, {{shots.1.src_780}} 780w" sizes="220px" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </div>

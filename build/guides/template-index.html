@@ -68,11 +68,15 @@
                 <div>
                     <h2>{{labels.final_cta_title}}</h2>
                     <p>{{labels.final_cta_text}}</p>
-                    <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="hub-final"><img src="/img/download.svg" alt="{{hero.download_alt}}" width="174" height="58" loading="lazy"></a>
+                    <div class="cta-actions">
+                        <a class="appstore-badge" href="{{site.cta_url}}" rel="noopener" data-cta="hub-final"><img src="/img/download.svg" alt="{{hero.download_alt}}" width="168" height="56" loading="lazy"></a>
+                        {{#if hero.qr_text}}<div class="qr"><img src="/img/qr-code.gif" alt="{{hero.qr_alt}}" width="48" height="48" loading="lazy"><span>{{hero.qr_text}}</span></div>{{/if}}
+                    </div>
                 </div>
                 <div class="cta-phones" aria-hidden="true">
-                    <div class="phone"><img src="{{shots.0.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
-                    <div class="phone"><img src="{{shots.4.src_390}}" alt="" width="390" height="844" loading="lazy"></div>
+                    <div class="phone cta-phone-l"><img src="{{shots.0.src_390}}" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
+                    <div class="phone cta-phone-r"><img src="{{shots.4.src_390}}" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
+                    <div class="phone cta-phone-c"><img src="{{shots.1.src_390}}" srcset="{{shots.1.src_390}} 390w, {{shots.1.src_780}} 780w" sizes="220px" alt="" width="390" height="844" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </div>
