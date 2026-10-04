@@ -42,7 +42,7 @@
       "shot": 4
     }
   ],
-  "content_body": "<h2>Where does the saved frame go?</h2><ul><li><strong>Photos library</strong> — appears in Recents like any other photo, ready for editing, sharing or printing.</li><li><strong>Files</strong> — pick an iCloud Drive or On My iPhone folder; handy for work projects.</li><li><strong>Any app</strong> — the share sheet can send it directly to Messages, Mail, Instagram and more.</li></ul><h2>Saving several frames at once</h2><p>Grab every frame you want before exporting. You can export them together as separate images, bundle them into one <strong>ZIP archive</strong>, or combine them into a <strong>PDF</strong>. See <a href=\"/guides/extract-multiple-frames-from-video/\">how to extract multiple frames from a video</a>.</p><h2>Come back later</h2><p>Each clip you open is kept as a project, so you can return tomorrow and save more frames without searching for the video again.</p><p>For a broader walkthrough, our blog has <a href=\"/blog/extract-frame-from-video-iphone/\">how to extract a frame from video on iPhone</a>.</p>",
+  "content_body": "<p><strong>Full walkthrough:</strong> <a href=\"/blog/extract-frame-from-video-iphone/\">How to save a frame from a video on iPhone</a>.</p><h2>Where does the saved frame go?</h2><ul><li><strong>Photos library</strong> — appears in Recents like any other photo, ready for editing, sharing or printing.</li><li><strong>Files</strong> — pick an iCloud Drive or On My iPhone folder; handy for work projects.</li><li><strong>Any app</strong> — the share sheet can send it directly to Messages, Mail, Instagram and more.</li></ul><h2>Saving several frames at once</h2><p>Grab every frame you want before exporting. You can export them together as separate images, bundle them into one <strong>ZIP archive</strong>, or combine them into a <strong>PDF</strong>. See <a href=\"/guides/extract-multiple-frames-from-video/\">how to extract multiple frames from a video</a>.</p><h2>Come back later</h2><p>Each clip you open is kept as a project, so you can return tomorrow and save more frames without searching for the video again.</p><p>For a broader walkthrough, our blog has <a href=\"/blog/extract-frame-from-video-iphone/\">how to extract a frame from video on iPhone</a>.</p>",
   "faq": [
     {
       "q": "Can the iPhone Photos app save a frame from a video?",
@@ -65,5 +65,6 @@
     "how-to-get-a-picture-from-a-video-on-iphone",
     "extract-multiple-frames-from-video",
     "video-to-jpg-png-heic-iphone"
-  ]
+  ],
+  "canonical_override": "https://extractframeapp.com/blog/extract-frame-from-video-iphone/"
 }

@@ -8,6 +8,9 @@
   <meta name="description" content="{{meta.description}}">
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
   <link rel="canonical" href="{{meta.canonical}}">
+  {{#each meta.alternates as |alt|}}
+  <link rel="alternate" hreflang="{{alt.hreflang}}" href="{{alt.url}}" />
+  {{/each}}
   <link rel="alternate" type="application/rss+xml" title="{{labels.rss_title}}" href="{{feed_url}}">
   <meta property="og:title" content="{{meta.og_title}}">
   <meta property="og:description" content="{{meta.og_description}}">

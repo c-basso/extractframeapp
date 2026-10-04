@@ -42,7 +42,7 @@
       "shot": 3
     }
   ],
-  "content_body": "<h2>Upload it as your custom thumbnail</h2><ul><li><strong>YouTube:</strong> in the YouTube or YouTube Studio app, edit the video's details and choose a custom thumbnail from your photos. Custom thumbnails require a verified account.</li><li><strong>TikTok:</strong> before posting, tap <em>Edit cover</em> and pick the image or a frame.</li><li><strong>Instagram Reels:</strong> tap <em>Edit cover</em> and add from your camera roll.</li></ul><h2>Tips that lift click-through</h2><ul><li>Three to five words of text, max.</li><li>High contrast between subject, text and background.</li><li>Keep a consistent style across videos so viewers recognise you.</li><li>Test two frames — swap the thumbnail after a few days and compare.</li></ul><p>More ideas in our blog post on <a href=\"/blog/create-thumbnails-from-videos/\">creating thumbnails from videos</a>.</p>",
+  "content_body": "<p><strong>Full walkthrough:</strong> <a href=\"/blog/create-thumbnails-from-videos/\">How to make a thumbnail from a video on iPhone</a>.</p><h2>Upload it as your custom thumbnail</h2><ul><li><strong>YouTube:</strong> in the YouTube or YouTube Studio app, edit the video's details and choose a custom thumbnail from your photos. Custom thumbnails require a verified account.</li><li><strong>TikTok:</strong> before posting, tap <em>Edit cover</em> and pick the image or a frame.</li><li><strong>Instagram Reels:</strong> tap <em>Edit cover</em> and add from your camera roll.</li></ul><h2>Tips that lift click-through</h2><ul><li>Three to five words of text, max.</li><li>High contrast between subject, text and background.</li><li>Keep a consistent style across videos so viewers recognise you.</li><li>Test two frames — swap the thumbnail after a few days and compare.</li></ul><p>More ideas in our blog post on <a href=\"/blog/create-thumbnails-from-videos/\">creating thumbnails from videos</a>.</p>",
   "faq": [
     {
       "q": "Can I use a frame from my video as a YouTube thumbnail?",
@@ -61,5 +61,6 @@
     "clear-high-quality-picture-from-video",
     "video-to-jpg-png-heic-iphone",
     "how-to-get-a-picture-from-a-video-on-iphone"
-  ]
+  ],
+  "canonical_override": "https://extractframeapp.com/blog/create-thumbnails-from-videos/"
 }

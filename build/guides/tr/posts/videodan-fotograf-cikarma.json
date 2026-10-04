@@ -15,7 +15,7 @@
   "nav_title": "Videodan fotoğraf çıkarma",
   "card_title": "Videodan çok sayıda kare çıkarma",
   "excerpt": "Tek videodan bir kare dizisi, görüntü, ZIP veya PDF olarak.",
-  "lead": "Storyboard, spor serisi, öncesi-sonrası, tepki derlemesi: bazen tek fotoğraf yetmez. Sadece iPhone'la videodan istediğin kadar kare çıkarmanın yolu burada.",
+  "lead": "Storyboard, spor serisi, öncesi-sonrası, tepki derlemesi: bazen tek fotoğraf yetmez. Videoyu fotoğrafa çevirmek için tüm videoyu yüzlerce kareye bölmene gerek yok. Sadece iPhone'la istediğin kareleri çıkarmanın yolu burada.",
   "quick_answer": "Videoyu Video To Photo – Grab Frame'de aç ve istediğin her anda kaydet'e dokun. Kareleri kontrol et, kötü olanları sil ve hepsini tek seferde ayrı JPG, PNG veya HEIC dosyaları, ZIP ya da PDF olarak dışa aktar.",
   "content_intro": "<h2>Tüm kareler mi, sadece iyiler mi?</h2><p>30 fps'lik 30 saniyelik bir videoda 900 kare vardır. Bilgisayarda ffmpeg veya VLC gibi hepsini dışa aktarmak yüzlerce neredeyse aynı dosya verir. Telefonda <strong>sadece gereken kareleri seçmek</strong> genelde daha hızlıdır.</p><table><thead><tr><th>Amaç</th><th>Yaklaşım</th></tr></thead><tbody><tr><td>Storyboard, adım adım anlatım</td><td>Sahne veya adım başına bir kare</td></tr><tr><td>Spor, hareket analizi</td><td>Düzenli aralıklarla kareler</td></tr><tr><td>En iyi fotoğrafı bulmak</td><td>3–5 komşu kareden en neti</td></tr><tr><td>Animasyon veya analiz için tüm kareler</td><td>Bilgisayar programı (ffmpeg)</td></tr></tbody></table><p>iOS 27'nin yerleşik özelliği tek seferde bir kare kaydeder, bu yüzden seriler için uygun değildir.</p>",
   "steps_title": "iPhone'da videodan çok sayıda kare çıkarma",

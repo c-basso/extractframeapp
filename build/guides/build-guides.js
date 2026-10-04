@@ -93,6 +93,8 @@ function loadGuides(lang = 'en') {
         g.lang = lang;
         g.url = `${loc.prefix}${g.slug}/`;
         g.canonical = abs(g.url);
+        // EN guides that duplicate an older, already-ranking blog post point their canonical at the post.
+        g.canonical_page = lang === 'en' && g.canonical_override ? g.canonical_override : g.canonical;
     }
     return guides;
 }
@@ -139,6 +141,12 @@ function sharedContext(en, config, buildTimestamp, lang) {
     };
 }
 
+/** Blog post URL → hreflang alternates, for EN guides canonicalized to a blog post. */
+const BLOG_ALTERNATES = {};
+function getBlogAlternates() {
+    return BLOG_ALTERNATES;
+}
+
 /** hreflang alternates: pairs guides across locales via `translation_of` (the EN slug). */
 function buildAltMap(all) {
     const groups = {};
@@ -146,7 +154,7 @@ function buildAltMap(all) {
         for (const g of guides) {
             const key = lang === 'en' ? g.slug : g.translation_of;
             if (!key) continue;
-            (groups[key] = groups[key] || []).push({ lang, url: g.canonical });
+            (groups[key] = groups[key] || []).push({ lang, url: g.canonical_page || g.canonical });
         }
     }
     const map = {};
@@ -158,6 +166,7 @@ function buildAltMap(all) {
             const def = group.find((x) => x.lang === 'en') || group[0];
             alts.push({ hreflang: 'x-default', url: def.url });
             map[g.canonical] = alts;
+            if (g.canonical_page && g.canonical_page !== g.canonical) BLOG_ALTERNATES[g.canonical_page] = alts;
         }
     }
     return map;
@@ -264,7 +273,7 @@ async function buildGuidesForLocale(lang, guides, altMap, { buildTimestamp, buil
                 title: g.title,
                 og_title: g.og_title || g.h1,
                 description: g.description,
-                canonical: g.canonical,
+                canonical: g.canonical_page || g.canonical,
                 alternates: altMap[g.canonical],
                 og_image: ogImage,
                 og_image_width: '1200',
@@ -331,7 +340,7 @@ async function buildGuidesForLocale(lang, guides, altMap, { buildTimestamp, buil
     fs.writeFileSync(path.join(OUT_DIR, 'index.html'), renderTemplate(indexTpl, hubCtx, 'guides', { eachFirst: true }), 'utf8');
     console.log(`✅ Successfully built ${path.relative(ROOT_DIR, OUT_DIR)}/index.html`);
 
-    return [hubUrl, ...guides.map((g) => g.canonical)];
+    return [hubUrl, ...guides.filter((g) => g.canonical_page === g.canonical).map((g) => g.canonical)];
 }
 
 function getGuideUrls() {
@@ -339,9 +348,9 @@ function getGuideUrls() {
     for (const [lang, loc] of Object.entries(GUIDE_LOCALES)) {
         const guides = loadGuides(lang);
         if (guides.length === 0) continue;
-        urls.push(abs(loc.prefix), ...guides.map((g) => g.canonical));
+        urls.push(abs(loc.prefix), ...guides.filter((g) => g.canonical_page === g.canonical).map((g) => g.canonical));
     }
     return urls;
 }
 
-module.exports = { buildGuides, loadGuides, guideCards, getGuideUrls, GUIDE_LOCALES };
+module.exports = { buildGuides, loadGuides, guideCards, getGuideUrls, getBlogAlternates, GUIDE_LOCALES };

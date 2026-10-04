@@ -365,6 +365,7 @@ function preparePostContext(post, blogConfig, buildTimestamp) {
             html_dir: 'ltr',
             version: buildTimestamp,
             canonical: post.canonical,
+            alternates: require('../guides/build-guides').getBlogAlternates()[post.canonical] || [],
             og_url: post.canonical,
             twitter_url: post.canonical,
             og_image: post.hero.absolute_url,

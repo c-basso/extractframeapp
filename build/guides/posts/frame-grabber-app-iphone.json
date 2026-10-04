@@ -42,7 +42,7 @@
       "shot": 3
     }
   ],
-  "content_body": "<h2>How Video To Photo – Grab Frame stacks up</h2><table><thead><tr><th>Feature</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Open from Photos share sheet</td><td>Yes — lands directly in frame-grab mode</td></tr><tr><td>Frame source</td><td>Extracted from the video file</td></tr><tr><td>Batch grabbing</td><td>Grab many frames in one session</td></tr><tr><td>Formats</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export as</td><td>Separate files, ZIP archive or PDF</td></tr><tr><td>Projects</td><td>Saved and reopenable</td></tr><tr><td>Privacy</td><td>100% on-device, no account; App Privacy: no data linked to you</td></tr><tr><td>Price</td><td>Free download; Pro via in-app purchase (free trial, annual or lifetime)</td></tr></tbody></table><h2>When you don't need an app</h2><p>If you're on iOS 27 and need a single frame, use Photos: pause the video, tap ••• and choose Save Video Frame as Photo. On older iOS, a screenshot is fine for a rough, one-off image. The moment quality, precision or quantity matter, a dedicated frame grabber pays off. For a wider market overview, see our blog's <a href=\"/blog/best-apps-extract-frames-from-video/\">best apps to extract frames from video</a>.</p>",
+  "content_body": "<p><strong>Full walkthrough:</strong> <a href=\"/blog/best-apps-extract-frames-from-video/\">Best frame grabber apps for iPhone</a>.</p><h2>How Video To Photo – Grab Frame stacks up</h2><table><thead><tr><th>Feature</th><th>Grab Frame</th></tr></thead><tbody><tr><td>Open from Photos share sheet</td><td>Yes — lands directly in frame-grab mode</td></tr><tr><td>Frame source</td><td>Extracted from the video file</td></tr><tr><td>Batch grabbing</td><td>Grab many frames in one session</td></tr><tr><td>Formats</td><td>JPEG, PNG, HEIC</td></tr><tr><td>Export as</td><td>Separate files, ZIP archive or PDF</td></tr><tr><td>Projects</td><td>Saved and reopenable</td></tr><tr><td>Privacy</td><td>100% on-device, no account; App Privacy: no data linked to you</td></tr><tr><td>Price</td><td>Free download; Pro via in-app purchase (free trial, annual or lifetime)</td></tr></tbody></table><h2>When you don't need an app</h2><p>If you're on iOS 27 and need a single frame, use Photos: pause the video, tap ••• and choose Save Video Frame as Photo. On older iOS, a screenshot is fine for a rough, one-off image. The moment quality, precision or quantity matter, a dedicated frame grabber pays off. For a wider market overview, see our blog's <a href=\"/blog/best-apps-extract-frames-from-video/\">best apps to extract frames from video</a>.</p>",
   "faq": [
     {
       "q": "Is there a free frame grabber app for iPhone?",
@@ -61,5 +61,6 @@
     "how-to-get-a-picture-from-a-video-on-iphone",
     "extract-multiple-frames-from-video",
     "video-frames-to-pdf"
-  ]
+  ],
+  "canonical_override": "https://extractframeapp.com/blog/best-apps-extract-frames-from-video/"
 }

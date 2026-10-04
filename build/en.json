@@ -183,12 +183,12 @@
       {
         "question": "How do I save a single frame from a video to my Photos?",
         "answer": "On iOS 27, Photos can do it: pause, tap ••• and choose Save Video Frame as Photo. With Video To Photo – Grab Frame you can do it on any supported iOS and save several frames at once: grab them, tap Export and save to Photos or Files. The original video is not changed.",
-        "url": "/guides/save-frame-from-video-iphone/"
+        "url": "/blog/extract-frame-from-video-iphone/"
       },
       {
         "question": "What is the best frame grabber app for iPhone?",
         "answer": "Look for four things: frame-accurate scrubbing, export at the video's own resolution, on-device processing and batch export. Video To Photo – Grab Frame does all four and adds JPG, PNG and HEIC plus ZIP and PDF export.",
-        "url": "/guides/frame-grabber-app-iphone/"
+        "url": "/blog/best-apps-extract-frames-from-video/"
       },
       {
         "question": "Can I extract multiple frames from a video at once?",
@@ -218,7 +218,7 @@
       {
         "question": "How do I make a thumbnail from a video on iPhone?",
         "answer": "Scrub to an expressive, sharp moment, grab the frame and export it as PNG or high-quality JPG. Then add text in your favourite editor and upload it as a custom thumbnail on YouTube, TikTok or Instagram.",
-        "url": "/guides/make-thumbnail-from-video-iphone/"
+        "url": "/blog/create-thumbnails-from-videos/"
       }
     ]
   },
