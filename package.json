@@ -8,6 +8,7 @@
     "site:preview": "node build/preview.js",
     "index:now": "node build/indexnow.js",
     "index:google": "node build/gindexnow.js",
+    "index:google:status": "node build/gindexnow.js --status",
     "gsc": "node build/gsc-report.js",
     "push": "git add . && git commit -m 'wip' && git push origin main",
     "deploy": "npm run build && npm run validate && npm run sitemap && npm run push"
