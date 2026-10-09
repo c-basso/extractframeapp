@@ -278,7 +278,18 @@ async function main() {
     const budget = Math.max(0, args.limit - state.usedToday);
     const todays = queueInfo.queue.slice(0, budget);
     if (todays.length === 0) {
-        console.log(budget === 0 ? '⏸  Daily limit already used — run again tomorrow.' : '✅ Nothing to send today: every URL is up to date.');
+        if (budget === 0) {
+
+            const lastSent = Object.values(state.sent).sort((a, b) => new Date(b.at).getTime() - new Date(a.at).getTime())[0];
+            const at = lastSent ? new Date(lastSent.at).toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }) : 'never';
+            const nextSendTime = new Date(lastSent.at).getTime() + 86400000;
+            console.log(`⏸  Daily limit already used — run again tomorrow.`);
+            console.log(`Last sent: ${at}`);
+            console.log(`Try again after: ${(nextSendTime - new Date().getTime()) / 1000} seconds`);
+        } else {
+            console.log('✅ Nothing to send today: every URL is up to date.');
+        }
+
         return;
     }
 
